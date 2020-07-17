@@ -295,18 +295,23 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:-1 tvg-id="1295" tvg-language="HINDI" tvg-name="B4U Kadak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="MOVIES", B4U Kadak
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
 #EXTINF:-1 tvg-id="487" tvg-language="HINDI" tvg-name="Zee Bollywood" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="MOVIES", Zee Bollywood
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://ajantatv.me/FoIder902/jee.php?c=classic&e=.m3u8
+
 #EXTINF:-1 tvg-id="488" tvg-language="HINDI" tvg-name="Zee Action" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="MOVIES", Zee Action
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://ajantatv.me/FoIder902/jee.php?c=action&e=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="And Prive HD" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/%26Prive_HD.png" group-title="MOVIES ENGLISH", &Prive HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://ajantatv.me/FoIder902/jee.php?c=andprivehd&e=.m3u8
+
 #EXTINF:-1 tvg-id="1322" tvg-language="ENGLISH" tvg-name="And Flix HD" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/%26Flix.png" group-title="MOVIES ENGLISH", &Flix HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://ajantatv.me/FoIder902/jee.php?c=andflixhd&e=.m3u8
+
 #EXTINF:-1 tvg-id="151" tvg-language="ENGLISH" tvg-name="Movies Now HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="MOVIES ENGLISH", Movies Now HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
