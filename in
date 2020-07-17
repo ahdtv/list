@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
 
+#EXTM3U x-tvg-url="http://ahdtv.ddns.net/epg/guide.xml.gz"
+
 #EXTINF:-1 tvg-id="231" tvg-language="HINDI" tvg-name="News18 India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="NEWS", News18 India
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
