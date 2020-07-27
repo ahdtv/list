@@ -2,21 +2,33 @@
 
 #EXTM3U x-tvg-url="http://ahdtv.ddns.net/epg/guide.xml.gz"
 
+
+#EXTINF:-1 tvg-id="177" tvg-language="HINDI" tvg-name="ABP News HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="NEWS", ABP News HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
+
+#EXTINF:-1 tvg-id="173" tvg-language="HINDI" tvg-name="Aaj Tak HD" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Aaj_Tak_HD.png" group-title="NEWS", Aaj Tak HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-id="504" tvg-language="HINDI" tvg-name="Zee News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="NEWS", Zee News
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/940
+
+
 #EXTINF:-1 tvg-id="231" tvg-language="HINDI" tvg-name="News18 India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="NEWS", News18 India
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 
-#EXTINF:-1 tvg-id="504" tvg-language="HINDI" tvg-name="Zee News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="NEWS", Zee News
+#EXTINF:-1 tvg-id="231" tvg-language="HINDI" tvg-name="TV9 Bharat" tvg-logo="https://tv9bharatvarshmedia.s3.amazonaws.com/wp-content/uploads/2018/08/BHARATVARSH-OLD-LOGO-FINAL-02-1-1024x984.png" group-title="NEWS", TV9 Bharat
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-http://ajantatv.me/FoIder902/jee.php?c=zeenews&e=.m3u8
+https://z5live2media.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-II/49882fe4-3b88-4699-a4c5-24f5445fccad/4.m3u8
+
 
 #EXTINF:-1 tvg-id="258" tvg-language="HINDI" tvg-name="NDTV India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="NEWS", NDTV India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
-#EXTINF:-1 tvg-id="177" tvg-language="HINDI" tvg-name="ABP News India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="NEWS", ABP News India
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Republic Bharat" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Republic_Bharat.png" group-title="NEWS", Republic Bharat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
@@ -25,14 +37,6 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 #EXTINF:-1 tvg-id="235" tvg-language="HINDI" tvg-name="India TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="NEWS", India TV
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="173" tvg-language="HINDI" tvg-name="Aaj Tak HD" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Aaj_Tak_HD.png" group-title="NEWS", Aaj Tak HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-
-#EXTINF:-1 tvg-id="502" tvg-language="HINDI" tvg-name="Tez" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="NEWS", Tez
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="503" tvg-language="HINDI" tvg-name="IBC 24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="NEWS", IBC 24
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
