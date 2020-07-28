@@ -54,9 +54,6 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10&pla
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="412" tvg-language="ENGLISH" tvg-name="Wion" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="NEWS", Wion
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-http://ajantatv.me/FoIder902/jee.php?c=wion&e=.m3u8
 
 #EXTINF:-1 tvg-id="255" tvg-language="ENGLISH" tvg-name="NDTV 24x7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="NEWS", NDTV 24x7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
@@ -84,7 +81,34 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="203" tvg-language="HINDI" tvg-name="DD News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="NEWS", DD News
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-http://ajantatv.me/FoIder902/jee.php?c=ddnews&e=.m3u8
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="203" tvg-language="HINDI" tvg-name="Lok Sabha TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="NEWS", Lok Sabha TV
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="203" tvg-language="HINDI" tvg-name="RSTV RajyaSabha" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="NEWS", RSTV RajyaSabha
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
+#EXTINF:-1 tvg-id="203" tvg-language="HINDI" tvg-name="Times Now HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="NEWS", Times Now HD
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="203" tvg-language="HINDI" tvg-name="Tv9 marathi" tvg-logo="https://akamaividz.zee5.com/resources/0-9-257/list/386x386/09257tv9marathi.png" group-title="NEWS", Tv9 marathi
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://vidnetcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="203" tvg-language="HINDI" tvg-name="ABP majha" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="NEWS", ABP majha
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-id="203" tvg-language="HINDI" tvg-name="News18_Lokmat" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="NEWS", News18_Lokmat
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="News18 PB HP HR" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="NEWS", News18 PB HP HR
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
@@ -161,11 +185,11 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-language="HINDI" tvg-name="Sony HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="ENTERTAINMENT", Sony HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18180
 
 #EXTINF:-1 tvg-id="471" tvg-language="HINDI" tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="ENTERTAINMENT", Sony SAB HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18191
 
 #EXTINF:-1 tvg-id="474" tvg-language="HINDI" tvg-name="Sony Pal" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="ENTERTAINMENT", Sony Pal
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
@@ -175,9 +199,23 @@ https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdn
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetvhd 
 
+#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Zee TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="ENTERTAINMENT", Zee TV
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://indtv.online/And_Pictures_HD.m3u8
+
 #EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Star Plus HD" tvg-logo="https://i.dlpng.com/static/png/387062_preview.png" group-title="ENTERTAINMENT", Star Plus HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Star Plus HD" tvg-logo="https://i.dlpng.com/static/png/387062_preview.png" group-title="ENTERTAINMENT", Star Plus HD
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18177
+
+#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="&TV HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png" group-title="ENTERTAINMENT", &TV HD
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18167
+
+
 
 
 #EXTINF:-1 tvg-id="473" tvg-language="HINDI" tvg-name="Zee Anmol" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="ENTERTAINMENT", Zee Anmol
@@ -258,7 +296,15 @@ http://ajantatv.me/FoIder902/jee.php?c=zeecafehd&e=.m3u8
 
 #EXTINF:-1 tvg-id="185" tvg-language="HINDI" tvg-name="And Pictures HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="MOVIES", &Pictures HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-http://ajantatv.me/FoIder902/jee.php?c=andpicshd&e=.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="185" tvg-language="HINDI" tvg-name="Jio Bollywood Premium HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/EROSNOW_Hindi_Premium.png" group-title="MOVIES", Jio Bollywood Premium HD
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://indtv.online/EROSNOW_Hindi_Premium.m3u8
+
+#EXTINF:-1 tvg-id="185" tvg-language="HINDI" tvg-name="Utv Action" tvg-logo="https://i.ytimg.com/vi/ip9UZskDKJ8/maxresdefault.jpg" group-title="MOVIES", Utv Action
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+https://bit.ly/2uTVMviESHD
 
 #EXTINF:-1 tvg-id="185" tvg-language="HINDI" tvg-name="Shemaroo Classic" tvg-logo="https://onlytech.com/wp-content/uploads/2019/11/Shemaroo-Logo.jpg" group-title="MOVIES", Shemaroo Classic
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
@@ -266,7 +312,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 
 #EXTINF:-1 tvg-id="476" tvg-language="HINDI" tvg-name="Sony Max HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="MOVIES", Sony Max HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18177
 
 #EXTINF:-1 tvg-id="1133" tvg-language="HINDI" tvg-name="Star Gold HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="MOVIES", Star Gold HD
 #EXTVLCOPT:http-user-agent=iStreamtvPRO/1.2.4 (Linux;Android 9) ExoPlayerLib/2.7.3
@@ -296,9 +342,13 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://ajantatv.me/FoIder902/jee.php?c=classic&e=.m3u8
 
+#EXTINF:-1 tvg-id="487" tvg-language="HINDI" tvg-name="Shemaroo BOLLYWOOD PREMIER" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Premiere/5d790527a609d2a47a000004/large_16_9.jpg" group-title="MOVIES", Shemaroo BOLLYWOOD PREMIER
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://ajantatv.me/FoIder902/jee.php?c=classic&e=.m3u8
+
 #EXTINF:-1 tvg-id="488" tvg-language="HINDI" tvg-name="Zee Action" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="MOVIES", Zee Action
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-http://ajantatv.me/FoIder902/jee.php?c=action&e=.m3u8
+http://mytv.fun:8080/bastian321/qg9iiqbtv/5565
 
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="And Prive HD" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/%26Prive_HD.png" group-title="MOVIES ENGLISH", &Prive HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
@@ -311,186 +361,263 @@ http://ajantatv.me/FoIder902/jee.php?c=andflixhd&e=.m3u8
 #EXTINF:-1 tvg-id="151" tvg-language="ENGLISH" tvg-name="Movies Now HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="MOVIES ENGLISH", Movies Now HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+
 #EXTINF:-1 tvg-id="877" tvg-language="ENGLISH" tvg-name="MNX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="MOVIES ENGLISH", MNX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+http://indtv.online/Movies_Now2_HD.m3u8
+
+#EXTINF:-1 tvg-id="877" tvg-language="ENGLISH" tvg-name="Movies Now HD" tvg-logo="https://w7.pngwing.com/pngs/922/754/png-transparent-movies-now-television-channel-high-definition-television-mn-movies-miscellaneous-television-text.png" group-title="MOVIES ENGLISH", Movies Now HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
+http://indtv.online/Movies_Now2_HD.m3u8
+
+
 #EXTINF:-1 tvg-id="478" tvg-language="ENGLISH" tvg-name="Romedy Now HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="MOVIES ENGLISH", Romedy Now HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+
 #EXTINF:-1 tvg-id="762" tvg-language="ENGLISH" tvg-name="Sony Pix HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="MOVIES ENGLISH", Sony Pix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
+
+#EXTINF:-1 tvg-id="587" tvg-language="HINDI" tvg-name="MTV HD" tvg-logo="https://www.logolynx.com/images/logolynx/s_7e/7e6edb9d3f1b53bb7394b66ddbbd2ec9.jpeg" group-title="MUSIC", MTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18174
+
 #EXTINF:-1 tvg-id="587" tvg-language="HINDI" tvg-name="9XM" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="MUSIC", 9XM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+
 #EXTINF:-1 tvg-id="183" tvg-language="HINDI" tvg-name="B4U Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="MUSIC", B4U Music
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+
 #EXTINF:-1 tvg-id="1352" tvg-language="HINDI" tvg-name="Aaho Music" tvg-logo="https://images.weserv.nl/?url=aahotv.com/wp-content/themes/aaho/images/logo.svg&w=200&h=150&t=letterbox&bg=transpaprent" group-title="MUSIC", Aaho Music
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://v.aaho.tv/live/aahomusic.m3u8
+
 #EXTINF:-1 tvg-id="589" tvg-language="HINDI" tvg-name="Zee etc" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/etc.png" group-title="MUSIC", Zee ETC
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://ajantatv.me/FoIder902/jee.php?c=etc&e=.m3u8
+
 #EXTINF:-1 tvg-id="584" tvg-language="HINDI" tvg-name="Mastiii" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="MUSIC", Mastiii
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+
 #EXTINF:-1 tvg-id="585" tvg-language="HINDI" tvg-name="Zing" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="MUSIC", Zing
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-http://ajantatv.me/FoIder902/jee.php?c=zing&e=.m3u8
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
 #EXTINF:-1 tvg-id="742" tvg-language="PUNJABI" tvg-name="MH One Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="MUSIC", MH1 Music
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Artist Aloud - Hungama" tvg-logo="https://www.artistaloud.com/images/logo.png" group-title="MUSIC", Artist Aloud - Hungama
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Dil Se - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Dil Se - Hungama" group-title="MUSIC", Dil Se - Hungama
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Nazrana - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Nazrana - Hungama" group-title="MUSIC", Nazrana - Hungama
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Kadak Hits - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Kadak Hits - Hungama" group-title="MUSIC", Kadak Hits - Hungama
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Pop Hits - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Pop Hits - Hungama" group-title="MUSIC", Pop Hits - Hungama
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Punjabi Tadka - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Punjabi Tadka - Hungama" group-title="MUSIC", Punjabi Tadka - Hungama
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="9XO" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/9XO.png" group-title="MUSIC", 9XO
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/9XO-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-id="" tvg-language="World" tvg-name="VH1 US" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/USA/VH1.png" group-title="MUSIC", VH1 US
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/f.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+
+
 #EXTINF:-1 tvg-id="" tvg-language="World" tvg-name="Clubbing TV" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/App_Logo/Clubbing_TV.png" group-title="MUSIC", Clubbing TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
 https://livevoot-i.akamaihd.net/hls/live/862031/clubbing_viacom/clubbing/clubbingtv_stream.stream_1080p_viacom/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Start Sports HD 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="SPORTS", Start Sports HD 1
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18182
+
+#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Start Sports HD 2" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="SPORTS", Start Sports HD 2
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://bit.ly/3esS2Hd
+
 #EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Sony Six HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", Sony Six HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
+https://stream.amrbd.com/SonySix/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="162" tvg-language="ENGLISH" tvg-name="Sony Ten 1 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", Sony Ten 1 HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
+
 #EXTINF:-1 tvg-id="891" tvg-language="ENGLISH" tvg-name="Sony Ten 2 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Ten 2 HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
+http://103.205.133.14/hls/ten2.m3u8
+
 #EXTINF:-1 tvg-id="892" tvg-language="ENGLISH" tvg-name="Sony Ten 3 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", Sony Ten 3 HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
+
 #EXTINF:-1 tvg-id="" tvg-language="World" tvg-name="Impact Wrestling" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/USA/Impact_Wrestling.png" group-title="SPORTS", Impact Wrestling
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
 #EXTINF:-1 tvg-id="286" tvg-language="HINDI" tvg-name="Animal Planet" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="ANIMAL_WILDLIFE", Animal Planet HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
+
 #EXTINF:-1 tvg-id="463" tvg-language="HINDI" tvg-name="Discovery HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="TECH_SCIENCE", Discovery HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+
 #EXTINF:-1 tvg-id="568" tvg-language="HINDI" tvg-name="Discovery Science" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="TECH_SCIENCE", Discovery Science
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
+
 #EXTINF:-1 tvg-id="541" tvg-language="ENGLISH" tvg-name="Discovery Turbo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="TECH_SCIENCE", Discovery Turbo
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://streamidvo.multitvsolution.in//live//TurboEng-a//p4.m3u8
+
 #EXTINF:-1 tvg-id="852" tvg-language="ENGLISH" tvg-name="Sony BBC Earth" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="TECH_SCIENCE", Sony BBC Earth HD English
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
+
 #EXTINF:-1 tvg-id="527" tvg-language="HINDI" tvg-name="Investigation Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" group-title="LIFE_STYLE", Investigation Discovery
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://streamidvo.multitvsolution.in/live/Investigation_Discovery-a/p4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="World" tvg-name="Red Bull TV" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/USA/RedBull_TV.png" group-title="LIFE_STYLE", Red Bull TV
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="572" tvg-language="ENGLISH" tvg-name="NDTV GOOD TiMES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/NDTV_Good_Times.png/revision/latest/scale-to-width-down/340?cb=20100428143007" group-title="LIFE_STYLE", NDTV GOOD TiMES
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://ajantatv.me/FoIder902/jee.php?c=livingfoodz&e=.m3u8
+
+
+
 #EXTINF:-1 tvg-id="572" tvg-language="ENGLISH" tvg-name="Living Foodz" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Living_Foodz.png" group-title="LIFE_STYLE", Living Foodz
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://ajantatv.me/FoIder902/jee.php?c=livingfoodz&e=.m3u8
+
 #EXTINF:-1 tvg-id="571" tvg-language="HINDI" tvg-name="TLC HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="LIFE_STYLE", TLC HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p4.m3u8
+
 #EXTINF:-1 tvg-id="561" tvg-language="HINDI" tvg-name="Food Food" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="LIFE_STYLE", Food Food
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="EZ Mall" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/EZ_Mall.png" group-title="LIFE_STYLE", EZ Mall
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://ajantatv.me/FoIder902/jee.php?c=ezmall&e=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="FTV 1" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/FTV_India.png" group-title="LIFE_STYLE", FTV 1
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Disney Junior US" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/USA/Disney_Junior.png" group-title="FAMILY_KIDS", Disney Junior US
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/j.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
+
 #EXTINF:-1 tvg-id="872" tvg-language="HINDI" tvg-name="Sony Yay" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="FAMILY_KIDS", Sony Yay
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Tom and Jerry" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/App_Logo/Tom_and_Jerry.png" group-title="FAMILY_KIDS", Tom and Jerry
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+
 #EXTINF:-1 tvg-id="" tvg-language="PUNJABI" tvg-name="Gurbaani TV" tvg-logo="https://images.weserv.nl/?url=ulango.tv/uploads/channels/3780379/logo_gurbani%20tv.png&w=376&h=288&t=letterbox&bg=transpaprent" group-title="ARTS", Gurbaani TV
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
+
 #EXTINF:-1 tvg-id="" tvg-language="PUNJABI" tvg-name="Amrit Vaani" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Amrit Vaani" group-title="ARTS", Amrit Vaani
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://linear09hun-lh.akamaihd.net/i/amritvaani_1@685718/master.m3u8?n=3
+
 #EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Bhakti Sagar" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Bhakti Sagar" group-title="ARTS", Bhakti Sagar
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
+
 #EXTINF:-1 tvg-id="288" tvg-language="HINDI" tvg-name="Sanskar" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" group-title="ARTS", Sanskar
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
+
 #EXTINF:-1 tvg-id="597" tvg-language="HINDI" tvg-name="Satsang TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png" group-title="ARTS", Satsang TV
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVNZ 1" tvg-logo="https://i.mjh.nz/nz/images/tv.9.png" group-title="NZ", TVNZ 1
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://d1irqd0o6b6kl5.cloudfront.net/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVNZ 2" tvg-logo="https://i.mjh.nz/nz/images/tv.10.png" group-title="NZ", TVNZ 2
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://d3vsmj0a4dgta4.cloudfront.net/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Three" tvg-logo="https://i.mjh.nz/nz/images/tv.11.png" group-title="NZ", Three
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://livestreamdirect-three.mediaworks.nz/three.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Duke" tvg-logo="https://i.mjh.nz/nz/images/tv.55.png" group-title="NZ", Duke
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://d1nyrbw5nj219v.cloudfront.net/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Bravo" tvg-logo="https://i.mjh.nz/nz/images/tv.12.png" group-title="NZ", Bravo
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://bravo-livestream.mediaworks.nz/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Prime" tvg-logo="https://i.mjh.nz/nz/images/tv.28.png" group-title="NZ", Prime
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128_4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="The Edge TV" tvg-logo="https://i.mjh.nz/nz/images/tv.51.png" group-title="NZ", The Edge TV
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Choice TV" tvg-logo="https://i.mjh.nz/nz/images/tv.37.png" group-title="NZ", Choice TV
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://livestreams.e-cast.co.nz/choicetv/choicetv_1000k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="HGTV" tvg-logo="https://i.mjh.nz/nz/images/tv.58.png" group-title="NZ", HGTV
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://livestreams.e-cast.co.nz/hgtv/hgtv_1000k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVSN Shopping" tvg-logo="https://i.mjh.nz/nz/images/tv.45.png" group-title="NZ", TVSN Shopping
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Shine TV" tvg-logo="https://i.mjh.nz/nz/images/tv.7.png" group-title="NZ", Shine TV
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://rhemamedia.global.ssl.fastly.net/ShineTV_Legacy/high/chunklist_w1895959457.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Firstlight" tvg-logo="https://i.mjh.nz/nz/images/tv.39.png" group-title="NZ", Firstlight
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/chunklist_w1450617121_b900000_slen.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Parliament TV" tvg-logo="https://i.mjh.nz/nz/images/tv.18.png" group-title="NZ", Parliament TV
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="APNA Television" tvg-logo="https://i.mjh.nz/nz/images/tv.49.png" group-title="NZ", APNA Television
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://livestreams.e-cast.co.nz/apnatv/apnatv_1000k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Wairarapa TV" tvg-logo="https://i.mjh.nz/nz/images/tv.60.png" group-title="NZ", Wairarapa TV
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Te Reo" tvg-logo="https://i.mjh.nz/nz/images/tv.20.png" group-title="NZ", Te Reo
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Maori Television" tvg-logo="https://i.mjh.nz/nz/images/tv.13.png" group-title="NZ", Maori Television
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
