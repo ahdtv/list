@@ -390,6 +390,10 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18182
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://bit.ly/3esS2Hd
 
+#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Start Sports HD 2" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="SPORTS", Start Sports HD 2
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+https://stream.amrbd.com/kn2a/index.m3u8
+
 #EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Sony Six HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", Sony Six HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://stream.amrbd.com/SonySix/tracks-v1a1/mono.m3u8
