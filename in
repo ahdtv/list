@@ -104,6 +104,34 @@ https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Gabruu TV Australia" tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="Punjabi", Gabruu TV Australia
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://104.237.60.234/live/gabruutv.m3u8\
+
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Gaunda Punjab TV Canada" tvg-logo="https://i.imgur.com/J74dCx6.png" group-title="Punjabi", Gaunda Punjab TV Canada
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Gurbani Healing" tvg-logo="https://i.imgur.com/qJkwmlD.jpg" group-title="Punjabi", Gurbani Healing
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Jhanjar Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Punjabi", Jhanjar Music
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Prime Canada TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" group-title="Punjabi", Prime Canada TV
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Punjabi Tadka" tvg-logo="https://pbs.twimg.com/profile_images/835576701056753664/pS8SxozM.jpg" group-title="Punjabi", Punjabi Tadka
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Punjabi TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJABITVV.jpg" group-title="Punjabi", Punjabi TV
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="News18 PB HP HR" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="NEWS", News18 PB HP HR
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
@@ -193,6 +221,14 @@ https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdn
 #EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Zee TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="ENTERTAINMENT", Zee TV
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Zee TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="ENTERTAINMENT", Zee TV
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Zee Bioskop" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="ENTERTAINMENT", Zee Bioskop
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Star Plus HD" tvg-logo="https://i.dlpng.com/static/png/387062_preview.png" group-title="ENTERTAINMENT", Star Plus HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
