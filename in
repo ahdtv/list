@@ -161,7 +161,7 @@ https://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 
-#EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="Desi Plus" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg", Desi Plus
+#EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="Desi Plus" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg", group-title="Punjabi" Desi Plus
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 
