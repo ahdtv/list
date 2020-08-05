@@ -133,8 +133,6 @@ http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-
 
 
 #EXTINF:-1 tvg-id="17" tvg-language="HINDI" tvg-name="News18 Lokmat" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_Lokmat.png" group-title="NEWS", News18_Lokmat
@@ -214,10 +212,11 @@ http://indtv.online/zee5/0-9-255.m3u8
 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=wion
 
-#EXTINF:-1 tvg-id="1405" tvg-language="English" tvg-name="BBC World News" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/BBC_World_News.png" group-title="NEWS WORLD", BBC World News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="NEWS",Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="NEWS",Janta TV
+https://live.wmncdn.net/jantatv/live.stream/index.m3u8
 
 
 ---------------------------------------
@@ -236,14 +235,6 @@ http://104.237.60.234/live/gabruutv.m3u8
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Prime Canada TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" group-title="Punjabi", Prime Canada TV
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 
 
 
@@ -411,6 +402,10 @@ https://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="PUNJABI" tvg-logo="" group-title="PUNJABI",Jatt TV
+https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=JCp6gtouk2QPBi3gjVQaTQ;ci=lc5Dj7aG8uTMtaU_WwLCxg
+
+
 -------------------------------
 *News World* 
 
@@ -508,7 +503,10 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 
 
 
+#EXTINF:-1 tvg-id="1405" tvg-language="English" tvg-name="BBC World News" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/BBC_World_News.png" group-title="NEWS WORLD", BBC World News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1
 
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 -----------------------------
 *Hindi Entertainment* 
@@ -587,6 +585,12 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://webcast.gov.in/images/channel_two.png" group-title="ENTERTAINMENT",DD Vyas
+https://playhls.media.nic.in/live/vyas-360p/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="ENTERTAINMENT", Sony Pal
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_720p/index.m3u8
+
 ----------------------------
 
 *Hindi Movies* 
@@ -637,6 +641,12 @@ https://bit.ly/2uTVMviESHD
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18177
 
 
+
+#EXTINF:-1 tvg-id="476" tvg-language="HINDI" tvg-name="Sony Max HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="MOVIES", Sony Max HD
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="1133" tvg-language="HINDI" tvg-name="Star Gold HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="MOVIES", Star Gold HD
 
@@ -752,6 +762,9 @@ EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPl
 http://indtv.online/EROSNOW_Hindi_Premium.m3u8
 
 
+
+#EXTINF:-1 tvg-id="37" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="MOVIES",Sony MAX2
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7038.SonyMax2.in_720p/index.m3u8
 
 
 
@@ -940,7 +953,8 @@ https://livevoot-i.akamaihd.net/hls/live/862031/clubbing_viacom/clubbing/clubbin
 
 
 
-
+#EXTINF:-1 tvg-id="42" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0589.Mastiii.in/1x1/1x/test_pic1567397477532.jpg" group-title="MUSIC", Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8 
 
 --------------------------------
 *Sports*
@@ -993,6 +1007,9 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" group-title="SPORTS",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
 --------------------------------
 * Animal Wildlife *
 
@@ -1003,6 +1020,12 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 
 
+
+#EXTINF:-1 tvg-id="54" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="ANIMAL_WILDLIFE" ,Discovery Channel Hindi
+https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="ANIMAL_WILDLIFE", Discovery Science
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
 
 --------------------------------
 *Tech Science*
@@ -1038,7 +1061,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
-http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p4.m3u8
+https://streamitv.multitvsolution.in/idvo/tlchd_540p/index.m3u8
 
 
 
@@ -1076,6 +1099,9 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 
 
+
+#EXTINF:-1 tvg-id="61" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="FAMILY_KIDS" ,Discovery Kids
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
 
 
 -------------------------------
@@ -1258,14 +1284,14 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 ----------------------
 *Marathi* 
 
-#EXTINF:-1 tvg-id="203" tvg-language="Marathi" tvg-name="Tv9 marathi" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/TV9_Maharashtra.png" group-title="NEWS", Tv9 marathi
+#EXTINF:-1 tvg-id="203" tvg-language="Marathi" tvg-name="Tv9 marathi" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/TV9_Maharashtra.png" group-title="Marathi", Tv9 marathi
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://vidnetcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="203" tvg-language="Marathi" tvg-name="ABP majha" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ABP_Majha.png" group-title="NEWS", ABP majha
+#EXTINF:-1 tvg-id="203" tvg-language="Marathi" tvg-name="ABP majha" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ABP_Majha.png" group-title="Marathi", ABP majha
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
@@ -1273,11 +1299,120 @@ https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 
 
 
-----------------------
-*Pakistan*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Marathi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/yuppclassicsmarathi.png" group-title="Marathi",Classics Marathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yprmarcla.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="203" tvg-language="Urdu" tvg-name="Geo News" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Geo%20News.png" group-title="Pakistan", Geo News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yupppremiummarathi.png" group-title="Marathi",Premium Marathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
+
+----------------------
+*Urdu*
+
+#EXTINF:-1 tvg-id="203" tvg-language="Urdu" tvg-name="Geo News" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Geo%20News.png" group-title="Urdu", Geo News
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-language="Urdu" tvg-name="Prime Canada TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" group-title="Urdu", Prime Canada TV
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+
+
+----------------------
+
+*Tamil* 
+
+#EXTINF:-1 tvg-id="" tvg-name="Aus Tamil" tvg-language="Tamil" tvg-logo="https://i.imgur.com/nOIcXJ6.png" group-title="Tamil", Aus Tamil
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Tamil",3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Tamil",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/analaiexpress1.jpg" group-title="Tamil",Analai Express HD
+https://live.streamjo.com/sarastv/sarastv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/Screenshot_2.png" group-title="Tamil",Classics Tamil
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://i.imgur.com/TIc76op.png" group-title="Tamil",Deepam TV
+http://95.217.218.87/deepamtvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://i.imgur.com/mrvGGKY.png" group-title="Tamil",Kollywood TV
+https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/PUTHUYUGAM.png" group-title="Tamil",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil",Raasi Movies
+http://singamcloud.in/rasimovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://i.imgur.com/IktuwaW.jpg" group-title="Tamil",Raasi Music HD
+http://singamcloud.in/rasimusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://i.imgur.com/IktuwaW.jpg" group-title="Tamil",Surya TV HD
+http://mottatv.com/sunnxt/sun.php?id=26574&=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://imgur.com/download/ei1YnIJ/" group-title="Tamil",Star Vijay HD
+http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
+
+
+
+----------------------
+*Malayalam*
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv.png" group-title="Malayalam",ACV
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvjukee.png" group-title="Malayalam",ACV Jukebox
+https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv_in_news.png" group-title="Malayalam",ACV News
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvutsaav.png" group-title="Malayalam",ACV Utsav
+https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvplus.png" group-title="Malayalam",ACV Utsav Plus
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="Malayalam",Asianet News
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/FLOWERS.jpg" group-title="Malayalam",Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/magnavision-tv-white.png" group-title="Malayalam",Magna Vision TV
+https://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
+
+
+----------------------
+
+*Telgu* 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Telgu" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yuppclassicstelugu.png" group-title="Telgu",Classics Telugu
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
