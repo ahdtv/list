@@ -976,49 +976,79 @@ http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/37100
 *Sports*
 
 #EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Start Sports 1-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_1.png?raw=true" group-title="SPORTS", Start Sports HD 1
+https://watchindia.net:8443/live/01314/72923/1072.ts
 
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18182
-
-
-
-#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Start Sports 2-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_2.png?raw=true" group-title="SPORTS", Start Sports HD 2
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-http://bit.ly/3esS2Hd
+#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Start Sports 1-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_1.png?raw=true" group-title="SPORTS", Start Sports HD 1
+https://watchindia.net:8443/live/01314/72923/808.ts
 
 
 
 #EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Start Sports 2-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_2.png?raw=true" group-title="SPORTS", Start Sports HD 2
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://stream.amrbd.com/kn2a/index.m3u8
+https://watchindia.net:8443/live/01314/72923/1069.ts
 
 
+#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Star Sports Select 1 HD" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Star_Sports_Select_HD_1.png=raw=true" group-title="SPORTS", Star Sports Select 1 HD
+https://watchindia.net:8443/live/01314/72923/1070.ts
 
-#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Sony Six-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="SPORTS", Sony Six HD
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://stream.amrbd.com/SonySix/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Star Sports Select 2 HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="SPORTS", Star Sports Select 2 HD
+https://watchindia.net:8443/live/01314/72923/1071.ts
 
 
-#EXTINF:-1 tvg-id="891" tvg-language="ENGLISH" tvg-name="Sony Ten 2-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="SPORTS", Sony Ten 2 HD
+#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Ten Sports" tvg-logo="" group-title="SPORTS", Ten Sports
+https://watchindia.net:8443/live/01314/72923/1068.ts
 
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+#EXTINF:-1, tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_1_HD.png?raw=true" group-title="SPORTS",Sony Ten 1 HD
+https://watchindia.net:8443/live/01314/72923/1756.ts
 
-http://103.205.133.14/hls/ten2.m3u8
+#EXTINF:-1, tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_2_HD.png?raw=true" group-title="SPORTS",Sony Ten 2 HD
+https://watchindia.net:8443/live/01314/72923/1757.ts
+
+#EXTINF:-1, tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Ten_3_HD.png?raw=true" group-title="SPORTS",Sony Ten 3 HD
+https://watchindia.net:8443/live/01314/72923/1758.ts
+
+#EXTINF:-1, tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="SPORTS",Sony Six HD
+https://watchindia.net:8443/live/01314/72923/1763.ts
+
+#EXTINF:-1, group-title="SPORTS",Saam
+https://watchindia.net:8443/live/01314/72923/921.ts
+
+#EXTINF:-1, group-title="SPORTS",Sky Sports Main Event
+https://watchindia.net:8443/live/01314/72923/2091.ts
+
+#EXTINF:-1, group-title="SPORTS",Sky Sports Cricket
+https://watchindia.net:8443/live/01314/72923/2090.ts
+
+#EXTINF:-1, group-title="SPORTS",Sky Sports Premier League
+https://watchindia.net:8443/live/01314/72923/2092.ts
+
+#EXTINF:-1, group-title="SPORTS",Sky Sports Football
+https://watchindia.net:8443/live/01314/72923/2093.ts
+
+#EXTINF:-1, group-title="SPORTS",Sky Sports F1
+https://watchindia.net:8443/live/01314/72923/2094.ts
+
+#EXTINF:-1, group-title="SPORTS",Sky Sports Arena
+https://watchindia.net:8443/live/01314/72923/2095.ts
+
+#EXTINF:-1, group-title="SPORTS",Sky Sports Golf
+https://watchindia.net:8443/live/01314/72923/2096.ts
+
+#EXTINF:-1, group-title="SPORTS",BT Sport 1
+https://watchindia.net:8443/live/01314/72923/2097.ts
+
+#EXTINF:-1, group-title="SPORTS",BT Sport 2
+https://watchindia.net:8443/live/01314/72923/2098.ts
+
+#EXTINF:-1, group-title="SPORTS",BT Sport 3
+https://watchindia.net:8443/live/01314/72923/2099.ts
+
+#EXTINF:-1, group-title="SPORTS",BT Sport ESPN
+https://watchindia.net:8443/live/01314/72923/2100.ts
 
 
 
 #EXTINF:-1 tvg-id="892" tvg-language="ENGLISH" tvg-name="D Sports" tvg-logo="https://seeklogo.com/images/D/D-sport-logo-26504724DD-seeklogo.com.png?raw=true" group-title="SPORTS", D Sports
-
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 
