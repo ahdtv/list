@@ -1,33 +1,19 @@
-
 *NEWS*
 
 
 #EXTINF:-1 tvg-id="1" tvg-language="HINDI" tvg-name="Aaj Tak-IN" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Aaj_Tak_HD.png" group-title="NEWS", Aaj Tak HD
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-language="HINDI" tvg-name="ABP News India-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ABP_News_India.png?raw=true" group-title="NEWS", ABP News HD
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1
-
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="3" tvg-language="HINDI" tvg-name="Zee News-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS", Zee News
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/940
 
 
 #EXTINF:-1 tvg-id="231" tvg-language="HINDI" tvg-name="News18 India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="NEWS", News18 India
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-
 
 
 #EXTINF:-1 tvg-id="4" tvg-language="HINDI" tvg-name="Zee Business-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Business.png?raw=true" group-title="NEWS", Zee Business
@@ -318,44 +304,42 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 *Hindi Entertainment* 
 
-EXTINF:-1 tvg-id="472" tvg-language="HINDI" tvg-name="And TV HD-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/%26TV_HD.png?raw=true" group-title="ENTERTAINMENT", &TV HD
+EXTINF:-1 tvg-id="472" tvg-language="HINDI" tvg-name="And TV HD-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/%26TV_HD.png?raw=true" group-title="Hindi Entertainment", &TV HD
 EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18167
 
-EXTINF:-1 tvg-id="144" tvg-language="HINDI" tvg-name="Colors HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="ENTERTAINMENT", Colors HD
+EXTINF:-1 tvg-id="144" tvg-language="HINDI" tvg-name="Colors HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Hindi Entertainment", Colors HD
 EXTVLCOPT:http-user-agent=iStreamtvPRO/1.2.4 (Linux;Android 9) ExoPlayerLib/2.7.3
 
-EXTINF:-1 tvg-id="144" tvg-language="HINDI" tvg-name="Colors HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="ENTERTAINMENT", Colors HD
-EXTVLCOPT:http-user-agent=iStreamtvPRO/1.2.4 (Linux;Android 9) ExoPlayerLib/2.7.3
 
-EXTINF:-1 tvg-id="291" tvg-language="HINDI" tvg-name="Sony HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="ENTERTAINMENT", Sony HD
-EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-id="471" tvg-language="HINDI" tvg-name="Sony SAB-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Hindi Entertainment", Sony SAB HD
+http://103.214.202.218:8081/live/sonysab/playlist.m3u8
 
-EXTINF:-1 tvg-id="471" tvg-language="HINDI" tvg-name="Sony SAB-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="ENTERTAINMENT", Sony SAB HD
-EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-
-EXTINF:-1 tvg-id="471" tvg-language="HINDI" tvg-name="Sony SAB-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="ENTERTAINMENT", Sony SAB HD
-EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-
-#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Zee TV HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="ENTERTAINMENT", Zee TV
-
+#EXTINF:-1 tvg-id="291" tvg-language="HINDI" tvg-name="Sony HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Hindi Entertainment", Sony HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Zee TV HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Hindi Entertainment", Zee TV
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Zee TV HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="ENTERTAINMENT", Zee TV
-
+#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Zee TV HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Hindi Entertainment", Zee TV HD
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://three.somee.com/web.php?c=zeetvhd
 
-https://itpolly.iptv.digijadoo.net/live/zee_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi Entertainment",Zee TV HD (Canada)
+http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi Entertainment",Zee TV HD (USA)
+http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpbBsc2MGhsbRXPW5K6TmSuHvb0Bge1uRYt_3OF0Me8HeySDB8&usqp=CAU" group-title="Hindi Entertainment",Zee Smile
+http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Zee Bioskop" tvg-logo="https://i.imgur.com/CdXieB6.png?raw=true" group-title="ENTERTAINMENT", Zee Bioskop
+#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Zee Bioskop" tvg-logo="https://i.imgur.com/CdXieB6.png?raw=true" group-title="Hindi Entertainment", Zee Bioskop
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
@@ -363,26 +347,31 @@ http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Star Plus HD-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true" group-title="ENTERTAINMENT", Star Plus HD
+#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Star Plus HD-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true" group-title="Hindi Entertainment", Star Plus HD
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 
+#EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Star Plus" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true" group-title="Hindi Entertainment", Star Plus 
+http://216.144.250.174/Star_Plus_HD_IndIa/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="1066" tvg-language="HINDI" tvg-name="The Q You" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/QYOUHD.png" group-title="ENTERTAINMENT", The Q You
+
+
+#EXTINF:-1 tvg-id="1066" tvg-language="HINDI" tvg-name="The Q You" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/QYOUHD.png" group-title="Hindi Entertainment", The Q You
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSglHJm5p5ZfkpYBxsuFpwfNOhyOl0UvzU6T39JxV--3VAWe5Y&usqp=CAU" group-title="Hindi Entertainment",DD National
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="DD Vyas-IN" tvg-language="Hindi" tvg-logo="http://webcast.gov.in/images/channel_two.png" group-title="ENTERTAINMENT",DD Vyas
+#EXTINF:-1 tvg-id="" tvg-name="DD Vyas-IN" tvg-language="Hindi" tvg-logo="http://webcast.gov.in/images/channel_two.png" group-title="Hindi Entertainment",DD Vyas
 https://playhls.media.nic.in/live/vyas-360p/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Sony Pal-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="ENTERTAINMENT", Sony Pal
+#EXTINF:-1 tvg-id="9" tvg-name="Sony Pal-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Hindi Entertainment", Sony Pal
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_720p/index.m3u8
 
 ----------------------------
@@ -432,7 +421,7 @@ https://bit.ly/2uTVMviESHD
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18177
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 
 
 
@@ -486,10 +475,14 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="165" tvg-language="HINDI" tvg-name="Zee Cinema-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="MOVIES", Zee Cinema HD
+#EXTINF:-1 tvg-id="165" tvg-language="HINDI" tvg-name="Zee Cinema-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="MOVIES", Zee Cinema
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+
+#EXTINF:-1 tvg-id="165" tvg-language="HINDI" tvg-name="Zee Cinema-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="MOVIES", Zee Cinema HD
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 
@@ -578,14 +571,20 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playl
 
 ---------------------------------------------------
 
-*Music* 
+*Hindi Music* 
 
-#EXTINF:-1 tvg-id="587" tvg-language="HINDI" tvg-name="MTV-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_HD_Plus.png?raw=true" group-title="MUSIC", MTV HD
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1
+#EXTINF:-1 tvg-logo="https://imgur.com/download/4NKKzKM/" group-title="Hindi Music",ZoOm
+http://itpolly.iptv.digijadoo.net/live/zoom/chunks.m3u8
 
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18174
+#EXTINF:-1 tvg-logo="https://imgur.com/download/gTcwjmY/" group-title="Hindi Music",Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 
+#EXTINF:-1 tvg-id="587" tvg-language="HINDI" tvg-name="MTV-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_HD_Plus.png?raw=true" group-title="Hindi Music", MTV HD+
+https://watchindia.net:8443/live/46887/80074/825.ts
+
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="MUSIC" group-title="Hindi Music", MTV Beats HD
+https://watchindia.net:8443/live/46887/80074/786.ts
 
 
 #EXTINF:-1 tvg-id="587" tvg-language="HINDI" tvg-name="Karaoke" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Karoke.png?raw=true" group-title="MUSIC", Karaoke
@@ -593,13 +592,13 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18174
 
 https://www.djing.com/tv/karaoke.m3u8
 
-#EXTINF:-1 tvg-id="587" tvg-language="HINDI" tvg-name="MTV Beats HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="MUSIC", MTV Beats HD
+#EXTINF:-1 tvg-id="587" tvg-language="HINDI" tvg-name="MTV Beats HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MTV_Beats_HD.png?raw=true" group-title="Hindi Music", MTV Beats HD
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1
 
 http://indtv.online/jiotv/MTV_Beats_HD.m3u8
 
-#EXTINF:-1 tvg-id="587" tvg-language="HINDI" tvg-name="9XM-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="MUSIC", 9XM
+#EXTINF:-1 tvg-id="587" tvg-language="HINDI" tvg-name="9XM-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Hindi Music", 9XM
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1
 
@@ -607,7 +606,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 
 
 
-#EXTINF:-1 tvg-id="183" tvg-language="HINDI" tvg-name="B4U Music-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="MUSIC", B4U Music
+#EXTINF:-1 tvg-id="183" tvg-language="HINDI" tvg-name="B4U Music-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Hindi Music", B4U Music
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
@@ -615,14 +614,14 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 
 
 
-#EXTINF:-1 tvg-id="1352" tvg-language="HINDI" tvg-name="Aaho Music" tvg-logo="https://images.weserv.nl/?url=aahotv.com/wp-content/themes/aaho/images/logo.svg&w=200&h=150&t=letterbox&bg=transpaprent" group-title="MUSIC", Aaho Music
+#EXTINF:-1 tvg-id="1" tvg-language="HINDI" tvg-name="Aaho Music" tvg-logo="https://images.weserv.nl/?url=aahotv.com/wp-content/themes/aaho/images/logo.svg&w=200&h=150&t=letterbox&bg=transpaprent" group-title="Hindi Music", Aaho Music
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
 https://v.aaho.tv/live/aahomusic.m3u8
 
 
 
-#EXTINF:-1 tvg-id="584" tvg-language="HINDI" tvg-name="Mastiii" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="MUSIC", Mastiii
+#EXTINF:-1 tvg-id="584" tvg-language="HINDI" tvg-name="Mastiii" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Hindi Music", Mastiii
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
@@ -630,7 +629,7 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="584" tvg-language="HINDI" tvg-name="Boogle Bollywood" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Boogle_Bollywood.png?raw=true" group-title="MUSIC", Boogle Bollywood
+#EXTINF:-1 tvg-id="584" tvg-language="HINDI" tvg-name="Boogle Bollywood" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Boogle_Bollywood.png?raw=true" group-title="Hindi Music", Boogle Bollywood
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
@@ -638,7 +637,7 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 
 
 
-#EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Artist Aloud - Hungama" tvg-logo="https://www.artistaloud.com/images/logo.png" group-title="MUSIC", Artist Aloud - Hungama
+#EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Artist Aloud - Hungama" tvg-logo="https://www.artistaloud.com/images/logo.png" group-title="Hindi Music", Artist Aloud - Hungama
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
@@ -646,7 +645,7 @@ https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Dil Se - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Dil Se - Hungama" group-title="MUSIC", Dil Se - Hungama
+#EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Dil Se - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Dil Se - Hungama" group-title="Hindi Music", Dil Se - Hungama
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
@@ -654,7 +653,7 @@ https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Nazrana - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Nazrana - Hungama" group-title="MUSIC", Nazrana - Hungama
+#EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Nazrana - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Nazrana - Hungama" group-title="Hindi Music", Nazrana - Hungama
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
@@ -662,7 +661,7 @@ https://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Kadak Hits - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Kadak Hits - Hungama" group-title="MUSIC", Kadak Hits - Hungama
+#EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Kadak Hits - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Kadak Hits - Hungama" group-title="Hindi Music", Kadak Hits - Hungama
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
@@ -670,7 +669,7 @@ https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Pop Hits - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Pop Hits - Hungama" group-title="MUSIC", Pop Hits - Hungama
+#EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Pop Hits - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Pop Hits - Hungama" group-title="Hindi Music", Pop Hits - Hungama
 
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 
@@ -686,20 +685,21 @@ https://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-language="World" tvg-name="Dhamaal" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/App_Logo/Clubbing_TV.png?raw=true" group-title="MUSIC", Dhamaal
+#EXTINF:-1 tvg-id="" tvg-language="World" tvg-name="Dhamaal" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/App_Logo/Clubbing_TV.png?raw=true" group-title="Hindi Music", Dhamaal
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
 
 https://livevoot-i.akamaihd.net/hls/live/862031/clubbing_viacom/clubbing/clubbingtv_stream.stream_1080p_viacom/chunklist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="42" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0589.Mastiii.in/1x1/1x/test_pic1567397477532.jpg" group-title="MUSIC", Mastiii
+#EXTINF:-1 tvg-id="42" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0589.Mastiii.in/1x1/1x/test_pic1567397477532.jpg" group-title="Hindi Music", Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC",M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Hinde Music",8X Music
+http://playlive.goonj.pk/8xmweb_480p/index.m3u8
 
 ---------------------------------------------------------------------
 *Punjabi*
@@ -894,81 +894,94 @@ https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/playlist
 
 *English Movies* 
 
-#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="Movies Now HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="MOVIES ENGLISH", Movies Now HD
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies  HD (India)
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/5641.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English Movies",Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png" group-title="English Movies",AXN HD
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/BEwp4Mj/" group-title="English Movies", &flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/" group-title="English Movies",Sony Pix HD
+https://watchindia.net:8443/live/46887/80074/2101.ts
+
+#EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies",007 James Bond
+http://tx.flv.nimo.tv:80/live/su1599512427635r42b9eee8a790b0e2fc8e1a6ba0562e37.flv
+
+#EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies",Tom Cruise Movies
+https://ws.flv.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.flv
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="English Movies",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DD7eWYT.png" group-title="English Movies",Hits
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/110-1103882_hollywood-tv-logo-clipart.png" group-title="English Movies",Hollywood TV
+http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+
+#EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies",Nimo TV 1
+http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="English Movies",And Prive HD
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies",Nimo TV 3
+https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e.flv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/22lPuK7/" group-title="English Movies", AXN
+http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
+
+#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="Movies Now HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="English Movies", Movies Now HD
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 
-#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="Movies Now HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="MOVIES ENGLISH", Movies Now HD
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
+#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="Movies Now HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="English Movies", Movies Now HD
 http://indtv.online/jiotv/jojotv/Movies_Now_HD.m3u8
 
 
-#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="HBO HD" tvg-logo="https://github.com/ahdtv/Logos/blob/master/HBO%20HD.png?raw=true" group-title="MOVIES ENGLISH", HBO HD
+#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="HBO HD" tvg-logo="https://github.com/ahdtv/Logos/blob/master/HBO%20HD.png?raw=true" group-title="English Movies", HBO HD
+http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
 
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-http://indtv.online/jiotv/jojotv/HBO_HD.m3u8
-
-#EXTINF:-1 tvg-id="151" tvg-language="ENGLISH" tvg-name="Warner TV" tvg-logo="https://e7.pngegg.com/pngimages/462/535/png-clipart-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem.png" group-title="MOVIES ENGLISH", Warner TV
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-
+#EXTINF:-1 tvg-id="151" tvg-language="ENGLISH" tvg-name="Warner TV" tvg-logo="https://e7.pngegg.com/pngimages/462/535/png-clipart-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem.png" group-title="English Movies", Warner TV
 http://203.154.243.89:11205/
 
 
-
-#EXTINF:-1 tvg-id="151" tvg-language="ENGLISH" tvg-name="Pluto Movies" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d6/e1/04/d6e10492-96fe-d6e6-efe1-2a4bf7f8ff95/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/600x600wa.png" group-title="MOVIES ENGLISH", Pluto Movies
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-
-
-#EXTINF:-1 tvg-id="478" tvg-language="ENGLISH" tvg-name="Movie Zone" tvg-logo="https://www.feast.org.au/live/wp-content/uploads/2018/08/Chill-Out-Movie-Zone.png" group-title="MOVIES ENGLISH", Movie Zone
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-
+#EXTINF:-1 tvg-id="478" tvg-language="ENGLISH" tvg-name="Movie Zone" tvg-logo="https://www.feast.org.au/live/wp-content/uploads/2018/08/Chill-Out-Movie-Zone.png" group-title="English Movies", Movie Zone
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 
-
-
-#EXTINF:-1 tvg-id="866" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="MOVIES ENGLISH",Jio Exclusive HD
+#EXTINF:-1 tvg-id="866" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="English Movies",Jio Exclusive HD
 http://indtv.online/jiotv/jojotv/Jio_Exclusive.m3u8
 
-#EXTINF:-1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="MOVIES ENGLISH",Sony Pix HD
-http://indtv.online/jiotv/jojotv/Sony_Pix_HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",MN+
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
 
-#EXTINF:-1 tvg-id="877" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="MOVIES ENGLISH",MNX HD
-http://indtv.online/jiotv/jojotv/Movies_Now2_HD.m3u8
+#EXTINF:-1 tvg-id="877" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English Movies",MNX HD
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO6ZyVTRZlH_TGDzGomW27FmoT1A0LSNlGdhRK0sMgWGeyH0kQ&usqp=CAU" group-title="English Movies",Romedy Now HD
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/FX.us.png" group-title="English Movies",FX
+http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
 
 ------------------------------------
 *English Entertainment*
 
-#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="Star World" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_World.png?raw=true" group-title="ENTERTAINMENT ENGLISH", Star World
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
+#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="Star World" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_World.png?raw=true" group-title="Entertainment ENGLISH", Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
-#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="AXN HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AXN_HD.png?raw=true" group-title="ENTERTAINMENT ENGLISH", AXN HD
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
+#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="AXN HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AXN_HD.png?raw=true" group-title="Entertainment ENGLISH", AXN HD
 http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
 
-
-
-#EXTINF:-1 tvg-id="1319" tvg-language="ENGLISH" tvg-name="Zee Cafe HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="ENTERTAINMENT ENGLISH", Zee Cafe HD
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
+#EXTINF:-1 tvg-id="1319" tvg-language="ENGLISH" tvg-name="Zee Cafe HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="Entertainment ENGLISH", Zee Cafe HD
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeecafehd
 
-#EXTINF:-1 tvg-id="1319" tvg-language="ENGLISH" tvg-name="Fox Life" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Fox%20Life.png?raw=true" group-title="ENTERTAINMENT ENGLISH", Fox Life
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
+#EXTINF:-1 tvg-id="1319" tvg-language="ENGLISH" tvg-name="Fox Life" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Fox%20Life.png?raw=true" group-title="Hindi Entertainment ENGLISH", Fox Life
 http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/37100
 
 --------------------------
@@ -980,7 +993,6 @@ https://watchindia.net:8443/live/01314/72923/1072.ts
 
 #EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Start Sports 1-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_1.png?raw=true" group-title="SPORTS", Start Sports HD 1
 https://watchindia.net:8443/live/01314/72923/808.ts
-
 
 
 #EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Start Sports 2-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_2.png?raw=true" group-title="SPORTS", Start Sports HD 2
@@ -1009,8 +1021,61 @@ https://watchindia.net:8443/live/01314/72923/1758.ts
 #EXTINF:-1, tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Six_HD.png?raw=true" group-title="SPORTS",Sony Six HD
 https://watchindia.net:8443/live/01314/72923/1763.ts
 
-#EXTINF:-1, group-title="SPORTS",Saam
-https://watchindia.net:8443/live/01314/72923/921.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Euro Sports
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZ7CLSeiY67l3Krx0jRCIcFHzm09iJva6lRA&usqp=CAU" group-title="SPORTS",ESPN*
+http://103.49.168.172:8081/ebox/espn/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="SPORTS",Ptv Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU" group-title="SPORTS",Geo Super
+http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRr_0RqzbNbQAC4bHwcX0B1lnf3DnjR7femRBcrn6WYNNacD_T7&usqp=CAU" group-title="SPORTS",Ten Sports Pakistan
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTYFjtr_ZNAqpK2d5hZMI-nE7nDbsgnqXx_Q&usqp=CAU" group-title="SPORTS",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYHkM3VzBu4zLcrGZz5c3sT3Cnpyw65LUKRw&usqp=CAU" group-title="Sports",PPTV HD36
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzr0RFwcAvkAaOfALVDZ87J4McAkvfj-BR2w&usqp=CAU" group-title="SPORTS",Bein Sports Xtra (1080p)
+https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/BT_Sport_3.svg/revision/latest/scale-to-width-down/340?cb=20191227182642" group-title="SPORTS",BT Sports 3
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/50772.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTf2EGxvdEBjADebfZ7udYLMdTtXbxRJoHtrw&usqp=CAU" group-title="SPORTS",BT Sports ESPN
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/50769.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSD0aSj2MAnNiLKwO4tB6gf_HbF_bmVeXb5Pw&usqp=CAU" group-title="SPORTS",Super Sports 1
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/55646.m3u8
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/SS2.png" group-title="SPORTS",Super Sports 2
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/55647.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9nZek_Xczn4/VtYapdfBcKI/AAAAAAAADl0/7TA-J7fgQu0/s320/supersport_3_africa.png" group-title="SPORTS",Super Sports 3
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/55648.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC_fgYuARlysUKRSreT22i9VjfiMqN_Ee0xQ&usqp=CAU" group-title="SPORTS",Super Sports 6
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/55651.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoIpBOOoXuAOsD2BoD8O_P8cMlARFbNE-GOg&usqp=CAU" group-title="SPORTS",Super Sports 8
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/55653.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dstv.co.za/media/5122/212-supersport-12-dark.png" group-title="SPORTS",Super Sports 12
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/55657.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0ib2ti93E8HC7I7C3FwoNfQwfteWl1Ze4yw&usqp=CAU" group-title="SPORTS",Super Sports Blitz HD
+http://iptv-line.com:7899/live/Raybossrojas142/O5FJZlHvnW/55658.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Ads Sport 
+http://212.47.252.54/hls/stream.m3u8
+
 
 #EXTINF:-1, group-title="SPORTS",Sky Sports Main Event
 https://watchindia.net:8443/live/01314/72923/2091.ts
@@ -1045,13 +1110,9 @@ https://watchindia.net:8443/live/01314/72923/2099.ts
 #EXTINF:-1, group-title="SPORTS",BT Sport ESPN
 https://watchindia.net:8443/live/01314/72923/2100.ts
 
-
-
 #EXTINF:-1 tvg-id="892" tvg-language="ENGLISH" tvg-name="D Sports" tvg-logo="https://seeklogo.com/images/D/D-sport-logo-26504724DD-seeklogo.com.png?raw=true" group-title="SPORTS", D Sports
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" group-title="SPORTS",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
@@ -1072,49 +1133,49 @@ https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a054
 http://indtv.online/jiotv/jojotv/Sony_BBC_Earth_HD.m3u8
 
 #EXTINF:-1 tvg-id="286" tvg-language="HINDI" tvg-name="Animal Planet" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment", Animal Planet HD
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 
-
-
-#EXTINF:-1 tvg-id="566" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment",Animal Planet Hindi
-http://indtv.online/jiotv/jojotv/Animal_Planet_Hindi.m3u8
+#EXTINF:0 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Infotainment",Animal Planet HD (Hindi)
+https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 
 #EXTINF:-1 tvg-id="286" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Infotainment",Animal Planet HD World
 http://indtv.online/jiotv/jojotv/Animal_Planet_HD.m3u8
 
+#EXTINF:-1 tvg-id="568" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment",Discovery Science (Hindi)
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="568" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment",Discovery Science (b)
-http://indtv.online/jiotv/jojotv/Discovery_Science.m3u8
+#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Infotainment",Discovery Science (English)
+https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
 
 #EXTINF:-1 tvg-id="463" tvg-language="English" tvg-name="History" tvg-logo="https://img.favpng.com/13/13/4/history-television-channel-logo-television-show-png-favpng-FTKBPqwurbkF0U2qFKaMGT68u.jpg" group-title="Infotainment", History
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
-
-
 #EXTINF:-1 tvg-id="463" tvg-language="English" tvg-name="NASA" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Infotainment", NASA
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Infotainment",Discovery (Hindi)
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment" ,Discovery Channel Hindi
+https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment", Discovery Science
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTezCzYCcD1GWechU-58ZN2NxWZ2RIeR_HzTug3q84ZNY_i0NI&usqp=CAU" group-title="Infotainment",RT Documentary
+http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Infotainment",CGTV Documentary
+http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
 
 
 
 -------------------------------
 *LifeStyle*
 
-#EXTINF:-1 tvg-id="54" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Lifestyle" ,Discovery Channel Hindi
-https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLCa5172AYKrPfgPwgAX5CsBccTeZ6R73Ij_D9-Se2TtV8TEX7&usqp=CAU" group-title="Lifestyle",BBC Lifestyle
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
 
-#EXTINF:-1 tvg-id="55" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Lifestyle", Discovery Science
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
 
 EXTINF:-1 tvg-id="562" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Lifestyle",Travel XP HD Hindi
 http://indtv.online/jiotv/jojotv/Travel_XP.m3u8
@@ -1126,52 +1187,33 @@ http://indtv.online/jiotv/jojotv/Travel_XP_HD.m3u8
 http://indtv.online/jiotv/jojotv/TLC_Hindi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="World" tvg-name="Red Bull TV" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/USA/RedBull_TV.png?raw=true" group-title="Lifestyle", Red Bull TV
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-
-
 #EXTINF:-1 tvg-id="571" tvg-language="HINDI" tvg-name="TLC HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Lifestyle", TLC HD
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
 https://streamitv.multitvsolution.in/idvo/tlchd_540p/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="561" tvg-language="HINDI" tvg-name="Food Food-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Lifestyle", Food Food
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="FTV 1" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/FTV_India.png?raw=true" group-title="Lifestyle", FTV 1
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwmzvoVGg5ZoC25muKab8tnWnZKHfTOq984A&usqp=CAU" group-title="Lifestyle",Cooking 4U
+https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR63yflOihqhrEiuWCMfbcnbUfzTiqnfiRJwz_TPoL1fsL7PhvH&usqp=CAU" group-title="Lifestyle",Living Foodz
+http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 
 -------------------------------
 *Kids*
 
 #EXTINF:-1 tvg-id="872" tvg-language="HINDI" tvg-name="Shemaroo Kids" tvg-logo="https://pbs.twimg.com/profile_images/1027881068236484608/DCGO5dD3_400x400.jpg" group-title="Kids", Shemaroo Kids
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Tom and Jerry" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/App_Logo/Tom_and_Jerry.png?raw=true" group-title="Kids", Tom and Jerry
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 
 
@@ -1182,12 +1224,18 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick Hindi
 http://indtv.online/jiotv/jojotv/Nick_Hindi.m3u8
 
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/kids/Disney_Junior.png" group-title="Kids",Disney Junior
+https://watchindia.net:8443/live/46887/80074/2105.ts
+
+#EXTINF:0 tvg-logo="https://imgur.com/download/a0QnsZ9/" group-title="KIDS",Mr Bean
+http://ws.flv.nimo.tv/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
+
 
 EXTINF:-1 tvg-id="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network Hindi
 http://indtv.online/jiotv/jojotv/Cartoon_Network_Hindi.m3u8
 
-EXTINF:-1 tvg-id="1079" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids",CN HD+ English
-http://indtv.online/jiotv/jojotv/CN_HD_English.m3u8
+#EXTINF:-1 tvg-id="1079" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids",CN HD+ English
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 
 #EXTINF:-1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Kids",Nick HD+
 http://indtv.online/jiotv/jojotv/Nick_HD_Plus.m3u8
@@ -1418,6 +1466,12 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr1eLT28mcTK6JHkGSd_gN94UtmWGG56QU9GAooZNYOR6ifIxI" group-title="Urdu",Shemaroo Ibaadat
 https://livechannel.shemaroome.com/linearplayout/ibaadat-linear-channel/playlist_cf.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/aeEWpon/" group-title="Urdu",Makkah TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmLpc8NFt3xsWW77Srt7hc3K4kcThTxhZVHA&usqp=CAU" group-title="Urdu",Hum Sitery
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
 ----------------------
 
 *Tamil* 
@@ -1462,21 +1516,6 @@ http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 ----------------------
 *Malayalam*
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv.png?raw=true" group-title="Malayalam",ACV
-https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvjukee.png?raw=true" group-title="Malayalam",ACV Jukebox
-https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv_in_news.png?raw=true" group-title="Malayalam",ACV News
-https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvutsaav.png?raw=true" group-title="Malayalam",ACV Utsav
-https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvplus.png?raw=true" group-title="Malayalam",ACV Utsav Plus
-https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/89LBgkl.png?raw=true" group-title="Malayalam",Asianet News
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 
@@ -1485,6 +1524,79 @@ http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/magnavision-tv-white.png?raw=true" group-title="Malayalam",Magna Vision TV
 https://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="Malayalam", Mazhavil Manorama
+http://mhdworld.fun/delta/yuppp.m3u8?id=25796565&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Km6Vk4A/" group-title="Malayalam", Surya TV
+http://mottatv.com/sunnxt/sun.php?id=9018&&=.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/wHKvVQH/" group-title="Malayalam", Zee Keralam HD
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodzhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="Malayalam", Kairali We 
+http://mhdworld.fun/delta/yupp.m3u8?id=25856&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="Malayalam", Kairali TV
+https://watchindia.net:8443/live/46887/80074/307.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/mfMaodX/" group-title="Malayalam", Surya Movies
+https://watchindia.net:8443/live/46887/80074/298.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Hrqfmp5/" group-title="Malayalam",UBL TV
+https://5d00db0e0fcd5.streamlock.net/7130/7130/chunklist_w79406521.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/ILVKTeI/" group-title="Malayalam",KCL TV
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png" group-title="Malayalam",Jeevan TV  
+https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist_w493595086.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/C7D2Pdw/" group-title="Malayalam",Darshana TV
+http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/x4ZACva/" group-title="Malayalam",Asianet Movies
+https://watchindia.net:8443/live/46887/80074/278.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/KEfP8MX/" group-title="Malayalam",Asianet Plus
+https://watchindia.net:8443/live/46887/80074/277.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/sq6tRB3/" group-title="Malayalam",Kite-Victers
+https://live.wmncdn.net/victers/live.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png" group-title="Malayalam",Kaumudy TV
+https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png" group-title="Malayalam",DD Malayalam
+https://watchindia.net:8443/live/46887/80074/303.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/Fc53uS4/" group-title="Malayalam",Sun TV HD
+https://watchindia.net:8443/live/46887/80074/843.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/ei1YnIJ/" group-title="Malayalam",Star Vijay 
+http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png" group-title="Malayalam",KTV HD
+https://watchindia.net:8443/live/46887/80074/845.ts
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia_hd.jpg" group-title="Malayalam",NAT GEO Wild HD 
+http://run.iptv.cab:80/live/NBKNBKNBK1/NBKNBKNBK1/23887.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/703SCuw/" group-title="Malayalam",Asianet HD 2 
+https://watchindia.net:8443/live/46887/80074/276.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/tv2CkD3/" group-title="Malayalam",Mazhavil Manorama HD
+https://watchindia.net:8443/live/46887/80074/280.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/" group-title="Malayalam",Surya HD
+https://watchindia.net:8443/live/46887/80074/279.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/xl5ICfJ/" group-title="Malayalam",Surya HD USA
+https://watchindia.net:8443/live/46887/80074/1938.ts
+
+
+
+
 
 ----------------------
 
@@ -1523,7 +1635,7 @@ https://livechannel.shemaroome.com/linearplayout/gujarati-linear-channel/playlis
 *Bangla*
 
 EXTINF:-1 tvg-id="625" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="Bengali",Zee Bangla
-http://indtv.online/jiotv/jojotv/Zee_Bangla.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/26.m3u8
 
 EXTINF:-1 tvg-id="756" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Bengali",Colors Bengali HD
 http://indtv.online/jiotv/jojotv/Colors_Bengali_HD.m3u8
@@ -1536,6 +1648,9 @@ http://indtv.online/jiotv/jojotv/Sony_aath.m3u8
 
 EXTINF:-1 tvg-id="698" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Bengali",Aakash Aath
 http://indtv.online/jiotv/jojotv/Aakaash_bangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsQDb8L7XPn7nvUgbjN0Rfq3L_J2dxdSGJZQ&usqp=CAU" group-title="Bengali",MTV Bangla
+http://stream.telelivebd.com/mtvbangla/mtvbangla.m3u8
 
 -------------------------
 
@@ -1587,8 +1702,6 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Requested Channel   KYO-IPTV",Tennis 3
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
-
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
 #EXTM3U url-tvg="http://m3u4u.com/epg/69wkngm8xmfxwrmnq8gd"
 
 
