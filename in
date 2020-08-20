@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/69wkngm8xmfxwrmnq8gd"
 -------------------------------------------------------------NEWS-----------------------------------------------------------------------
 
 
@@ -1422,7 +1423,6 @@ https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a054
 #EXTINF:0 tvg-id="avi" tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true" group-title=" ASIAN HDTV Introduction
 https://github.com/ahdtv/Introduction/blob/master/Promotional%20Video.mp4
 
-#EXTM3U url-tvg="http://m3u4u.com/epg/69wkngm8xmfxwrmnq8gd"
 #EXTM3U x-tvg-url="http://indtv.online/guide.gz"
 
 
