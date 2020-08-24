@@ -1707,737 +1707,1283 @@ https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
 
 
 
-------------------------------------------------Pakistan----------------------------------------------
-#EXTINF:-1 tvg-id="GeoTV.pk" tvg-name="PK|EU - GEO TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK|EU - GEO TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63229
-#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="PK|EU - GEO NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK|EU - GEO NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63228
-#EXTINF:-1 tvg-id="GeoKahani.pk" tvg-name="PK|EU - GEO KAHANI" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK|EU - GEO KAHANI
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63227
-#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="PK|EU - HUM TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/HUMTV.png" group-title="AS | PAKISTAN",PK|EU - HUM TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63226
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - HUM MASALA" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MASALA.png" group-title="AS | PAKISTAN",PK|EU - HUM MASALA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63225
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - HUM NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/HUMTV.png" group-title="AS | PAKISTAN",PK|EU - HUM NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63224
-#EXTINF:-1 tvg-id="" tvg-name="PK|UK - SAMAA" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SAMAA.png" group-title="AS | PAKISTAN",PK|UK - SAMAA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63223
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - DUNYA NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DUNYANEWS.png" group-title="AS | PAKISTAN",PK|EU - DUNYA NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63222
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - NEW VISION TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/NEW-VISION.png" group-title="AS | PAKISTAN",PK|EU - NEW VISION TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63221
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - ARY FAMILY" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK|EU - ARY FAMILY
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63220
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - TAKBEER" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/TAKBEERTV.png" group-title="AS | PAKISTAN",PK|EU - TAKBEER
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63219
-#EXTINF:-1 tvg-id="PTVGlobal.pk" tvg-name="PK|EU - PTV GLOBAL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK|EU - PTV GLOBAL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63218
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - NOOR TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/NOORTV.png" group-title="AS | PAKISTAN",PK|EU - NOOR TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63217
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - IQRA TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/IQRATV.png" group-title="AS | PAKISTAN",PK|EU - IQRA TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63215
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - ISLAM CHANNEL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ISLAMCHANNEL2.png" group-title="AS | PAKISTAN",PK|EU - ISLAM CHANNEL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63214
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - MTA MUSLIM" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MTA-MUSLIM.png" group-title="AS | PAKISTAN",PK|EU - MTA MUSLIM
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63213
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - MADANI CHANNEL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MADANICHANNEL.png" group-title="AS | PAKISTAN",PK|EU - MADANI CHANNEL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63212
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - PEACE TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PEACE.png" group-title="AS | PAKISTAN",PK|EU - PEACE TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63211
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - PEACE TV URDU" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PEACE.png" group-title="AS | PAKISTAN",PK|EU - PEACE TV URDU
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63210
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - BRITISH MUSLIM" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MTA-MUSLIM.png" group-title="AS | PAKISTAN",PK|EU - BRITISH MUSLIM
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63209
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - ISLAM CHANNEL URDU" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MADANICHANNEL.png" group-title="AS | PAKISTAN",PK|EU - ISLAM CHANNEL URDU
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63208
-#EXTINF:-1 tvg-id="" tvg-name="PK|EU - CMG CINEMA" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK|EU - CMG CINEMA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63207
-#EXTINF:-1 tvg-id="" tvg-name="PK - CMG ACTION" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK - CMG ACTION
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63206
-#EXTINF:-1 tvg-id="92News.pk" tvg-name="PK|EU - 92 NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/92NEWS.png" group-title="AS | PAKISTAN",PK|EU - 92 NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63205
-#EXTINF:-1 tvg-id="" tvg-name="##### PK - ASIA #####" tvg-logo="" group-title="AS | PAKISTAN",##### PK - ASIA #####
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63204
-#EXTINF:-1 tvg-id="" tvg-name="PK - CHANNEL 24 HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MADANICHANNEL.png" group-title="AS | PAKISTAN",PK - CHANNEL 24 HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63203
-#EXTINF:-1 tvg-id="92News.pk" tvg-name="PK - 92 NEWS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/92NEWS.png" group-title="AS | PAKISTAN",PK - 92 NEWS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63202
-#EXTINF:-1 tvg-id="" tvg-name="PK - K-21" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/K-21.png" group-title="AS | PAKISTAN",PK - K-21
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63201
-#EXTINF:-1 tvg-id="" tvg-name="PK - AAJ ENTERTAINMENT" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/AAJTAK.png" group-title="AS | PAKISTAN",PK - AAJ ENTERTAINMENT
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63200
-#EXTINF:-1 tvg-id="" tvg-name="PK - AAJ NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/AAJTAK.png" group-title="AS | PAKISTAN",PK - AAJ NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63199
-#EXTINF:-1 tvg-id="" tvg-name="PK - AAP NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/AAPNEWSHD.png" group-title="AS | PAKISTAN",PK - AAP NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63198
-#EXTINF:-1 tvg-id="" tvg-name="PK - ABB TAKK NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/AAJTAK.png" group-title="AS | PAKISTAN",PK - ABB TAKK NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63197
-#EXTINF:-1 tvg-id="" tvg-name="PK - APNA CHANNEL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/APNACHANNEL.png" group-title="AS | PAKISTAN",PK - APNA CHANNEL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63196
-#EXTINF:-1 tvg-id="" tvg-name="PK - ARUJ TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARUJ.png" group-title="AS | PAKISTAN",PK - ARUJ TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63195
-#EXTINF:-1 tvg-id="AryDigital.pk" tvg-name="PK - ARY DIGITAL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY DIGITAL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63194
-#EXTINF:-1 tvg-id="" tvg-name="PK - ARY MUSIC" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY MUSIC
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63193
-#EXTINF:-1 tvg-id="ARYNews.pk" tvg-name="PK - ARY NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63192
-#EXTINF:-1 tvg-id="" tvg-name="PK - ARY QTV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY QTV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63191
-#EXTINF:-1 tvg-id="" tvg-name="PK - PAIGAM URDU" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PAIGAMPASHTOO.png" group-title="AS | PAKISTAN",PK - PAIGAM URDU
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63190
-#EXTINF:-1 tvg-id="" tvg-name="PK - ARY ZINDAGI" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY ZINDAGI
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63189
-#EXTINF:-1 tvg-id="" tvg-name="PK - ATV ENTERTAINMENT" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ATVENTERTAINMENT.png" group-title="AS | PAKISTAN",PK - ATV ENTERTAINMENT
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63188
-#EXTINF:-1 tvg-id="" tvg-name="PK - AVT KHYBER" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/AVTKHYBER.png" group-title="AS | PAKISTAN",PK - AVT KHYBER
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63187
-#EXTINF:-1 tvg-id="" tvg-name="PK - PAIGAM PASHTOO" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PAIGAMPASHTOO.png" group-title="AS | PAKISTAN",PK - PAIGAM PASHTOO
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63186
-#EXTINF:-1 tvg-id="" tvg-name="PK - BOL ENTERTAINMENT" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/BOL.png" group-title="AS | PAKISTAN",PK - BOL ENTERTAINMENT
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63184
-#EXTINF:-1 tvg-id="" tvg-name="PK - BOL NEWS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/BOL.png" group-title="AS | PAKISTAN",PK - BOL NEWS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63183
-#EXTINF:-1 tvg-id="" tvg-name="PK - CAPITAL TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CAPITAL-TV.png" group-title="AS | PAKISTAN",PK - CAPITAL TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63182
-#EXTINF:-1 tvg-id="" tvg-name="PK - CARTOON NETWORK" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/Cartoon_Network-2.png" group-title="AS | PAKISTAN",PK - CARTOON NETWORK
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63181
-#EXTINF:-1 tvg-id="" tvg-name="PK - CITY 41 NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CITY-41.png" group-title="AS | PAKISTAN",PK - CITY 41 NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63179
-#EXTINF:-1 tvg-id="" tvg-name="PK - CITY 42" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CITY42.png" group-title="AS | PAKISTAN",PK - CITY 42
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63178
-#EXTINF:-1 tvg-id="" tvg-name="PK - DAWN NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DAWN-NEWS.png" group-title="AS | PAKISTAN",PK - DAWN NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63177
-#EXTINF:-1 tvg-id="" tvg-name="PK - TEN SPORTS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/NEOSPORTS.png" group-title="AS | PAKISTAN",PK - TEN SPORTS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63176
-#EXTINF:-1 tvg-id="" tvg-name="PK - LTN FAMILY" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/LTNFAMILY.png" group-title="AS | PAKISTAN",PK - LTN FAMILY
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63175
-#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="PK - DUNYA NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DUNYANEWS.png" group-title="AS | PAKISTAN",PK - DUNYA NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63174
-#EXTINF:-1 tvg-id="" tvg-name="PK - SINDH ENTERTAINMENT" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SINDH.png" group-title="AS | PAKISTAN",PK - SINDH ENTERTAINMENT
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63173
-#EXTINF:-1 tvg-id="" tvg-name="PK - PTV BOLAN" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV BOLAN
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63172
-#EXTINF:-1 tvg-id="" tvg-name="PK - EXPRESS ENTERTINMENT" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/EXPRESSENTERTINMENT.png" group-title="AS | PAKISTAN",PK - EXPRESS ENTERTINMENT
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63171
-#EXTINF:-1 tvg-id="" tvg-name="PK - ANIMAL PLANET" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ANIMALPLANET.png" group-title="AS | PAKISTAN",PK - ANIMAL PLANET
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63170
-#EXTINF:-1 tvg-id="" tvg-name="PK - FILM WORLD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/FILMWORLD.png" group-title="AS | PAKISTAN",PK - FILM WORLD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63169
-#EXTINF:-1 tvg-id="" tvg-name="PK - FILMAX" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/FILMAX.png" group-title="AS | PAKISTAN",PK - FILMAX
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63168
-#EXTINF:-1 tvg-id="" tvg-name="PK - NICK" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/NICK.png" group-title="AS | PAKISTAN",PK - NICK
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63167
-#EXTINF:-1 tvg-id="" tvg-name="PK - GEO ENTERTAINMENT" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO ENTERTAINMENT
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63166
-#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="PK - GEO NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63165
-#EXTINF:-1 tvg-id="" tvg-name="PK - GEO SUPER" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO SUPER
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63164
-#EXTINF:-1 tvg-id="GeoTez.pk" tvg-name="PK - GEO TEZZ" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO TEZZ
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63163
-#EXTINF:-1 tvg-id="" tvg-name="PK - GNN NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GNN.png" group-title="AS | PAKISTAN",PK - GNN NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63162
-#EXTINF:-1 tvg-id="" tvg-name="PK - HADI" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/HADI.png" group-title="AS | PAKISTAN",PK - HADI
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63160
-#EXTINF:-1 tvg-id="" tvg-name="PK - TLC HD WORLD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/TLCHDWORLD.png" group-title="AS | PAKISTAN",PK - TLC HD WORLD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63159
-#EXTINF:-1 tvg-id="" tvg-name="PK - HUM NEWS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/HUMNEWS.png" group-title="AS | PAKISTAN",PK - HUM NEWS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63158
-#EXTINF:-1 tvg-id="HumSitaray.pk" tvg-name="PK - HUM SITARAY" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/HUMSITARAY.png" group-title="AS | PAKISTAN",PK - HUM SITARAY
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63157
-#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="PK - HUM TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/HUMTV.png" group-title="AS | PAKISTAN",PK - HUM TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63156
-#EXTINF:-1 tvg-id="" tvg-name="PK - KIDS ZONE+ HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KIDSZONE%2B.png" group-title="AS | PAKISTAN",PK - KIDS ZONE+ HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63155
-#EXTINF:-1 tvg-id="" tvg-name="PK - JALWA MUSIC" tvg-logo="" group-title="AS | PAKISTAN",PK - JALWA MUSIC
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63154
-#EXTINF:-1 tvg-id="" tvg-name="PK - POP+" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/POP%2B.png" group-title="AS | PAKISTAN",PK - POP+
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63153
-#EXTINF:-1 tvg-id="" tvg-name="PK - KASHISH TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KASHISHTV.png" group-title="AS | PAKISTAN",PK - KASHISH TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63152
-#EXTINF:-1 tvg-id="" tvg-name="PK - KAY 2" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KAY-2.png" group-title="AS | PAKISTAN",PK - KAY 2
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63151
-#EXTINF:-1 tvg-id="" tvg-name="PK - KHYBER NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KHYBERNEWS.png" group-title="AS | PAKISTAN",PK - KHYBER NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63150
-#EXTINF:-1 tvg-id="" tvg-name="PK - GTV HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GTV.png" group-title="AS | PAKISTAN",PK - GTV HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63149
-#EXTINF:-1 tvg-id="" tvg-name="PK - KOHINOOR NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KOHINOORNEWS.png" group-title="AS | PAKISTAN",PK - KOHINOOR NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63148
-#EXTINF:-1 tvg-id="" tvg-name="PK - KTN NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KTN-ENTERTAINMENT.png" group-title="AS | PAKISTAN",PK - KTN NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63147
-#EXTINF:-1 tvg-id="" tvg-name="PK - KTN TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KTN-ENTERTAINMENT.png" group-title="AS | PAKISTAN",PK - KTN TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63146
-#EXTINF:-1 tvg-id="" tvg-name="PK - LAHORE NEWS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/LAHORE-NEWS.png" group-title="AS | PAKISTAN",PK - LAHORE NEWS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63145
-#EXTINF:-1 tvg-id="" tvg-name="PK - LAHROE RANG HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/LAHROERANG.png" group-title="AS | PAKISTAN",PK - LAHROE RANG HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63144
-#EXTINF:-1 tvg-id="" tvg-name="PK - MADANI CHANNEL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MADANICHANNEL.png" group-title="AS | PAKISTAN",PK - MADANI CHANNEL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63143
-#EXTINF:-1 tvg-id="" tvg-name="PK - INDUS TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/INDUSTV.png" group-title="AS | PAKISTAN",PK - INDUS TV HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63142
-#EXTINF:-1 tvg-id="" tvg-name="PK - CMG COCKTAIL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK - CMG COCKTAIL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63141
-#EXTINF:-1 tvg-id="" tvg-name="PK - METRO ONE" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/METROONE.png" group-title="AS | PAKISTAN",PK - METRO ONE
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63140
-#EXTINF:-1 tvg-id="" tvg-name="PK - CMG FILMS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK - CMG FILMS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63139
-#EXTINF:-1 tvg-id="" tvg-name="PK - NEO NEWS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/NEONEWS.png" group-title="AS | PAKISTAN",PK - NEO NEWS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63138
-#EXTINF:-1 tvg-id="" tvg-name="PK - NEWS ONE" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/NEWSONE.png" group-title="AS | PAKISTAN",PK - NEWS ONE
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63137
-#EXTINF:-1 tvg-id="" tvg-name="PK - CMG MIXTURE" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK - CMG MIXTURE
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63136
-#EXTINF:-1 tvg-id="" tvg-name="PK - OXYGEN HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/OXYGENHD.png" group-title="AS | PAKISTAN",PK - OXYGEN HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63135
-#EXTINF:-1 tvg-id="" tvg-name="PK - DMG MUSIC HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG MUSIC HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63134
-#EXTINF:-1 tvg-id="" tvg-name="PK - CMG MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK - CMG MOVIES
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63133
-#EXTINF:-1 tvg-id="" tvg-name="PK - KARBALA TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KARBALA.png" group-title="AS | PAKISTAN",PK - KARBALA TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63132
-#EXTINF:-1 tvg-id="" tvg-name="PK - PASHTO 1" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PASHTO.png" group-title="AS | PAKISTAN",PK - PASHTO 1
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63131
-#EXTINF:-1 tvg-id="PTVHome.pk" tvg-name="PK - PTV HOME" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV HOME
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63129
-#EXTINF:-1 tvg-id="" tvg-name="PK - DMG ACTION HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG ACTION HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63128
-#EXTINF:-1 tvg-id="PTVNews.pk" tvg-name="PK - PTV NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63127
-#EXTINF:-1 tvg-id="" tvg-name="PK - PTV SPORTS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV SPORTS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63126
-#EXTINF:-1 tvg-id="" tvg-name="PK - PTV SPORTS." tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV SPORTS.
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63125
-#EXTINF:-1 tvg-id="PTVWorld.pk" tvg-name="PK - PTV World" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV World
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63124
-#EXTINF:-1 tvg-id="" tvg-name="PK - PUBLIC NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PUBLIC.png" group-title="AS | PAKISTAN",PK - PUBLIC NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63123
-#EXTINF:-1 tvg-id="" tvg-name="PK - DMG CINEMA HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG CINEMA HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63122
-#EXTINF:-1 tvg-id="" tvg-name="PK - DMG MOVIES HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG MOVIES HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63121
-#EXTINF:-1 tvg-id="" tvg-name="PK - QURAN TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/QURAN.png" group-title="AS | PAKISTAN",PK - QURAN TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63120
-#EXTINF:-1 tvg-id="" tvg-name="PK - RAAVI TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/RAAVI.png" group-title="AS | PAKISTAN",PK - RAAVI TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63119
-#EXTINF:-1 tvg-id="" tvg-name="PK - DMG PLUS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG PLUS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63118
-#EXTINF:-1 tvg-id="" tvg-name="PK - ROHI TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ROHI.png" group-title="AS | PAKISTAN",PK - ROHI TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63117
-#EXTINF:-1 tvg-id="" tvg-name="PK - ROZE NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ROZENEWS.png" group-title="AS | PAKISTAN",PK - ROZE NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63116
-#EXTINF:-1 tvg-id="" tvg-name="PK - SAMAA TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SAMAA.png" group-title="AS | PAKISTAN",PK - SAMAA TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63115
-#EXTINF:-1 tvg-id="" tvg-name="PK - DMG HITS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG HITS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63114
-#EXTINF:-1 tvg-id="" tvg-name="PK - SINDH NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SINDH.png" group-title="AS | PAKISTAN",PK - SINDH NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63113
-#EXTINF:-1 tvg-id="" tvg-name="PK - DMG SHOPPING HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG SHOPPING HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63112
-#EXTINF:-1 tvg-id="" tvg-name="PK - PEACE TV ENGLISH" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PEACE.png" group-title="AS | PAKISTAN",PK - PEACE TV ENGLISH
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63111
-#EXTINF:-1 tvg-id="" tvg-name="PK - MADNI TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MADNI.png" group-title="AS | PAKISTAN",PK - MADNI TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63110
-#EXTINF:-1 tvg-id="" tvg-name="PK - TV ONE" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/TVONE.png" group-title="AS | PAKISTAN",PK - TV ONE
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63109
-#EXTINF:-1 tvg-id="Urdu1.pk" tvg-name="PK - URDU 1" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/URDU1.png" group-title="AS | PAKISTAN",PK - URDU 1
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63108
-#EXTINF:-1 tvg-id="PTVGlobal.pk" tvg-name="PK - PTV GLOBAL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV GLOBAL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63107
-#EXTINF:-1 tvg-id="" tvg-name="PK - ARY FAMILY" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY FAMILY
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63106
-#EXTINF:-1 tvg-id="" tvg-name="PK - MASALA TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MASALA.png" group-title="AS | PAKISTAN",PK - MASALA TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63105
-#EXTINF:-1 tvg-id="GeoKahani.pk" tvg-name="PK - GEO KAHANI" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO KAHANI
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63104
-#EXTINF:-1 tvg-id="" tvg-name="PK - WASEEB TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/WASEEB.png" group-title="AS | PAKISTAN",PK - WASEEB TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63103
-#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="PK - GEO NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/63102
-#EXTINF:-1 tvg-id="" tvg-name="PK - SAAMA NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SAMAA.png" group-title="AS | PAKISTAN",PK - SAAMA NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/68927
-#EXTINF:-1 tvg-id="" tvg-name="PK - BOL NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/BOL.png" group-title="AS | PAKISTAN",PK - BOL NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/68925
-#EXTINF:-1 tvg-id="" tvg-name="PK - ROYAL NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ROYAL.png" group-title="AS | PAKISTAN",PK - ROYAL NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/68924
-#EXTINF:-1 tvg-id="" tvg-name="PK - SUCH NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SUCH.png" group-title="AS | PAKISTAN",PK - SUCH NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/68923
-#EXTINF:-1 tvg-id="" tvg-name="PK - A PLUS" tvg-logo=" http://212.8.253.112/logo/ASIA/PAKISTAN/A-PLUS.png" group-title="AS | PAKISTAN",PK - A PLUS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/68922
-#EXTINF:-1 tvg-id="" tvg-name="PK - CHANNEL 24 HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CHANNEL-24.png" group-title="AS | PAKISTAN",PK - CHANNEL 24 HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/68921
-#EXTINF:-1 tvg-id="" tvg-name="PK - EXPRESS NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/EXPRESS-NEWS.png" group-title="AS | PAKISTAN",PK - EXPRESS NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/68920
-#EXTINF:-1 tvg-id="" tvg-name="PK - 8XM HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/8XM.png" group-title="AS | PAKISTAN",PK - 8XM HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/68919
-#EXTINF:-1 tvg-id="" tvg-name="PK - CMG MUSIC" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK - CMG MUSIC
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/68918
-#EXTINF:-1 tvg-id="" tvg-name="PK - SAUDI SUNNAH" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SAUDI-SUNNAH.png" group-title="AS | PAKISTAN",PK - SAUDI SUNNAH
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/68917
-#EXTINF:-1 tvg-id="" tvg-name="PK - CHANNEL 5" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/TV5.png" group-title="AS | PAKISTAN",PK - CHANNEL 5
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/68937
-#EXTINF:-1 tvg-id="" tvg-name="PK - AHLEBAIT TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_pakistan.png" group-title="AS | PAKISTAN",PK - AHLEBAIT TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/148601
-#EXTINF:-1 tvg-id="" tvg-name="PK - hidayat tv " tvg-logo="http://212.8.253.112/logo/FLAGS/flag_pakistan.png" group-title="AS | PAKISTAN",PK - hidayat tv 
-
----------------------------------------------------AS | HINDI------------------------------------------
-
+------------------------------------------------IPTV 1 Year Paid----------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="HINDI - CORONA VIRUS INFO" tvg-logo="http://212.8.253.112/logo/corona.png" group-title="AS | HINDI",HINDI - CORONA VIRUS INFO
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83150
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - T-Series" tvg-logo="" group-title="AS | HINDI",HINDI - T-Series
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/83092
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83092
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - POGO KIDS" tvg-logo="" group-title="AS | HINDI",HINDI - POGO KIDS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/117790
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/117790
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - Disney" tvg-logo="" group-title="AS | HINDI",HINDI - Disney
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/117791
-
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/117791
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - MK SIX" tvg-logo="" group-title="AS | TAMIL",TAMIL - MK SIX
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/74234
+#EXTINF:-1 tvg-id="mkn.in" tvg-name="TAMIL - MK TV" tvg-logo="" group-title="AS | TAMIL",TAMIL - MK TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/74240
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - ARK TV" tvg-logo="" group-title="AS | TAMIL",TAMIL - ARK TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/74243
+#EXTINF:-1 tvg-id="musicfatafati.in" tvg-name="BANGLA - MUSIC FATAFATI" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/MUSIC-FATAFATI.png" group-title="AS | BANGLA",BANGLA - MUSIC FATAFATI
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79017
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - BANGLA MOVIES 2" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/BANGLATV.png" group-title="AS | BANGLA",BANGLA - BANGLA MOVIES 2
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79016
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - BANGLA 21" tvg-logo="" group-title="AS | BANGLA",BANGLA - BANGLA 21
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79012
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - BINODON BANGLA" tvg-logo="" group-title="AS | BANGLA",BANGLA - BINODON BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79011
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - JHANKAR TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/JHANKAR-tv.png" group-title="AS | BANGLA",BANGLA - JHANKAR TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79009
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - NAN TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/ANANDTV.png" group-title="AS | BANGLA",BANGLA - NAN TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79008
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - AL DAWAH TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/ALDAWAHTV.png" group-title="AS | BANGLA",BANGLA - AL DAWAH TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79007
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - ANANDA TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/ANANDTV.png" group-title="AS | BANGLA",BANGLA - ANANDA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79006
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - ROAL TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/ROALTV.png" group-title="AS | BANGLA",BANGLA - ROAL TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79005
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - #NEWS 7" tvg-logo="" group-title="AS | TAMIL",TAMIL - #NEWS 7
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83261
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - #KALAIGNAR SIRIPOLI" tvg-logo="" group-title="AS | TAMIL",TAMIL - #KALAIGNAR SIRIPOLI
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83262
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - #KALAIGNARTV" tvg-logo="" group-title="AS | TAMIL",TAMIL - #KALAIGNARTV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83263
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - #SILVER SAT" tvg-logo="" group-title="AS | TAMIL",TAMIL - #SILVER SAT
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83264
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - #RAJ DIGITAL PLUS" tvg-logo="" group-title="AS | TAMIL",TAMIL - #RAJ DIGITAL PLUS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83265
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - #PUTHUYUGAM" tvg-logo="" group-title="AS | TAMIL",TAMIL - #PUTHUYUGAM
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83266
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - #KALAIGNARTV MURASU" tvg-logo="" group-title="AS | TAMIL",TAMIL - #KALAIGNARTV MURASU
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83267
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - RASI MOVIE HD" tvg-logo="" group-title="AS | TAMIL",TAMIL - RASI MOVIE HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/107204
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - RASI TAMIL HD" tvg-logo="" group-title="AS | TAMIL",TAMIL - RASI TAMIL HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/107205
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - RASI music hd" tvg-logo="" group-title="AS | TAMIL",TAMIL - RASI music hd
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/107206
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - RASI CLASIC" tvg-logo="" group-title="AS | TAMIL",TAMIL - RASI CLASIC
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/107207
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - RASI tv hd" tvg-logo="" group-title="AS | TAMIL",TAMIL - RASI tv hd
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/107209
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - MOON tv" tvg-logo="" group-title="AS | TAMIL",TAMIL - MOON tv
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/107210
 #EXTINF:-1 tvg-id="tarangtv.in" tvg-name="HINDI - TARANG TV" tvg-logo="" group-title="AS | HINDI",HINDI - TARANG TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/149511
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/149511
 #EXTINF:-1 tvg-id="zeeodisha.in" tvg-name="HINDI - ZEE ODISHA" tvg-logo="" group-title="AS | HINDI",HINDI - ZEE ODISHA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/149513
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/149513
 #EXTINF:-1 tvg-id="" tvg-name="##### IN|UK - INDIA [EUROPE/UK]" tvg-logo="" group-title="AS | INDIA UK",##### IN|UK - INDIA [EUROPE/UK]
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72529
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72529
 #EXTINF:-1 tvg-id="" tvg-name="IN|UK - B4U PLUS" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/B4U.png" group-title="AS | INDIA UK",IN|UK - B4U PLUS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72515
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72515
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN|UK - COLORS CINEPLEX" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/COLORS.png" group-title="AS | INDIA UK",IN|UK - COLORS CINEPLEX
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72512
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72512
 #EXTINF:-1 tvg-id="republictv.in" tvg-name="IN|UK - REPUBLIC TV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/REPUBLICTV.png" group-title="AS | INDIA UK",IN|UK - REPUBLIC TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72528
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72528
 #EXTINF:-1 tvg-id="" tvg-name="IN|UK - MATV NATIONAL" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/MATVNATIONAL.png" group-title="AS | INDIA UK",IN|UK - MATV NATIONAL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72527
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72527
 #EXTINF:-1 tvg-id="sanskartv.in" tvg-name="IN|UK - SANGAT" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/SANGAT.png" group-title="AS | INDIA UK",IN|UK - SANGAT
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72526
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72526
 #EXTINF:-1 tvg-id="" tvg-name="IN|UK - AKAAL CHANNEL" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/AKAALCHANNEL.png" group-title="AS | INDIA UK",IN|UK - AKAAL CHANNEL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72525
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72525
 #EXTINF:-1 tvg-id="" tvg-name="IN|UK - SIKH CHANNEL" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/SIKHCHANNEL.png" group-title="AS | INDIA UK",IN|UK - SIKH CHANNEL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72524
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72524
 #EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="IN|UK - PTC PUNJABI" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/PTCPUNJABI.png" group-title="AS | INDIA UK",IN|UK - PTC PUNJABI
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72523
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72523
 #EXTINF:-1 tvg-id="aastha.in" tvg-name="IN|UK - AASTHA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/AASTHA.png" group-title="AS | INDIA UK",IN|UK - AASTHA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72522
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72522
 #EXTINF:-1 tvg-id="ndtvindia.in" tvg-name="IN|UK - NDTV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/NDTV.png" group-title="AS | INDIA UK",IN|UK - NDTV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72521
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72521
 #EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="IN|UK - AAJ TAK" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/AAJTAK.png" group-title="AS | INDIA UK",IN|UK - AAJ TAK
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72520
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72520
 #EXTINF:-1 tvg-id="abpnews.in" tvg-name="IN|UK - ABP NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/ABPNEWS.png" group-title="AS | INDIA UK",IN|UK - ABP NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72519
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72519
 #EXTINF:-1 tvg-id="" tvg-name="IN|UK - BRIT ASIA TV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/BRITASIA.png" group-title="AS | INDIA UK",IN|UK - BRIT ASIA TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72517
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72517
 #EXTINF:-1 tvg-id="zing.in" tvg-name="IN|UK - ZING" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/ZING.png" group-title="AS | INDIA UK",IN|UK - ZING
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72516
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72516
 #EXTINF:-1 tvg-id="b4umusic.in" tvg-name="IN|UK - B4U MUSIC" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/B4U.png" group-title="AS | INDIA UK",IN|UK - B4U MUSIC
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72514
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72514
 #EXTINF:-1 tvg-id="b4umovies.in" tvg-name="IN|UK - B4U MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/B4U.png" group-title="AS | INDIA UK",IN|UK - B4U MOVIES
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72513
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72513
 #EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="IN|UK - COLORS RISHTEY TV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/COLORS.png" group-title="AS | INDIA UK",IN|UK - COLORS RISHTEY TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72511
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72511
 #EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN|UK - COLORS" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/COLORS.png" group-title="AS | INDIA UK",IN|UK - COLORS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72509
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72509
 #EXTINF:-1 tvg-id="sonymax2.in" tvg-name="IN|UK - SONY MAX 2" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/SONYMAX.png" group-title="AS | INDIA UK",IN|UK - SONY MAX 2
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72508
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72508
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN|UK - SONY MAX HD" tvg-logo="" group-title="AS | INDIA UK",IN|UK - SONY MAX HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/73318
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73318
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN|UK - SONY MAX" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/SONYMAX.png" group-title="AS | INDIA UK",IN|UK - SONY MAX
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72507
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72507
 #EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN|UK - SONY ASIA HD" tvg-logo="" group-title="AS | INDIA UK",IN|UK - SONY ASIA HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/73317
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73317
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="IN|UK - SONY SAB" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/SONYSAB.png" group-title="AS | INDIA UK",IN|UK - SONY SAB
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72510
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72510
 #EXTINF:-1 tvg-id="sony.in" tvg-name="IN|UK - SONY ASIA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/SONYASIA.png" group-title="AS | INDIA UK",IN|UK - SONY ASIA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72506
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72506
 #EXTINF:-1 tvg-id="" tvg-name="IN|UK - SONY TEN  1  HD" tvg-logo="http://212.8.253.112/logo//ASIA/INDIA/sony-ten1.png" group-title="AS | INDIA UK",IN|UK - SONY TEN  1  HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/122216
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/122216
 #EXTINF:-1 tvg-id="zeecinema.in" tvg-name="IN|UK - ZEE CINEMA HD" tvg-logo="" group-title="AS | INDIA UK",IN|UK - ZEE CINEMA HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/73315
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73315
 #EXTINF:-1 tvg-id="zeecinema.in" tvg-name="IN|UK - ZEE CINEMA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/ZEETV.png" group-title="AS | INDIA UK",IN|UK - ZEE CINEMA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72505
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72505
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN|UK - ZEE TV HD" tvg-logo="" group-title="AS | INDIA UK",IN|UK - ZEE TV HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/73316
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73316
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN|UK - ZEE TV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/ZEETV.png" group-title="AS | INDIA UK",IN|UK - ZEE TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72504
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72504
 #EXTINF:-1 tvg-id="" tvg-name="IN|UK - STAR BHARAT" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/STARBHARAT.png" group-title="AS | INDIA UK",IN|UK - STAR BHARAT
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72503
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72503
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN|UK - STAR GOLD HD" tvg-logo="" group-title="AS | INDIA UK",IN|UK - STAR GOLD HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/73320
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73320
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN|UK - STAR GOLD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/STARGOLD.png" group-title="AS | INDIA UK",IN|UK - STAR GOLD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72502
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72502
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN|UK - STAR PLUS HD" tvg-logo="" group-title="AS | INDIA UK",IN|UK - STAR PLUS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/73319
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73319
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN|UK - STAR PLUS" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/STARPLUS.png" group-title="AS | INDIA UK",IN|UK - STAR PLUS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72501
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72501
 #EXTINF:-1 tvg-id="" tvg-name="##### HINDI - GENERAL #####" tvg-logo="" group-title="AS | HINDI",##### HINDI - GENERAL #####
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72133
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72133
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - DESI PLUS" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DESIPLUS.png" group-title="AS | HINDI",HINDI - DESI PLUS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72134
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72134
 #EXTINF:-1 tvg-id="zeetv.in" tvg-name="HINDI - ZEE TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZEETVHD.png" group-title="AS | HINDI",HINDI - ZEE TV HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72135
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72135
 #EXTINF:-1 tvg-id="zeecinema.in" tvg-name="HINDI - ZEE CINEMA HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZEECINEMAHD.png" group-title="AS | HINDI",HINDI - ZEE CINEMA HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72136
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72136
 #EXTINF:-1 tvg-id="zing.in" tvg-name="HINDI - ZING" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZING.png" group-title="AS | HINDI",HINDI - ZING
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72137
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72137
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="HINDI - STAR BHARAT HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/STARBHARATHD.png" group-title="AS | HINDI",HINDI - STAR BHARAT HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72140
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72140
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="HINDI - STAR GOLD HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/STARGOLDHD.png" group-title="AS | HINDI",HINDI - STAR GOLD HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72141
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72141
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="HINDI - STAR GOLD SELECT HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/STARGOLDSELECTHD.png" group-title="AS | HINDI",HINDI - STAR GOLD SELECT HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72142
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72142
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="HINDI - STAR PLUS HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/STARPLUSHD.png" group-title="AS | HINDI",HINDI - STAR PLUS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72143
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72143
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - STAR UTSAV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/STARUTSAV.png" group-title="AS | HINDI",HINDI - STAR UTSAV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72144
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72144
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - STAR UTSAV MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/STARUTSAVMOVIES.png" group-title="AS | HINDI",HINDI - STAR UTSAV MOVIES
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72145
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72145
 #EXTINF:-1 tvg-id="sonyhd.in" tvg-name="HINDI - SONY HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/SONYHD.png" group-title="AS | HINDI",HINDI - SONY HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72146
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72146
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="HINDI - SONY MAX HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/SONYHD.png" group-title="AS | HINDI",HINDI - SONY MAX HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72147
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72147
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="HINDI - SONY PIX HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/SONYHD.png" group-title="AS | HINDI",HINDI - SONY PIX HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72148
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72148
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - SONY BBC EARTH HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/SONYBBCEARTHHD.png" group-title="AS | HINDI",HINDI - SONY BBC EARTH HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72149
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72149
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="HINDI - SONY SAB HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/SONYHD.png" group-title="AS | HINDI",HINDI - SONY SAB HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72150
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72150
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - SONY PAL" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/SONYHD.png" group-title="AS | HINDI",HINDI - SONY PAL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72151
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72151
 #EXTINF:-1 tvg-id="sonywah.in" tvg-name="HINDI - SONY WAH" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/SONYHD.png" group-title="AS | HINDI",HINDI - SONY WAH
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72152
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72152
 #EXTINF:-1 tvg-id="sonyyay.in" tvg-name="HINDI - SONY YAY" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/SONYHD.png" group-title="AS | HINDI",HINDI - SONY YAY
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72153
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72153
 #EXTINF:-1 tvg-id="sonymix.in" tvg-name="HINDI - SONY MIX HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/SONYHD.png" group-title="AS | HINDI",HINDI - SONY MIX HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72154
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72154
 #EXTINF:-1 tvg-id="b4umovies.in" tvg-name="HINDI - B4U MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/B4YOUMOVIES.png" group-title="AS | HINDI",HINDI - B4U MOVIES
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72155
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72155
 #EXTINF:-1 tvg-id="colorshd.in" tvg-name="HINDI - COLORS HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/COLORS.png" group-title="AS | HINDI",HINDI - COLORS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72156
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72156
 #EXTINF:-1 tvg-id="vedic.in" tvg-name="IN|UK - VENUS" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/VENUS.png" group-title="AS | INDIA UK",IN|UK - VENUS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72518
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72518
 #EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="HINDI - 9X JALWA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/9XJALWA.png" group-title="AS | HINDI",HINDI - 9X JALWA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72157
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72157
 #EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="HINDI - AAJ TAK HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/AAJTAK.png" group-title="AS | HINDI",HINDI - AAJ TAK HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72158
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72158
 #EXTINF:-1 tvg-id="zoom.in" tvg-name="HINDI - ZOOM TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZOOMTVHD.png" group-title="AS | HINDI",HINDI - ZOOM TV HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72160
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72160
 #EXTINF:-1 tvg-id="aastha.in" tvg-name="HINDI - AASTHA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/AASTHA.png" group-title="AS | HINDI",HINDI - AASTHA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72161
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72161
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - AASTHA BHAJAN" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/AASTHA.png" group-title="AS | HINDI",HINDI - AASTHA BHAJAN
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72162
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72162
 #EXTINF:-1 tvg-id="abpnews.in" tvg-name="HINDI - ABP NEWS INDIA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/ABPNEWS.png" group-title="AS | HINDI",HINDI - ABP NEWS INDIA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72163
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72163
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - AND PICTURES HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ANDTVHD.png" group-title="AS | HINDI",HINDI - AND PICTURES HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72165
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72165
 #EXTINF:-1 tvg-id="EPG-TV" tvg-name="HINDI - AND TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ANDTVHD.png" group-title="AS | HINDI",HINDI - AND TV HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72166
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72166
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="HINDI - ANIMAL PLANET HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ANIMALPLANETHD.png" group-title="AS | HINDI",HINDI - ANIMAL PLANET HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72168
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72168
 #EXTINF:-1 tvg-id="arihant.in" tvg-name="HINDI - ARIHANT" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ARIHANT.png" group-title="AS | HINDI",HINDI - ARIHANT
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72170
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72170
 #EXTINF:-1 tvg-id="bflixmovies.in" tvg-name="HINDI - B-FLIX MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/B-FLIXMOVIES.png" group-title="AS | HINDI",HINDI - B-FLIX MOVIES
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72171
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72171
 #EXTINF:-1 tvg-id="babytvhd.in" tvg-name="HINDI - BABY TV HDI" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/BABYTVHDi.png" group-title="AS | HINDI",HINDI - BABY TV HDI
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72172
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72172
 #EXTINF:-1 tvg-id="bigmagic.in" tvg-name="HINDI - BIG MAGIC HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/BIGMAGICPUNJABI.png" group-title="AS | HINDI",HINDI - BIG MAGIC HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72173
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72173
 #EXTINF:-1 tvg-id="bindass.in" tvg-name="HINDI - BINDAS" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/BINDAS.png" group-title="AS | HINDI",HINDI - BINDAS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72174
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72174
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - CINEPLEX HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/CINEPLEXHD.png" group-title="AS | HINDI",HINDI - CINEPLEX HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72176
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72176
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - COMEDY ACTIVE" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/COMEDYACTIVE.png" group-title="AS | HINDI",HINDI - COMEDY ACTIVE
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72177
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72177
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - DD NATIONAL" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DD-National.png" group-title="AS | HINDI",HINDI - DD NATIONAL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72180
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72180
 #EXTINF:-1 tvg-id="ddrajasthan.in" tvg-name="HINDI - DD RAJASTHAN" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DDRAJASTHAN.png" group-title="AS | HINDI",HINDI - DD RAJASTHAN
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72181
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72181
 #EXTINF:-1 tvg-id="ddbihar.in" tvg-name="HINDI - DD BHARATI" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DDINDIA.png" group-title="AS | HINDI",HINDI - DD BHARATI
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72182
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72182
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - DD BIHAR" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DDBIHAR.png" group-title="AS | HINDI",HINDI - DD BIHAR
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72183
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72183
 #EXTINF:-1 tvg-id="ddindia.in" tvg-name="HINDI - DD INDIA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DDINDIA.png" group-title="AS | HINDI",HINDI - DD INDIA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72184
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72184
 #EXTINF:-1 tvg-id="ddnews.in" tvg-name="HINDI - DD NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DDNEWS.png" group-title="AS | HINDI",HINDI - DD NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72186
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72186
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="HINDI - DD SPORTS" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DDSPORTS.png" group-title="AS | HINDI",HINDI - DD SPORTS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72187
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72187
 #EXTINF:-1 tvg-id="ddoriya.in" tvg-name="HINDI - DD ORIYA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DDORIYA.png" group-title="AS | HINDI",HINDI - DD ORIYA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72188
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72188
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - DD UP" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DD1.png" group-title="AS | HINDI",HINDI - DD UP
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72189
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72189
 #EXTINF:-1 tvg-id="discovery.in" tvg-name="HINDI - DISCOVERY JEET HD" tvg-logo="" group-title="AS | HINDI",HINDI - DISCOVERY JEET HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72191
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72191
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - DISCOVERY WORLD HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DISCOVERYWORLDHD.png" group-title="AS | HINDI",HINDI - DISCOVERY WORLD HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72192
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72192
 #EXTINF:-1 tvg-id="e24.in" tvg-name="HINDI - E 24" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/E24.png" group-title="AS | HINDI",HINDI - E 24
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72194
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72194
 #EXTINF:-1 tvg-id="enterr10.in" tvg-name="HINDI - ENTER 10 MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ENTER10MOVIES.png" group-title="AS | HINDI",HINDI - ENTER 10 MOVIES
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72195
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72195
 #EXTINF:-1 tvg-id="epic.in" tvg-name="HINDI - EPIC HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/EPICHD.png" group-title="AS | HINDI",HINDI - EPIC HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72196
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72196
 #EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="HINDI - FOX LIFE HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/FOXLIFEHD.png" group-title="AS | HINDI",HINDI - FOX LIFE HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72198
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72198
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="HINDI - HISTORY TV18 HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/HISTORYTV18HD.png" group-title="AS | HINDI",HINDI - HISTORY TV18 HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72200
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72200
 #EXTINF:-1 tvg-id="housefullaction.in" tvg-name="HINDI - HOUSEFULL ACTION" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/HOUSEFULLACTION.png" group-title="AS | HINDI",HINDI - HOUSEFULL ACTION
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72201
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72201
 #EXTINF:-1 tvg-id="housefullmovies.in" tvg-name="HINDI - HOUSEFULL MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/HOUSEFULLMOVIES.png" group-title="AS | HINDI",HINDI - HOUSEFULL MOVIES
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72202
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72202
 #EXTINF:-1 tvg-id="bharatsamachar.in" tvg-name="HINDI - HUNGAMA BHAKTI SAGAR HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/HUNGAMABHAKTISAGAR.png" group-title="AS | HINDI",HINDI - HUNGAMA BHAKTI SAGAR HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72203
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72203
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - HUNGAMA DIL SE HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/HUNGAMADILSEHD.png" group-title="AS | HINDI",HINDI - HUNGAMA DIL SE HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72204
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72204
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - HUNGAMA KADAK HITS HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/HUNGAMAKADAKHITS.png" group-title="AS | HINDI",HINDI - HUNGAMA KADAK HITS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72205
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72205
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - HUNGAMA NAZRANA HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/HUNGAMANAZRANA.png" group-title="AS | HINDI",HINDI - HUNGAMA NAZRANA HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72206
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72206
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - HUNGAMA POP PATAKA HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/HUNGAMAPUNJABITADKAHD.png" group-title="AS | HINDI",HINDI - HUNGAMA POP PATAKA HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72207
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72207
 #EXTINF:-1 tvg-id="jantatv.in" tvg-name="HINDI - JANTA TV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/JANTATV.png" group-title="AS | HINDI",HINDI - JANTA TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72208
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72208
 #EXTINF:-1 tvg-id="jinvani.in" tvg-name="HINDI - JINVANI TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/JINVANITVHD.png" group-title="AS | HINDI",HINDI - JINVANI TV HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72209
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72209
 #EXTINF:-1 tvg-id="livingfoodzhd.in" tvg-name="HINDI - LIVING FOODZ HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/LIVINGFOODZHD.png" group-title="AS | HINDI",HINDI - LIVING FOODZ HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72211
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72211
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - MINIPLEX HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/MINIPLEXHD.png" group-title="AS | HINDI",HINDI - MINIPLEX HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72212
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72212
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - MOVIES ACTIVE" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/MOVIESACTIVE.png" group-title="AS | HINDI",HINDI - MOVIES ACTIVE
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72213
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72213
 #EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="HINDI - MTV BEATS HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/MTVBEATSHD.png" group-title="AS | HINDI",HINDI - MTV BEATS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72215
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72215
 #EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="HINDI - MTV PLUS HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/MTVPLUS.png" group-title="AS | HINDI",HINDI - MTV PLUS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72216
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72216
 #EXTINF:-1 tvg-id="musicindia.in" tvg-name="HINDI - MUSIC INDIA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/MUSICINDIA.png" group-title="AS | HINDI",HINDI - MUSIC INDIA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72218
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72218
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="HINDI - NAT GEO WILD HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/NATGEOWILDHD.png" group-title="AS | HINDI",HINDI - NAT GEO WILD HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72219
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72219
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="HINDI - NATIONAL GEOGRAPHIC HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/NATIONALGEOGRAPHICHD.png" group-title="AS | HINDI",HINDI - NATIONAL GEOGRAPHIC HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72220
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72220
 #EXTINF:-1 tvg-id="news18india.in" tvg-name="HINDI - NEWS 18 ASSAM" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/NEWS18ASSAM.png" group-title="AS | HINDI",HINDI - NEWS 18 ASSAM
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72221
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72221
 #EXTINF:-1 tvg-id="news18biharjharkhand.in" tvg-name="HINDI - NEWS 18 BIHAR" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/NEWS18MP%26CHATTISGARH.png" group-title="AS | HINDI",HINDI - NEWS 18 BIHAR
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72222
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72222
 #EXTINF:-1 tvg-id="news18india.in" tvg-name="HINDI - NEWS 18 INDIA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/NEWS18MP%26CHATTISGARH.png" group-title="AS | HINDI",HINDI - NEWS 18 INDIA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72223
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72223
 #EXTINF:-1 tvg-id="news18biharjharkhand.in" tvg-name="HINDI - NEWS 18 RAJASTHAN" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/NEWS18MP%26CHATTISGARH.png" group-title="AS | HINDI",HINDI - NEWS 18 RAJASTHAN
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72226
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72226
 #EXTINF:-1 tvg-id="newsnation.in" tvg-name="HINDI - NEWS NATION" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/NEWSNATION.png" group-title="AS | HINDI",HINDI - NEWS NATION
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72229
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72229
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - NEWS STATE" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/NEWSSTATE.png" group-title="AS | HINDI",HINDI - NEWS STATE
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72230
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72230
 #EXTINF:-1 tvg-id="republictv.in" tvg-name="HINDI - Republic TV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/RepublicTV.png" group-title="AS | HINDI",HINDI - Republic TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72231
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72231
 #EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="HINDI - NICK PLUS HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/NICKPLUSHD.png" group-title="AS | HINDI",HINDI - NICK PLUS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72232
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72232
 #EXTINF:-1 tvg-id="parastv.in" tvg-name="HINDI - PARAS TV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/PARASTV.png" group-title="AS | HINDI",HINDI - PARAS TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72233
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72233
 #EXTINF:-1 tvg-id="peaceofmind.in" tvg-name="HINDI - PEACE OF MIND HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/PEACEOFMINDHD.png" group-title="AS | HINDI",HINDI - PEACE OF MIND HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72234
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72234
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - SKY STAR MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/SKYSTARMOVIES.png" group-title="AS | HINDI",HINDI - SKY STAR MOVIES
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72236
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72236
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - SOHAM TV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/SOHAMTV.png" group-title="AS | HINDI",HINDI - SOHAM TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72237
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72237
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - TATA SKY BOLLYWOOD PREMIERE HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/TATASKYBOLLYWOODPREMIEREHD.png" group-title="AS | HINDI",HINDI - TATA SKY BOLLYWOOD PREMIERE HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72238
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72238
 #EXTINF:-1 tvg-id="utvaction.in" tvg-name="HINDI - UTV ACTION" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/UTVACTION.png" group-title="AS | HINDI",HINDI - UTV ACTION
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72239
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72239
 #EXTINF:-1 tvg-id="utvhd.in" tvg-name="HINDI - UTV HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/UTVHD.png" group-title="AS | HINDI",HINDI - UTV HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72240
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72240
 #EXTINF:-1 tvg-id="vedic.in" tvg-name="HINDI - VEDIC TV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/VEDICTV.png" group-title="AS | HINDI",HINDI - VEDIC TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72242
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72242
 #EXTINF:-1 tvg-id="wowcinema.in" tvg-name="HINDI - WOW CINEMA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/WOWCINEMA.png" group-title="AS | HINDI",HINDI - WOW CINEMA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72243
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72243
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - ZEE ANMOL" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZEEANMOL.png" group-title="AS | HINDI",HINDI - ZEE ANMOL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72245
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72245
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="HINDI - ZEE ANMOL CINEMA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZEEANMOLCINEMA.png" group-title="AS | HINDI",HINDI - ZEE ANMOL CINEMA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72246
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72246
 #EXTINF:-1 tvg-id="zeenews.in" tvg-name="HINDI - ZEE HINDUSTAN NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZEEHINDUSTANNEWS.png" group-title="AS | HINDI",HINDI - ZEE HINDUSTAN NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72247
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72247
 #EXTINF:-1 tvg-id="zeenews.in" tvg-name="HINDI - ZEE NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZEENEWS.png" group-title="AS | HINDI",HINDI - ZEE NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72248
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72248
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - ZEE NEWS BIHAR" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZEENEWSBIHAR.png" group-title="AS | HINDI",HINDI - ZEE NEWS BIHAR
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72249
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72249
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - ZEE NEWS MP/CHATTISGARH" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZEEMARATHIUSA.png" group-title="AS | HINDI",HINDI - ZEE NEWS MP/CHATTISGARH
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72250
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72250
 #EXTINF:-1 tvg-id="" tvg-name="HINDI - ZEE NEWS UP" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZEENEWS.png" group-title="AS | HINDI",HINDI - ZEE NEWS UP
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72251
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72251
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="HINDI - ZEE RAJASTHAN" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ZEETVHD.png" group-title="AS | HINDI",HINDI - ZEE RAJASTHAN
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/72252
-
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72252
+#EXTINF:-1 tvg-id="" tvg-name="##### TAMIL - GENERAL #####" tvg-logo="" group-title="AS | TAMIL",##### TAMIL - GENERAL #####
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72096
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - ATHAVAN TV" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/ATHAVANTV.png" group-title="AS | TAMIL",TAMIL - ATHAVAN TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72417
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - AKARAM MIX" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/AKARAMTV.png" group-title="AS | TAMIL",TAMIL - AKARAM MIX
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72432
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - MUSIC HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/MUSICINDIA.png" group-title="AS | TAMIL",TAMIL - MUSIC HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72430
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - IBC BAKTHI" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/IBCTAMIL.png" group-title="AS | TAMIL",TAMIL - IBC BAKTHI
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72425
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - IBC TAMIL" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/IBCTAMIL.png" group-title="AS | TAMIL",TAMIL - IBC TAMIL
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72424
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - IBC KIDS" tvg-logo="" group-title="AS | TAMIL",TAMIL - IBC KIDS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73350
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - IBC SILUVAI       " tvg-logo="" group-title="AS | TAMIL",TAMIL - IBC SILUVAI       
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73349
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - IBC COMEDY" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/IBCCOMEDY.png" group-title="AS | TAMIL",TAMIL - IBC COMEDY
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72423
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - VASANTHAM TV SINGAPOUR " tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/VASANTHAMTVSINGAPOUR.png" group-title="AS | TAMIL",TAMIL - VASANTHAM TV SINGAPOUR 
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72429
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - MOON TV" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/MOONTV.png" group-title="AS | TAMIL",TAMIL - MOON TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72428
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - RAGAM TV" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/RAGAMTV.png" group-title="AS | TAMIL",TAMIL - RAGAM TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72427
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - EETV HD" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ETVHD.png" group-title="AS | TAMIL",TAMIL - EETV HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72426
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - SANGAMAM TV" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/SANGAMAMTV.png" group-title="AS | TAMIL",TAMIL - SANGAMAM TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72422
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - TVI HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/TVIHD.png" group-title="AS | TAMIL",TAMIL - TVI HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72421
+#EXTINF:-1 tvg-id="adithyatv.in" tvg-name="TAMIL - ADHTIYA TV" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/ADHITYATV.png" group-title="AS | TAMIL",TAMIL - ADHTIYA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72097
+#EXTINF:-1 tvg-id="angeltv.in" tvg-name="TAMIL - ANGEL TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/ANGELTVHD.png" group-title="AS | TAMIL",TAMIL - ANGEL TV HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72098
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - NLM TV" tvg-logo="" group-title="AS | TAMIL",TAMIL - NLM TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73348
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - HOLYGOD" tvg-logo="" group-title="AS | TAMIL",TAMIL - HOLYGOD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73347
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - AGARAM KITS     " tvg-logo="" group-title="AS | TAMIL",TAMIL - AGARAM KITS     
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73344
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - SCN TAMIL        " tvg-logo="" group-title="AS | TAMIL",TAMIL - SCN TAMIL        
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73343
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - WANTHANAM   " tvg-logo="" group-title="AS | TAMIL",TAMIL - WANTHANAM   
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73342
+#EXTINF:-1 tvg-id="pepperstv.in" tvg-name="TAMIL - PEPPERS TV        " tvg-logo="" group-title="AS | TAMIL",TAMIL - PEPPERS TV        
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73326
+#EXTINF:-1 tvg-id="captainnews.in" tvg-name="TAMIL - CAPTAIN NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/CAPTAINNEWS.png" group-title="AS | TAMIL",TAMIL - CAPTAIN NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72099
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="TAMIL - COLORS TAMIL HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/COLORSTAMILHD.png" group-title="AS | TAMIL",TAMIL - COLORS TAMIL HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72101
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - DD PODHIGAI" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/DDNATIONAL.png" group-title="AS | TAMIL",TAMIL - DD PODHIGAI
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72103
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - DISCOVERY WORLD HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/DISCOVERYWORLDHD.png" group-title="AS | TAMIL",TAMIL - DISCOVERY WORLD HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72104
+#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="TAMIL - FOX LIFE HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/FOXLIFE.png" group-title="AS | TAMIL",TAMIL - FOX LIFE HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72105
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="TAMIL - HISTORY TV18 HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/HISTORYTV18HD.png" group-title="AS | TAMIL",TAMIL - HISTORY TV18 HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72106
+#EXTINF:-1 tvg-id="jaya.in" tvg-name="TAMIL - JAYA TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/JayaTV.png" group-title="AS | TAMIL",TAMIL - JAYA TV HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72108
+#EXTINF:-1 tvg-id="ktvhd.in" tvg-name="TAMIL - KTV HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/KTVHD.png" group-title="AS | TAMIL",TAMIL - KTV HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72109
+#EXTINF:-1 tvg-id="nambikkaitv.in" tvg-name="TAMIL - NAMBIKKAI TV" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/NAMBIKKAITV.png" group-title="AS | TAMIL",TAMIL - NAMBIKKAI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72110
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="TAMIL - NAT GEO WILD HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/NATGEOWILDHD.png" group-title="AS | TAMIL",TAMIL - NAT GEO WILD HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72111
+#EXTINF:-1 tvg-id="nationalgeographicchannel.in" tvg-name="TAMIL - NATIONAL GEOGRAPHIC HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/NATIONALGEOGRAPHICHD.png" group-title="AS | TAMIL",TAMIL - NATIONAL GEOGRAPHIC HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72112
+#EXTINF:-1 tvg-id="news18india.in" tvg-name="TAMIL - NEWS 18 TAMIL" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/NEWS18TAMIL.png" group-title="AS | TAMIL",TAMIL - NEWS 18 TAMIL
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72113
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - RAJ MUSIX" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/RAJMUSIX.png" group-title="AS | TAMIL",TAMIL - RAJ MUSIX
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72114
+#EXTINF:-1 tvg-id="rajtv.in" tvg-name="TAMIL - RAJ TV" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/RAJTV.png" group-title="AS | TAMIL",TAMIL - RAJ TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72115
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="TAMIL - SONY BBC EARTH HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/SONYBBCEARTHHD.png" group-title="AS | TAMIL",TAMIL - SONY BBC EARTH HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72119
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="TAMIL - STAR VIJAY HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/STARVIJAY.png" group-title="AS | TAMIL",TAMIL - STAR VIJAY HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72120
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - STAR VIJAY HD (BACK UP)" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/STARVIJAY.png" group-title="AS | TAMIL",TAMIL - STAR VIJAY HD (BACK UP)
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72121
+#EXTINF:-1 tvg-id="sunlife.in" tvg-name="TAMIL - SUN LIFE" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/SUNTV.png" group-title="AS | TAMIL",TAMIL - SUN LIFE
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72122
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - SUN MUSIC HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/SUNMUSICHD.png" group-title="AS | TAMIL",TAMIL - SUN MUSIC HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72123
+#EXTINF:-1 tvg-id="sunnews.in" tvg-name="TAMIL - SUN NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/SUNNEWS.png" group-title="AS | TAMIL",TAMIL - SUN NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72124
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="TAMIL - SUN TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/SUNTV.png" group-title="AS | TAMIL",TAMIL - SUN TV HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72125
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - TATA SKY TAMIL CINEMA" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/TATASKYWORLDCINEMAHD.png" group-title="AS | TAMIL",TAMIL - TATA SKY TAMIL CINEMA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72126
+#EXTINF:-1 tvg-id="vanithatv.in" tvg-name="TAMIL - VASANTH TV" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/VASANTHTV.png" group-title="AS | TAMIL",TAMIL - VASANTH TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72127
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="TAMIL - VIJAY SUPER HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/VIJAYSUPERHD.png" group-title="AS | TAMIL",TAMIL - VIJAY SUPER HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72129
+#EXTINF:-1 tvg-id="zeetamil.in" tvg-name="TAMIL - ZEE TAMIL HD" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/ZEETAMILHD.png" group-title="AS | TAMIL",TAMIL - ZEE TAMIL HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72132
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="TAMIL - ZEE TAMIL" tvg-logo="http://212.8.253.112/logo/ASIA/TAMIL/ZEETAMILHD.png" group-title="AS | TAMIL",TAMIL - ZEE TAMIL
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72131
+#EXTINF:-1 tvg-id="madhatv.in" tvg-name="TAMIL - MADHA TV         " tvg-logo="" group-title="AS | TAMIL",TAMIL - MADHA TV         
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73585
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - PUDIYA THALAI MURAI                                " tvg-logo="" group-title="AS | TAMIL",TAMIL - PUDIYA THALAI MURAI                                
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73579
+#EXTINF:-1 tvg-id="thanthitv.in" tvg-name="TAMIL - THANDI TV                          " tvg-logo="" group-title="AS | TAMIL",TAMIL - THANDI TV                          
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73578
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL - BLESSINGS      " tvg-logo="" group-title="AS | TAMIL",TAMIL - BLESSINGS      
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/73576
+#EXTINF:-1 tvg-id="amritatv.in" tvg-name="MAL - AMRITHA TV" tvg-logo="http://212.8.253.112/logo/INDIAN/AMRITHATV.png" group-title="AS | MALAYALAM",MAL - AMRITHA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34749
+#EXTINF:-1 tvg-id="asianethd.in" tvg-name="MAL - ASIANET HD" tvg-logo="http://212.8.253.112/logo/INDIAN/ASIANETHD.png" group-title="AS | MALAYALAM",MAL - ASIANET HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34748
+#EXTINF:-1 tvg-id="asianetmovies.in" tvg-name="MAL - ASIANET MOVIES HD" tvg-logo="http://212.8.253.112/logo/INDIAN/ASIANETMOVIESHD.png" group-title="AS | MALAYALAM",MAL - ASIANET MOVIES HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34747
+#EXTINF:-1 tvg-id="asianetplus.in" tvg-name="MAL - ASIANET PLUS HD" tvg-logo="http://212.8.253.112/logo/INDIAN/ASIANETPLUSHD.png" group-title="AS | MALAYALAM",MAL - ASIANET PLUS HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34746
+#EXTINF:-1 tvg-id="flowers.in" tvg-name="MAL - FLOWERS TV" tvg-logo="http://212.8.253.112/logo/INDIAN/FLOWERSTV.png" group-title="AS | MALAYALAM",MAL - FLOWERS TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34744
+#EXTINF:-1 tvg-id="kairalitv.in" tvg-name="MAL - KAIRALI TV" tvg-logo="http://212.8.253.112/logo/INDIAN/KAIRALITV.png" group-title="AS | MALAYALAM",MAL - KAIRALI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34743
+#EXTINF:-1 tvg-id="kaumudytv.in" tvg-name="MAL - KAUMUDY" tvg-logo="http://212.8.253.112/logo/INDIAN/KAUMUDY.png" group-title="AS | MALAYALAM",MAL - KAUMUDY
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34742
+#EXTINF:-1 tvg-id="mazhavilmanoramahd.in" tvg-name="MAL - MAZAVIL MANORAMA HD" tvg-logo="http://212.8.253.112/logo/INDIAN/MAZAVILMANORAMAHD.png" group-title="AS | MALAYALAM",MAL - MAZAVIL MANORAMA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34740
+#EXTINF:-1 tvg-id="news18kerala.in" tvg-name="MAL - NEWS 18 KERALA" tvg-logo="http://212.8.253.112/logo/INDIAN/NEWS18MP%26CHATTISGARH.png" group-title="AS | MALAYALAM",MAL - NEWS 18 KERALA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34739
+#EXTINF:-1 tvg-id="rajmusix.in" tvg-name="MAL - RAJ MUSIC" tvg-logo="http://212.8.253.112/logo/INDIAN/RajMusixKannada.png" group-title="AS | MALAYALAM",MAL - RAJ MUSIC
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34738
+#EXTINF:-1 tvg-id="safaritv.in" tvg-name="MAL - SAFARI TV" tvg-logo="http://212.8.253.112/logo/INDIAN/SAFARITV.png" group-title="AS | MALAYALAM",MAL - SAFARI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34736
+#EXTINF:-1 tvg-id="shalomtv.in" tvg-name="MAL - SHOLAM TV" tvg-logo="http://212.8.253.112/logo/INDIAN/SHOLAMTV.png" group-title="AS | MALAYALAM",MAL - SHOLAM TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34735
+#EXTINF:-1 tvg-id="suryamovies.in" tvg-name="MAL - SURYA MOVIES" tvg-logo="http://212.8.253.112/logo/INDIAN/SURYAMOVIES.png" group-title="AS | MALAYALAM",MAL - SURYA MOVIES
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34734
+#EXTINF:-1 tvg-id="EPG-TV" tvg-name="MAL - SURYA TV HD" tvg-logo="http://212.8.253.112/logo/INDIAN/SURYATVHD.png" group-title="AS | MALAYALAM",MAL - SURYA TV HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34733
+#EXTINF:-1 tvg-id="wetv.in" tvg-name="MAL - WE TV" tvg-logo="http://212.8.253.112/logo/INDIAN/WETV.png" group-title="AS | MALAYALAM",MAL - WE TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34732
+#EXTINF:-1 tvg-id="asianetnews.in" tvg-name="MAL - ASIANET NEWS HD" tvg-logo="" group-title="AS | MALAYALAM",MAL - ASIANET NEWS HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63884
+#EXTINF:-1 tvg-id="suryamusic.in" tvg-name="MAL - SURYA MUSIC" tvg-logo="" group-title="AS | MALAYALAM",MAL - SURYA MUSIC
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63880
+#EXTINF:-1 tvg-id="" tvg-name="MAL - MANORAMA NEWS" tvg-logo="" group-title="AS | MALAYALAM",MAL - MANORAMA NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63883
+#EXTINF:-1 tvg-id="zeekeralamhd.in" tvg-name="MAL - ZEE KERALAM HD" tvg-logo="" group-title="AS | MALAYALAM",MAL - ZEE KERALAM HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63882
+#EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="TELUGU - BHAKTI TV" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/BHAKTITV.png" group-title="AS | TELEGU",TELUGU - BHAKTI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34446
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU - DISCOVERY WORLD HD" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/DISCOVERYWORLDHD.png" group-title="AS | TELEGU",TELUGU - DISCOVERY WORLD HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34445
+#EXTINF:-1 tvg-id="etvcinema.in" tvg-name="TELUGU - ETV CINEMA" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/ETVCINEMA.png" group-title="AS | TELEGU",TELUGU - ETV CINEMA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34444
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="TELUGU - ETV HD" tvg-logo="http://212.8.253.112/logo/INDIAN/ETVHD.png" group-title="AS | TELEGU",TELUGU - ETV HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34443
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="TELUGU - GEMINI HD" tvg-logo="http://212.8.253.112/logo/INDIAN/GEMINIHD.png" group-title="AS | TELEGU",TELUGU - GEMINI HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34442
+#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="TELUGU - GEMINI MOVIES HD" tvg-logo="http://212.8.253.112/logo/INDIAN/GEMINIMOVIESHD.png" group-title="AS | TELEGU",TELUGU - GEMINI MOVIES HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34441
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU - HISTORY 18 TELUGU HD" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/HISTORY18TELUGUHD.png" group-title="AS | TELEGU",TELUGU - HISTORY 18 TELUGU HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34440
+#EXTINF:-1 tvg-id="jayamax.in" tvg-name="TELUGU - JAYA MAX" tvg-logo="http://212.8.253.112/logo/INDIAN/JAYAMAX.png" group-title="AS | TELEGU",TELUGU - JAYA MAX
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34439
+#EXTINF:-1 tvg-id="maamovieshd.in" tvg-name="TELUGU - MAA MOVIES HD" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/MAAMOVIESHD.png" group-title="AS | TELEGU",TELUGU - MAA MOVIES HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34438
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="TELUGU - NATIONAL GEOGRAPHIC HD" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/NATIONALGEOGRAPHICHD.png" group-title="AS | TELEGU",TELUGU - NATIONAL GEOGRAPHIC HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34437
+#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="TELUGU - RAJ MUSIC TELUGU" tvg-logo="http://212.8.253.112/logo/INDIAN/RajNewsTelugu.png" group-title="AS | TELEGU",TELUGU - RAJ MUSIC TELUGU
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34436
+#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-name="TELUGU - RAJ NEWS TELUGU" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/RajNewsTelugu.png" group-title="AS | TELEGU",TELUGU - RAJ NEWS TELUGU
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34435
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="TELUGU - SONY BBC EARTH HD" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/SONYBBCEARTHHD.png" group-title="AS | TELEGU",TELUGU - SONY BBC EARTH HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34434
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU - STAR MAA GOLD HD" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/STARMAAGOLDHD.png" group-title="AS | TELEGU",TELUGU - STAR MAA GOLD HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34433
+#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="TELUGU - STAR MAA HD" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/STARMAAHD%20.png" group-title="AS | TELEGU",TELUGU - STAR MAA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34432
+#EXTINF:-1 tvg-id="tataskytelugucinemahd.in" tvg-name="TELUGU - TATA SKY TELUGU CINEMA HD" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/TATASKYTELUGCINEMAHD.png" group-title="AS | TELEGU",TELUGU - TATA SKY TELUGU CINEMA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34431
+#EXTINF:-1 tvg-id="tv9.in" tvg-name="TELUGU - TV9 NEWS" tvg-logo="http://212.8.253.112/logo/INDIAN/TV9NEWS.png" group-title="AS | TELEGU",TELUGU - TV9 NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34430
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU - V6 NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/V6NEWS.png" group-title="AS | TELEGU",TELUGU - V6 NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34429
+#EXTINF:-1 tvg-id="vanithatv.in" tvg-name="TELUGU - VANITHA TV" tvg-logo="http://212.8.253.112/logo/INDIAN/VANITHATV.png" group-title="AS | TELEGU",TELUGU - VANITHA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34428
+#EXTINF:-1 tvg-id="zeecinemaluhd.in" tvg-name="TELUGU - ZEE CINEMALU HD" tvg-logo="http://212.8.253.112/logo/INDIAN/ZEECINEMALUHD.png" group-title="AS | TELEGU",TELUGU - ZEE CINEMALU HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34427
+#EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="TELUGU - GEMINI COMEDY HD" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/ZEETELUGUHD.png" group-title="AS | TELEGU",TELUGU - GEMINI COMEDY HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34425
 #EXTINF:-1 tvg-id="abpmajha.in" tvg-name="PUNJABI - ABP SANJHA" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/ABPSANJHA.png" group-title="AS | PUNJABI",PUNJABI - ABP SANJHA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34529
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34529
 #EXTINF:-1 tvg-id="chardiklatimetv.in" tvg-name="PUNJABI - CHARDIKLA TIMES TV" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/CHARDIKLATIMESTV.png" group-title="AS | PUNJABI",PUNJABI - CHARDIKLA TIMES TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34525
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34525
 #EXTINF:-1 tvg-id="ddpunjabi.in" tvg-name="PUNJABI - DD PUNJABI" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/DDPUNJABI.png" group-title="AS | PUNJABI",PUNJABI - DD PUNJABI
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34524
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34524
 #EXTINF:-1 tvg-id="indianewspunjab.in" tvg-name="PUNJABI - INDIA NEWS PUNJAB" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/INDIANEWSPUNJAB.png" group-title="AS | PUNJABI",PUNJABI - INDIA NEWS PUNJAB
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34518
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34518
 #EXTINF:-1 tvg-id="" tvg-name="PUNJABI - JUS 24x7" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/JUS.png" group-title="AS | PUNJABI",PUNJABI - JUS 24x7
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34517
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34517
 #EXTINF:-1 tvg-id="manoranjanmovies.in" tvg-name="PUNJABI - MANORANJAN MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/MANORANJAN.png" group-title="AS | PUNJABI",PUNJABI - MANORANJAN MOVIES
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34514
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34514
 #EXTINF:-1 tvg-id="" tvg-name="PUNJABI - MANORANJAN TV" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/MANORANJAN.png" group-title="AS | PUNJABI",PUNJABI - MANORANJAN TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34513
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34513
 #EXTINF:-1 tvg-id="" tvg-name="PUNJABI - MH1 MUSIC" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/MH1.png" group-title="AS | PUNJABI",PUNJABI - MH1 MUSIC
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34512
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34512
 #EXTINF:-1 tvg-id="mhonenews.in" tvg-name="PUNJABI - MH1 NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/MH1.png" group-title="AS | PUNJABI",PUNJABI - MH1 NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34511
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34511
 #EXTINF:-1 tvg-id="mhoneshraddha.in" tvg-name="PUNJABI - MH1 SHRADDHA" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/MH1.png" group-title="AS | PUNJABI",PUNJABI - MH1 SHRADDHA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34510
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34510
 #EXTINF:-1 tvg-id="news18punjabharyanahimachal.in" tvg-name="PUNJABI - NEWS 18 PUNJAB HARYANA" tvg-logo="http://212.8.253.112/logo/INDIAN/NEWS18PUNJABHARYANA.png" group-title="AS | PUNJABI",PUNJABI - NEWS 18 PUNJAB HARYANA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34509
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34509
 #EXTINF:-1 tvg-id="pitaara.in" tvg-name="PUNJABI - PITAARA TV" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/PITAARATV.png" group-title="AS | PUNJABI",PUNJABI - PITAARA TV
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34507
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34507
 #EXTINF:-1 tvg-id="" tvg-name="PUNJABI - PRIME ASIA FHD" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/PRIMEASIA.png" group-title="AS | PUNJABI",PUNJABI - PRIME ASIA FHD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34506
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34506
 #EXTINF:-1 tvg-id="" tvg-name="PUNJABI - PRIME ASIA HD" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/PRIMEASIA.png" group-title="AS | PUNJABI",PUNJABI - PRIME ASIA HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34505
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34505
 #EXTINF:-1 tvg-id="ptcchakde.in" tvg-name="PUNJABI - PTC CHAKDE" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/PTCCHAKDE.png" group-title="AS | PUNJABI",PUNJABI - PTC CHAKDE
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34504
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34504
 #EXTINF:-1 tvg-id="ptcnews.in" tvg-name="PUNJABI - PTC NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/PTCNEWS.png" group-title="AS | PUNJABI",PUNJABI - PTC NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34503
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34503
 #EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="PUNJABI - PTC PUNJABI" tvg-logo="http://212.8.253.112/logo/ASIA/PUMJABI/PTCPUNJABI.png" group-title="AS | PUNJABI",PUNJABI - PTC PUNJABI
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34502
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34502
 #EXTINF:-1 tvg-id="" tvg-name="PUNJABI - SANJHA TV HD" tvg-logo="http://212.8.253.112/logo/INDIAN/SANJHATVHD.png" group-title="AS | PUNJABI",PUNJABI - SANJHA TV HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34500
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34500
 #EXTINF:-1 tvg-id="" tvg-name="PUNJABI - SSTV HD" tvg-logo="http://212.8.253.112/logo/INDIAN/SSTVHD.png" group-title="AS | PUNJABI",PUNJABI - SSTV HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34499
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34499
 #EXTINF:-1 tvg-id="zpunjabhrhp.in" tvg-name="PUNJABI - ZEE PUNJAB HARYANA HD" tvg-logo="http://212.8.253.112/logo/INDIAN/ZEEPUNJABHARYANAHD.png" group-title="AS | PUNJABI",PUNJABI - ZEE PUNJAB HARYANA HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34497
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34497
 #EXTINF:-1 tvg-id="" tvg-name="PUNJABI - JUS ONE" tvg-logo="" group-title="AS | PUNJABI",PUNJABI - JUS ONE
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/115304
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/115304
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="BENGALI - COLORS BANGLA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BENGALI/COLORS.png" group-title="AS | BENGALI",BENGALI - COLORS BANGLA HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34730
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34730
 #EXTINF:-1 tvg-id="nationalgeographicchannel.in" tvg-name="BENGALI - NAT GEO HD" tvg-logo="http://212.8.253.112/logo/ASIA/BENGALI/NATGEOHD.png" group-title="AS | BENGALI",BENGALI - NAT GEO HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34729
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34729
 #EXTINF:-1 tvg-id="news18bangla.in" tvg-name="BENGALI - NEWS 18 BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/BENGALI/NEWS18TBANGLA.png" group-title="AS | BENGALI",BENGALI - NEWS 18 BANGLA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34728
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34728
 #EXTINF:-1 tvg-id="" tvg-name="BENGALI - SANGEET BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/BENGALI/SangeetBangla.png" group-title="AS | BENGALI",BENGALI - SANGEET BANGLA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34727
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34727
 #EXTINF:-1 tvg-id="starjalsha.in" tvg-name="BENGALI - STAR JALSHA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BENGALI/STARJALSHA.png" group-title="AS | BENGALI",BENGALI - STAR JALSHA HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34726
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34726
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BENGALI - STAR JALSHA MOVIES HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARJALSHAMOVIES.png" group-title="AS | BENGALI",BENGALI - STAR JALSHA MOVIES HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34725
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34725
 #EXTINF:-1 tvg-id="tataskytelugucinemahd.in" tvg-name="BENGALI - TATA SKY BANGLA CINEMA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BENGALI/TATASKYBANGLACINEMAHD.png" group-title="AS | BENGALI",BENGALI - TATA SKY BANGLA CINEMA HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34723
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34723
 #EXTINF:-1 tvg-id="dsport.in" tvg-name="SPORTS - D SPORTS HD" tvg-logo="http://212.8.253.112/logo/INDIAN/DSPORTSHD.png" group-title="AS | SPORTS",SPORTS - D SPORTS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34496
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34496
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="SPORTS - SONY SIX HD" tvg-logo="http://212.8.253.112/logo/INDIAN/SonySixHD.png" group-title="AS | SPORTS",SPORTS - SONY SIX HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34494
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34494
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="SPORTS - STAR SPORTS 1 ENGLISH HD" tvg-logo="http://212.8.253.112/logo/INDIAN/StarSports1HD.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS 1 ENGLISH HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34493
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34493
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="SPORTS - STAR SPORTS 1 HINDI HD" tvg-logo="http://212.8.253.112/logo/INDIAN/StarSports1HD.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS 1 HINDI HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34492
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34492
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="SPORTS - STAR SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/StarSports2HD.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS 2 HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34491
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34491
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="SPORTS - STAR SPORTS 3" tvg-logo="http://212.8.253.112/logo/INDIAN/STARSPORTSTAMIL.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS 3
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34490
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34490
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="SPORTS - STAR SPORTS SELECT 1 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARSPORTSTAMIL.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS SELECT 1 HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34489
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34489
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="SPORTS - STAR SPORTS SELECT 2 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARSPORTSTAMIL.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS SELECT 2 HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34488
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34488
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="SPORTS - STAR SPORTS TAMIL" tvg-logo="http://212.8.253.112/logo/INDIAN/STARSPORTSTAMIL.png" group-title="AS | SPORTS",SPORTS - STAR SPORTS TAMIL
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34487
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34487
 #EXTINF:-1 tvg-id="Ten 1-IN" tvg-name="SPORTS - TEN 1 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/TEN1HD.png" group-title="AS | SPORTS",SPORTS - TEN 1 HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34486
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34486
 #EXTINF:-1 tvg-id="Ten 2-IN" tvg-name="SPORTS - TEN 2 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/TEN2HD.png" group-title="AS | SPORTS",SPORTS - TEN 2 HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34485
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34485
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - TEN 3 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/TEN1HD.png" group-title="AS | SPORTS",SPORTS - TEN 3 HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34484
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34484
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - WILLOW CRICKET" tvg-logo="http://212.8.253.112/logo/INDIAN/WILLOWCRICKETHD.png" group-title="AS | SPORTS",SPORTS - WILLOW CRICKET
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34483
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34483
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - WILLOW CRICKET | HD" tvg-logo="" group-title="AS | SPORTS",SPORTS - WILLOW CRICKET | HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/55140
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/55140
 #EXTINF:-1 tvg-id="" tvg-name="ENGLISH - AND FLIX HD" tvg-logo="http://212.8.253.112/logo/INDIAN/ANDFLIXHD.png" group-title="AS | ENGLISH",ENGLISH - AND FLIX HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34718
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34718
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="ENGLISH - AND PRIVE HD" tvg-logo="http://212.8.253.112/logo/INDIAN/ANDTVHD.png" group-title="AS | ENGLISH",ENGLISH - AND PRIVE HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34717
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34717
 #EXTINF:-1 tvg-id="animalplanet.in" tvg-name="ENGLISH - ANIMAL PLANET WORLD HD" tvg-logo="http://212.8.253.112/logo/INDIAN/AnimalPlanetWorldHD.png" group-title="AS | ENGLISH",ENGLISH - ANIMAL PLANET WORLD HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34716
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34716
 #EXTINF:-1 tvg-id="axnhd.in" tvg-name="ENGLISH - AXN HD" tvg-logo="http://212.8.253.112/logo/INDIAN/AXNHD.png" group-title="AS | ENGLISH",ENGLISH - AXN HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34715
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34715
 #EXTINF:-1 tvg-id="" tvg-name="ENGLISH - BLOOMBERG INDIA" tvg-logo="http://212.8.253.112/logo/INDIAN/BLOOMBERGINDIA.png" group-title="AS | ENGLISH",ENGLISH - BLOOMBERG INDIA
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34714
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34714
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="ENGLISH - CARTOON NETWORK" tvg-logo="http://212.8.253.112/logo/INDIAN/CARTOONNETWORK.png" group-title="AS | ENGLISH",ENGLISH - CARTOON NETWORK
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34713
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34713
 #EXTINF:-1 tvg-id="cnbctv18primehd.in" tvg-name="ENGLISH - CNBC TV18 PRIME NEWS HD" tvg-logo="http://212.8.253.112/logo/INDIAN/CNBCTV18PRIMENEWS.png" group-title="AS | ENGLISH",ENGLISH - CNBC TV18 PRIME NEWS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34711
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34711
 #EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="ENGLISH - COLORS INFINITY HD" tvg-logo="http://212.8.253.112/logo/INDIAN/COLORSINFINITYHD.png" group-title="AS | ENGLISH",ENGLISH - COLORS INFINITY HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34710
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34710
 #EXTINF:-1 tvg-id="comedycentralhd.in" tvg-name="ENGLISH - COMEDY CENTRAL HD" tvg-logo="http://212.8.253.112/logo/INDIAN/COMEDYCENTRALHD.png" group-title="AS | ENGLISH",ENGLISH - COMEDY CENTRAL HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34709
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34709
 #EXTINF:-1 tvg-id="" tvg-name="ENGLISH - DISCOVERY WORLD HD" tvg-logo="http://212.8.253.112/logo/INDIAN/DISCOVERYWORLDHD.png" group-title="AS | ENGLISH",ENGLISH - DISCOVERY WORLD HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34708
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34708
 #EXTINF:-1 tvg-id="" tvg-name="ENGLISH - DISNEY INTERNATIONAL HD" tvg-logo="http://212.8.253.112/logo/INDIAN/DISNEYINTERNATIONALHD.png" group-title="AS | ENGLISH",ENGLISH - DISNEY INTERNATIONAL HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34706
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34706
 #EXTINF:-1 tvg-id="" tvg-name="ENGLISH - DISNEY XD" tvg-logo="http://212.8.253.112/logo/INDIAN/DISNEYXD.png" group-title="AS | ENGLISH",ENGLISH - DISNEY XD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34705
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34705
 #EXTINF:-1 tvg-id="etnow.in" tvg-name="ENGLISH - ET NOW HD" tvg-logo="http://212.8.253.112/logo/INDIAN/ETNOWHD.png" group-title="AS | ENGLISH",ENGLISH - ET NOW HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34704
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34704
 #EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="ENGLISH - FOX LIFE HD" tvg-logo="http://212.8.253.112/logo/INDIAN/FOXLIFEHD.png" group-title="AS | ENGLISH",ENGLISH - FOX LIFE HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34703
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34703
 #EXTINF:-1 tvg-id="hbo.in" tvg-name="ENGLISH - HBO INDIA HD" tvg-logo="http://212.8.253.112/logo/INDIAN/HBOINDIAHD.png" group-title="AS | ENGLISH",ENGLISH - HBO INDIA HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34702
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34702
 #EXTINF:-1 tvg-id="historytv18.in" tvg-name="ENGLISH - HISTORY TV18 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/HISTORYTV18HD.png" group-title="AS | ENGLISH",ENGLISH - HISTORY TV18 HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34701
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34701
 #EXTINF:-1 tvg-id="mnplushd.in" tvg-name="ENGLISH - MN PLUS HD" tvg-logo="http://212.8.253.112/logo/INDIAN/MNPLUSHD.png" group-title="AS | ENGLISH",ENGLISH - MN PLUS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34699
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34699
 #EXTINF:-1 tvg-id="mnx.in" tvg-name="ENGLISH - MNX HD" tvg-logo="http://212.8.253.112/logo/INDIAN/MNXHD.png" group-title="AS | ENGLISH",ENGLISH - MNX HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34698
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34698
 #EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="ENGLISH - MOVIES NOW HD" tvg-logo="http://212.8.253.112/logo/INDIAN/MOVIESNOWHD.png" group-title="AS | ENGLISH",ENGLISH - MOVIES NOW HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34697
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34697
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="ENGLISH - NAT GEO WILD HD" tvg-logo="http://212.8.253.112/logo/INDIAN/NATGEOWILDHD.png" group-title="AS | ENGLISH",ENGLISH - NAT GEO WILD HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34694
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34694
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="ENGLISH - NATIONAL GEOGRAPHIC HD" tvg-logo="http://212.8.253.112/logo/INDIAN/NATIONALGEOGRAPHICHD.png" group-title="AS | ENGLISH",ENGLISH - NATIONAL GEOGRAPHIC HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34693
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34693
 #EXTINF:-1 tvg-id="newsx.in" tvg-name="ENGLISH - NEWS X" tvg-logo="http://212.8.253.112/logo/INDIAN/NEWSX.png" group-title="AS | ENGLISH",ENGLISH - NEWS X
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34692
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34692
 #EXTINF:-1 tvg-id="" tvg-name="ENGLISH - ROMEDY NOW HD" tvg-logo="http://212.8.253.112/logo/INDIAN/ETNOWHD.png" group-title="AS | ENGLISH",ENGLISH - ROMEDY NOW HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34691
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34691
 #EXTINF:-1 tvg-id="sonybbcearth.in" tvg-name="ENGLISH - SONY BBC EARTH ENGLISH HD" tvg-logo="http://212.8.253.112/logo/INDIAN/SONYBBCEARTHENGLISHHD.png" group-title="AS | ENGLISH",ENGLISH - SONY BBC EARTH ENGLISH HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34690
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34690
 #EXTINF:-1 tvg-id="starmovies.in" tvg-name="ENGLISH - STAR MOVIES HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARMOVIESSELECT.png" group-title="AS | ENGLISH",ENGLISH - STAR MOVIES HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34688
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34688
 #EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="ENGLISH - STAR MOVIES SELECT HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARMOVIESSELECT.png" group-title="AS | ENGLISH",ENGLISH - STAR MOVIES SELECT HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34687
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34687
 #EXTINF:-1 tvg-id="starworldhd.in" tvg-name="ENGLISH - STAR WORLD HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARWORLDHD.png" group-title="AS | ENGLISH",ENGLISH - STAR WORLD HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34686
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34686
 #EXTINF:-1 tvg-id="starworldhd.in" tvg-name="ENGLISH - STAR WORLD PREMIER HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARWORLDPREMIERHD.png" group-title="AS | ENGLISH",ENGLISH - STAR WORLD PREMIER HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34685
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34685
 #EXTINF:-1 tvg-id="theqindia.in" tvg-name="ENGLISH - THE QYOU" tvg-logo="http://212.8.253.112/logo/INDIAN/THEQYOU.png" group-title="AS | ENGLISH",ENGLISH - THE QYOU
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34682
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34682
 #EXTINF:-1 tvg-id="timesnowhd.in" tvg-name="ENGLISH - TIMES NOW NEWS HD" tvg-logo="http://212.8.253.112/logo/INDIAN/TIMESNOWNEWSHD.png" group-title="AS | ENGLISH",ENGLISH - TIMES NOW NEWS HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34681
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34681
 #EXTINF:-1 tvg-id="tlchdworld.in" tvg-name="ENGLISH - TLC WORLD HD" tvg-logo="http://212.8.253.112/logo/INDIAN/TLCWORLDHD.png" group-title="AS | ENGLISH",ENGLISH - TLC WORLD HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34680
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34680
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="ENGLISH - TRAVEL XP HD" tvg-logo="http://212.8.253.112/logo/INDIAN/TRAVELXPHD.png" group-title="AS | ENGLISH",ENGLISH - TRAVEL XP HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34679
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34679
 #EXTINF:-1 tvg-id="vh1hd.in" tvg-name="ENGLISH - VH1 HD" tvg-logo="http://212.8.253.112/logo/INDIAN/VH1HD.png" group-title="AS | ENGLISH",ENGLISH - VH1 HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34678
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34678
 #EXTINF:-1 tvg-id="" tvg-name="ENGLISH - WARNER BROS" tvg-logo="http://212.8.253.112/logo/INDIAN/WARNERBROS.png" group-title="AS | ENGLISH",ENGLISH - WARNER BROS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34677
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34677
 #EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="ENGLISH - ZEE CAFE HD" tvg-logo="http://212.8.253.112/logo/INDIAN/ZEECAFEHD.png" group-title="AS | ENGLISH",ENGLISH - ZEE CAFE HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34676
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34676
 #EXTINF:-1 tvg-id="" tvg-name="MARATHI - COLORS MARATHI HD" tvg-logo="http://212.8.253.112/logo/ASIA/MARATHI/COLORSMARATHIHD.png" group-title="AS | MARATHI",MARATHI - COLORS MARATHI HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34536
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34536
 #EXTINF:-1 tvg-id="sangeetmarathi.in" tvg-name="MARATHI - SANGEET MARATHI" tvg-logo="http://212.8.253.112/logo/ASIA/MARATHI/SANGEETMARATHI.png" group-title="AS | MARATHI",MARATHI - SANGEET MARATHI
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34535
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34535
 #EXTINF:-1 tvg-id="" tvg-name="MARATHI - SONY MARATHI" tvg-logo="http://212.8.253.112/logo/ASIA/MARATHI/SONYMARATHI.png" group-title="AS | MARATHI",MARATHI - SONY MARATHI
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34534
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34534
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="MARATHI - STAR PARVAH HD" tvg-logo="http://212.8.253.112/logo/ASIA/MARATHI/STARPARAVAHHD.png" group-title="AS | MARATHI",MARATHI - STAR PARVAH HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34533
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34533
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="MARATHI - ZEE MARATHI HD" tvg-logo="http://212.8.253.112/logo/INDIAN/ZeeMarathiHD.png" group-title="AS | MARATHI",MARATHI - ZEE MARATHI HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34532
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34532
 #EXTINF:-1 tvg-id="zeetelugu.in" tvg-name="MARATHI - ZEE TALKIES HD" tvg-logo="http://212.8.253.112/logo/ASIA/MARATHI/ZEETALKIES.png" group-title="AS | MARATHI",MARATHI - ZEE TALKIES HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34530
-
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34530
+#EXTINF:-1 tvg-id="dangal.in" tvg-name="BHOJPURI - DANGAL" tvg-logo="http://212.8.253.112/logo/ASIA/BHOJPURI/DANGAL.png" group-title="AS | BHOJPURI",BHOJPURI - DANGAL
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34721
+#EXTINF:-1 tvg-id="hungama.in" tvg-name="BHOJPURI - HUNGAMA DHAMAAL HD" tvg-logo="http://212.8.253.112/logo/ASIA/BHOJPURI/HUNGAMADAMAALHD.png" group-title="AS | BHOJPURI",BHOJPURI - HUNGAMA DHAMAAL HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34719
+#EXTINF:-1 tvg-id="sangeetmarathi.in" tvg-name="BHOJPURI - SANGEET BHOJPURI" tvg-logo="http://212.8.253.112/logo/ASIA/BHOJPURI/SANGEETBHOJPURI.png" group-title="AS | BHOJPURI",BHOJPURI - SANGEET BHOJPURI
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34720
+#EXTINF:-1 tvg-id="colorsgujarati.in" tvg-name="GUJARATI - COLORS GUJARATI" tvg-logo="http://212.8.253.112/logo/ASIA/GUJARATI/COLORSGUJARATI.png" group-title="AS | GUJARATI",GUJARATI - COLORS GUJARATI
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34674
+#EXTINF:-1 tvg-id="gstv.in" tvg-name="GUJARATI - GSTV" tvg-logo="http://212.8.253.112/logo/ASIA/GUJARATI/GSTV.png" group-title="AS | GUJARATI",GUJARATI - GSTV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34672
 #EXTINF:-1 tvg-id="" tvg-name="GUJARATI - INDIA NEWS GUJARAT" tvg-logo="http://212.8.253.112/logo/INDIAN/INDIANEWSGUJARAT.png" group-title="AS | GUJARATI",GUJARATI - INDIA NEWS GUJARAT
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34671
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34671
 #EXTINF:-1 tvg-id="" tvg-name="GUJARATI - LAKSHYA TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/GUJARATI/LAKSHYATV.png" group-title="AS | GUJARATI",GUJARATI - LAKSHYA TV HD
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34670
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34670
 #EXTINF:-1 tvg-id="" tvg-name="GUJARATI - MANTAVYA NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/GUJARATI/MANTAVYANEWS.png" group-title="AS | GUJARATI",GUJARATI - MANTAVYA NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34669
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34669
 #EXTINF:-1 tvg-id="sandeshnews.in" tvg-name="GUJARATI - SANDESH NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/GUJARATI/SANDESHNEWS.png" group-title="AS | GUJARATI",GUJARATI - SANDESH NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34667
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34667
 #EXTINF:-1 tvg-id="vtvnews.in" tvg-name="GUJARATI - VTV NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/GUJARATI/VTVNEWS.png" group-title="AS | GUJARATI",GUJARATI - VTV NEWS
-http://tektv.co:80/ZhenQng546/16768DC14A3D3F5/34665
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34665
+#EXTINF:-1 tvg-id="colorskannadahd.in" tvg-name="KANNADA - COLORS KANNADA HD" tvg-logo="http://212.8.253.112/logo/ASIA/KANNADA/COLORS.png" group-title="AS | KANNADA",KANNADA - COLORS KANNADA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34551
+#EXTINF:-1 tvg-id="colorskannadacinema.in" tvg-name="KANNADA - COLORS KANNADA MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/KANNADA/COLORS.png" group-title="AS | KANNADA",KANNADA - COLORS KANNADA MOVIES
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34550
+#EXTINF:-1 tvg-id="" tvg-name="KANNADA - COLORS SUPER" tvg-logo="http://212.8.253.112/logo/ASIA/KANNADA/COLORS.png" group-title="AS | KANNADA",KANNADA - COLORS SUPER
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34549
+#EXTINF:-1 tvg-id="hungama.in" tvg-name="KANNADA - HUNGAMA SAKKAT HD" tvg-logo="http://212.8.253.112/logo/ASIA/KANNADA/HUNGAMASAKKATHD.png" group-title="AS | KANNADA",KANNADA - HUNGAMA SAKKAT HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34548
+#EXTINF:-1 tvg-id="kasthuri.in" tvg-name="KANNADA - KASTURI TV" tvg-logo="http://212.8.253.112/logo/ASIA/KANNADA/KASTURITV.png" group-title="AS | KANNADA",KANNADA - KASTURI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34547
+#EXTINF:-1 tvg-id="news18urdu.in" tvg-name="KANNADA - NEWS 18" tvg-logo="http://212.8.253.112/logo/INDIAN/NEWS18GUJARAT.png" group-title="AS | KANNADA",KANNADA - NEWS 18
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34546
+#EXTINF:-1 tvg-id="rajmusixkannada.in" tvg-name="KANNADA - RAJ MUSIC" tvg-logo="http://212.8.253.112/logo/ASIA/KANNADA/RAJMUSIC.png" group-title="AS | KANNADA",KANNADA - RAJ MUSIC
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34545
+#EXTINF:-1 tvg-id="rajmusixkannada.in" tvg-name="KANNADA - RAJ NEWS KANNADA" tvg-logo="http://212.8.253.112/logo/ASIA/KANNADA/RajNewsKannada.png" group-title="AS | KANNADA",KANNADA - RAJ NEWS KANNADA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34544
+#EXTINF:-1 tvg-id="" tvg-name="KANNADA - STAR SUVARNA HD" tvg-logo="http://212.8.253.112/logo/INDIAN/STARSUVARNAHD.png" group-title="AS | KANNADA",KANNADA - STAR SUVARNA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34543
+#EXTINF:-1 tvg-id="" tvg-name="KANNADA - STAR SUVARNA PLUS" tvg-logo="http://212.8.253.112/logo/ASIA/KANNADA/STARSUVARNAPLUS.png" group-title="AS | KANNADA",KANNADA - STAR SUVARNA PLUS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34542
+#EXTINF:-1 tvg-id="tv9-kannada.in" tvg-name="KANNADA - TV9 KANNADA" tvg-logo="http://212.8.253.112/logo/ASIA/GUJARATI/TV9KANNADA.png" group-title="AS | KANNADA",KANNADA - TV9 KANNADA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34540
+#EXTINF:-1 tvg-id="udayahd.in" tvg-name="KANNADA - UDAYA HD" tvg-logo="http://212.8.253.112/logo/ASIA/KANNADA/UDAYAHD.png" group-title="AS | KANNADA",KANNADA - UDAYA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34539
+#EXTINF:-1 tvg-id="" tvg-name="##### BANGLA - UK #####" tvg-logo="" group-title="AS | BANGLA",##### BANGLA - UK #####
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78930
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - UK - CHANNEL S" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/CHANNELSUKHD.png" group-title="AS | BANGLA",BANGLA - UK - CHANNEL S
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78931
+#EXTINF:-1 tvg-id="tv1.in" tvg-name="BANGLA - UK - TV UK" tvg-logo="" group-title="AS | BANGLA",BANGLA - UK - TV UK
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78932
+#EXTINF:-1 tvg-id="NTV-IN" tvg-name="BANGLA -UK| NTV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/NTV.png" group-title="AS | BANGLA",BANGLA -UK| NTV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72257
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA -UK| ATN BANGLA UK" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/ATNBANGLA.png" group-title="AS | BANGLA",BANGLA -UK| ATN BANGLA UK
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72255
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA -UK| IQRA BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/IQRABANGLA.png" group-title="AS | BANGLA",BANGLA -UK| IQRA BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72256
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="BANGLA - ZEE BANGLA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BENGALI/ZeeBangla.png" group-title="AS | BENGALI",BANGLA - ZEE BANGLA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/34731
+#EXTINF:-1 tvg-id="" tvg-name="##### BANGLA - GENERAL #####" tvg-logo="" group-title="AS | BANGLA",##### BANGLA - GENERAL #####
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72254
+#EXTINF:-1 tvg-id="24ghante.in" tvg-name="BANGLA - 24 GHANTA TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/24GHANTATV.png" group-title="AS | BANGLA",BANGLA - 24 GHANTA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72323
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - TATA SKY BANGLA CINEMA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/TATASKYBANGLACINEMAHD.png" group-title="AS | BANGLA",BANGLA - TATA SKY BANGLA CINEMA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76206
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - STAR JALSHA MOVIES HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/STARJALSHAHD.png" group-title="AS | BANGLA",BANGLA - STAR JALSHA MOVIES HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76205
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - SANGEET BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/SANGEET.png" group-title="AS | BANGLA",BANGLA - SANGEET BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76203
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - ATN" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/ATNBANGLA.png" group-title="AS | BANGLA",BANGLA - ATN
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76197
+#EXTINF:-1 tvg-id="rupashibangla.in" tvg-name="BANGLA - RUPASHI" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/RUPASHI.png" group-title="AS | BANGLA",BANGLA - RUPASHI
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76191
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - BANGALA ABP ANANDA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/BANGALAABPANANDA.png" group-title="AS | BANGLA",BANGLA - BANGALA ABP ANANDA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76189
+#EXTINF:-1 tvg-id="tv1.in" tvg-name="BANGLA - UK - TV ONE" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/TVONEUK.png" group-title="AS | BANGLA",BANGLA - UK - TV ONE
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78934
+#EXTINF:-1 tvg-id="" tvg-name="##### BANGLA - ASIA #####" tvg-logo="" group-title="AS | BANGLA",##### BANGLA - ASIA #####
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78935
+#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="BANGLA - COLORS BANGLA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/COLORS.png" group-title="AS | BANGLA",BANGLA - COLORS BANGLA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76179
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - ZEE 24 GHANTA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/Zee24Ghanta.png" group-title="AS | BANGLA",BANGLA - ZEE 24 GHANTA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78936
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BANGLA - JALSHA MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/STARJALSHAMOVIES.png" group-title="AS | BANGLA",BANGLA - JALSHA MOVIES
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78937
+#EXTINF:-1 tvg-id="Star Jalsha HD-IN" tvg-name="BANGLA - STAR JALSHA+" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/STARJALSHAMOVIES.png" group-title="AS | BANGLA",BANGLA - STAR JALSHA+
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78938
+#EXTINF:-1 tvg-id="aakashaath.in" tvg-name="BANGLA - AAKAASH BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/AAKAASHBANGLA.png" group-title="AS | BANGLA",BANGLA - AAKAASH BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78939
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - TITASH TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/MUKTITV.png" group-title="AS | BANGLA",BANGLA - TITASH TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78940
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - NAGORIK TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/NAGORIKTV.png" group-title="AS | BANGLA",BANGLA - NAGORIK TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78941
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - ASIAN TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/ASIANTV.png" group-title="AS | BANGLA",BANGLA - ASIAN TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72261
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - ATN BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/ATNBANGLA.png" group-title="AS | BANGLA",BANGLA - ATN BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72262
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - ATN MUSIC" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/ATNMUSIC.png" group-title="AS | BANGLA",BANGLA - ATN MUSIC
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72264
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - ATN NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/ATNNEWS.png" group-title="AS | BANGLA",BANGLA - ATN NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76198
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - BANGLA ETV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ETVHD.png" group-title="AS | BANGLA",BANGLA - BANGLA ETV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78942
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - BANGLA VISION USA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/banglavision.png" group-title="AS | BANGLA",BANGLA - BANGLA VISION USA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78943
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - BANGLA TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/BANGLATVHD.png" group-title="AS | BANGLA",BANGLA - BANGLA TV HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78944
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - BANGLA VISION" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/BANGLAVISION.png" group-title="AS | BANGLA",BANGLA - BANGLA VISION
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76195
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - BIJOY TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/bijoytvhd.png" group-title="AS | BANGLA",BANGLA - BIJOY TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78945
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - ATN ISLAMIC TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/ATNISLAMICTV.png" group-title="AS | BANGLA",BANGLA - ATN ISLAMIC TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72263
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - BOISHAKHI TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/BOISHAKHITV.png" group-title="AS | BANGLA",BANGLA - BOISHAKHI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76184
+#EXTINF:-1 tvg-id="btvi.in" tvg-name="BANGLA - BTV WORLD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/BTVWORLD.png" group-title="AS | BANGLA",BANGLA - BTV WORLD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76187
+#EXTINF:-1 tvg-id="btvi.in" tvg-name="BANGLA - BTV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/BTVWORLD.png" group-title="AS | BANGLA",BANGLA - BTV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78946
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - CHANNEL 24" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/CHANNEL24.png" group-title="AS | BANGLA",BANGLA - CHANNEL 24
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78947
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - CHANNEL 9" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/CHANNEL9.png" group-title="AS | BANGLA",BANGLA - CHANNEL 9
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78948
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - QTV BANGLA" tvg-logo="" group-title="AS | BANGLA",BANGLA - QTV BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78949
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - CHANNEL I" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/CHANNELI.png" group-title="AS | BANGLA",BANGLA - CHANNEL I
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76186
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - CHANNEL S" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/CHANNELI.png" group-title="AS | BANGLA",BANGLA - CHANNEL S
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76180
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="BANGLA - COLORS" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/COLORS.png" group-title="AS | BANGLA",BANGLA - COLORS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76194
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - DBC NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/DBCNEWS.png" group-title="AS | BANGLA",BANGLA - DBC NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76200
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - DD BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DDBANGLA.png" group-title="AS | BANGLA",BANGLA - DD BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76207
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - DESH TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/DESHEBIDESHETVHD.png" group-title="AS | BANGLA",BANGLA - DESH TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78950
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - DESHE BIDESHE TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/DESHEBIDESHETV.png" group-title="AS | BANGLA",BANGLA - DESHE BIDESHE TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78951
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - DESHI TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/DESHITV.png" group-title="AS | BANGLA",BANGLA - DESHI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78952
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - DHOOM MUSIC" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/DHOOMMUSIC.png" group-title="AS | BANGLA",BANGLA - DHOOM MUSIC
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78953
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="BANGLA - DISCOVERY BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/Discovery.png" group-title="AS | BANGLA",BANGLA - DISCOVERY BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78954
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - EKATTOR TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/EKATTORTV.png" group-title="AS | BANGLA",BANGLA - EKATTOR TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76183
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="BANGLA - ETV BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/ETVHD.png" group-title="AS | BANGLA",BANGLA - ETV BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78955
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - GHAZI TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/GHAZITV.png" group-title="AS | BANGLA",BANGLA - GHAZI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78956
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - GAAN" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/GAAN.png" group-title="AS | BANGLA",BANGLA - GAAN
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76193
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - INDEPENDENT TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/INDEPENDENTTV.png" group-title="AS | BANGLA",BANGLA - INDEPENDENT TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76185
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - iTV" tvg-logo="" group-title="AS | BANGLA",BANGLA - iTV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78957
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - MASRANGA TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/MASRANGATV.png" group-title="AS | BANGLA",BANGLA - MASRANGA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78959
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - MOHONA TV" tvg-logo="" group-title="AS | BANGLA",BANGLA - MOHONA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78961
+#EXTINF:-1 tvg-id="Movies OK HD-IN" tvg-name="BANGLA - MOVIE" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/MOVIE.png" group-title="AS | BANGLA",BANGLA - MOVIE
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76192
+#EXTINF:-1 tvg-id="NTV-IN" tvg-name="BANGLA - NTV USA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/NTVEUROPE.png" group-title="AS | BANGLA",BANGLA - NTV USA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78962
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - MY CINEMA TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/MYCINEMA.png" group-title="AS | BANGLA",BANGLA - MY CINEMA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78963
+#EXTINF:-1 tvg-id="newstimebangla.in" tvg-name="BANGLA - NEWS TIME" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/NewsTimeBangla.png" group-title="AS | BANGLA",BANGLA - NEWS TIME
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78964
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - NRB TV" tvg-logo="" group-title="AS | BANGLA",BANGLA - NRB TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78965
+#EXTINF:-1 tvg-id="NTV-IN" tvg-name="BANGLA - NTV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/NTV.png" group-title="AS | BANGLA",BANGLA - NTV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76181
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - PANVISION TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/PANVISION.png" group-title="AS | BANGLA",BANGLA - PANVISION TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78966
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - R PLUS" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/RPLUS.png" group-title="AS | BANGLA",BANGLA - R PLUS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78967
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - RTV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/RTV.png" group-title="AS | BANGLA",BANGLA - RTV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78968
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - SATV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/SATV.png" group-title="AS | BANGLA",BANGLA - SATV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78969
+#EXTINF:-1 tvg-id="ktvhd.in" tvg-name="BANGLA - KTV BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/KTVHD.png" group-title="AS | BANGLA",BANGLA - KTV BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78970
+#EXTINF:-1 tvg-id="sangeetmarathi.in" tvg-name="BANGLA - SANGEET" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/SANGEET.png" group-title="AS | BANGLA",BANGLA - SANGEET
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76190
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - SOMOY NEWS TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/SOMOYTV.png" group-title="AS | BANGLA",BANGLA - SOMOY NEWS TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78971
+#EXTINF:-1 tvg-id="sonyaath.in" tvg-name="BANGLA - SONY AATH" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/SonyAath.png" group-title="AS | BANGLA",BANGLA - SONY AATH
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78972
+#EXTINF:-1 tvg-id="Star Jalsha HD-IN" tvg-name="BANGLA - STAR JHALSA MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/STARJALSHAMOVIES.png" group-title="AS | BANGLA",BANGLA - STAR JHALSA MOVIES
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78973
+#EXTINF:-1 tvg-id="Star Jalsha HD-IN" tvg-name="BANGLA - STAR JHALSA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/STARJALSHAMOVIES.png" group-title="AS | BANGLA",BANGLA - STAR JHALSA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78974
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - BONGO MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/BONGOMOVIES.png" group-title="AS | BANGLA",BANGLA - BONGO MOVIES
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78975
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - TIME TELEVISION" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/NewsTimeBangla.png" group-title="AS | BANGLA",BANGLA - TIME TELEVISION
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78976
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - TV ASIA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/TVASIA.png" group-title="AS | BANGLA",BANGLA - TV ASIA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78977
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - ATN BANGLA USA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/ATNBANGLA.png" group-title="AS | BANGLA",BANGLA - ATN BANGLA USA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78978
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - DEEPTO TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/DEEPTOTVHD.png" group-title="AS | BANGLA",BANGLA - DEEPTO TV HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78979
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - DIGI BANGLA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/DIGIBANGLAHD.png" group-title="AS | BANGLA",BANGLA - DIGI BANGLA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78980
+#EXTINF:-1 tvg-id="news24.in" tvg-name="BANGLA - NEWS 24" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/NEWS24.png" group-title="AS | BANGLA",BANGLA - NEWS 24
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76199
+#EXTINF:-1 tvg-id="Zee Bangla-IN" tvg-name="BANGLA - ZEE BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/ZeeBangla.png" group-title="AS | BANGLA",BANGLA - ZEE BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78981
+#EXTINF:-1 tvg-id="sangeetbangla.in" tvg-name="BANGLA - SANGSAD BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/SANGSADBANGLA.png" group-title="AS | BANGLA",BANGLA - SANGSAD BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78982
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - NOKSHI TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/NOKSHITV.png" group-title="AS | BANGLA",BANGLA - NOKSHI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78983
+#EXTINF:-1 tvg-id="jantatv.in" tvg-name="BANGLA - JAMUNA TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/JAMUNATV.png" group-title="AS | BANGLA",BANGLA - JAMUNA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78984
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - RTV MUSIC" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/RTVMUSIC.png" group-title="AS | BANGLA",BANGLA - RTV MUSIC
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78985
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - EKUSHEY" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/EKUSHEY.png" group-title="AS | BANGLA",BANGLA - EKUSHEY
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78986
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - RTV USA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/RTV.png" group-title="AS | BANGLA",BANGLA - RTV USA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78987
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - MY TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/MYTV.png" group-title="AS | BANGLA",BANGLA - MY TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76182
+#EXTINF:-1 tvg-id="peaceofmind.in" tvg-name="BANGLA - PEACE TV BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIA/PEACETV.png" group-title="AS | BANGLA",BANGLA - PEACE TV BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78989
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="BANGLA - ZEE BANGLA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/ZEEBANGLA.png" group-title="AS | BANGLA",BANGLA - ZEE BANGLA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/72258
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - DURONTO TV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/DDUrdu.png" group-title="AS | BANGLA",BANGLA - DURONTO TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78990
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - POLLI TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/POLLITV.png" group-title="AS | BANGLA",BANGLA - POLLI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78992
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - JONMOBHUMI TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/JONMOBHUMITV.png" group-title="AS | BANGLA",BANGLA - JONMOBHUMI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78993
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - MADANI TV BANGLA" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/madanichannel.png" group-title="AS | BANGLA",BANGLA - MADANI TV BANGLA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78995
+#EXTINF:-1 tvg-id="rangtv.in" tvg-name="BANGLA - RANG TV" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/Rang.png" group-title="AS | BANGLA",BANGLA - RANG TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78996
+#EXTINF:-1 tvg-id="Star Jalsha HD-IN" tvg-name="BANGLA - STAR JALSHA HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/STARJALSHAHD.png" group-title="AS | BANGLA",BANGLA - STAR JALSHA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/76204
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - BANGLA TIME" tvg-logo="http://212.8.253.112/logo/ASIA/INDIAN/TIMESNOWNEWSHD.png" group-title="AS | BANGLA",BANGLA - BANGLA TIME
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78997
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - EKUSHEY TV USA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA-COBRA/EKUSHEY.png" group-title="AS | BANGLA",BANGLA - EKUSHEY TV USA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78998
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - VARENDRA TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/VARENDRA-TV.png" group-title="AS | BANGLA",BANGLA - VARENDRA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79001
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - NANDAN TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/NANDAN.png" group-title="AS | BANGLA",BANGLA - NANDAN TV HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79002
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - CHANNEL 9 USA" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/CHANNEL-9.png" group-title="AS | BANGLA",BANGLA - CHANNEL 9 USA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79003
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA - AZAN TV" tvg-logo="http://212.8.253.112/logo/ASIA/BANGLA/AZAN-TV.png" group-title="AS | BANGLA",BANGLA - AZAN TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/79004
+#EXTINF:-1 tvg-id="EPG-TV" tvg-name="TELUGU - ZEE TELUGU HD" tvg-logo="http://212.8.253.112/logo/ASIA/TELEGU/ZEETELUGUHD.png" group-title="AS | TELEGU",TELUGU - ZEE TELUGU HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/143979
+#EXTINF:-1 tvg-id="" tvg-name="MARATHI - ZEE 24 TAAS" tvg-logo="" group-title="AS | MARATHI",MARATHI - ZEE 24 TAAS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/144681
+#EXTINF:-1 tvg-id="" tvg-name="MARATHI - NEWS18 LOKMAT" tvg-logo="" group-title="AS | MARATHI",MARATHI - NEWS18 LOKMAT
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/144682
+#EXTINF:-1 tvg-id="ddsaptagiri.in" tvg-name="TELUGU - DD SAPTAGIRI" tvg-logo="" group-title="AS | TELEGU",TELUGU - DD SAPTAGIRI
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/150354
+#EXTINF:-1 tvg-id="geminimusic.in" tvg-name="TELUGU - GEMINI MUSIC" tvg-logo="" group-title="AS | TELEGU",TELUGU - GEMINI MUSIC
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/150355
+#EXTINF:-1 tvg-id="rajmusix.in" tvg-name="TELUGU - RAJ MUSIX" tvg-logo="" group-title="AS | TELEGU",TELUGU - RAJ MUSIX
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/150356
+#EXTINF:-1 tvg-id="geminilife.in" tvg-name="TELUGU - GEMINI LIFE" tvg-logo="" group-title="AS | TELEGU",TELUGU - GEMINI LIFE
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/150357
+#EXTINF:-1 tvg-id="sakshitv.in" tvg-name="TELGU - SAKSHI TV" tvg-logo="" group-title="AS | TELEGU",TELGU - SAKSHI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/150625
+#EXTINF:-1 tvg-id="mediaone.in" tvg-name="MAL - MEDIA ONE HD" tvg-logo="" group-title="AS | MALAYALAM",MAL - MEDIA ONE HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/150626
+#EXTINF:-1 tvg-id="janamtv.in" tvg-name="MAL - JANAM TV" tvg-logo="" group-title="AS | MALAYALAM",MAL - JANAM TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/150627
 
 
-------------------------------------------------IPTV 1 Year Test-----------------------------------------
+---------------------------------------------IPTV 1 Year Paid Pakistan-----------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="##### PK - EUROPE #####" tvg-logo="http://212.8.253.112/logo/MAGFLAGS/PAKISTAN.png" group-title="AS | PAKISTAN",##### PK - EUROPE #####
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63230
+#EXTINF:-1 tvg-id="GeoTV.pk" tvg-name="PK|EU - GEO TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK|EU - GEO TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63229
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="PK|EU - GEO NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK|EU - GEO NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63228
+#EXTINF:-1 tvg-id="GeoKahani.pk" tvg-name="PK|EU - GEO KAHANI" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK|EU - GEO KAHANI
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63227
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="PK|EU - HUM TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/HUMTV.png" group-title="AS | PAKISTAN",PK|EU - HUM TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63226
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - HUM MASALA" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MASALA.png" group-title="AS | PAKISTAN",PK|EU - HUM MASALA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63225
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - HUM NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/HUMTV.png" group-title="AS | PAKISTAN",PK|EU - HUM NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63224
+#EXTINF:-1 tvg-id="" tvg-name="PK|UK - SAMAA" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SAMAA.png" group-title="AS | PAKISTAN",PK|UK - SAMAA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63223
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - DUNYA NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DUNYANEWS.png" group-title="AS | PAKISTAN",PK|EU - DUNYA NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63222
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - NEW VISION TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/NEW-VISION.png" group-title="AS | PAKISTAN",PK|EU - NEW VISION TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63221
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - ARY FAMILY" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK|EU - ARY FAMILY
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63220
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - TAKBEER" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/TAKBEERTV.png" group-title="AS | PAKISTAN",PK|EU - TAKBEER
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63219
+#EXTINF:-1 tvg-id="PTVGlobal.pk" tvg-name="PK|EU - PTV GLOBAL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK|EU - PTV GLOBAL
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63218
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - NOOR TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/NOORTV.png" group-title="AS | PAKISTAN",PK|EU - NOOR TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63217
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - IQRA TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/IQRATV.png" group-title="AS | PAKISTAN",PK|EU - IQRA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63215
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - ISLAM CHANNEL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ISLAMCHANNEL2.png" group-title="AS | PAKISTAN",PK|EU - ISLAM CHANNEL
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63214
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - MTA MUSLIM" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MTA-MUSLIM.png" group-title="AS | PAKISTAN",PK|EU - MTA MUSLIM
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63213
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - MADANI CHANNEL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MADANICHANNEL.png" group-title="AS | PAKISTAN",PK|EU - MADANI CHANNEL
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63212
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - PEACE TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PEACE.png" group-title="AS | PAKISTAN",PK|EU - PEACE TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63211
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - PEACE TV URDU" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PEACE.png" group-title="AS | PAKISTAN",PK|EU - PEACE TV URDU
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63210
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - BRITISH MUSLIM" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MTA-MUSLIM.png" group-title="AS | PAKISTAN",PK|EU - BRITISH MUSLIM
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63209
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - ISLAM CHANNEL URDU" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MADANICHANNEL.png" group-title="AS | PAKISTAN",PK|EU - ISLAM CHANNEL URDU
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63208
+#EXTINF:-1 tvg-id="" tvg-name="PK|EU - CMG CINEMA" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK|EU - CMG CINEMA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63207
+#EXTINF:-1 tvg-id="" tvg-name="PK - CMG ACTION" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK - CMG ACTION
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63206
+#EXTINF:-1 tvg-id="92News.pk" tvg-name="PK|EU - 92 NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/92NEWS.png" group-title="AS | PAKISTAN",PK|EU - 92 NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63205
+#EXTINF:-1 tvg-id="" tvg-name="##### PK - ASIA #####" tvg-logo="" group-title="AS | PAKISTAN",##### PK - ASIA #####
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63204
+#EXTINF:-1 tvg-id="" tvg-name="PK - CHANNEL 24 HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MADANICHANNEL.png" group-title="AS | PAKISTAN",PK - CHANNEL 24 HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63203
+#EXTINF:-1 tvg-id="92News.pk" tvg-name="PK - 92 NEWS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/92NEWS.png" group-title="AS | PAKISTAN",PK - 92 NEWS HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63202
+#EXTINF:-1 tvg-id="" tvg-name="PK - K-21" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/K-21.png" group-title="AS | PAKISTAN",PK - K-21
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63201
+#EXTINF:-1 tvg-id="" tvg-name="PK - AAJ ENTERTAINMENT" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/AAJTAK.png" group-title="AS | PAKISTAN",PK - AAJ ENTERTAINMENT
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63200
+#EXTINF:-1 tvg-id="" tvg-name="PK - AAJ NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/AAJTAK.png" group-title="AS | PAKISTAN",PK - AAJ NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63199
+#EXTINF:-1 tvg-id="" tvg-name="PK - AAP NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/AAPNEWSHD.png" group-title="AS | PAKISTAN",PK - AAP NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63198
+#EXTINF:-1 tvg-id="" tvg-name="PK - ABB TAKK NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/AAJTAK.png" group-title="AS | PAKISTAN",PK - ABB TAKK NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63197
+#EXTINF:-1 tvg-id="" tvg-name="PK - APNA CHANNEL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/APNACHANNEL.png" group-title="AS | PAKISTAN",PK - APNA CHANNEL
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63196
+#EXTINF:-1 tvg-id="" tvg-name="PK - ARUJ TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARUJ.png" group-title="AS | PAKISTAN",PK - ARUJ TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63195
+#EXTINF:-1 tvg-id="AryDigital.pk" tvg-name="PK - ARY DIGITAL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY DIGITAL
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63194
+#EXTINF:-1 tvg-id="" tvg-name="PK - ARY MUSIC" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY MUSIC
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63193
+#EXTINF:-1 tvg-id="ARYNews.pk" tvg-name="PK - ARY NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63192
+#EXTINF:-1 tvg-id="" tvg-name="PK - ARY QTV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY QTV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63191
+#EXTINF:-1 tvg-id="" tvg-name="PK - PAIGAM URDU" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PAIGAMPASHTOO.png" group-title="AS | PAKISTAN",PK - PAIGAM URDU
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63190
+#EXTINF:-1 tvg-id="" tvg-name="PK - ARY ZINDAGI" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY ZINDAGI
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63189
+#EXTINF:-1 tvg-id="" tvg-name="PK - ATV ENTERTAINMENT" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ATVENTERTAINMENT.png" group-title="AS | PAKISTAN",PK - ATV ENTERTAINMENT
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63188
+#EXTINF:-1 tvg-id="" tvg-name="PK - AVT KHYBER" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/AVTKHYBER.png" group-title="AS | PAKISTAN",PK - AVT KHYBER
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63187
+#EXTINF:-1 tvg-id="" tvg-name="PK - PAIGAM PASHTOO" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PAIGAMPASHTOO.png" group-title="AS | PAKISTAN",PK - PAIGAM PASHTOO
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63186
+#EXTINF:-1 tvg-id="" tvg-name="PK - BOL ENTERTAINMENT" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/BOL.png" group-title="AS | PAKISTAN",PK - BOL ENTERTAINMENT
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63184
+#EXTINF:-1 tvg-id="" tvg-name="PK - BOL NEWS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/BOL.png" group-title="AS | PAKISTAN",PK - BOL NEWS HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63183
+#EXTINF:-1 tvg-id="" tvg-name="PK - CAPITAL TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CAPITAL-TV.png" group-title="AS | PAKISTAN",PK - CAPITAL TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63182
+#EXTINF:-1 tvg-id="" tvg-name="PK - CARTOON NETWORK" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/Cartoon_Network-2.png" group-title="AS | PAKISTAN",PK - CARTOON NETWORK
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63181
+#EXTINF:-1 tvg-id="" tvg-name="PK - CITY 41 NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CITY-41.png" group-title="AS | PAKISTAN",PK - CITY 41 NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63179
+#EXTINF:-1 tvg-id="" tvg-name="PK - CITY 42" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CITY42.png" group-title="AS | PAKISTAN",PK - CITY 42
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63178
+#EXTINF:-1 tvg-id="" tvg-name="PK - DAWN NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DAWN-NEWS.png" group-title="AS | PAKISTAN",PK - DAWN NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63177
+#EXTINF:-1 tvg-id="" tvg-name="PK - TEN SPORTS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/NEOSPORTS.png" group-title="AS | PAKISTAN",PK - TEN SPORTS HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63176
+#EXTINF:-1 tvg-id="" tvg-name="PK - LTN FAMILY" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/LTNFAMILY.png" group-title="AS | PAKISTAN",PK - LTN FAMILY
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63175
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="PK - DUNYA NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DUNYANEWS.png" group-title="AS | PAKISTAN",PK - DUNYA NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63174
+#EXTINF:-1 tvg-id="" tvg-name="PK - SINDH ENTERTAINMENT" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SINDH.png" group-title="AS | PAKISTAN",PK - SINDH ENTERTAINMENT
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63173
+#EXTINF:-1 tvg-id="" tvg-name="PK - PTV BOLAN" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV BOLAN
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63172
+#EXTINF:-1 tvg-id="" tvg-name="PK - EXPRESS ENTERTINMENT" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/EXPRESSENTERTINMENT.png" group-title="AS | PAKISTAN",PK - EXPRESS ENTERTINMENT
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63171
+#EXTINF:-1 tvg-id="" tvg-name="PK - ANIMAL PLANET" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ANIMALPLANET.png" group-title="AS | PAKISTAN",PK - ANIMAL PLANET
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63170
+#EXTINF:-1 tvg-id="" tvg-name="PK - FILM WORLD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/FILMWORLD.png" group-title="AS | PAKISTAN",PK - FILM WORLD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63169
+#EXTINF:-1 tvg-id="" tvg-name="PK - FILMAX" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/FILMAX.png" group-title="AS | PAKISTAN",PK - FILMAX
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63168
+#EXTINF:-1 tvg-id="" tvg-name="PK - NICK" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/NICK.png" group-title="AS | PAKISTAN",PK - NICK
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63167
+#EXTINF:-1 tvg-id="" tvg-name="PK - GEO ENTERTAINMENT" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO ENTERTAINMENT
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63166
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="PK - GEO NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63165
+#EXTINF:-1 tvg-id="" tvg-name="PK - GEO SUPER" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO SUPER
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63164
+#EXTINF:-1 tvg-id="GeoTez.pk" tvg-name="PK - GEO TEZZ" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO TEZZ
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63163
+#EXTINF:-1 tvg-id="" tvg-name="PK - GNN NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GNN.png" group-title="AS | PAKISTAN",PK - GNN NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63162
+#EXTINF:-1 tvg-id="" tvg-name="PK - HADI" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/HADI.png" group-title="AS | PAKISTAN",PK - HADI
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63160
+#EXTINF:-1 tvg-id="" tvg-name="PK - TLC HD WORLD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/TLCHDWORLD.png" group-title="AS | PAKISTAN",PK - TLC HD WORLD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63159
+#EXTINF:-1 tvg-id="" tvg-name="PK - HUM NEWS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/HUMNEWS.png" group-title="AS | PAKISTAN",PK - HUM NEWS HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63158
+#EXTINF:-1 tvg-id="HumSitaray.pk" tvg-name="PK - HUM SITARAY" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/HUMSITARAY.png" group-title="AS | PAKISTAN",PK - HUM SITARAY
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63157
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="PK - HUM TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/HUMTV.png" group-title="AS | PAKISTAN",PK - HUM TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63156
+#EXTINF:-1 tvg-id="" tvg-name="PK - KIDS ZONE+ HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KIDSZONE%2B.png" group-title="AS | PAKISTAN",PK - KIDS ZONE+ HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63155
+#EXTINF:-1 tvg-id="" tvg-name="PK - JALWA MUSIC" tvg-logo="" group-title="AS | PAKISTAN",PK - JALWA MUSIC
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63154
+#EXTINF:-1 tvg-id="" tvg-name="PK - POP+" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/POP%2B.png" group-title="AS | PAKISTAN",PK - POP+
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63153
+#EXTINF:-1 tvg-id="" tvg-name="PK - KASHISH TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KASHISHTV.png" group-title="AS | PAKISTAN",PK - KASHISH TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63152
+#EXTINF:-1 tvg-id="" tvg-name="PK - KAY 2" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KAY-2.png" group-title="AS | PAKISTAN",PK - KAY 2
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63151
+#EXTINF:-1 tvg-id="" tvg-name="PK - KHYBER NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KHYBERNEWS.png" group-title="AS | PAKISTAN",PK - KHYBER NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63150
+#EXTINF:-1 tvg-id="" tvg-name="PK - GTV HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GTV.png" group-title="AS | PAKISTAN",PK - GTV HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63149
+#EXTINF:-1 tvg-id="" tvg-name="PK - KOHINOOR NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KOHINOORNEWS.png" group-title="AS | PAKISTAN",PK - KOHINOOR NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63148
+#EXTINF:-1 tvg-id="" tvg-name="PK - KTN NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KTN-ENTERTAINMENT.png" group-title="AS | PAKISTAN",PK - KTN NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63147
+#EXTINF:-1 tvg-id="" tvg-name="PK - KTN TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KTN-ENTERTAINMENT.png" group-title="AS | PAKISTAN",PK - KTN TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63146
+#EXTINF:-1 tvg-id="" tvg-name="PK - LAHORE NEWS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/LAHORE-NEWS.png" group-title="AS | PAKISTAN",PK - LAHORE NEWS HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63145
+#EXTINF:-1 tvg-id="" tvg-name="PK - LAHROE RANG HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/LAHROERANG.png" group-title="AS | PAKISTAN",PK - LAHROE RANG HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63144
+#EXTINF:-1 tvg-id="" tvg-name="PK - MADANI CHANNEL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MADANICHANNEL.png" group-title="AS | PAKISTAN",PK - MADANI CHANNEL
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63143
+#EXTINF:-1 tvg-id="" tvg-name="PK - INDUS TV HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/INDUSTV.png" group-title="AS | PAKISTAN",PK - INDUS TV HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63142
+#EXTINF:-1 tvg-id="" tvg-name="PK - CMG COCKTAIL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK - CMG COCKTAIL
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63141
+#EXTINF:-1 tvg-id="" tvg-name="PK - METRO ONE" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/METROONE.png" group-title="AS | PAKISTAN",PK - METRO ONE
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63140
+#EXTINF:-1 tvg-id="" tvg-name="PK - CMG FILMS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK - CMG FILMS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63139
+#EXTINF:-1 tvg-id="" tvg-name="PK - NEO NEWS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/NEONEWS.png" group-title="AS | PAKISTAN",PK - NEO NEWS HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63138
+#EXTINF:-1 tvg-id="" tvg-name="PK - NEWS ONE" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/NEWSONE.png" group-title="AS | PAKISTAN",PK - NEWS ONE
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63137
+#EXTINF:-1 tvg-id="" tvg-name="PK - CMG MIXTURE" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK - CMG MIXTURE
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63136
+#EXTINF:-1 tvg-id="" tvg-name="PK - OXYGEN HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/OXYGENHD.png" group-title="AS | PAKISTAN",PK - OXYGEN HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63135
+#EXTINF:-1 tvg-id="" tvg-name="PK - DMG MUSIC HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG MUSIC HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63134
+#EXTINF:-1 tvg-id="" tvg-name="PK - CMG MOVIES" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK - CMG MOVIES
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63133
+#EXTINF:-1 tvg-id="" tvg-name="PK - KARBALA TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/KARBALA.png" group-title="AS | PAKISTAN",PK - KARBALA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63132
+#EXTINF:-1 tvg-id="" tvg-name="PK - PASHTO 1" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PASHTO.png" group-title="AS | PAKISTAN",PK - PASHTO 1
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63131
+#EXTINF:-1 tvg-id="PTVHome.pk" tvg-name="PK - PTV HOME" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV HOME
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63129
+#EXTINF:-1 tvg-id="" tvg-name="PK - DMG ACTION HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG ACTION HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63128
+#EXTINF:-1 tvg-id="PTVNews.pk" tvg-name="PK - PTV NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63127
+#EXTINF:-1 tvg-id="" tvg-name="PK - PTV SPORTS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV SPORTS HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63126
+#EXTINF:-1 tvg-id="" tvg-name="PK - PTV SPORTS." tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV SPORTS.
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63125
+#EXTINF:-1 tvg-id="PTVWorld.pk" tvg-name="PK - PTV World" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV World
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63124
+#EXTINF:-1 tvg-id="" tvg-name="PK - PUBLIC NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PUBLIC.png" group-title="AS | PAKISTAN",PK - PUBLIC NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63123
+#EXTINF:-1 tvg-id="" tvg-name="PK - DMG CINEMA HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG CINEMA HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63122
+#EXTINF:-1 tvg-id="" tvg-name="PK - DMG MOVIES HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG MOVIES HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63121
+#EXTINF:-1 tvg-id="" tvg-name="PK - QURAN TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/QURAN.png" group-title="AS | PAKISTAN",PK - QURAN TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63120
+#EXTINF:-1 tvg-id="" tvg-name="PK - RAAVI TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/RAAVI.png" group-title="AS | PAKISTAN",PK - RAAVI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63119
+#EXTINF:-1 tvg-id="" tvg-name="PK - DMG PLUS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG PLUS HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63118
+#EXTINF:-1 tvg-id="" tvg-name="PK - ROHI TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ROHI.png" group-title="AS | PAKISTAN",PK - ROHI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63117
+#EXTINF:-1 tvg-id="" tvg-name="PK - ROZE NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ROZENEWS.png" group-title="AS | PAKISTAN",PK - ROZE NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63116
+#EXTINF:-1 tvg-id="" tvg-name="PK - SAMAA TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SAMAA.png" group-title="AS | PAKISTAN",PK - SAMAA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63115
+#EXTINF:-1 tvg-id="" tvg-name="PK - DMG HITS HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG HITS HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63114
+#EXTINF:-1 tvg-id="" tvg-name="PK - SINDH NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SINDH.png" group-title="AS | PAKISTAN",PK - SINDH NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63113
+#EXTINF:-1 tvg-id="" tvg-name="PK - DMG SHOPPING HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/DMG.png" group-title="AS | PAKISTAN",PK - DMG SHOPPING HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63112
+#EXTINF:-1 tvg-id="" tvg-name="PK - PEACE TV ENGLISH" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PEACE.png" group-title="AS | PAKISTAN",PK - PEACE TV ENGLISH
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63111
+#EXTINF:-1 tvg-id="" tvg-name="PK - MADNI TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MADNI.png" group-title="AS | PAKISTAN",PK - MADNI TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63110
+#EXTINF:-1 tvg-id="" tvg-name="PK - TV ONE" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/TVONE.png" group-title="AS | PAKISTAN",PK - TV ONE
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63109
+#EXTINF:-1 tvg-id="Urdu1.pk" tvg-name="PK - URDU 1" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/URDU1.png" group-title="AS | PAKISTAN",PK - URDU 1
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63108
+#EXTINF:-1 tvg-id="PTVGlobal.pk" tvg-name="PK - PTV GLOBAL" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/PTV.png" group-title="AS | PAKISTAN",PK - PTV GLOBAL
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63107
+#EXTINF:-1 tvg-id="" tvg-name="PK - ARY FAMILY" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ARY.png" group-title="AS | PAKISTAN",PK - ARY FAMILY
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63106
+#EXTINF:-1 tvg-id="" tvg-name="PK - MASALA TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/MASALA.png" group-title="AS | PAKISTAN",PK - MASALA TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63105
+#EXTINF:-1 tvg-id="GeoKahani.pk" tvg-name="PK - GEO KAHANI" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO KAHANI
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63104
+#EXTINF:-1 tvg-id="" tvg-name="PK - WASEEB TV" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/WASEEB.png" group-title="AS | PAKISTAN",PK - WASEEB TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63103
+#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="PK - GEO NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/GEO.png" group-title="AS | PAKISTAN",PK - GEO NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/63102
+#EXTINF:-1 tvg-id="" tvg-name="PK - SAAMA NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SAMAA.png" group-title="AS | PAKISTAN",PK - SAAMA NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/68927
+#EXTINF:-1 tvg-id="" tvg-name="PK - BOL NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/BOL.png" group-title="AS | PAKISTAN",PK - BOL NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/68925
+#EXTINF:-1 tvg-id="" tvg-name="PK - ROYAL NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/ROYAL.png" group-title="AS | PAKISTAN",PK - ROYAL NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/68924
+#EXTINF:-1 tvg-id="" tvg-name="PK - SUCH NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SUCH.png" group-title="AS | PAKISTAN",PK - SUCH NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/68923
+#EXTINF:-1 tvg-id="" tvg-name="PK - A PLUS" tvg-logo=" http://212.8.253.112/logo/ASIA/PAKISTAN/A-PLUS.png" group-title="AS | PAKISTAN",PK - A PLUS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/68922
+#EXTINF:-1 tvg-id="" tvg-name="PK - CHANNEL 24 HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CHANNEL-24.png" group-title="AS | PAKISTAN",PK - CHANNEL 24 HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/68921
+#EXTINF:-1 tvg-id="" tvg-name="PK - EXPRESS NEWS" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/EXPRESS-NEWS.png" group-title="AS | PAKISTAN",PK - EXPRESS NEWS
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/68920
+#EXTINF:-1 tvg-id="" tvg-name="PK - 8XM HD" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/8XM.png" group-title="AS | PAKISTAN",PK - 8XM HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/68919
+#EXTINF:-1 tvg-id="" tvg-name="PK - CMG MUSIC" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/CMG.png" group-title="AS | PAKISTAN",PK - CMG MUSIC
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/68918
+#EXTINF:-1 tvg-id="" tvg-name="PK - SAUDI SUNNAH" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/SAUDI-SUNNAH.png" group-title="AS | PAKISTAN",PK - SAUDI SUNNAH
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/68917
+#EXTINF:-1 tvg-id="" tvg-name="PK - CHANNEL 5" tvg-logo="http://212.8.253.112/logo/ASIA/PAKISTAN/TV5.png" group-title="AS | PAKISTAN",PK - CHANNEL 5
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/68937
+#EXTINF:-1 tvg-id="" tvg-name="PK - AHLEBAIT TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_pakistan.png" group-title="AS | PAKISTAN",PK - AHLEBAIT TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/148601
+#EXTINF:-1 tvg-id="" tvg-name="PK - hidayat tv " tvg-logo="http://212.8.253.112/logo/FLAGS/flag_pakistan.png" group-title="AS | PAKISTAN",PK - hidayat tv 
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/148602
+
+------------------------------------------------IPTV 1 Year Paid AU NZ------------------------------------------
+
+#EXTINF:-1 tvg-id="beinsports1hd.au" tvg-name="AU - BEIN SPORTS 1 UHD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/BEIN-SPORTS-1.png" group-title="AS | AUSTRALIA",AU - BEIN SPORTS 1 UHD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78137
+#EXTINF:-1 tvg-id="beinsports2hd.au" tvg-name="AU - BEIN SPORTS 2 UHD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/BEIN-SPORTS-1.png" group-title="AS | AUSTRALIA",AU - BEIN SPORTS 2 UHD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78138
+#EXTINF:-1 tvg-id="beinsports3hd.au" tvg-name="AU - BEIN SPORTS 3 UHD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/BEIN-SPORTS-1.png" group-title="AS | AUSTRALIA",AU - BEIN SPORTS 3 UHD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78139
+#EXTINF:-1 tvg-id="espnhd.au" tvg-name="AU - ESPN | HD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/Eurosport.png" group-title="AS | AUSTRALIA",AU - ESPN | HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78154
+#EXTINF:-1 tvg-id="espnhd.au" tvg-name="AU - ESPN 1 | UHD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/espn1.png" group-title="AS | AUSTRALIA",AU - ESPN 1 | UHD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78152
+#EXTINF:-1 tvg-id="espn2hd.au" tvg-name="AU - ESPN 2 | UHD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/espn1.png" group-title="AS | AUSTRALIA",AU - ESPN 2 | UHD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78153
+#EXTINF:-1 tvg-id="foxsportsnewshd.au" tvg-name="AU - FOX SPORTS NEWS | HD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/Fox-Sports-New-CRICKET-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS NEWS | HD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78151
+#EXTINF:-1 tvg-id="" tvg-name="AU - FOX SPORTS 501 | UHD" tvg-logo="" group-title="AS | AUSTRALIA",AU - FOX SPORTS 501 | UHD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83174
+#EXTINF:-1 tvg-id="" tvg-name="AU - FOX SPORTS 502 | UHD" tvg-logo="" group-title="AS | AUSTRALIA",AU - FOX SPORTS 502 | UHD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83175
+#EXTINF:-1 tvg-id="foxsports503hd.au" tvg-name="AU - FOX SPORTS 503 | UHD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/FOX-505-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS 503 | UHD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78155
+#EXTINF:-1 tvg-id="" tvg-name="AU - FOX SPORTS 504 | UHD" tvg-logo="" group-title="AS | AUSTRALIA",AU - FOX SPORTS 504 | UHD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83176
+#EXTINF:-1 tvg-id="foxsports505hd.au" tvg-name="AU - FOX SPORTS 505 | UHD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/FOX-505-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS 505 | UHD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78156
+#EXTINF:-1 tvg-id="foxsports506hd.au" tvg-name="AU - FOX SPORTS 506 | UHD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/FOX-505-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS 506 | UHD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/78157
+#EXTINF:-1 tvg-id="" tvg-name="AU - FOX SPORTS 507 | UHD" tvg-logo="" group-title="AS | AUSTRALIA",AU - FOX SPORTS 507 | UHD
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83177
+#EXTINF:-1 tvg-id="7two.au" tvg-name="AU - PAC 12" tvg-logo="" group-title="AS | AUSTRALIA",AU - PAC 12
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/83182
+#EXTINF:-1 tvg-id="aljazeeraenglish.au" tvg-name="AU - NZ - AL JAZEERA" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/ALJAZEERA.png" group-title="AS | AUSTRALIA",AU - NZ - AL JAZEERA
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/43266
+#EXTINF:-1 tvg-id="" tvg-name="AU - NZ - Mori Television" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/MoriTelevision.png" group-title="AS | AUSTRALIA",AU - NZ - Mori Television
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/43265
+#EXTINF:-1 tvg-id="" tvg-name="AU - NZ - Parliament TV" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/ParliamentTV.png" group-title="AS | AUSTRALIA",AU - NZ - Parliament TV
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/43264
+#EXTINF:-1 tvg-id="TeReo.nz" tvg-name="AU - NZ - TE REO" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/TEREO.png" group-title="AS | AUSTRALIA",AU - NZ - TE REO
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/43263
+#EXTINF:-1 tvg-id="" tvg-name="AU: NRL LIVE 1 |  HD: Newcastle Knights vs North Queensland Cowboys (08.23-2:05AM ET)" tvg-logo="" group-title="AS | AUSTRALIA",AU: NRL LIVE 1 |  HD: Newcastle Knights vs North Queensland Cowboys (08.23-2:05AM ET)
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/150045
+#EXTINF:-1 tvg-id="" tvg-name="AU: NRL LIVE 2 | HD: South Sydney Rabbitohs vs Manly Sea Eagles (08.22-5:35AM ET)" tvg-logo="" group-title="AS | AUSTRALIA",AU: NRL LIVE 2 | HD: South Sydney Rabbitohs vs Manly Sea Eagles (08.22-5:35AM ET)
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/150046
+#EXTINF:-1 tvg-id="" tvg-name="AU: NRL LIVE 3 | HD: Newcastle Knights vs. Manly-Warringah Sea Eagles (08.16-12AM ET)" tvg-logo="" group-title="AS | AUSTRALIA",AU: NRL LIVE 3 | HD: Newcastle Knights vs. Manly-Warringah Sea Eagles (08.16-12AM ET)
+http://tektv.co:80/Mendiratta2020/84D2D4D5A351792/150047
+
+
+------------------------------------------------IPTV 1 Year Test Dragon-----------------------------------------
 #EXTINF:-1 tvg-ID="" tvg-name="##### |HINDI| GENERAL #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_india.png" group-title="ASIA| INDIA",##### |HINDI| GENERAL #####
 http://line.hi-ott.net:80/VJUKHMNGUF/DJEKGVX0PU/63754
 #EXTINF:-1 tvg-ID="" tvg-name="|HINDI| CORONA VIRUS INFO" tvg-logo="http://212.8.253.112/COBRALOGO/corona19.png" group-title="ASIA| INDIA",|HINDI| CORONA VIRUS INFO
