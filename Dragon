@@ -1,5 +1,4 @@
-http://dragoniptv.club:8080/xmltv.php?username=csfgpjYggr&password=5gzVWKng8q
-
+#EXTM3U url-tvg="http://dragoniptv.club:8080/xmltv.php?username=csfgpjYggr&password=5gzVWKng8q"
 
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IN: & PICTURE HD" tvg-logo="" group-title="Live: India",VIP IN: & PICTURE HD
 http://dragoniptv.club:8080/csfgpjYggr/5gzVWKng8q/8130
