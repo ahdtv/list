@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://dragoniptv.club:8080/xmltv.php?username=csfgpjYggr&password=5gzVWKng8q"
+#EXTM3U url-tvg="http://indtv.online/guide.gz"
 
 
 -------------------------------------------------------------NEWS-----------------------------------------------------------------------
@@ -310,17 +310,23 @@ https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1 group-title="IND. ENT." tvg-logo="https://dl.dropbox.com/s/vgwu01lpb7imo8l/Shemaroo.png" group-title="Hindi Entertainment", Shemaroo TV
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
 
-EXTINF:-1 tvg-id="472" tvg-language="HINDI" tvg-name="And TV HD-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/%26TV_HD.png?raw=true" group-title="Hindi Entertainment", &TV HD
+#EXTINF:-1 tvg-id="472" tvg-language="HINDI" tvg-name="And TV HD-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/%26TV_HD.png?raw=true" group-title="Hindi Entertainment", AND TV HD
+http://indtv.online/nz/jiotv/And_TV_HD.m3u8
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18167
 
 #EXTINF:-1 tvg-id="144" tvg-language="HINDI" tvg-name="Colors HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Hindi Entertainment", Colors HD
+http://indtv.online/nz/jiotv/Colors_HD.m3u8
+http://indtv.online/nz/jiotv/Epic_HD.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-id="471" tvg-language="HINDI" tvg-name="Sony SAB-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Hindi Entertainment", Sony SAB HD
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-language="HINDI" tvg-name="Sony HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Hindi Entertainment", Sony HD
+http://indtv.online/nz/jiotv/Sony_HD.m3u8
+http://indtv.online/nz/jiotv/PTC_Punjabi.m3u8
 http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 
@@ -332,6 +338,8 @@ http://103.205.133.44:1935/live/sonyhdcm/chunklist.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="167" tvg-language="HINDI" tvg-name="Zee TV HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Hindi Entertainment", Zee TV HD
+http://indtv.online/nz/jiotv/Zee_TV_HD.m3u8
+http://indtv.online/nz/jiotv/ID.m3u8
 http://three.somee.com/web.php?c=zeetvhd
 http://103.214.202.218:8081/live/zeetv-31/chunks.m3u8
 
@@ -387,12 +395,14 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 #EXTINF:-1 tvg-id="185" tvg-language="HINDI" tvg-name="And Pictures HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies", &Pictures HD
+http://indtv.online/nz/jiotv/And_Pictures_HD.m3u8
 http://z5amshls.akamaized.net/andpicshd/tracks-v3a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 
 EXTINF:-1 tvg-id="185" tvg-language="HINDI" tvg-name="UTV Movies-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/UTV_HD.png?raw=true" group-title="Hindi Movies", Utv HD
 
 #EXTINF:-1 tvg-id="476" tvg-language="HINDI" tvg-name="Sony Max HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Hindi Movies", Sony Max HD
+http://indtv.online/nz/jiotv/Sony_Max_HD.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 
 #EXTINF:-1 tvg-id="38" tvg-name="Sony MAX HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Hindi Movies",Sony MAX2
@@ -414,13 +424,14 @@ EXTINF:-1 tvg-id="1133" tvg-language="HINDI" tvg-name="Sony Wah" tvg-logo="https
 EXTINF:-1 tvg-id="1133" tvg-language="HINDI" tvg-name="BBQ" tvg-logo="https://imgur.com/download/nOf7AJD/" group-title="MOVIES", BBQ
 
 
-EXTINF:-1 tvg-id="1133" tvg-language="HINDI" tvg-name="B4U Movies-IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="Hindi Movies", B4U Kadak
+EXTINF:-1 tvg-id="1133" tvg-language="HINDI" tvg-name="B4U Movies-IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="Hindi Movies", B4U Movies
 
 
 #EXTINF:-1 tvg-id="165" tvg-language="HINDI" tvg-name="Zee Cinema-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Movies", Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTINF:-1 tvg-id="165" tvg-language="HINDI" tvg-name="Zee Cinema-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Movies", Zee Cinema HD
+http://indtv.online/nz/jiotv/Zee_Cinema_HD.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Hindi Movies",Zee Cinema USA
@@ -471,8 +482,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-id="1" tvg-language="HINDI" tvg-name="Aaho Music" tvg-logo="https://images.weserv.nl/?url=aahotv.com/wp-content/themes/aaho/images/logo.svg&w=200&h=150&t=letterbox&bg=transpaprent" group-title="Hindi Music", Aaho Music
 https://v.aaho.tv/live/aahomusic.m3u8
 
-EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="Hindi Music", MTV Beats HD
-
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="Hindi Music", MTV Beats HD
+http://indtv.online/nz/jiotv/MTV_Beats_HD.m3u8
+http://indtv.online/nz/jiotv/Ten2_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/download/4NKKzKM/" group-title="Hindi Music",ZoOm
 http://itpolly.iptv.digijadoo.net/live/zoom/chunks.m3u8
@@ -495,6 +507,8 @@ EXTINF:-1 tvg-id="584" tvg-language="HINDI" tvg-name="Mastiii" tvg-logo="http://
 
 #EXTINF:-1 tvg-id="584" tvg-language="HINDI" tvg-name="Boogle Bollywood" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Boogle_Bollywood.png?raw=true" group-title="Hindi Music", Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
+
 
 
 EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Artist Aloud - Hungama" tvg-logo="https://www.artistaloud.com/images/logo.png" group-title="Hindi Music", Artist Aloud - Hungama
@@ -1369,6 +1383,9 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 #EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
 http://vidnetcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yupppremiummarathi.png" group-title="Marathi",Premium Marathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="203" tvg-language="Marathi" tvg-name="ABP majha" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ABP_Majha.png?raw=true" group-title="Marathi", ABP majha
@@ -1925,7 +1942,6 @@ https://github.com/ahdtv/Introduction/blob/master/Promotional%20Video.mp4?raw=tr
 #EXTM3U url-tvg="http://m3u4u.com/epg/69wkngm8xmfxwrmnq8gd"
 #EXTM3U x-tvg-url="http://indtv.online/guide.gz"
 #EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
-#EXTM3U url-tvg="http://dragoniptv.club:8080/xmltv.php?username=csfgpjYggr&password=5gzVWKng8q" Dragon
 
 
 
