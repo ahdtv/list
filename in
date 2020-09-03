@@ -325,6 +325,7 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://216.144.250.174/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-language="HINDI" tvg-name="Sony HD-IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Hindi Entertainment", Sony HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
 http://indtv.online/nz/jiotv/Sony_HD.m3u8
 http://indtv.online/nz/jiotv/PTC_Punjabi.m3u8
@@ -1138,6 +1139,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 https://streamitv.multitvsolution.in/idvo/tlchd_540p/index.m3u8
 
 #EXTINF:-1 tvg-id="571" tvg-language="HINDI" tvg-name="TLC HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Lifestyle", TLC HD Hindi
+https://streamitv.multitvsolution.in/idvo/tlchdhindi_540p/index.m3u8
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
 
@@ -1181,7 +1183,6 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1
 
 
 EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Tom and Jerry" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/App_Logo/Tom_and_Jerry.png?raw=true" group-title="Kids", Tom and Jerry
-
 
 #EXTINF:-1 tvg-id="61" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids" ,Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
