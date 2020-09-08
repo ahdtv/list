@@ -1488,13 +1488,13 @@ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-5+ 体育赛事
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title=group-title="CHINA",CCTV中国中央电视台-6 电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-6 电影
 http://117.169.120.140:8080/live/cctv-6/.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title=group-title="CHINA",CCTV中国中央电视台-6 电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-6 电影
 http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title=group-title="CHINA",CCTV中国中央电视台-6 电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-6 电影
 http://39.135.32.27:6610/000000001000/1000000001000001737/index.m3u8?i
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title=group-title="CHINA",CCTV中国中央电视台-6 电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-6 电影
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-7 国防军事
 http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
@@ -1518,21 +1518,21 @@ http://39.135.32.29:6610/000000001000/1000000001000003736/index.m3u8?i
 http://ivi.bupt.edu.cn/hls/cctv8.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-8 电视剧
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title=group-title="CHINA",CCTV中国中央电视台-9 纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-9 纪录
 http://111.40.205.76/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title=group-title="CHINA",CCTV中国中央电视台-9 纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-9 纪录
 http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title=group-title="CHINA",CCTV中国中央电视台-9 纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-9 纪录
 http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title=group-title="CHINA",CCTV中国中央电视台-9 纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-9 纪录
 http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title=group-title="CHINA",CCTV中国中央电视台-9 纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-9 纪录
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="472" tvg-name="CGTNDocumentary" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title=group-title="CHINA",CGTN Documentary
+#EXTINF:-1 tvg-id="472" tvg-name="CGTNDocumentary" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CGTN Documentary
 https://live.cgtn.com/cctv-d.m3u8
-#EXTINF:-1 tvg-id="472" tvg-name="CGTNDocumentary" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title=group-title="CHINA",CGTN Documentary (Backup)
+#EXTINF:-1 tvg-id="472" tvg-name="CGTNDocumentary" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CGTN Documentary (Backup)
 http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" tvg-country="CN" tvg-url="" group-title="CHINA",CGTN Español
 https://live.cgtn.com/cctv-e.m3u8
@@ -1544,11 +1544,11 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 https://live.cgtn.com/cctv-r.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" tvg-country="CN" tvg-url="" group-title="CHINA",CGTN العربية
 https://live.cgtn.com/cctv-a.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title=group-title="CHINA",CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5234U14N.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",HRB哈尔滨网络广播电视 娱乐
 http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5235054640.jpg" tvg-country="CN" tvg-url="" group-title=group-title="CHINA",HRB哈尔滨网络广播电视 影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5235054640.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",HRB哈尔滨网络广播电视 影视
 http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5233533258.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",HRB哈尔滨网络广播电视 新闻综合
 http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
@@ -1586,9 +1586,9 @@ http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426222232647.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 农业致富
 http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202451457.jpg" tvg-country="CN" tvg-url="" group-title=group-title="CHINA",NewTV未来电视 动作电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202451457.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 动作电影
 http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202451457.jpg" tvg-country="CN" tvg-url="" group-title=group-title="CHINA",NewTV未来电视 动作电影 (Backup)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202451457.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 动作电影 (Backup)
 http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P4262246003C.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 古装剧场
 http://111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8
@@ -1622,17 +1622,17 @@ http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P426223G10-L.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 精品大剧 (Backup)
 http://121.31.30.90:8085/ysten-business/live/jdaju/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" tvg-country="CN" tvg-url="" group-title=group-title="CHINA",NewTV未来电视 精品记录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 精品记录
 http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" tvg-country="CN" tvg-url="" group-title=group-title="CHINA",NewTV未来电视 精品记录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 精品记录
 http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" tvg-country="CN" tvg-url="" group-title=group-title="CHINA",NewTV未来电视 精品记录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 精品记录
 http://117.148.187.37/PLTV/88888888/224/3221226763/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" tvg-country="CN" tvg-url="" group-title=group-title="CHINA",NewTV未来电视 精品记录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 精品记录
 http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/2PoLaXw.png" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 超级体育
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/KukcTgh.png" tvg-country="CN" tvg-url="" group-title=group-title="CHINA",NewTV未来电视 超级电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/KukcTgh.png" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 超级电影
 http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P4262241042I.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 金牌综艺
 http://111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8
@@ -3382,9 +3382,9 @@ http://hbhh.chinashadt.com:2111/live/hdtv.stream/playlist.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",黑莓动画 (Backup)
 http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" tvg-country="CN" tvg-url="" group-title=group-title="CHINA",黑莓电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",黑莓电影
 http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" tvg-country="CN" tvg-url="" group-title=group-title="CHINA",黑莓电影 (Backup)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",黑莓电影 (Backup)
 http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",黑龙江卫视
 http://111.40.205.87/PLTV/88888888/224/3221225640/index.m3u8
@@ -3857,12 +3857,11 @@ http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
 
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true" group-title="ASIAN HDTV" Introduction
 https://github.com/ahdtv/Introduction/blob/master/Promotional%20Video.mp4?raw=true
-----------------------------------------------------------------------------------------------
 
-EXTM3U url-tvg="http://indtv.online/nz/guide.nz"
-EXTM3U url-tvg="http://m3u4u.com/epg/69wkngm8xmfxwrmnq8gd"
-EXTM3U x-tvg-url="http://indtv.online/guide.gz"
-EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
+#EXTM3U url-tvg="http://indtv.online/nz/guide.nz"
+#EXTM3U url-tvg="http://m3u4u.com/epg/69wkngm8xmfxwrmnq8gd"
+#EXTM3U x-tvg-url="http://indtv.online/guide.gz"
+#EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
 
 
 
