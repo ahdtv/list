@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://indtv.online/nz/guide.nz"
+#EXTM3U x-tvg-url="http://indtv.online/nz/guide.nz"
 
 #EXTINF:-1 tvg-id="158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus HD IP
 http://sdlhivkcdnems01.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_800.m3u8|user-agent="Hotstar"
@@ -539,28 +539,6 @@ http://indtv.online/nz/jiotv/DD_Sports.m3u8
 http://indtv.online/nz/jiotv/Dsports.m3u8
 #EXTINF:-1 tvg-id="1425" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="Sports",1Sports
 http://indtv.online/nz/jiotv/1Sports.m3u8
-
-#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Start Sports 1-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_1.png?raw=true" group-title="SPORTS", Start Sports HD 1 Hindi
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/25.m3u8
-http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
-
-
-EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Start Sports 1-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_1.png?raw=true" group-title="SPORTS", Start Sports HD 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
-
-#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Start Sports 2-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_HD_2.png?raw=true" group-title="SPORTS", Start Sports HD 2
-http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
-http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Star Sports Select 1 HD" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Star_Sports_Select_HD_1.png=raw=true" group-title="SPORTS", Star Sports Select 1 HD
-http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/27.m3u8
-
-
-
-#EXTINF:-1 tvg-id="155" tvg-language="ENGLISH" tvg-name="Star Sports Select 2 HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Sports_Select_HD_2.png?raw=true" group-title="SPORTS", Star Sports Select 2 HD
-http://iptvthunder.thunderbd.com/live/roarzone/roarzone/28.m3u8
 
 
 #EXTINF:-1 tvg-id="463" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
@@ -1397,8 +1375,8 @@ http://indtv.online/nz/jiotv/4_TV.m3u8
 http://indtv.online/nz/jiotv/TEHZEEB_TV.m3u8
 #EXTINF:-1 tvg-id="719" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nepal_one.png" group-title="Nepali",Nepal one
 http://indtv.online/nz/jiotv/Nepal_one.m3u8
-#EXTINF:-1 tvg-id="838" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/France_24.png" group-title="French",France 24
-http://indtv.online/nz/jiotv/France_24.m3u8
+
+
 
 -----------------------------------------------------China-----------------------------------------------------
 #EXTM3U
@@ -1440,33 +1418,33 @@ http://111.40.205.87/PLTV/88888888/224/3221225731/index.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226167/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-12 社会与法制
 http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV中国中央电视台-13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-13 新闻
 http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV中国中央电视台-13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-13 新闻
 http://117.148.187.37/PLTV/88888888/224/3221226193/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV中国中央电视台-13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-13 新闻
 http://117.169.120.140:8080/live/cctv-13/.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV中国中央电视台-13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-13 新闻
 http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-14 少儿
 http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-14 少儿
 http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-14 少儿
 http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-14 少儿
 http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-14 少儿
 http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-14 少儿
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV中国中央电视台-15 音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-15 音乐
 http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV中国中央电视台-15 音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-15 音乐
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV中国中央电视台-15 音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-15 音乐
 http://117.148.187.37/PLTV/88888888/224/3221226112/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV中国中央电视台-15 音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-15 音乐
 http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-2 财经
 http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8
@@ -1482,13 +1460,13 @@ http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225974/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-2 财经
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-3 综艺
 http://117.169.120.140:8080/live/cctv-3/.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-3 综艺
 http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-3 综艺
 http://39.135.32.29:6610/000000001000/1000000001000011218/index.m3u8?i
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-3 综艺
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-4 中文国际
 http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
@@ -1496,19 +1474,19 @@ http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
 http://117.169.120.140:8080/live/cctv-4/.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-4 中文国际
 http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-5 体育
 http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-5 体育
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-5 体育
 http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5 体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-5 体育
 http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-5+ 体育赛事
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-5+ 体育赛事
 http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-5+ 体育赛事
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
 http://117.169.120.140:8080/live/cctv-6/.m3u8
@@ -1550,7 +1528,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Documentary",CCTV中国中央电视台-9 纪录
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CGTN
+#EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="472" tvg-name="CGTNDocumentary" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Documentary",CGTN Documentary
 https://live.cgtn.com/cctv-d.m3u8
@@ -1568,11 +1546,11 @@ https://live.cgtn.com/cctv-r.m3u8
 https://live.cgtn.com/cctv-a.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5234U14N.jpg" tvg-country="CN" tvg-url="" group-title="Entertainment",HRB哈尔滨网络广播电视 娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5234U14N.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",HRB哈尔滨网络广播电视 娱乐
 http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5235054640.jpg" tvg-country="CN" tvg-url="" group-title="Movies",HRB哈尔滨网络广播电视 影视
 http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5233533258.jpg" tvg-country="CN" tvg-url="" group-title="News",HRB哈尔滨网络广播电视 新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5233533258.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",HRB哈尔滨网络广播电视 新闻综合
 http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR523550C59.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",HRB哈尔滨网络广播电视 生活
 http://111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8
@@ -1580,13 +1558,13 @@ http://111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/RpVm4KK.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",iPanda
 http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",IPTV5+
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",IPTV5+
 http://117.156.28.119/270000001111/1110000054/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IPTV8/IPTV8.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",IPTV8+
 http://117.156.28.119/270000001111/1110000057/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P5112159470-L.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",IPTV法治
 http://117.156.28.119/270000001111/1110000111/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P511215A10-L.jpg" tvg-country="CN" tvg-url="" group-title="Entertainment",IPTV相声小品
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P511215A10-L.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",IPTV相声小品
 http://117.156.28.119/270000001111/1110000112/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",IPTV精品综艺
 http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
@@ -1638,7 +1616,7 @@ http://117.148.187.37/PLTV/88888888/224/3221226666/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P4262300110-L.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 爱情喜剧
 http://111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426222R1296.jpg" tvg-country="CN" tvg-url="" group-title="Sport",NewTV未来电视 精品体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426222R1296.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 精品体育
 http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P426223G10-L.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 精品大剧
 http://111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8
@@ -1652,13 +1630,13 @@ http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226763/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" tvg-country="CN" tvg-url="" group-title="Documentary",NewTV未来电视 精品记录
 http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/2PoLaXw.png" tvg-country="CN" tvg-url="" group-title="Sport",NewTV未来电视 超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/2PoLaXw.png" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 超级体育
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/KukcTgh.png" tvg-country="CN" tvg-url="" group-title="Movies",NewTV未来电视 超级电影
 http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P4262241042I.jpg" tvg-country="CN" tvg-url="" group-title="Entertainment",NewTV未来电视 金牌综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P4262241042I.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 金牌综艺
 http://111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P4262241042I.jpg" tvg-country="CN" tvg-url="" group-title="Entertainment",NewTV未来电视 金牌综艺 (Backup)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P4262241042I.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",NewTV未来电视 金牌综艺 (Backup)
 http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",万州三峡移民
 http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
@@ -1830,13 +1808,13 @@ http://221.233.242.239:280/live/72/playlist.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",优漫卡通
 http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",优漫卡通
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",优漫卡通
 http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",优漫卡通
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",优漫卡通
 http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",优漫卡通
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",优漫卡通
 http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",优漫卡通
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",优漫卡通
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",优视频道
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
@@ -1900,11 +1878,11 @@ http://live.btgdt.com/channels/btgd/jjpd/m3u8:500k/live
 http://ivi.bupt.edu.cn/hls/btv10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京纪实" tvg-language="Chinese" tvg-logo="https://media.bjnews.com.cn/image/2019/05/03/4788479376108891447.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",北京冬奥纪实
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",北京卡酷少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",北京卡酷少儿
 http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",北京卡酷少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",北京卡酷少儿
 http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",北京卡酷少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",北京卡酷少儿
 http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",北京卫视
 http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
@@ -2062,17 +2040,17 @@ http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8
 http://117.156.28.119/270000001111/1110000149/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",咸宁综合频道
 http://xianning.live.cjyun.org/video/s10140-XNTV-1/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",哈哈炫动
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",哈哈炫动
 http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://i.imgur.com/YojAv3d.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",哈哈炫动Toon Max TV
+#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://i.imgur.com/YojAv3d.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",哈哈炫动Toon Max TV
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",哈哈炫动卫视
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",哈哈炫动卫视
 http://210.210.155.35/qwr9ew/s/s50/index.m3u8
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="http://www.jiajiakt.com/images/global/logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="http://www.jiajiakt.com/images/global/logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",嘉佳卡通
 http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",嘉佳卡通
 http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",嘉佳卡通
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",嘉佳卡通
 http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0113/20140113093103537.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",嘉兴新闻综合
 http://112.17.40.140/PLTV/88888888/224/3221226358/index.m3u8
@@ -2916,11 +2894,11 @@ http://dslive.grtn.cn/czzh/sd/live.m3u8
 http://rtvcdn.com.au:8082/TV_GG.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181203/9958772f6d52462e840c4fbbeca65b22.jpeg" tvg-country="CN" tvg-url="" group-title="CHINA",灵台新闻综合
 http://117.156.28.119/270000001111/1110000145/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",炫动卡通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",炫动卡通
 http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",炫动卡通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",炫动卡通
 http://121.31.30.90:8085/ysten-business/live/xuandongkaton/yst.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",炫动卡通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",炫动卡通
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/N8YdX6W.png" tvg-country="CN" tvg-url="" group-title="CHINA",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
@@ -2996,9 +2974,9 @@ http://124.47.33.200/PLTV/88888888/224/3221225650/index.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://x01.xesimg.com/teacher/2014/12/08/14180090355091.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",百视通 BesTV学而思
 http://39.134.52.172/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226027/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/xuIAbqy.png" tvg-country="CN" tvg-url="" group-title="Sport",百视通 BesTV超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/xuIAbqy.png" tvg-country="CN" tvg-url="" group-title="CHINA",百视通 BesTV超级体育
 http://39.134.52.180/PLTV/88888888/224/3221225883/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/xuIAbqy.png" tvg-country="CN" tvg-url="" group-title="Sport",百视通 BesTV超级体育 (Backup)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/xuIAbqy.png" tvg-country="CN" tvg-url="" group-title="CHINA",百视通 BesTV超级体育 (Backup)
 http://39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",的士速递5
 http://vip.yingshidaqian.com/20180915/hr7rvVKo/index.m3u8
@@ -3012,7 +2990,7 @@ http://219.153.252.50/PLTV/88888888/224/3221225645/chunklist.m3u8
 http://vip.yingshidaqian.com/20180913/XVG0xeVF/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",磁县综合频道
 http://hbcx.chinashadt.com:1937/live/stream:hdxw.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",福州少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",福州影视
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
@@ -3260,17 +3238,17 @@ http://219.153.252.50/PLTV/88888888/224/3221225631/chunklist.m3u8
 http://stream.jinhua.com.cn/jykj/app/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",金华都市农村
 http://stream.jinhua.com.cn/dsnc/app/live.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",金鹰卡通
 http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",金鹰卡通
 http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",金鹰卡通
 http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",金鹰卡通
 http://223.82.250.72/live/jinyingkaton/1.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",金鹰卡通
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",金鹰卡通
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-language="Chinese" tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/jyjs.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",金鹰纪实
 http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
@@ -3400,9 +3378,9 @@ http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8
 http://hbhh.chinashadt.com:2111/live/hhtv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",黄骅互动
 http://hbhh.chinashadt.com:2111/live/hdtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" tvg-country="CN" tvg-url="" group-title="Kids",黑莓动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",黑莓动画
 http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" tvg-country="CN" tvg-url="" group-title="Kids",黑莓动画 (Backup)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" tvg-country="CN" tvg-url="" group-title="CHINA",黑莓动画 (Backup)
 http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" tvg-country="CN" tvg-url="" group-title="Movies",黑莓电影
 http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
@@ -3438,219 +3416,220 @@ http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
 http://stream.lytv.net.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",龙岩综合
 http://stream.lytv.net.cn/2/sd/live.m3u8
+http://stream.lytv.net.cn/2/sd/live.m3u8
 
 
 --------------------------------------------------------------RADIO-------------------------------------------------
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Mirchi Top 20
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Mirchi - Mirchi Top 20
 https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Mirchi Unplugged
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Mirchi - Mirchi Unplugged
 https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - meethi Mirchi
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Mirchi - meethi Mirchi
 https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Pehla Nasha
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Mirchi - Pehla Nasha
 https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Devi Maa
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", 2B! Radio Sangam Devi Maa
 http://ibadat.out.airtime.pro:8000/ibadat_a
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Ganesha
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", 2B! Radio Sangam Ganesha
 http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Gurbani
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", 2B! Radio Sangam Gurbani
 http://gurbani.out.airtime.pro:8000/gurbani_a
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Guruvar
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", 2B! Radio Sangam Guruvar
 http://iskon2b.out.airtime.pro:8000/iskon2b_a
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Krishna
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", 2B! Radio Sangam Krishna
 http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Shiva
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", 2B! Radio Sangam Shiva
 http://hot.out.airtime.pro:8000/hot_a
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Shri Ram
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", 2B! Radio Sangam Shri Ram
 http://dard.out.airtime.pro:8000/dard_a
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bhajans
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Bhajans
 https://streamingv2.shoutcast.com/bhajansradioguyana
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Big 95 FM
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Big 95 FM
 https://radioindia.net/radio/sc-bb/icecast.audio
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Punjabi Radio
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Bollywood Punjabi Radio
 http://stream.zeno.fm/1k0y9f0cm0quv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Punjabi Radio
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Bollywood Punjabi Radio
 http://stream.zeno.fm/1k0y9f0cm0quv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Radio and Beyond
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Bollywood Radio and Beyond
 http://96.31.83.86:8084/;
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Radio and Beyond
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Bollywood Radio and Beyond
 http://69.4.230.78:9000/;
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Radio and Beyond
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Bollywood Radio and Beyond
 http://185.80.220.12:8046/stream
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Harman Radio Australia
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Harman Radio Australia
 http://harmanradio.net:8000/main_48.mp3
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Jesus Alive Radio
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Jesus Alive Radio
 http://stream.zenolive.com/qyb8s75nsceuv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Non Stop Hindi Radio
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Non Stop Hindi Radio
 http://198.178.123.14:8216/;
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Nuke Radio Hindi
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Nuke Radio Hindi
 https://live.nukeradio.com/proxy/nukehindi?mp=/stream3
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio
 https://www.radiomirchi.com/
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Apna
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Apna
 http://ca.rcast.net:8048/
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio BollyFm
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio BollyFm
 http://stream.radiobollyfm.in:8201/hd?t=1526570335
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio City
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio City
 http://prclive1.listenon.in:9302/;
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio City (india) - Hindi
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio City (india) - Hindi
 http://prclive1.listenon.in:9960/
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio city Dance
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio city Dance
 http://prclive1.listenon.in:8994
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio City Smaran
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio City Smaran
 http://prclive1.listenon.in:9950/
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Dil Apna Punjabi
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Dil Apna Punjabi
 http://my.radiodap.ca:9000
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Garam Masala
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Garam Masala
 http://69.175.94.98:8146/
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Hindi International
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Hindi International
 http://radio.bongonet.net:8012/rhi
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Ishara
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Ishara
 http://nickerie.webhop.net:8000/;stream.mp3
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Mirchi
 http://peridot.streamguys.com:7150/Mirchi
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - 90s Hit Songs
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Mirchi - 90s Hit Songs
 https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Club Mirchi
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Mirchi - Club Mirchi
 https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Devraag
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Mirchi - Devraag
 https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Drive Radio
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Mirchi - Drive Radio
 https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Filmy Mirchi
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Mirchi - Filmy Mirchi
 https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Hindi Retro
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Mirchi - Hindi Retro
 https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Indies
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Mirchi - Indies
 https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Sai Global Harmony Bhajan
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Sai Global Harmony Bhajan
 http://stream.radiosai.net:8000
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Schizoid - Chillout / Ambient
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Schizoid - Chillout / Ambient
 http://94.130.113.214:8000/chill
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Schizoid - Dub Techno
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Schizoid - Dub Techno
 http://94.130.113.214:8000/dubtechno
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Schizoid - Progressive Psychedelic Trance
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Schizoid - Progressive Psychedelic Trance
 http://94.130.113.214:8000/prog
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", radio sense
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", radio sense
 https://eu10.fastcast4u.com:3925/stream
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Teen Taal Bollywood
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Radio Teen Taal Bollywood
 http://www.radioteentaal.com:8000
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", radio udaan
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", radio udaan
 https://onlineradiobox.com/json/in/radioudaan/play?platform=web
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", SportsFlashes all sports radio
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", SportsFlashes all sports radio
 https://azura.shoutca.st/radio/8620/radio.mp3
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", The Buddhist Online Radio
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", The Buddhist Online Radio
 http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", THE BUDDHIST RADIO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", THE BUDDHIST RADIO
 http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Ujala Radio
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADIO", Ujala Radio
 http://stream2.ujala.nl/stream/2/listen.mp3
 
 
-#EXTINF:-1 tvg-id="901" tvg-name="FM Gold" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_AIR_Gold_1001.jpg" group-title="RADIO", FM Gold
+#EXTINF:-1 tvg-id="901" tvg-name="FM Gold" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_AIR_Gold_1001.jpg" group-title="RADIO"", FM Gold
 http://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/master.m3u8
-#EXTINF:-1 tvg-id="902" tvg-name="FM Rainbow" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_AIR_Rainbow_1026.png" group-title="RADIO", FM Rainbow
+#EXTINF:-1 tvg-id="902" tvg-name="FM Rainbow" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_AIR_Rainbow_1026.png" group-title="RADIO"", FM Rainbow
 http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/master.m3u8
-#EXTINF:-1 tvg-id="903" tvg-name="FM Punjab" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_All_India_Radio.png" group-title="RADIO", FM Punjab
+#EXTINF:-1 tvg-id="903" tvg-name="FM Punjab" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_All_India_Radio.png" group-title="RADIO"", FM Punjab
 http://airpunjabi-lh.akamaihd.net/i/airpunjabi_1@507822/master.m3u8
-#EXTINF:-1 tvg-id="904" tvg-name="FM Vividh Bharati" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_Vividh_Bharati.png", group-title="RADIO", FM Vividh Bharati
+#EXTINF:-1 tvg-id="904" tvg-name="FM Vividh Bharati" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_Vividh_Bharati.png", group-title="RADIO"", FM Vividh Bharati
 https://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8
-#EXTINF:-1 tvg-id="905" tvg-name="Mohammed Rafi Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/mohammed_rafi_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Mohammed Rafi Radio
+#EXTINF:-1 tvg-id="905" tvg-name="Mohammed Rafi Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/mohammed_rafi_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO"", Mohammed Rafi Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="906" tvg-name="Lata Mangeshkar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/lata_mangeshkar_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Lata Mangeshkar Radio
+#EXTINF:-1 tvg-id="906" tvg-name="Lata Mangeshkar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/lata_mangeshkar_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO"", Lata Mangeshkar Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/latamangeshkar_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="907" tvg-name="Kishore Kumar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kishore_kumar_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Kishore Kumar Radio
+#EXTINF:-1 tvg-id="907" tvg-name="Kishore Kumar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kishore_kumar_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO"", Kishore Kumar Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="908" tvg-name="Asha Bhosle Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/asha_bhosle_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Asha Bhosle Radio
+#EXTINF:-1 tvg-id="908" tvg-name="Asha Bhosle Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/asha_bhosle_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO"", Asha Bhosle Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/ashabhosle_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="909" tvg-name="Udit Narayan Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/udit_narayan_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Udit Narayan Radio
+#EXTINF:-1 tvg-id="909" tvg-name="Udit Narayan Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/udit_narayan_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO"", Udit Narayan Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="910" tvg-name="Abhijeet Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/abhijeet_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Abhijeet Radio
+#EXTINF:-1 tvg-id="910" tvg-name="Abhijeet Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/abhijeet_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO"", Abhijeet Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/abhijeet_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="911" tvg-name="Alka Yagnik Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/alka_yagnik_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Alka Yagnik Radio
+#EXTINF:-1 tvg-id="911" tvg-name="Alka Yagnik Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/alka_yagnik_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO"", Alka Yagnik Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="912" tvg-name="Kumar Sanu Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kumar_sanu_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Kumar Sanu Radio
+#EXTINF:-1 tvg-id="912" tvg-name="Kumar Sanu Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kumar_sanu_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO"", Kumar Sanu Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/kumarsanu_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="913" tvg-name="Mirchi Top 20" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/18.jpg" group-title="RADIO", Mirchi Top 20
+#EXTINF:-1 tvg-id="913" tvg-name="Mirchi Top 20" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/18.jpg" group-title="RADIO"", Mirchi Top 20
 https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
-#EXTINF:-1 tvg-id="914" tvg-name="Club Mirchi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/5.jpg" group-title="RADIO", Club Mirchi
+#EXTINF:-1 tvg-id="914" tvg-name="Club Mirchi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/5.jpg" group-title="RADIO"", Club Mirchi
 https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
-#EXTINF:-1 tvg-id="915" tvg-name="Filmy Mirchi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/9.jpg" group-title="RADIO", Filmy Mirchi
+#EXTINF:-1 tvg-id="915" tvg-name="Filmy Mirchi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/9.jpg" group-title="RADIO"", Filmy Mirchi
 https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
-#EXTINF:-1 tvg-id="916" tvg-name="Mirchi Yo! Punjabi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/13.jpg" group-title="RADIO", Mirchi Yo! Punjabi
+#EXTINF:-1 tvg-id="916" tvg-name="Mirchi Yo! Punjabi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/13.jpg" group-title="RADIO"", Mirchi Yo! Punjabi
 https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
-#EXTINF:-1 tvg-id="917" tvg-name="Mirchi Inter Hitz" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/21.jpg" group-title="RADIO", Mirchi Inter Hitz
+#EXTINF:-1 tvg-id="917" tvg-name="Mirchi Inter Hitz" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/21.jpg" group-title="RADIO"", Mirchi Inter Hitz
 https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
 
-#EXTINF:-1 tvg-id="918" tvg-name="Mirchi English Love" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/1.jpg" group-title="RADIO", Mirchi English Love
+#EXTINF:-1 tvg-id="918" tvg-name="Mirchi English Love" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/1.jpg" group-title="RADIO"", Mirchi English Love
 https://radioromancehdli-lh.akamaihd.net/i/RadioRomanceHDLive_1_1@334956/master.m3u8
-#EXTINF:-1 tvg-id="919" tvg-name="Mirchi Mehfil-e-Zhazal" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/17.jpg" group-title="RADIO", Mirchi Mehfil-e-Zhazal
+#EXTINF:-1 tvg-id="919" tvg-name="Mirchi Mehfil-e-Zhazal" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/17.jpg" group-title="RADIO"", Mirchi Mehfil-e-Zhazal
 https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8
-#EXTINF:-1 tvg-id="920" tvg-name="Mirchi 90's" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/10.jpg" group-title="RADIO", Mirchi 90's
+#EXTINF:-1 tvg-id="920" tvg-name="Mirchi 90's" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/10.jpg" group-title="RADIO"", Mirchi 90's
 https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
-#EXTINF:-1 tvg-id="921" tvg-name="Mirchi Pehla Nasha" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/15.jpg" group-title="RADIO", Mirchi Pehla Nasha
+#EXTINF:-1 tvg-id="921" tvg-name="Mirchi Pehla Nasha" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/15.jpg" group-title="RADIO"", Mirchi Pehla Nasha
 https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8
-#EXTINF:-1 tvg-id="922" tvg-name="Meethi Mirchi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/2.jpg" group-title="RADIO", Meethi Mirchi
+#EXTINF:-1 tvg-id="922" tvg-name="Meethi Mirchi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/2.jpg" group-title="RADIO"", Meethi Mirchi
 https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
-#EXTINF:-1 tvg-id="923" tvg-name="Mirchi Hindi Retro" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/3.jpg" group-title="RADIO", Mirchi Hindi Retro
+#EXTINF:-1 tvg-id="923" tvg-name="Mirchi Hindi Retro" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/3.jpg" group-title="RADIO"", Mirchi Hindi Retro
 https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
-#EXTINF:-1 tvg-id="924" tvg-name="Mirchi Rockistanh" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/7.jpg" group-title="RADIO", Mirchi Rockistanh
+#EXTINF:-1 tvg-id="924" tvg-name="Mirchi Rockistanh" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/7.jpg" group-title="RADIO"", Mirchi Rockistanh
 https://mirchirockistanh-lh.akamaihd.net/i/MirchiRockistanHDLiv_1_1@336273/master.m3u8
-#EXTINF:-1 tvg-id="925" tvg-name="Mirchi Indies" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/6.jpg" group-title="RADIO", Mirchi Indies
+#EXTINF:-1 tvg-id="925" tvg-name="Mirchi Indies" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/6.jpg" group-title="RADIO"", Mirchi Indies
 https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
-#EXTINF:-1 tvg-id="925" tvg-name="Mirchi Devraag" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/8.jpg" group-title="RADIO", Mirchi Devraag
+#EXTINF:-1 tvg-id="925" tvg-name="Mirchi Devraag" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/8.jpg" group-title="RADIO"", Mirchi Devraag
 https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
 
 ----------------------------------------------------------NZ-----------------------------------------------------------
@@ -3881,9 +3860,10 @@ http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
 #EXTINF:0 tvg-id="avi" tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true" group-title="ASIAN HDTV" Introduction
 https://github.com/ahdtv/Introduction/blob/master/Promotional%20Video.mp4?raw=true
 
+#EXTM3U url-tvg="http://indtv.online/nz/guide.nz"
 #EXTM3U url-tvg="http://m3u4u.com/epg/69wkngm8xmfxwrmnq8gd"
 #EXTM3U x-tvg-url="http://indtv.online/guide.gz"
 #EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
-#EXTM3U url-tvg="http://dragoniptv.club:8080/xmltv.php?username=csfgpjYggr&password=5gzVWKng8q" Dragon
+
 
 
