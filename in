@@ -3853,9 +3853,21 @@ https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/3TZPKGL.png" tvg-country="IN" tvg-url="" group-title="Punjabi",Sikh Channel USA
 http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
 
+
+------------------------------------India Only-----------------------------------------------
+
+#EXTINF:0 group-title="Sports (India Only)" ,Star Sports 1 4K
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18182
+#EXTINF:0 group-title="Sports (India Only)" ,Star Sports 2 4K
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18183
+#EXTINF:0 group-title="Sports (India Only)" ,Star Sports Select 1 4K
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18184
+#EXTINF:0 group-title="Sports (India Only)" ,Star Sports Select 2 4K
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18185
+
 -------------------------------------Asian HDTV-----------------------------------------------
 
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true" group-title="ASIAN HDTV" Introduction
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true" group-title="Introduction" 
 https://github.com/ahdtv/Introduction/blob/master/Promotional%20Video.mp4?raw=true
 
 #EXTM3U url-tvg="http://indtv.online/nz/guide.nz"
