@@ -179,6 +179,8 @@ http://indtv.online/nz/jiotv/Balle_Balle_TV.m3u8
 http://indtv.online/nz/jiotv/Aaj_Tak.m3u8
 #EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News India
 http://indtv.online/nz/jiotv/ABP_News_India.m3u8
+#EXTINF:-1 tvg-id="5" tvg-language="HINDI" tvg-name="Republic Bharat" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Republic_Bharat.png?raw=true" group-title="NEWS", Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 #EXTINF:-1 tvg-id="231" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News",News 18 India
 http://indtv.online/nz/jiotv/IBN_7.m3u8
 #EXTINF:-1 tvg-id="235" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News",India TV
