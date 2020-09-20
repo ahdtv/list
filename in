@@ -1,805 +1,7 @@
-#EXTM3U url-tvg="#EXTM3U x-tvg-url="http://indtv.online/guide.gz""
-
-
--------------------------------------------------------------NEWS-----------------------------------------------------------------------
-
-
-#EXTINF:-1 tvg-id="1" tvg-language="HINDI" tvg-name="Aaj Tak-IN" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Aaj_Tak_HD.png" group-title="NEWS", Aaj Tak HD
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-language="HINDI" tvg-name="ABP News India-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ABP_News_India.png?raw=true" group-title="NEWS", ABP News HD
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
-
-
-#EXTINF:-1 tvg-id="3" tvg-language="HINDI" tvg-name="Zee News-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS", Zee News
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/940
-
-
-#EXTINF:-1 tvg-id="231" tvg-language="HINDI" tvg-name="News18 India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="NEWS", News18 India
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-
-
-#EXTINF:-1 tvg-id="4" tvg-language="HINDI" tvg-name="Zee Business-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Business.png?raw=true" group-title="NEWS", Zee Business
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-http://three.somee.com/rade/web.php?c=zeebusiness 
-
-
-
-#EXTINF:-1 tvg-id="5" tvg-language="HINDI" tvg-name="Republic Bharat" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Republic_Bharat.png?raw=true" group-title="NEWS", Republic Bharat
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
-
-
-#EXTINF:-1 tvg-id="6" tvg-language="HINDI" tvg-name="NDTV India-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/NDTV_India.png?raw=true" group-title="NEWS", NDTV India
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
-
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="7" tvg-language="HINDI" tvg-name="India TV-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true" group-title="NEWS", India TV
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="8" tvg-language="HINDI" tvg-name="IBC 24" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/IBC-24.png?raw=true" group-title="NEWS", IBC 24
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-https://livetv.ibc24.in/livestream.m3u8
-
-
-#EXTINF:-1 tvg-id="9" tvg-language="HINDI" tvg-name="News 24" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News_24.png?raw=true" group-title="NEWS", News 24
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="10" tvg-language="HINDI" tvg-name="TV9 Bharat" tvg-logo="https://tv9bharatvarshmedia.s3.amazonaws.com/wp-content/uploads/2018/08/BHARATVARSH-OLD-LOGO-FINAL-02-1-1024x984.png" group-title="NEWS", TV9 Bharat
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://z5live2media.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-II/49882fe4-3b88-4699-a4c5-24f5445fccad/4.m3u8
-
-
-
-#EXTINF:-1 tvg-id="11" tvg-language="HINDI" tvg-name="CNBC Awaaz" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_Awaaz.png?raw=true" group-title="NEWS", CNBC Awaaz
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
-
-
-
-#EXTINF:-1 tvg-id="12" tvg-language="HINDI" tvg-name="CNBC Bajar" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_Bazaar.png?raw=true" group-title="NEWS", CNBC Bajar
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
-
-
-
-#EXTINF:-1 tvg-id="13" tvg-language="HINDI" tvg-name="DD News-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_News.png?raw=true" group-title="NEWS", DD News
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 tvg-id="14" tvg-language="HINDI" tvg-name="Lok Sabha TV" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Loksabha_TV.png?raw=true" group-title="NEWS", Lok Sabha TV
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
-
-
-
-#EXTINF:-1 tvg-id="15" tvg-language="HINDI" tvg-name="RSTV RajyaSabha" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Rajyasabha.png?raw=true" group-title="NEWS", RSTV RajyaSabha
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="16" tvg-language="HINDI" tvg-name="Times Now HD-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Times_Now_HD.png?raw=true" group-title="NEWS", Times Now HD
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-
-
-#EXTINF:-1 tvg-id="17" tvg-language="HINDI" tvg-name="News18 Lokmat" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_Lokmat.png?raw=true" group-title="NEWS", News18_Lokmat
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
-
-
-
-#EXTINF:-1 tvg-id="18" tvg-language="ENGLISH" tvg-name="NDTV 24x7" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/NDTV_24x7.png?raw=true" group-title="NEWS", NDTV 24x7
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
-
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="19" tvg-language="ENGLISH" tvg-name="NDTV Profit" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/NDTV_Profit.png?raw=true" group-title="NEWS", NDTV Profit
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="20" tvg-language="ENGLISH" tvg-name="Republic TV-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Republic_TV.png?raw=true" group-title="NEWS", Republic
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://weblive.republicworld.com/liveorigin/republictv/master.m3u8?e=0&h=c89d651ba153df2f8d31076898067fd2
-
-
-
-#EXTINF:-1 tvg-id="21" tvg-language="ENGLISH" tvg-name="India Today-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_Today.png?raw=true" group-title="NEWS", India Today
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="22" tvg-language="ENGLISH" tvg-name="News18 India" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNN_NEWS_18.png?raw=true" group-title="NEWS", CNN News18
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
-
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-
-
-
-#EXTINF:-1 tvg-id="23" tvg-language="ENGLISH" tvg-name="CNBC TV18" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_TV18.png?raw=true" group-title="NEWS", CNBC TV18
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10&play-only=primary&rebase=on
-
-
-#EXTINF:-1 tvg-id="23" tvg-language="Hindi" tvg-name="News State Uttar Pradesh" tvg-logo="https://github.com/ahdtv/Logos/blob/master/News%20State%20UP.jpg?raw=true" group-title="NEWS", News State Uttar Pradesh
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-http://indtv.online/zee5/0-9-171.m3u8
-
-#EXTINF:-1 tvg-id="23" tvg-language="Hindi" tvg-name="Zee Hindustan" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true" group-title="NEWS", Zee Hindustan
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=hindustan
-
-#EXTINF:-1 tvg-id="23" tvg-language="Hindi" tvg-name="Tez" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Tez.png?raw=true" group-title="NEWS", Tez
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-http://indtv.online/zee5/0-9-255.m3u8
-
-#EXTINF:-1 tvg-id="23" tvg-language="English" tvg-name="WION" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Wion.png?raw=true" group-title="NEWS", WION
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=wion
-
-#EXTINF:-1 tvg-id="24" tvg-name="Amar Ujala" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Amar%20Ujala.png?raw=true" group-title="NEWS",Amar Ujala
-https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="25" tvg-name="" tvg-language="Hindi" tvg-logo="https://github.com/ahdtv/Logos/blob/master/janatatv.png?raw=true" group-title="NEWS",Janta TV
-https://live.wmncdn.net/jantatv/live.stream/index.m3u8
-
-
----------------------------------------------------------------------Punjabi-------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="1" tvg-language="PUNJABI" tvg-name="Gabruu TV Australia" tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="Punjabi", Gabruu TV Australia
-http://104.237.60.234/live/gabruutv.m3u8
-
-
-#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Gaunda Punjab TV Canada" tvg-logo="https://i.imgur.com/J74dCx6.png" group-title="Punjabi", Gaunda Punjab TV Canada
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="World Punjabi TV" tvg-logo="https://github.com/ahdtv/Logos/blob/master/World%20Punjabi%20TV.jpg" group-title="Punjabi", World Punjabi TV
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
-
-#EXTINF:-1 tvg-id="959" tvg-language="PUNJABI" tvg-name="Jus Punjabi HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/JUSPunjabi.png?raw=true" group-title="Punjabi", Jus Punjabi HD
-https://afail83784gqhav.belugacdn.link/JP_Liveorigin/ngrp:RTMP_JUS_INTL.stream_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Gurbani Healing" tvg-logo="https://i.imgur.com/qJkwmlD.jpg" group-title="Punjabi", Gurbani Healing
-http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTj-9TdwAi5mDrzMz3H6mOm6G-P4N7jjYg8yTedWPAApqSTw6G8" group-title="PUNJABI",Shemaroo Punjabi
-https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/playlist_cf.m3u8
-
-#EXTINF:-1 tvg-id="1171" tvg-language="PUNJABI" tvg-name="PTC Punjabi-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/PTC_Punjabi.png?raw=true" group-title="Punjabi", PTC Punjabi
-http://indtv.online/nz/jiotv/PTC_Punjabi.m3u8
-http://13.232.161.202:1935/PUNJABIIN/smil:Live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="PTC News-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/PTC_News.png?raw=true", group-title="PUNJABI", PTC News
-http://13.232.161.202:1935/newsIn/smil:Live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Jhanjar Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Punjabi", Jhanjar Music
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-
-
-EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Punjabi Tadka" tvg-logo="https://pbs.twimg.com/profile_images/835576701056753664/pS8SxozM.jpg" group-title="Punjabi", Punjabi Tadka
-
-
-#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Punjabi TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJABITVV.jpg" group-title="Punjabi", Punjabi TV
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="News18 PB HP HR" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_Haryana_HP.png?raw=true" group-title="NEWS", News18 PB HP HR
-https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-b.m3u8
-
-#EXTINF:-1 tvg-id="831" tvg-language="PUNJABI" tvg-name="Living India News" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Living_India_News.png?raw=true" group-title="Punjabi", Living India News
-https://rtmp.smartstream.video/liveindia/liveindia/playlist.m3u8
-
-
-EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="PTC News-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/PTC_News.png?raw=true" group-title="Punjabi", DD Punjabi
-
-
-#EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="Desi Channel" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Desi%20Channel.jpg?raw=true" group-title="Punjabi", Desi Channel
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-
-#EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="Desi Plus" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg", group-title="Punjabi" Desi Plus
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1190" tvg-language="PUNJABI" tvg-name="PTC Punjabi Gold " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="Punjabi", PTC Punjabi Gold 
-http://13.232.161.202:1935/goldIn/smil:Live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1172" tvg-language="PUNJABI" tvg-name="PTC Chak de-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/PTC_Chak_De.png?raw=true" group-title="Punjabi", PTC Chak De
-http://13.232.161.202:1935/chakdeIn/smil:Live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1188" tvg-language="PUNJABI" tvg-name="PTC Dhol TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png" group-title="Punjabi", PTC Dhol TV HD
-http://13.232.161.202:1935/dholtvIn/smil:Live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1189" tvg-language="PUNJABI" tvg-name="PTC Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" group-title="Punjabi", PTC Music
-http://13.232.161.202:1935/musicIn/smil:Live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="961" tvg-language="PUNJABI" tvg-name="Jus One" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/JUSOne.png?raw=true" group-title="Punjabi", Jus One
-https://afail83784gqhav.belugacdn.link/JO_Liveorigin/ngrp:JUSOne_Pipe.stream_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1162" tvg-language="PUNJABI" tvg-name="Prime Asia HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Asia_Tv.png" group-title="Punjabi", Prime Asia HD
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-
-EXTINF:-1 tvg-id="1184" tvg-language="PUNJABI" tvg-name="Steelbird Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Punjabi", Steelbird Music
-
-
-#EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Punjabi Tadka - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Punjabi Tadka - Hungama" group-title="Punjabi", Punjabi Tadka - Hungama
-https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Jatt TV" tvg-language="PUNJABI" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Jatt%20TV.png?raw=true" group-title="PUNJABI",Jatt TV
-https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=JCp6gtouk2QPBi3gjVQaTQ;ci=lc5Dj7aG8uTMtaU_WwLCxg
-
-#EXTINF:-1 tvg-chno="71" tvg-id="BritAsiaTV.uk(m3u4u)" tvg-name="Brit Asia TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104280_dark_360w_270h.png" group-title="Punjabi",Brit Asia TV
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/3TZPKGL.png" tvg-country="IN" tvg-url="" group-title="Punjabi",Sikh Channel USA
-http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
-
------------------------------------------------------------English Movies-------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX FHD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES",MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES",MBC 2 FHD
-https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC Action FHD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies  HD (India)
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="ENGLISH MOVIES",Fox Action Movies
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="ENGLISH MOVIES",A HD
-https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English Movies",Star Movies Select HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png" group-title="English Movies",AXN HD
-http://210.210.155.35/uq2663/h/h141/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/BEwp4Mj/" group-title="English Movies", &flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
-EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/" group-title="English Movies",Sony Pix HD
-https://watchindia.net:8443/live/46887/80074/2101.ts
-
-#EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies",007 James Bond
-http://tx.flv.nimo.tv:80/live/su1599512427635r42b9eee8a790b0e2fc8e1a6ba0562e37.flv
-
-#EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies",Tom Cruise Movies
-https://ws.flv.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.flv
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="English Movies",KIX
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/DD7eWYT.png" group-title="English Movies",Hits
-http://45.126.83.51/uq2663/h/h37/index.m3u8
-
-EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies",Nimo TV 1
-http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
-
-EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies",Nimo TV 3
-https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e.flv
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="English Movies",And Prive HD
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/download/22lPuK7/" group-title="English Movies", AXN
-http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
-
-#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="Movies Now HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="English Movies", Movies Now HD
-https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-
-#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="HBO HD" tvg-logo="https://github.com/ahdtv/Logos/blob/master/HBO%20HD.png?raw=true" group-title="English Movies", HBO HD
-http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
-
-#EXTINF:-1 tvg-id="151" tvg-language="ENGLISH" tvg-name="Warner TV" tvg-logo="https://e7.pngegg.com/pngimages/462/535/png-clipart-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem.png" group-title="English Movies", Warner TV
-http://203.154.243.89:11205/
-
-
-EXTINF:-1 tvg-id="478" tvg-language="ENGLISH" tvg-name="Movie Zone" tvg-logo="https://www.feast.org.au/live/wp-content/uploads/2018/08/Chill-Out-Movie-Zone.png" group-title="English Movies", Movie Zone
-https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
-
-EXTINF:-1 tvg-id="866" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="English Movies",Jio Exclusive HD
-
-
-#EXTINF:-1 tvg-logo="" group-title="English Movies",MN+
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
-
-EXTINF:-1 tvg-id="877" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English Movies",MNX HD
-
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO6ZyVTRZlH_TGDzGomW27FmoT1A0LSNlGdhRK0sMgWGeyH0kQ&usqp=CAU" group-title="English Movies",Romedy Now HD
-https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.epg.best/us/FX.us.png" group-title="English Movies",FX
-http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Docurama.us(m3u4u)" tvg-name="Docurama" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110479_dark_360w_270h.png" group-title="ENGLISH MOVIES",Docurama
-https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=05330384-0b37-5782-9b3c-e8cca033e171&dnt=0&X-Plex-Token=V7ahETykFvBFxnymMCty&channelId=5f170f01b898490041b49dd1/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1920x1080_5491200/index.m3u8
-#EXTINF:-1 tvg-id="TheFilmDetective.us(m3u4u)" tvg-name="The Film Detective" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s112484_dark_360w_270h.png" group-title="ENGLISH MOVIES",The Film Detective
-https://filmdetective-plex.amagi.tv/amRdirect/us_privacy=1---&did=05330384-0b37-5782-9b3c-e8cca033e171&dnt=0&X-Plex-Token=V7ahETykFvBFxnymMCty&channelId=5eea605674085f0040ddc7a3/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/1280x720_3256000/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="24/7 Retro TV" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="ENGLISH MOVIES",24/7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-chno="113" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Classics Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/Screenshot_2.png" group-title="ENGLISH MOVIES",Classics Tamil
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
-
-
-
-EXTINF:-1 tvg-chno="118" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Raasi Movies" tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="ENGLISH MOVIES",Raasi Movies
-
-
-#EXTINF:-1 tvg-chno="121" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Filmrise Classics" tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIES",Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 tvg-chno="122" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Filmrise Crime" tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIES",Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 tvg-chno="123" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Filmrise Family" tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIES",Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 tvg-chno="125" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Screamfest" tvg-logo="https://www.dealood.com/content/uploads/images/July2019/5d1d9c10568e7-maxresdefault[1]-large.jpg" group-title="ENGLISH MOVIES",Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-
-
-
-
-
-----------------------------------------------------------Devotional----------------------------------------------------------
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStjHpP0yhYrGC8BuBbD7qlnU8RpvS5VDYYjK7GUGtmGZZwXWfl" group-title="Devotional",Shemaroo Bhakti
-https://livechannel.shemaroome.com/linearplayout/bhakti-linear-channel/playlist_cf.m3u8
-
-
-#EXTINF:-1 tvg-id="288" tvg-language="HINDI" tvg-name="Shirdi Live" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91xrW4GnpLL._SY355_.png" group-title="Devotional", Shirdi Live
-https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
-
-
-
-EXTINF:-1 tvg-id="" tvg-language="PUNJABI" tvg-name="Amrit Vaani" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Amrit Vaani" group-title="Devotional", Amrit Vaani
-https://linear09hun-lh.akamaihd.net/i/amritvaani_1@685718/master.m3u8?n=3
-
-
-
-EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Bhakti Sagar" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Bhaktisagar_2.png?raw=true" group-title="Devotional", Bhakti Sagar
-https://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="288" tvg-language="HINDI" tvg-name="Sanskar" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sanskar.png?raw=true" group-title="Devotional", Sanskar
-https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
-
-
-
-#EXTINF:-1 tvg-id="597" tvg-language="HINDI" tvg-name="Satsang TV" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Satsang_TV.png?raw=true" group-title="Devotional", Satsang TV
-https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
-
-
-
-EXTINF:-1 tvg-id="594" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional",Aastha Bhajan
-
-
-
-
-----------------------------------------------------------NZ-----------------------------------------------------------
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVNZ 1" tvg-logo="https://i.mjh.nz/nz/images/tv.9.png" group-title="NZ", TVNZ 1
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://d1irqd0o6b6kl5.cloudfront.net/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVNZ 2" tvg-logo="https://i.mjh.nz/nz/images/tv.10.png" group-title="NZ", TVNZ 2
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://d3vsmj0a4dgta4.cloudfront.net/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Three" tvg-logo="https://i.mjh.nz/nz/images/tv.11.png" group-title="NZ", Three
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://livestreamdirect-three.mediaworks.nz/three.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Duke" tvg-logo="https://i.mjh.nz/nz/images/tv.55.png" group-title="NZ", Duke
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://d1nyrbw5nj219v.cloudfront.net/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Bravo" tvg-logo="https://i.mjh.nz/nz/images/tv.12.png" group-title="NZ", Bravo
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://bravo-livestream.mediaworks.nz/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Prime" tvg-logo="https://i.mjh.nz/nz/images/tv.28.png" group-title="NZ", Prime
-#
-EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://primetv-prod.akamaized.net/v1/prime-freeview-aes128_4.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="The Edge TV" tvg-logo="https://i.mjh.nz/nz/images/tv.51.png" group-title="NZ", The Edge TV
-#
-EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Choice TV" tvg-logo="https://i.mjh.nz/nz/images/tv.37.png" group-title="NZ", Choice TV
-#
-EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://livestreams.e-cast.co.nz/choicetv/choicetv_1000k.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="HGTV" tvg-logo="https://i.mjh.nz/nz/images/tv.58.png" group-title="NZ", HGTV
-#
-EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://livestreams.e-cast.co.nz/hgtv/hgtv_1000k.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVSN Shopping" tvg-logo="https://i.mjh.nz/nz/images/tv.45.png" group-title="NZ", TVSN Shopping
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Shine TV" tvg-logo="https://i.mjh.nz/nz/images/tv.7.png" group-title="NZ", Shine TV
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-https://rhemamedia.global.ssl.fastly.net/ShineTV_Legacy/high/chunklist_w1895959457.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Firstlight" tvg-logo="https://i.mjh.nz/nz/images/tv.39.png" group-title="NZ", Firstlight
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/chunklist_w1450617121_b900000_slen.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Parliament TV" tvg-logo="https://i.mjh.nz/nz/images/tv.18.png" group-title="NZ", Parliament TV
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="APNA Television" tvg-logo="https://i.mjh.nz/nz/images/tv.49.png" group-title="NZ", APNA Television
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://livestreams.e-cast.co.nz/apnatv/apnatv_1000k.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Wairarapa TV" tvg-logo="https://i.mjh.nz/nz/images/tv.60.png" group-title="NZ", Wairarapa TV
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Te Reo" tvg-logo="https://i.mjh.nz/nz/images/tv.20.png" group-title="NZ", Te Reo
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Maori Television" tvg-logo="https://i.mjh.nz/nz/images/tv.13.png" group-title="NZ", Maori Television
-
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
-
-https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
-
-
---------------------------------------------------------------RADIO-------------------------------------------------
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Mirchi Top 20
-https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Mirchi Unplugged
-https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - meethi Mirchi
-https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Pehla Nasha
-https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Devi Maa
-http://ibadat.out.airtime.pro:8000/ibadat_a
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Ganesha
-http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Gurbani
-http://gurbani.out.airtime.pro:8000/gurbani_a
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Guruvar
-http://iskon2b.out.airtime.pro:8000/iskon2b_a
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Krishna
-http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Shiva
-http://hot.out.airtime.pro:8000/hot_a
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Shri Ram
-http://dard.out.airtime.pro:8000/dard_a
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bhajans
-https://streamingv2.shoutcast.com/bhajansradioguyana
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Big 95 FM
-https://radioindia.net/radio/sc-bb/icecast.audio
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Punjabi Radio
-http://stream.zeno.fm/1k0y9f0cm0quv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Punjabi Radio
-http://stream.zeno.fm/1k0y9f0cm0quv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Radio and Beyond
-http://96.31.83.86:8084/;
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Radio and Beyond
-http://69.4.230.78:9000/;
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Radio and Beyond
-http://185.80.220.12:8046/stream
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Harman Radio Australia
-http://harmanradio.net:8000/main_48.mp3
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Jesus Alive Radio
-http://stream.zenolive.com/qyb8s75nsceuv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Non Stop Hindi Radio
-http://198.178.123.14:8216/;
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Nuke Radio Hindi
-https://live.nukeradio.com/proxy/nukehindi?mp=/stream3
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio
-https://www.radiomirchi.com/
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Apna
-http://ca.rcast.net:8048/
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio BollyFm
-http://stream.radiobollyfm.in:8201/hd?t=1526570335
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio City
-http://prclive1.listenon.in:9302/;
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio City (india) - Hindi
-http://prclive1.listenon.in:9960/
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio city Dance
-http://prclive1.listenon.in:8994
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio City Smaran
-http://prclive1.listenon.in:9950/
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Dil Apna Punjabi
-http://my.radiodap.ca:9000
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Garam Masala
-http://69.175.94.98:8146/
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Hindi International
-http://radio.bongonet.net:8012/rhi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Ishara
-http://nickerie.webhop.net:8000/;stream.mp3
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi
-http://peridot.streamguys.com:7150/Mirchi
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - 90s Hit Songs
-https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Club Mirchi
-https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Devraag
-https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Drive Radio
-https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Filmy Mirchi
-https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Hindi Retro
-https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Indies
-https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Sai Global Harmony Bhajan
-http://stream.radiosai.net:8000
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Schizoid - Chillout / Ambient
-http://94.130.113.214:8000/chill
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Schizoid - Dub Techno
-http://94.130.113.214:8000/dubtechno
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Schizoid - Progressive Psychedelic Trance
-http://94.130.113.214:8000/prog
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", radio sense
-https://eu10.fastcast4u.com:3925/stream
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Teen Taal Bollywood
-http://www.radioteentaal.com:8000
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", radio udaan
-https://onlineradiobox.com/json/in/radioudaan/play?platform=web
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", SportsFlashes all sports radio
-https://azura.shoutca.st/radio/8620/radio.mp3
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", The Buddhist Online Radio
-http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", THE BUDDHIST RADIO
-http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Ujala Radio
-http://stream2.ujala.nl/stream/2/listen.mp3
-
-
-#EXTINF:-1 tvg-id="901" tvg-name="FM Gold" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_AIR_Gold_1001.jpg" group-title="RADIO", FM Gold
-http://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/master.m3u8
-#EXTINF:-1 tvg-id="902" tvg-name="FM Rainbow" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_AIR_Rainbow_1026.png" group-title="RADIO", FM Rainbow
-http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/master.m3u8
-#EXTINF:-1 tvg-id="903" tvg-name="FM Punjab" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_All_India_Radio.png" group-title="RADIO", FM Punjab
-http://airpunjabi-lh.akamaihd.net/i/airpunjabi_1@507822/master.m3u8
-#EXTINF:-1 tvg-id="904" tvg-name="FM Vividh Bharati" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_Vividh_Bharati.png", group-title="RADIO", FM Vividh Bharati
-https://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8
-#EXTINF:-1 tvg-id="905" tvg-name="Mohammed Rafi Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/mohammed_rafi_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Mohammed Rafi Radio
-https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="906" tvg-name="Lata Mangeshkar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/lata_mangeshkar_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Lata Mangeshkar Radio
-https://shemaroomusicradio.shemaroo.com/bollywoodmusic/latamangeshkar_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="907" tvg-name="Kishore Kumar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kishore_kumar_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Kishore Kumar Radio
-https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="908" tvg-name="Asha Bhosle Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/asha_bhosle_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Asha Bhosle Radio
-https://shemaroomusicradio.shemaroo.com/bollywoodmusic/ashabhosle_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="909" tvg-name="Udit Narayan Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/udit_narayan_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Udit Narayan Radio
-https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="910" tvg-name="Abhijeet Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/abhijeet_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Abhijeet Radio
-https://shemaroomusicradio.shemaroo.com/bollywoodmusic/abhijeet_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="911" tvg-name="Alka Yagnik Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/alka_yagnik_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Alka Yagnik Radio
-https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="912" tvg-name="Kumar Sanu Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kumar_sanu_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Kumar Sanu Radio
-https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/kumarsanu_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="913" tvg-name="Mirchi Top 20" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/18.jpg" group-title="RADIO", Mirchi Top 20
-https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
-#EXTINF:-1 tvg-id="914" tvg-name="Club Mirchi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/5.jpg" group-title="RADIO", Club Mirchi
-https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
-#EXTINF:-1 tvg-id="915" tvg-name="Filmy Mirchi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/9.jpg" group-title="RADIO", Filmy Mirchi
-https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
-#EXTINF:-1 tvg-id="916" tvg-name="Mirchi Yo! Punjabi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/13.jpg" group-title="RADIO", Mirchi Yo! Punjabi
-https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
-#EXTINF:-1 tvg-id="917" tvg-name="Mirchi Inter Hitz" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/21.jpg" group-title="RADIO", Mirchi Inter Hitz
-https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
-
-#EXTINF:-1 tvg-id="918" tvg-name="Mirchi English Love" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/1.jpg" group-title="RADIO", Mirchi English Love
-https://radioromancehdli-lh.akamaihd.net/i/RadioRomanceHDLive_1_1@334956/master.m3u8
-#EXTINF:-1 tvg-id="919" tvg-name="Mirchi Mehfil-e-Zhazal" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/17.jpg" group-title="RADIO", Mirchi Mehfil-e-Zhazal
-https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8
-#EXTINF:-1 tvg-id="920" tvg-name="Mirchi 90's" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/10.jpg" group-title="RADIO", Mirchi 90's
-https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
-#EXTINF:-1 tvg-id="921" tvg-name="Mirchi Pehla Nasha" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/15.jpg" group-title="RADIO", Mirchi Pehla Nasha
-https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8
-#EXTINF:-1 tvg-id="922" tvg-name="Meethi Mirchi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/2.jpg" group-title="RADIO", Meethi Mirchi
-https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
-#EXTINF:-1 tvg-id="923" tvg-name="Mirchi Hindi Retro" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/3.jpg" group-title="RADIO", Mirchi Hindi Retro
-https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
-#EXTINF:-1 tvg-id="924" tvg-name="Mirchi Rockistanh" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/7.jpg" group-title="RADIO", Mirchi Rockistanh
-https://mirchirockistanh-lh.akamaihd.net/i/MirchiRockistanHDLiv_1_1@336273/master.m3u8
-#EXTINF:-1 tvg-id="925" tvg-name="Mirchi Indies" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/6.jpg" group-title="RADIO", Mirchi Indies
-https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
-#EXTINF:-1 tvg-id="925" tvg-name="Mirchi Devraag" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/8.jpg" group-title="RADIO", Mirchi Devraag
-https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+#EXTM3U url-tvg="#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
 
 ---------------------------------------CHINA------------------------------------------
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-1 综合
-http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-1 综合
 http://117.169.120.140:8080/live/cctv-1/.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CHINA",CCTV中国中央电视台-1 综合
@@ -2833,6 +2035,811 @@ http://stream.lytv.net.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CHINA",龙岩综合
 http://stream.lytv.net.cn/2/sd/live.m3u8
 http://stream.lytv.net.cn/2/sd/live.m3u8
+
+-------------------------------------------------------------NEWS-----------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="1" tvg-language="HINDI" tvg-name="Aaj Tak-IN" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Aaj_Tak_HD.png" group-title="NEWS", Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-language="HINDI" tvg-name="ABP News India-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ABP_News_India.png?raw=true" group-title="NEWS", ABP News HD
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
+
+
+#EXTINF:-1 tvg-id="3" tvg-language="HINDI" tvg-name="Zee News-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_News.png?raw=true" group-title="NEWS", Zee News
+http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/940
+
+
+#EXTINF:-1 tvg-id="231" tvg-language="HINDI" tvg-name="News18 India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="NEWS", News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+
+
+#EXTINF:-1 tvg-id="4" tvg-language="HINDI" tvg-name="Zee Business-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Business.png?raw=true" group-title="NEWS", Zee Business
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+http://three.somee.com/rade/web.php?c=zeebusiness 
+
+
+
+#EXTINF:-1 tvg-id="5" tvg-language="HINDI" tvg-name="Republic Bharat" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Republic_Bharat.png?raw=true" group-title="NEWS", Republic Bharat
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+
+
+#EXTINF:-1 tvg-id="6" tvg-language="HINDI" tvg-name="NDTV India-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/NDTV_India.png?raw=true" group-title="NEWS", NDTV India
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="7" tvg-language="HINDI" tvg-name="India TV-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_TV.png?raw=true" group-title="NEWS", India TV
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="8" tvg-language="HINDI" tvg-name="IBC 24" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/IBC-24.png?raw=true" group-title="NEWS", IBC 24
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+https://livetv.ibc24.in/livestream.m3u8
+
+
+#EXTINF:-1 tvg-id="9" tvg-language="HINDI" tvg-name="News 24" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News_24.png?raw=true" group-title="NEWS", News 24
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="10" tvg-language="HINDI" tvg-name="TV9 Bharat" tvg-logo="https://tv9bharatvarshmedia.s3.amazonaws.com/wp-content/uploads/2018/08/BHARATVARSH-OLD-LOGO-FINAL-02-1-1024x984.png" group-title="NEWS", TV9 Bharat
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://z5live2media.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-II/49882fe4-3b88-4699-a4c5-24f5445fccad/4.m3u8
+
+
+
+#EXTINF:-1 tvg-id="11" tvg-language="HINDI" tvg-name="CNBC Awaaz" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_Awaaz.png?raw=true" group-title="NEWS", CNBC Awaaz
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 tvg-id="12" tvg-language="HINDI" tvg-name="CNBC Bajar" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_Bazaar.png?raw=true" group-title="NEWS", CNBC Bajar
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="13" tvg-language="HINDI" tvg-name="DD News-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_News.png?raw=true" group-title="NEWS", DD News
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-id="14" tvg-language="HINDI" tvg-name="Lok Sabha TV" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Loksabha_TV.png?raw=true" group-title="NEWS", Lok Sabha TV
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 tvg-id="15" tvg-language="HINDI" tvg-name="RSTV RajyaSabha" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/DD_Rajyasabha.png?raw=true" group-title="NEWS", RSTV RajyaSabha
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="16" tvg-language="HINDI" tvg-name="Times Now HD-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Times_Now_HD.png?raw=true" group-title="NEWS", Times Now HD
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
+
+#EXTINF:-1 tvg-id="17" tvg-language="HINDI" tvg-name="News18 Lokmat" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_Lokmat.png?raw=true" group-title="NEWS", News18_Lokmat
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="18" tvg-language="ENGLISH" tvg-name="NDTV 24x7" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/NDTV_24x7.png?raw=true" group-title="NEWS", NDTV 24x7
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="19" tvg-language="ENGLISH" tvg-name="NDTV Profit" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/NDTV_Profit.png?raw=true" group-title="NEWS", NDTV Profit
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="20" tvg-language="ENGLISH" tvg-name="Republic TV-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Republic_TV.png?raw=true" group-title="NEWS", Republic
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://weblive.republicworld.com/liveorigin/republictv/master.m3u8?e=0&h=c89d651ba153df2f8d31076898067fd2
+
+
+
+#EXTINF:-1 tvg-id="21" tvg-language="ENGLISH" tvg-name="India Today-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/India_Today.png?raw=true" group-title="NEWS", India Today
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="22" tvg-language="ENGLISH" tvg-name="News18 India" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNN_NEWS_18.png?raw=true" group-title="NEWS", CNN News18
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="23" tvg-language="ENGLISH" tvg-name="CNBC TV18" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/CNBC_TV18.png?raw=true" group-title="NEWS", CNBC TV18
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10&play-only=primary&rebase=on
+
+
+#EXTINF:-1 tvg-id="23" tvg-language="Hindi" tvg-name="News State Uttar Pradesh" tvg-logo="https://github.com/ahdtv/Logos/blob/master/News%20State%20UP.jpg?raw=true" group-title="NEWS", News State Uttar Pradesh
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+http://indtv.online/zee5/0-9-171.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-language="Hindi" tvg-name="Zee Hindustan" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true" group-title="NEWS", Zee Hindustan
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=hindustan
+
+#EXTINF:-1 tvg-id="23" tvg-language="Hindi" tvg-name="Tez" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Tez.png?raw=true" group-title="NEWS", Tez
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+http://indtv.online/zee5/0-9-255.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-language="English" tvg-name="WION" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Wion.png?raw=true" group-title="NEWS", WION
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=wion
+
+#EXTINF:-1 tvg-id="24" tvg-name="Amar Ujala" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Amar%20Ujala.png?raw=true" group-title="NEWS",Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="" tvg-language="Hindi" tvg-logo="https://github.com/ahdtv/Logos/blob/master/janatatv.png?raw=true" group-title="NEWS",Janta TV
+https://live.wmncdn.net/jantatv/live.stream/index.m3u8
+
+
+---------------------------------------------------------------------Punjabi-------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="1" tvg-language="PUNJABI" tvg-name="Gabruu TV Australia" tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="Punjabi", Gabruu TV Australia
+http://104.237.60.234/live/gabruutv.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Gaunda Punjab TV Canada" tvg-logo="https://i.imgur.com/J74dCx6.png" group-title="Punjabi", Gaunda Punjab TV Canada
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="World Punjabi TV" tvg-logo="https://github.com/ahdtv/Logos/blob/master/World%20Punjabi%20TV.jpg" group-title="Punjabi", World Punjabi TV
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="959" tvg-language="PUNJABI" tvg-name="Jus Punjabi HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/JUSPunjabi.png?raw=true" group-title="Punjabi", Jus Punjabi HD
+https://afail83784gqhav.belugacdn.link/JP_Liveorigin/ngrp:RTMP_JUS_INTL.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Gurbani Healing" tvg-logo="https://i.imgur.com/qJkwmlD.jpg" group-title="Punjabi", Gurbani Healing
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTj-9TdwAi5mDrzMz3H6mOm6G-P4N7jjYg8yTedWPAApqSTw6G8" group-title="PUNJABI",Shemaroo Punjabi
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/playlist_cf.m3u8
+
+#EXTINF:-1 tvg-id="1171" tvg-language="PUNJABI" tvg-name="PTC Punjabi-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/PTC_Punjabi.png?raw=true" group-title="Punjabi", PTC Punjabi
+http://indtv.online/nz/jiotv/PTC_Punjabi.m3u8
+http://13.232.161.202:1935/PUNJABIIN/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="PTC News-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/PTC_News.png?raw=true", group-title="PUNJABI", PTC News
+http://13.232.161.202:1935/newsIn/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Jhanjar Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Punjabi", Jhanjar Music
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+
+EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Punjabi Tadka" tvg-logo="https://pbs.twimg.com/profile_images/835576701056753664/pS8SxozM.jpg" group-title="Punjabi", Punjabi Tadka
+
+
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="Punjabi TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJABITVV.jpg" group-title="Punjabi", Punjabi TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-language="PUNJABI" tvg-name="News18 PB HP HR" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/News18_Haryana_HP.png?raw=true" group-title="NEWS", News18 PB HP HR
+https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-b.m3u8
+
+#EXTINF:-1 tvg-id="831" tvg-language="PUNJABI" tvg-name="Living India News" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Living_India_News.png?raw=true" group-title="Punjabi", Living India News
+https://rtmp.smartstream.video/liveindia/liveindia/playlist.m3u8
+
+
+EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="PTC News-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/PTC_News.png?raw=true" group-title="Punjabi", DD Punjabi
+
+
+#EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="Desi Channel" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Desi%20Channel.jpg?raw=true" group-title="Punjabi", Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+
+#EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="Desi Plus" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg", group-title="Punjabi" Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1190" tvg-language="PUNJABI" tvg-name="PTC Punjabi Gold " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="Punjabi", PTC Punjabi Gold 
+http://13.232.161.202:1935/goldIn/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1172" tvg-language="PUNJABI" tvg-name="PTC Chak de-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/PTC_Chak_De.png?raw=true" group-title="Punjabi", PTC Chak De
+http://13.232.161.202:1935/chakdeIn/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1188" tvg-language="PUNJABI" tvg-name="PTC Dhol TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png" group-title="Punjabi", PTC Dhol TV HD
+http://13.232.161.202:1935/dholtvIn/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1189" tvg-language="PUNJABI" tvg-name="PTC Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" group-title="Punjabi", PTC Music
+http://13.232.161.202:1935/musicIn/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="961" tvg-language="PUNJABI" tvg-name="Jus One" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/JUSOne.png?raw=true" group-title="Punjabi", Jus One
+https://afail83784gqhav.belugacdn.link/JO_Liveorigin/ngrp:JUSOne_Pipe.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1162" tvg-language="PUNJABI" tvg-name="Prime Asia HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Asia_Tv.png" group-title="Punjabi", Prime Asia HD
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+
+EXTINF:-1 tvg-id="1184" tvg-language="PUNJABI" tvg-name="Steelbird Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Punjabi", Steelbird Music
+
+
+#EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Punjabi Tadka - Hungama" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Punjabi Tadka - Hungama" group-title="Punjabi", Punjabi Tadka - Hungama
+https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Jatt TV" tvg-language="PUNJABI" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Jatt%20TV.png?raw=true" group-title="PUNJABI",Jatt TV
+https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=JCp6gtouk2QPBi3gjVQaTQ;ci=lc5Dj7aG8uTMtaU_WwLCxg
+
+EXTINF:-1 tvg-chno="71" tvg-id="BritAsiaTV.uk(m3u4u)" tvg-name="Brit Asia TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104280_dark_360w_270h.png" group-title="Punjabi",Brit Asia TV
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/3TZPKGL.png" tvg-country="IN" tvg-url="" group-title="Punjabi",Sikh Channel USA
+http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
+
+-----------------------------------------------------------English Movies-------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX FHD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES",MBC 2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES",MBC 2 FHD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC Action FHD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Movies",Star Movies  HD (India)
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="ENGLISH MOVIES",Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="ENGLISH MOVIES",A HD
+https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English Movies",Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png" group-title="English Movies",AXN HD
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/BEwp4Mj/" group-title="English Movies", &flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+EXTINF:-1 tvg-logo="https://imgur.com/download/2UyESQD/" group-title="English Movies",Sony Pix HD
+https://watchindia.net:8443/live/46887/80074/2101.ts
+
+#EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies",007 James Bond
+http://tx.flv.nimo.tv:80/live/su1599512427635r42b9eee8a790b0e2fc8e1a6ba0562e37.flv
+
+#EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies",Tom Cruise Movies
+https://ws.flv.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.flv
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="English Movies",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/DD7eWYT.png" group-title="English Movies",Hits
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+
+EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies",Nimo TV 1
+http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
+
+EXTINF:-1 tvg-logo="https://server-avatar.nimostatic.tv/201904251556208145584_2439512105115_avatar.png?t=1556208149000" group-title="English Movies",Nimo TV 3
+https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e.flv
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="English Movies",And Prive HD
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/download/22lPuK7/" group-title="English Movies", AXN
+http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
+
+#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="Movies Now HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="English Movies", Movies Now HD
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
+#EXTINF:-1 tvg-id="822" tvg-language="ENGLISH" tvg-name="HBO HD" tvg-logo="https://github.com/ahdtv/Logos/blob/master/HBO%20HD.png?raw=true" group-title="English Movies", HBO HD
+http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+
+#EXTINF:-1 tvg-id="151" tvg-language="ENGLISH" tvg-name="Warner TV" tvg-logo="https://e7.pngegg.com/pngimages/462/535/png-clipart-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem.png" group-title="English Movies", Warner TV
+http://203.154.243.89:11205/
+
+
+EXTINF:-1 tvg-id="478" tvg-language="ENGLISH" tvg-name="Movie Zone" tvg-logo="https://www.feast.org.au/live/wp-content/uploads/2018/08/Chill-Out-Movie-Zone.png" group-title="English Movies", Movie Zone
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+
+EXTINF:-1 tvg-id="866" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="English Movies",Jio Exclusive HD
+
+
+#EXTINF:-1 tvg-logo="" group-title="English Movies",MN+
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
+
+EXTINF:-1 tvg-id="877" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English Movies",MNX HD
+
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO6ZyVTRZlH_TGDzGomW27FmoT1A0LSNlGdhRK0sMgWGeyH0kQ&usqp=CAU" group-title="English Movies",Romedy Now HD
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/FX.us.png" group-title="English Movies",FX
+http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Docurama.us(m3u4u)" tvg-name="Docurama" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110479_dark_360w_270h.png" group-title="ENGLISH MOVIES",Docurama
+https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=05330384-0b37-5782-9b3c-e8cca033e171&dnt=0&X-Plex-Token=V7ahETykFvBFxnymMCty&channelId=5f170f01b898490041b49dd1/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1920x1080_5491200/index.m3u8
+#EXTINF:-1 tvg-id="TheFilmDetective.us(m3u4u)" tvg-name="The Film Detective" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s112484_dark_360w_270h.png" group-title="ENGLISH MOVIES",The Film Detective
+https://filmdetective-plex.amagi.tv/amRdirect/us_privacy=1---&did=05330384-0b37-5782-9b3c-e8cca033e171&dnt=0&X-Plex-Token=V7ahETykFvBFxnymMCty&channelId=5eea605674085f0040ddc7a3/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/1280x720_3256000/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="24/7 Retro TV" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="ENGLISH MOVIES",24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-chno="113" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Classics Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/Screenshot_2.png" group-title="ENGLISH MOVIES",Classics Tamil
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+
+
+
+EXTINF:-1 tvg-chno="118" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Raasi Movies" tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="ENGLISH MOVIES",Raasi Movies
+
+
+#EXTINF:-1 tvg-chno="121" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Filmrise Classics" tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIES",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-chno="122" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Filmrise Crime" tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIES",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 tvg-chno="123" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Filmrise Family" tvg-logo="http://127.0.0.1/" group-title="ENGLISH MOVIES",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Screamfest" tvg-logo="https://www.dealood.com/content/uploads/images/July2019/5d1d9c10568e7-maxresdefault[1]-large.jpg" group-title="ENGLISH MOVIES",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+
+
+---------------------------------------------------------Sports---------------------------------------------------------------
+
+#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 (4k Network)
+https://bit.ly/2FcWII9
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket FHD
+https://bit.ly/32LbYVT
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png",Willow Xtra HD
+https://bit.ly/326sLCl
+#EXTINF:-1  tvg-id="id" group-title="IPL 2020 KYO IPTV" tvg-logo="https://www.sportsmax.tv/images/SportsMax_Flat_Colour.png",SPORTS MAX CRICKET 4k
+https://bit.ly/2ZOLLDU
+
+
+----------------------------------------------------------Devotional----------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStjHpP0yhYrGC8BuBbD7qlnU8RpvS5VDYYjK7GUGtmGZZwXWfl" group-title="Devotional",Shemaroo Bhakti
+https://livechannel.shemaroome.com/linearplayout/bhakti-linear-channel/playlist_cf.m3u8
+
+
+#EXTINF:-1 tvg-id="288" tvg-language="HINDI" tvg-name="Shirdi Live" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91xrW4GnpLL._SY355_.png" group-title="Devotional", Shirdi Live
+https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
+
+
+
+EXTINF:-1 tvg-id="" tvg-language="PUNJABI" tvg-name="Amrit Vaani" tvg-logo="https://crowdcast-prod.imgix.net/~text?txtsize=35&bg=FFFFFF&txt=Amrit Vaani" group-title="Devotional", Amrit Vaani
+https://linear09hun-lh.akamaihd.net/i/amritvaani_1@685718/master.m3u8?n=3
+
+
+
+EXTINF:-1 tvg-id="" tvg-language="HINDI" tvg-name="Bhakti Sagar" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Bhaktisagar_2.png?raw=true" group-title="Devotional", Bhakti Sagar
+https://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="288" tvg-language="HINDI" tvg-name="Sanskar" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sanskar.png?raw=true" group-title="Devotional", Sanskar
+https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
+
+
+
+#EXTINF:-1 tvg-id="597" tvg-language="HINDI" tvg-name="Satsang TV" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Satsang_TV.png?raw=true" group-title="Devotional", Satsang TV
+https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
+
+
+
+EXTINF:-1 tvg-id="594" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional",Aastha Bhajan
+
+
+
+
+----------------------------------------------------------NZ-----------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVNZ 1" tvg-logo="https://i.mjh.nz/nz/images/tv.9.png" group-title="NZ", TVNZ 1
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://d1irqd0o6b6kl5.cloudfront.net/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVNZ 2" tvg-logo="https://i.mjh.nz/nz/images/tv.10.png" group-title="NZ", TVNZ 2
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://d3vsmj0a4dgta4.cloudfront.net/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Three" tvg-logo="https://i.mjh.nz/nz/images/tv.11.png" group-title="NZ", Three
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://livestreamdirect-three.mediaworks.nz/three.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Duke" tvg-logo="https://i.mjh.nz/nz/images/tv.55.png" group-title="NZ", Duke
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://d1nyrbw5nj219v.cloudfront.net/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Bravo" tvg-logo="https://i.mjh.nz/nz/images/tv.12.png" group-title="NZ", Bravo
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://bravo-livestream.mediaworks.nz/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Prime" tvg-logo="https://i.mjh.nz/nz/images/tv.28.png" group-title="NZ", Prime
+#
+EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://primetv-prod.akamaized.net/v1/prime-freeview-aes128_4.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="The Edge TV" tvg-logo="https://i.mjh.nz/nz/images/tv.51.png" group-title="NZ", The Edge TV
+#
+EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Choice TV" tvg-logo="https://i.mjh.nz/nz/images/tv.37.png" group-title="NZ", Choice TV
+#
+EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://livestreams.e-cast.co.nz/choicetv/choicetv_1000k.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="HGTV" tvg-logo="https://i.mjh.nz/nz/images/tv.58.png" group-title="NZ", HGTV
+#
+EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://livestreams.e-cast.co.nz/hgtv/hgtv_1000k.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVSN Shopping" tvg-logo="https://i.mjh.nz/nz/images/tv.45.png" group-title="NZ", TVSN Shopping
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Shine TV" tvg-logo="https://i.mjh.nz/nz/images/tv.7.png" group-title="NZ", Shine TV
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+https://rhemamedia.global.ssl.fastly.net/ShineTV_Legacy/high/chunklist_w1895959457.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Firstlight" tvg-logo="https://i.mjh.nz/nz/images/tv.39.png" group-title="NZ", Firstlight
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/chunklist_w1450617121_b900000_slen.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Parliament TV" tvg-logo="https://i.mjh.nz/nz/images/tv.18.png" group-title="NZ", Parliament TV
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="APNA Television" tvg-logo="https://i.mjh.nz/nz/images/tv.49.png" group-title="NZ", APNA Television
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://livestreams.e-cast.co.nz/apnatv/apnatv_1000k.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Wairarapa TV" tvg-logo="https://i.mjh.nz/nz/images/tv.60.png" group-title="NZ", Wairarapa TV
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Te Reo" tvg-logo="https://i.mjh.nz/nz/images/tv.20.png" group-title="NZ", Te Reo
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Maori Television" tvg-logo="https://i.mjh.nz/nz/images/tv.13.png" group-title="NZ", Maori Television
+
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.11.0 (Linux;Android 6.0) ExoPlayerLib/2.2.0
+
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+
+
+--------------------------------------------------------------RADIO-------------------------------------------------
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Mirchi Top 20
+https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Mirchi Unplugged
+https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - meethi Mirchi
+https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Pehla Nasha
+https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Devi Maa
+http://ibadat.out.airtime.pro:8000/ibadat_a
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Ganesha
+http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Gurbani
+http://gurbani.out.airtime.pro:8000/gurbani_a
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Guruvar
+http://iskon2b.out.airtime.pro:8000/iskon2b_a
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Krishna
+http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Shiva
+http://hot.out.airtime.pro:8000/hot_a
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", 2B! Radio Sangam Shri Ram
+http://dard.out.airtime.pro:8000/dard_a
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bhajans
+https://streamingv2.shoutcast.com/bhajansradioguyana
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Big 95 FM
+https://radioindia.net/radio/sc-bb/icecast.audio
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Punjabi Radio
+http://stream.zeno.fm/1k0y9f0cm0quv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Punjabi Radio
+http://stream.zeno.fm/1k0y9f0cm0quv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Radio and Beyond
+http://96.31.83.86:8084/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Radio and Beyond
+http://69.4.230.78:9000/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Bollywood Radio and Beyond
+http://185.80.220.12:8046/stream
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Harman Radio Australia
+http://harmanradio.net:8000/main_48.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Jesus Alive Radio
+http://stream.zenolive.com/qyb8s75nsceuv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Non Stop Hindi Radio
+http://198.178.123.14:8216/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Nuke Radio Hindi
+https://live.nukeradio.com/proxy/nukehindi?mp=/stream3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio
+https://www.radiomirchi.com/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Apna
+http://ca.rcast.net:8048/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio BollyFm
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio City
+http://prclive1.listenon.in:9302/;
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio City (india) - Hindi
+http://prclive1.listenon.in:9960/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio city Dance
+http://prclive1.listenon.in:8994
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio City Smaran
+http://prclive1.listenon.in:9950/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Dil Apna Punjabi
+http://my.radiodap.ca:9000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Garam Masala
+http://69.175.94.98:8146/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Hindi International
+http://radio.bongonet.net:8012/rhi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Ishara
+http://nickerie.webhop.net:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi
+http://peridot.streamguys.com:7150/Mirchi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - 90s Hit Songs
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Devraag
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Drive Radio
+https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Hindi Retro
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Mirchi - Indies
+https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Sai Global Harmony Bhajan
+http://stream.radiosai.net:8000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Schizoid - Chillout / Ambient
+http://94.130.113.214:8000/chill
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Schizoid - Dub Techno
+http://94.130.113.214:8000/dubtechno
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Schizoid - Progressive Psychedelic Trance
+http://94.130.113.214:8000/prog
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", radio sense
+https://eu10.fastcast4u.com:3925/stream
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Radio Teen Taal Bollywood
+http://www.radioteentaal.com:8000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", radio udaan
+https://onlineradiobox.com/json/in/radioudaan/play?platform=web
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", SportsFlashes all sports radio
+https://azura.shoutca.st/radio/8620/radio.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", The Buddhist Online Radio
+http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", THE BUDDHIST RADIO
+http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=""RADIO"", Ujala Radio
+http://stream2.ujala.nl/stream/2/listen.mp3
+
+
+#EXTINF:-1 tvg-id="901" tvg-name="FM Gold" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_AIR_Gold_1001.jpg" group-title="RADIO", FM Gold
+http://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/master.m3u8
+#EXTINF:-1 tvg-id="902" tvg-name="FM Rainbow" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_AIR_Rainbow_1026.png" group-title="RADIO", FM Rainbow
+http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/master.m3u8
+#EXTINF:-1 tvg-id="903" tvg-name="FM Punjab" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_All_India_Radio.png" group-title="RADIO", FM Punjab
+http://airpunjabi-lh.akamaihd.net/i/airpunjabi_1@507822/master.m3u8
+#EXTINF:-1 tvg-id="904" tvg-name="FM Vividh Bharati" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_Vividh_Bharati.png", group-title="RADIO", FM Vividh Bharati
+https://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8
+#EXTINF:-1 tvg-id="905" tvg-name="Mohammed Rafi Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/mohammed_rafi_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Mohammed Rafi Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="906" tvg-name="Lata Mangeshkar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/lata_mangeshkar_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Lata Mangeshkar Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/latamangeshkar_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="907" tvg-name="Kishore Kumar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kishore_kumar_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Kishore Kumar Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="908" tvg-name="Asha Bhosle Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/asha_bhosle_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Asha Bhosle Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/ashabhosle_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="909" tvg-name="Udit Narayan Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/udit_narayan_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Udit Narayan Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="910" tvg-name="Abhijeet Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/abhijeet_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Abhijeet Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/abhijeet_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="911" tvg-name="Alka Yagnik Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/alka_yagnik_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Alka Yagnik Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="912" tvg-name="Kumar Sanu Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kumar_sanu_250x350.jpg?selAppId=shemaroomusic" group-title="RADIO", Kumar Sanu Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/kumarsanu_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="913" tvg-name="Mirchi Top 20" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/18.jpg" group-title="RADIO", Mirchi Top 20
+https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
+#EXTINF:-1 tvg-id="914" tvg-name="Club Mirchi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/5.jpg" group-title="RADIO", Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+#EXTINF:-1 tvg-id="915" tvg-name="Filmy Mirchi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/9.jpg" group-title="RADIO", Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+#EXTINF:-1 tvg-id="916" tvg-name="Mirchi Yo! Punjabi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/13.jpg" group-title="RADIO", Mirchi Yo! Punjabi
+https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
+#EXTINF:-1 tvg-id="917" tvg-name="Mirchi Inter Hitz" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/21.jpg" group-title="RADIO", Mirchi Inter Hitz
+https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
+
+#EXTINF:-1 tvg-id="918" tvg-name="Mirchi English Love" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/1.jpg" group-title="RADIO", Mirchi English Love
+https://radioromancehdli-lh.akamaihd.net/i/RadioRomanceHDLive_1_1@334956/master.m3u8
+#EXTINF:-1 tvg-id="919" tvg-name="Mirchi Mehfil-e-Zhazal" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/17.jpg" group-title="RADIO", Mirchi Mehfil-e-Zhazal
+https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8
+#EXTINF:-1 tvg-id="920" tvg-name="Mirchi 90's" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/10.jpg" group-title="RADIO", Mirchi 90's
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+#EXTINF:-1 tvg-id="921" tvg-name="Mirchi Pehla Nasha" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/15.jpg" group-title="RADIO", Mirchi Pehla Nasha
+https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8
+#EXTINF:-1 tvg-id="922" tvg-name="Meethi Mirchi" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/2.jpg" group-title="RADIO", Meethi Mirchi
+https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
+#EXTINF:-1 tvg-id="923" tvg-name="Mirchi Hindi Retro" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/3.jpg" group-title="RADIO", Mirchi Hindi Retro
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
+#EXTINF:-1 tvg-id="924" tvg-name="Mirchi Rockistanh" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/7.jpg" group-title="RADIO", Mirchi Rockistanh
+https://mirchirockistanh-lh.akamaihd.net/i/MirchiRockistanHDLiv_1_1@336273/master.m3u8
+#EXTINF:-1 tvg-id="925" tvg-name="Mirchi Indies" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/6.jpg" group-title="RADIO", Mirchi Indies
+https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
+#EXTINF:-1 tvg-id="925" tvg-name="Mirchi Devraag" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/8.jpg" group-title="RADIO", Mirchi Devraag
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+
+
 
 
 #EXTINF:0 tvg-id="avi" tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true" group-title="ASIAN HDTV" Introduction
