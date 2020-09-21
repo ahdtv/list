@@ -2283,7 +2283,7 @@ https://rtmp.smartstream.video/liveindia/liveindia/playlist.m3u8
 EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="PTC News-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/PTC_News.png?raw=true" group-title="Punjabi", DD Punjabi
 
 
-#EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="Desi Channel" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Desi%20Channel.jpg?raw=true" group-title="Punjabi", Desi Channel
+EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="Desi Channel" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Desi%20Channel.jpg?raw=true" group-title="Punjabi", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 
 #EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="Desi Plus" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg", group-title="Punjabi" Desi Plus
