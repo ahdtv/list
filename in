@@ -2448,17 +2448,30 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 ---------------------------------------------------------Sports---------------------------------------------------------------
 
 
+#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket
+http://66.northerniptv.ca:8000/live/george/george123/205.m3u8
+http://66.northerniptv.ca:8000/live/george/george123/205.m3u8?checkedby:hlscat.com
+#EXTINF:-1  tvg-id="2" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket FHD
+https://bit.ly/32LbYVT
 #EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 
 http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
+#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 Hindi
+https://bit.ly/3iRPurP
+#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 Hindi 2
+http://185.246.210.53:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=RED_wBKDTmSdt0bs9GKe8LXsVQ==,1600760869.0316535914
+#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 Hindi 3
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_y3WU6DNoSda4g7m3BrupLA==,1600761045.0316535914
+#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports Select1 HD
+http://89.187.169.204:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=RED_mQ3JA_GBT5oT-2IALAsh6Q==,1600761428.0316535914
 #EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD1 (4k Network)
 https://bit.ly/2FcWII9
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png",Willow Xtra HD
 https://bit.ly/326sLCl
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png",Willow Xtra SD
 https://bit.ly/3mBaUf6
-#EXTINF:-1  tvg-id="id" group-title="Sports" tvg-logo="https://www.sportsmax.tv/images/SportsMax_Flat_Colour.png",SPORTS MAX CRICKET 
+#EXTINF:-1  tvg-id="id" group-title="IPL 2020 KYO IPTV" tvg-logo="https://www.sportsmax.tv/images/SportsMax_Flat_Colour.png",SPORTS MAX CRICKET 
 https://bit.ly/2ZOLLDU
-#EXTINF:-1  tvg-id="id" group-title="Sports" tvg-logo="",beIN Sports HD13
+#EXTINF:-1  tvg-id="id" group-title="IPL 2020 KYO IPTV" tvg-logo="",beIN Sports HD13
 http://66.northerniptv.ca:8000/live/george/george123/74478.m3u8
 
 
