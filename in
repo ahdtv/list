@@ -2453,7 +2453,7 @@ https://bit.ly/326sLCl
 #EXTINF:-1  tvg-id="id" group-title="Sports" tvg-logo="Logo",ado Cricket 576p
 https://bit.ly/2EiNeeg
 
-#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Hindi
+#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports Hindi
 http://185.246.210.54:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 #EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Main Event
@@ -2476,9 +2476,6 @@ https://watchindia.net:8443/live/85174/72963/2095.ts
 
 #EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png", Sky Sports Golf
 https://watchindia.net:8443/live/85174/72963/2096.ts
-
-
-
 
 
 ----------------------------------------------------------Devotional----------------------------------------------------------
