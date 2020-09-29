@@ -2450,32 +2450,13 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png",Willow Xtra HD
 https://bit.ly/326sLCl
 
-#EXTINF:-1  tvg-id="id" group-title="Sports" tvg-logo="Logo",ado Cricket 576p
+#EXTINF:-1  tvg-id="id" group-title="Sports" tvg-logo="Logo",ado Cricket
 https://bit.ly/2EiNeeg
 
 #EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports Hindi
 http://185.246.210.54:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
-#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Main Event
-https://watchindia.net:8443/live/85174/72963/2091.ts
 
-#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket
-https://watchindia.net:8443/live/85174/72963/2090.ts
-
-#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket 2
-https://watchindia.net:8443/live/85174/72963/2143.ts
-
-#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png", Sky Sports Premier League
-https://watchindia.net:8443/live/85174/72963/2092.ts
-
-#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png", Sky Sports Football
-https://watchindia.net:8443/live/85174/72963/2093.ts
-
-#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png", Sky Sports Arena
-https://watchindia.net:8443/live/85174/72963/2095.ts
-
-#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png", Sky Sports Golf
-https://watchindia.net:8443/live/85174/72963/2096.ts
 
 
 ----------------------------------------------------------Devotional----------------------------------------------------------
@@ -2860,9 +2841,6 @@ https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u
 #EXTINF:-1 tvg-id="925" tvg-name="Mirchi Devraag" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/8.jpg" group-title="RADIO", Mirchi Devraag
 https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
 
------------------------------------Entertainment-----------------------------------------
-#EXTINF:-1 tvg-id="1" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Plus_HD.png?raw=true" group-title="Entertainment", Star Plus 
-https://watchindia.net:8443/live/85174/72963/1924.ts
 
 
 #EXTINF:0 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true" group-title="ASIAN HDTV" Intro
