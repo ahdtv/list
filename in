@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/nz/epg.xml.gz"
 
 ---------------------------------------CHINA------------------------------------------
 
@@ -2447,11 +2447,6 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 
 ---------------------------------------------------------Sports---------------------------------------------------------------
 
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png",Willow Xtra HD
-https://bit.ly/326sLCl
-
-#EXTINF:-1  tvg-id="id" group-title="Sports" tvg-logo="Logo",ado Cricket
-https://bit.ly/2EiNeeg
 
 #EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports Hindi
 http://185.246.210.54:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
@@ -2849,7 +2844,7 @@ https://github.com/ahdtv/Introduction/blob/master/Promotional%20Video.mp4?raw=tr
 #EXTM3U url-tvg="http://m3u4u.com/epg/69wkngm8xmfxwrmnq8gd"
 #EXTM3U x-tvg-url="http://indtv.online/guide.gz"
 #EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
-#EXTM3U url-tvg="http://dragoniptv.club:8080/xmltv.php?username=csfgpjYggr&password=5gzVWKng8q" Dragon
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/nz/epg.xml.gz"
 
 
 
