@@ -2840,7 +2840,7 @@ http://185.246.210.54:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=amarn
 #EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports Hindi 2
 http://185.246.210.54:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=IPTVSoltuion
 
-#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD2
+#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD2 
 http://89.187.169.205:2200/EX/starsports2hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 
 
