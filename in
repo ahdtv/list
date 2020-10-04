@@ -2285,8 +2285,6 @@ EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="PTC News-IN" tvg-logo="
 EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="Desi Channel" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Desi%20Channel.jpg?raw=true" group-title="Punjabi", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 
-#EXTINF:-1 tvg-id="1170" tvg-language="PUNJABI" tvg-name="Desi Plus" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/desiplustv.jpg", group-title="Punjabi" Desi Plus
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1190" tvg-language="PUNJABI" tvg-name="PTC Punjabi Gold " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="Punjabi", PTC Punjabi Gold 
 http://13.232.161.202:1935/goldIn/smil:Live.smil/playlist.m3u8
