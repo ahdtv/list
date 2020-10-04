@@ -2841,10 +2841,6 @@ http://89.187.169.205:2200/EX/starsports2hd-in/tracks-v1a1/mono.m3u8?token=amarn
 #EXTINF:0 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true" group-title="ASIAN HDTV" Intro
 https://github.com/ahdtv/Introduction/blob/master/Promotional%20Video.mp4?raw=true
 
-#EXTM3U url-tvg="http://m3u4u.com/epg/69wkngm8xmfxwrmnq8gd"
-#EXTM3U x-tvg-url="http://indtv.online/guide.gz"
-#EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
-#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/nz/epg.xml.gz"
 
 
 
