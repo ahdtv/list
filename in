@@ -2607,9 +2607,6 @@ https://livestreams.e-cast.co.nz/apnatv/apnatv_1000k.m3u8
 ---------------------------------------------------------Sports---------------------------------------------------------------
 
 
-#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports HD2 
-http://89.187.169.205:2200/EX/starsports2hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
-
 #EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="", GTV HD (IPL)
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 
