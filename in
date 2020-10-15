@@ -2604,6 +2604,9 @@ https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
 #EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="", ADO Sports IPL
 http://164.132.160.137/hls/stream.m3u8
 
+#EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports Hindi
+http://r4.iplfree.xyz:8080/hls/.m3u8
+
 
 #EXTINF:0 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true" group-title="ASIAN HDTV" Intro
 https://github.com/ahdtv/Introduction/blob/master/Promotional%20Video.mp4?raw=true
