@@ -589,6 +589,11 @@ http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/57499
 
 #EXTINF:-1, group-title="Sports", ASTRO Cricket 
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/20812
+
+#EXTINF:-1, group-title="Sports", PTV Sports
+http://45.58.138.90:8020/starcopy-123456/tracks-v1a1/mono.m3u8?token=df6c400dcaeff85bb6bcb14754de7b5d9c4e4ef5-W0U7CUV795AK06N0-1603040893-1603030093
+
+
 ---------------------------------------------------------New-------------------------------------------------------------------
 
 EXTINF:-1, group-title="Entertainment", ZEE TV HD USA
@@ -641,6 +646,7 @@ http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7951
 
 #EXTINF:-1, group-title="Movies", Star Gold FHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/8015
+
 
 
 
