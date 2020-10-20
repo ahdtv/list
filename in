@@ -566,26 +566,8 @@ https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
 
 ---------------------------------------------------------Sports---------------------------------------------------------------
 
-EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="", ADO Sports IPL
-http://164.132.160.137/hls/stream.m3u8
-
-EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="", ADO Sports IPL
-http://ns3035950.ip-164-132-160.eu/hls/stream.m3u8
-
-EXTINF:-1  tvg-id="1" group-title="Sports" tvg-logo="", GTV HD IPL
-http://106.0.54.6:8080/hls/gtv_cm_ip.m3u8
-
-#EXTINF:-1, group-title="Sports", Star Sports Hindi FHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7888
-
-#EXTINF:-1, group-title="Sports", Star Sports 1 Hindi FHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/16906
-
 #EXTINF:-1, group-title="Sports", Star Sports 3
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/82401
-
-#EXTINF:-1, group-title="Sports", Willow FHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/57499
 
 #EXTINF:-1, group-title="Sports", ASTRO Cricket 
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/20812
@@ -595,8 +577,6 @@ http://45.58.138.90:8020/starcopy-123456/tracks-v1a1/mono.m3u8?token=df6c400dcae
 
 #EXTINF:-1, group-title="Sports", GTV HD IPL
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
-
-
 
 
 -----------------------Web Series - Hindi------------------------------
