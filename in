@@ -594,58 +594,7 @@ http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/20812
 http://45.58.138.90:8020/starcopy-123456/tracks-v1a1/mono.m3u8?token=df6c400dcaeff85bb6bcb14754de7b5d9c4e4ef5-W0U7CUV795AK06N0-1603040893-1603030093
 
 
----------------------------------------------------------New-------------------------------------------------------------------
 
-EXTINF:-1, group-title="Entertainment", ZEE TV HD USA
-http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
-
-EXTINF:-1, group-title="Entertainment", ZEE TV SD USA
-http://z5amshls.akamaized.net/ztvsdusa/tracks-v1a1/index.m3u8
-
-EXTINF:-1, group-title="Entertainment", ZEE TV ME
-http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
-
-EXTINF:-1, group-title="Entertainment", ZEE TV HD CANADA
-http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1, group-title="Entertainment", Sony Tv UHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/12478
-
-#EXTINF:-1, group-title="Entertainment", Sony Tv FHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7935
-
-#EXTINF:-1, group-title="Entertainment", Star Bharat FHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/11308
-
-#EXTINF:-1, group-title="Entertainment", Star Bharat HD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/12492
-
-#EXTINF:-1, group-title="Entertainment", Star plus FHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7932
-
-#EXTINF:-1, group-title="Entertainment", Colors FHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7931
-
-#EXTINF:-1, group-title="Entertainment", Sony Sab FHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7884
-
-EXTINF:-1, group-title="Movies", &pictures HD
-https://z5amshls.akamaized.net/andpicshd/tracks-v3a1/index.m3u8
-
-EXTINF:-1, group-title="Movies", ZEE CINEMA HD
-https://z5amshls.akamaized.net/zcinemahd/tracks-v3a1/index.m3u8
-
-EXTINF:-1, group-title="Movies", ZEE CINEMA ME
-https://z5amshls.akamaized.net/zeecinemame/tracks-v3a1/index.m3u8
-
-#EXTINF:-1, group-title="Movies", Star Gold UHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/15219
-
-#EXTINF:-1, group-title="Movies", Sony Max FHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7951
-
-#EXTINF:-1, group-title="Movies", Star Gold FHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/8015
 
 -----------------------Web Series - Hindi------------------------------
 #EXTINF:-1 tvg-ID="" tvg-name="Special Ops S1 E1 - Kaagaz Ke Phool" tvg-logo="https://img.vup.to/wm47aaeuidlc_t.jpg" group-title="Web Series - Hindi", Special Ops S1 E1 - Kaagaz Ke Phool
