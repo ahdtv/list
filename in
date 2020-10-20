@@ -600,9 +600,6 @@ http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 
 
 -----------------------Web Series - Hindi------------------------------
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Web Series - Hindi", Scam 1992 S1 E1
-https://archive.org/download/scam-1992-the-harshad-mehta-story..-s-01.-ep-01.2020.1080p.-sony.-liv.-web.-dl.-/Scam%201992%20The%20Harshad%20Mehta%20Story..S01.EP01.2020.1080p.Sony.Liv.WEB.DL.AAC.2.0.H.264-Telly.mkv
-
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true", group-title="Intro", Welcome
 http://bit.ly/asianintro
