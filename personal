@@ -1,52 +1,52 @@
 ---------------------------------------------------------New-------------------------------------------------------------------
 
-#EXTINF:-1, group-title="Entertainment", ZEE TV HD USA
+#EXTINF:-1, group-title="Personal", ZEE TV HD USA
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, group-title="Entertainment", ZEE TV SD USA
+#EXTINF:-1, group-title="Personal", ZEE TV SD USA
 http://z5amshls.akamaized.net/ztvsdusa/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, group-title="Entertainment", ZEE TV ME
+#EXTINF:-1, group-title="Personal", ZEE TV ME
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, group-title="Entertainment", ZEE TV HD CANADA
+#EXTINF:-1, group-title="Personal", ZEE TV HD CANADA
 http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, group-title="Entertainment", Sony Tv UHD
+#EXTINF:-1, group-title="Personal", Sony Tv UHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/12478
 
-#EXTINF:-1, group-title="Entertainment", Sony Tv FHD
+#EXTINF:-1, group-title="Personal", Sony Tv FHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7935
 
-#EXTINF:-1, group-title="Entertainment", Star Bharat FHD
+#EXTINF:-1, group-title="Personal", Star Bharat FHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/11308
 
-#EXTINF:-1, group-title="Entertainment", Star Bharat HD
+#EXTINF:-1, group-title="Personal", Star Bharat HD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/12492
 
-#EXTINF:-1, group-title="Entertainment", Star plus FHD
+#EXTINF:-1, group-title="Personal", Star plus FHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7932
 
-#EXTINF:-1, group-title="Entertainment", Colors FHD
+#EXTINF:-1, group-title="Personal", Colors FHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7931
 
-#EXTINF:-1, group-title="Entertainment", Sony Sab FHD
+#EXTINF:-1, group-title="Personal", Sony Sab FHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7884
 
-#EXTINF:-1, group-title="Movies", &pictures HD
+#EXTINF:-1, group-title="Personal", &pictures HD
 https://z5amshls.akamaized.net/andpicshd/tracks-v3a1/index.m3u8
 
-#EXTINF:-1, group-title="Movies", ZEE CINEMA HD
+#EXTINF:-1, group-title="Personal", ZEE CINEMA HD
 https://z5amshls.akamaized.net/zcinemahd/tracks-v3a1/index.m3u8
 
-#EXTINF:-1, group-title="Movies", ZEE CINEMA ME
+#EXTINF:-1, group-title="Personal", ZEE CINEMA ME
 https://z5amshls.akamaized.net/zeecinemame/tracks-v3a1/index.m3u8
 
-#EXTINF:-1, group-title="Movies", Star Gold UHD
+#EXTINF:-1, group-title="Personal", Star Gold UHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/15219
 
-#EXTINF:-1, group-title="Movies", Sony Max FHD
+#EXTINF:-1, group-title="Personal", Sony Max FHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7951
 
-#EXTINF:-1, group-title="Movies", Star Gold FHD
+#EXTINF:-1, group-title="Personal", Star Gold FHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/8015
