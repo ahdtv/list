@@ -120,6 +120,9 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="BritAsiaTV.uk(m3u4u)" tvg-name="Brit Asia TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104280_dark_360w_270h.png" group-title="Punjabi",Brit Asia TV
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 
+#EXTINF:-1 tvg-id="1162" tvg-language="PUNJABI" tvg-name="Harvest TV USA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Asia_Tv.png" group-title="Punjabi", Harvest TV USA
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8?checkedby:iptvcat.com
+
 -----------------------------------------------------------English Movies-------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png" group-title="English Movies",AXN HD
 http://210.210.155.35/uq2663/h/h141/01.m3u8
