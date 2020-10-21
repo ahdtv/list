@@ -565,7 +565,15 @@ https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u
 #EXTINF:-1 tvg-id="925" tvg-name="Mirchi Devraag" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/8.jpg" group-title="RADIO", Mirchi Devraag
 https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
 
+---------------------------------------------Fiji TV---------------------------------
+#EXTINF:-1 tvg-id="925" tvg-name="Fiji TV" tvg-logo="" group-title="Fiji TV", Fiji TV
+https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="925" tvg-name="Fiji One" tvg-logo="" group-title="Fiji TV", Fiji One
+https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="925" tvg-name="Fiji One" tvg-logo="" group-title="Fiji TV", Fiji One 
+http://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checkedby:iptvcat.com
 
 ---------------------------------------------------------Sports---------------------------------------------------------------
 
