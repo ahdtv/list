@@ -67,55 +67,11 @@ http://106.0.54.6:8080/hls/gtv_cm_ip.m3u8
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7888
 
 #EXTINF:-1, group-title="Personal", Star Sports 1 Hindi FHD
-http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/16906
+http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/1690
 
-#EXTINF:-1, group-title="Personal",Al Jazeera English FHD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114271?checkedby:iptvcat.com
-
-#EXTINF:-1, group-title="Personal",AL JAZEERA HD
-http://rahal-pro.net:8080/IbrahimMalouk/683203665/68492?checkedby:iptvcat.com
-
-#EXTINF:-1, group-title="Personal",Akaal TV, UK
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1, group-title="Personal",BBC World News HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114280?checkedby:iptvcat.com
-
-#EXTINF:-1, group-title="Personal",BBC one FHD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114278?checkedby:iptvcat.com
-
-#EXTINF:-1, group-title="Personal",BBC two HD
-http://31.220.40.44:80/Ung_debernardi123/mag322/114279?checkedby:iptvcat.com
-
-#EXTINF:-1, group-title="Personal",BT SPORTS 1 FHD **
-http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/134037?checkedby:iptvcat.com
-
-#EXTINF:-1, group-title="Personal",BT SPORTS 1 HD
-http://rahal-pro.net:8080/IbrahimMalouk/683203665/68472?checkedby:iptvcat.com
-http://red.ipfox.org:8080/spider_w8pZny/JhrlVOgV/24169?checkedby:iptvcat.com
-http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/370?checkedby:iptvcat.com
-
-#EXTINF:-1, group-title="Personal",BT SPORTS 2 HD
-http://rahal-pro.net:8080/IbrahimMalouk/683203665/68473?checkedby:iptvcat.com
-http://31.220.40.44:80/Ung_debernardi123/mag322/114285?checkedby:iptvcat.com
-http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/368?checkedby:iptvcat.com
-
-#EXTINF:-1, group-title="Personal",BT Sport 3 HD UK
-http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/366?checkedby:iptvcat.com
-http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/365?checkedby:iptvcat.com
-
-#EXTINF:-1, group-title="Personal",BT Sport ESPN HD UK
-http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/1743?checkedby:iptvcat.com
-http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/1819?checkedby:iptvcat.com
-
-#EXTINF:-1, group-title="Personal",Film4 UK
-http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/1830?checkedby:iptvcat.com
-
-#EXTINF:-1, group-title="Personal",Fox UK FHD
-http://ingrid.ltd:25461/Cc1/Cc1/42365?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Personal", Scam 1992 S1 E1
-https://drive.google.com/file/d/1Qtq5XqOMtAb1dCAsxrpYX0KI0Y8D8IRP/view?usp=sharing
+https://www.googleapis.com/drive/v3/files/1Qtq5XqOMtAb1dCAsxrpYX0KI0Y8D8IRP?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 https://archive.org/download/scam-1992-the-harshad-mehta-story..-s-01.-ep-01.2020.1080p.-sony.-liv.-web.-dl.-/Scam%201992%20The%20Harshad%20Mehta%20Story..S01.EP01.2020.1080p.Sony.Liv.WEB.DL.AAC.2.0.H.264-Telly.mkv
 
 
