@@ -77,6 +77,8 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 https://live.wmncdn.net/jantatv/live.stream/index.m3u8
 
 ---------------------------------------------------------------------Punjabi-------------------------------------------------------------
+#EXTINF:-1, group-title="Punjabi",Akaal TV UK
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="1" tvg-language="PUNJABI" tvg-name="Gabruu TV Australia" tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="Punjabi", Gabruu TV Australia
 http://104.237.60.234/live/gabruutv.m3u8
