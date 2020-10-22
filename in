@@ -512,6 +512,9 @@ http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 
 -----------------------Web Series - Hindi------------------------------
 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Web Series - Hindi", Scam 1992 S1 E1
+https://www.googleapis.com/drive/v3/files/1Qtq5XqOMtAb1dCAsxrpYX0KI0Y8D8IRP?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true", group-title="Intro", Welcome
 http://bit.ly/asianintro
 
