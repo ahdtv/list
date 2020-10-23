@@ -201,55 +201,55 @@ https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
 
 ----------------------------------------------------------NZ-----------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVNZ 1" tvg-logo="https://i.mjh.nz/nz/images/tv.9.png" group-title="NZ", TVNZ 1
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVNZ 1" tvg-logo="https://github.com/ahdtv/Logos/blob/master/1.png?raw=true" group-title="NZ", TVNZ 1
 https://d1irqd0o6b6kl5.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVNZ 2" tvg-logo="https://i.mjh.nz/nz/images/tv.10.png" group-title="NZ", TVNZ 2
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVNZ 2" tvg-logo="https://github.com/ahdtv/Logos/blob/master/2.png?raw=true" group-title="NZ", TVNZ 2
 https://d3vsmj0a4dgta4.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Three" tvg-logo="https://i.mjh.nz/nz/images/tv.11.png" group-title="NZ", Three
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Three" tvg-logo="https://github.com/ahdtv/Logos/blob/master/3.jpg?raw=true" group-title="NZ", Three
 https://livestreamdirect-three.mediaworks.nz/three.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Duke" tvg-logo="https://i.mjh.nz/nz/images/tv.55.png" group-title="NZ", Duke
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Duke" tvg-logo="https://github.com/ahdtv/Logos/blob/master/D.png?raw=true" group-title="NZ", Duke
 https://d1nyrbw5nj219v.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Bravo" tvg-logo="https://i.mjh.nz/nz/images/tv.12.png" group-title="NZ", Bravo
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Bravo" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bravo.png?raw=true" group-title="NZ", Bravo
 https://bravo-livestream.mediaworks.nz/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Prime" tvg-logo="https://i.mjh.nz/nz/images/tv.28.png" group-title="NZ", Prime
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Prime" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Prime.jpg?raw=true" group-title="NZ", Prime
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128_4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="The Edge TV" tvg-logo="https://i.mjh.nz/nz/images/tv.51.png" group-title="NZ", The Edge TV
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="The Edge TV" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Edge.png?raw=true" group-title="NZ", The Edge TV
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Choice TV" tvg-logo="https://i.mjh.nz/nz/images/tv.37.png" group-title="NZ", Choice TV
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Choice TV" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Choice.jpg?raw=true" group-title="NZ", Choice TV
 https://livestreams.e-cast.co.nz/choicetv/choicetv_1000k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="HGTV" tvg-logo="https://i.mjh.nz/nz/images/tv.58.png" group-title="NZ", HGTV
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="HGTV" tvg-logo="https://github.com/ahdtv/Logos/blob/master/HGTV.png?raw=true" group-title="NZ", HGTV
 https://livestreams.e-cast.co.nz/hgtv/hgtv_1000k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVSN Shopping" tvg-logo="https://i.mjh.nz/nz/images/tv.45.png" group-title="NZ", TVSN Shopping
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="TVSN Shopping" tvg-logo="https://github.com/ahdtv/Logos/blob/master/TVSN.jpg?raw=true" group-title="NZ", TVSN Shopping
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Shine TV" tvg-logo="https://i.mjh.nz/nz/images/tv.7.png" group-title="NZ", Shine TV
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Shine TV" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Shine.jpg?raw=true" group-title="NZ", Shine TV
 https://rhemamedia.global.ssl.fastly.net/ShineTV_Legacy/high/chunklist_w1895959457.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Firstlight" tvg-logo="https://i.mjh.nz/nz/images/tv.39.png" group-title="NZ", Firstlight
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Firstlight" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Firelight.jpg?raw=true" group-title="NZ", Firstlight
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/chunklist_w1450617121_b900000_slen.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Parliament TV" tvg-logo="https://i.mjh.nz/nz/images/tv.18.png" group-title="NZ", Parliament TV
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Parliament TV" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Parliament%20tv.png?raw=true" group-title="NZ", Parliament TV
 https://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="APNA Television" tvg-logo="https://i.mjh.nz/nz/images/tv.49.png" group-title="NZ", APNA Television
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="APNA Television" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apna.png?raw=true" group-title="NZ", APNA Television
 https://livestreams.e-cast.co.nz/apnatv/apnatv_1000k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Wairarapa TV" tvg-logo="https://i.mjh.nz/nz/images/tv.60.png" group-title="NZ", Wairarapa TV
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Wairarapa TV" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Wairarapa%2BTV%2BLogo.png?raw=true" group-title="NZ", Wairarapa TV
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Te Reo" tvg-logo="https://i.mjh.nz/nz/images/tv.20.png" group-title="NZ", Te Reo
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Te Reo" tvg-logo="https://github.com/ahdtv/Logos/blob/master/te-reo.png?raw=true" group-title="NZ", Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Maori Television" tvg-logo="https://i.mjh.nz/nz/images/tv.13.png" group-title="NZ", Maori Television
+#EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Maori Television" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Maori.png?raw=true" group-title="NZ", Maori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 
 
