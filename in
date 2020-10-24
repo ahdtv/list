@@ -1,3 +1,6 @@
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true", group-title="Intro", Welcome
+http://bit.ly/asianintro
+
 
 -------------------------------------------------------------NEWS-----------------------------------------------------------------------
 
@@ -570,8 +573,64 @@ https://www.googleapis.com/drive/v3/files/10eGac09HZ1Qn1imo1v5BeIj-uQKl2pZ8?alt=
 https://www.googleapis.com/drive/v3/files/14A0Xv5RXvUtrEWsvvZKFQfUqXS3mJxZR?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ahdtv/Introduction/master/sticker%20of%20asian%20hd%20tv.jpg?raw=true", group-title="Intro", Welcome
-http://bit.ly/asianintro
+------------------------------------------VOD - English Movies-----------------------------------------------
+
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="" group-title="VOD - English Movies", Borat 2006 (18+)
+https://www.googleapis.com/drive/v3/files/1uCNGMpBUp9ejnhoVWuUNFmLLJB8TfG3a?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+
+-------------------------------------------VOD - Hindi Dubbed Movies-----------------------------------------
+
+#EXTINF:-1 tvg-ID="991" tvg-name="" tvg-logo="" group-title="VOD - Hindi Dubbed Movies", The Green Mil (1999)
+https://www.googleapis.com/drive/v3/files/1F9fugFwuhGzszKOewNWKbg5biQwVScX9?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+#EXTINF:-1 tvg-ID="991" tvg-name="" tvg-logo="" group-title="VOD - Hindi Dubbed Movies", The Devil's Double (2011)
+https://www.googleapis.com/drive/v3/files/14w-hkcxF5g8M5SqhqyOffdH-3t2GclJH?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+#EXTINF:-1 tvg-ID="992" tvg-name="" tvg-logo="" group-title="VOD - Hindi Dubbed Movies", Shutter Islan (2010)
+https://www.googleapis.com/drive/v3/files/1kkbCZHC_O6f9Gle2CjXD5_YF5WJrPal9?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+#EXTINF:-1 tvg-ID="992" tvg-name="" tvg-logo="" group-title="VOD - Hindi Dubbed Movies", Schindlers List (1993)
+https://www.googleapis.com/drive/v3/files/10tVQnUXJdMGVlnjB_1-XDZkSxeIsSkcR?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+#EXTINF:-1 tvg-ID="993" tvg-name="" tvg-logo="" group-title="VOD - Hindi Dubbed Movies", The Point Break (2015)
+https://www.googleapis.com/drive/v3/files/18yunjxih8Cy0E-qHltZQvuYipCTM05FG?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+#EXTINF:-1 tvg-ID="994" tvg-name="" tvg-logo="" group-title="VOD - Hindi Dubbed Movies", The Karate Kid I (1984)
+https://www.googleapis.com/drive/v3/files/1lWn_fubAW4cX1PjgL8yYs9ZsWYB6MKx5?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+#EXTINF:-1 tvg-ID="995" tvg-name="" tvg-logo="" group-title="VOD - Hindi Dubbed Movies", The Karate Kid II (1986)
+https://www.googleapis.com/drive/v3/files/1Ee_U6xzAit_msv_cB-6wRM6pobK8FwIM?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+#EXTINF:-1 tvg-ID="996" tvg-name="" tvg-logo="" group-title="VOD - Hindi Dubbed Movies", The Karate Kid III (1989)
+https://www.googleapis.com/drive/v3/files/16IB-oFFXS0auApmoyESa0Ypral1WHAE5?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+#EXTINF:-1 tvg-ID="997" tvg-name="" tvg-logo="" group-title="VOD - Hindi Dubbed Movies", The Next Karate Kid (1994)
+https://www.googleapis.com/drive/v3/files/14yMeOlaDr97V4AgWIkPWnzvMJsiRZwD1?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+#EXTINF:-1 tvg-ID="998" tvg-name="" tvg-logo="" group-title="VOD - Hindi Dubbed Movies", The Godfather I (1972) 
+https://www.googleapis.com/drive/v3/files/1NfQV_lgWJhDkZ58YW8YXGIcQPzIaUuQa?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+#EXTINF:-1 tvg-ID="999" tvg-name="" tvg-logo="" group-title="VOD - Hindi Dubbed Movies", The Godfather II (1974) 
+https://www.googleapis.com/drive/v3/files/1Vn8UhWgdGn9W9341uItbKCfp-6fU_8t1?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+#EXTINF:-1 tvg-ID="1000" tvg-name="" tvg-logo="" group-title="VOD - Hindi Dubbed Movies", The Godfather III (1990)
+https://www.googleapis.com/drive/v3/files/1BoF7RUt-WpOoDF69JotBDPrG5pua97z1?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+
+-----------------------------------------VOD - Documentaries--------------------------------------------------
+
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="" group-title="VOD - Documentaries", The Secret (2006)
+https://www.googleapis.com/drive/v3/files/15JfqUKBVn1qzs0zbLS0v-MdubTYpv8CX?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+
+
+
+
+
+
+
+
 
 
 
