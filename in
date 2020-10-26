@@ -1099,3 +1099,9 @@ https://cdn61.liveonlineservices.com/hls/subrang.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", Star Plus
 http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
+
+----------------------------------------VOD---------------------------------------------------------
+Punjabi 
+
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="" group-title="VOD - Punjabi Movies", Chal Mera Putt 2 (CAM Print)
+https://www.googleapis.com/drive/v3/files/1I7tyMzJ2Jqap03je9MJa1FgvyEz6_7Qg?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
