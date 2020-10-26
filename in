@@ -386,6 +386,9 @@ http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index
 #EXTINF:-1 tvg-id="5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTj-9TdwAi5mDrzMz3H6mOm6G-P4N7jjYg8yTedWPAApqSTw6G8" group-title="PUNJABI",Shemaroo Punjabi
 https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/playlist_cf.m3u8
 
+#EXTINF:-1 tvg-id="961" tvg-language="PUNJABI" tvg-name="Jus One" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/JUSOne.png?raw=true" group-title="Punjabi", Jus One
+https://afail83784gqhav.belugacdn.link/JO_Liveorigin/ngrp:JUSOne_Pipe.stream_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="959" tvg-language="PUNJABI" tvg-name="Jus Punjabi HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/JUSPunjabi.png?raw=true" group-title="Punjabi", Jus Punjabi HD
 https://afail83784gqhav.belugacdn.link/JP_Liveorigin/ngrp:RTMP_JUS_INTL.stream_all/playlist.m3u8
 
@@ -404,17 +407,12 @@ https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-b.m3
 #EXTINF:-1 tvg-id="831" tvg-language="PUNJABI" tvg-name="Living India News" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Living_India_News.png?raw=true" group-title="Punjabi", Living India News
 https://rtmp.smartstream.video/liveindia/liveindia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="961" tvg-language="PUNJABI" tvg-name="Jus One" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/JUSOne.png?raw=true" group-title="Punjabi", Jus One
-https://afail83784gqhav.belugacdn.link/JO_Liveorigin/ngrp:JUSOne_Pipe.stream_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1162" tvg-language="PUNJABI" tvg-name="Prime Asia HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Asia_Tv.png" group-title="Punjabi", Prime Asia HD
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="71" tvg-id="BritAsiaTV.uk(m3u4u)" tvg-name="Brit Asia TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104280_dark_360w_270h.png" group-title="Punjabi",Brit Asia TV
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 
-#EXTINF:-1 tvg-id="1162" tvg-language="PUNJABI" tvg-name="Harvest TV USA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Asia_Tv.png" group-title="Punjabi", Harvest TV USA
-http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8?checkedby:iptvcat.com
 
 -----------------------------------------------------------English Movies-------------------------------------------------------------
 
@@ -575,9 +573,6 @@ http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/3181
 #EXTINF:-1 tvg-id="" tvg-name="Vip Kids HD" tvg-logo="" group-title="ENGLISH MOVIES",Vip Kids HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/3916
 
-#EXTINF:-1 tvg-id="" tvg-name="Vip Bollywood HD" tvg-logo="" group-title="ENGLISH MOVIES",Vip Bollywood HD
-http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/6658
-
 #EXTINF:-1 tvg-id="" tvg-name="Vip Western HD" tvg-logo="" group-title="ENGLISH MOVIES",Vip Western HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/6790
 
@@ -670,40 +665,58 @@ http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13798
 
 #EXTINF:-1 tvg-id="" tvg-name="USA | Hallmark Drama FHD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Hallmark Drama FHD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50685
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | HBO ZONE HD" tvg-logo="" group-title="ENGLISH MOVIES",USA | HBO ZONE HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50683
+
 #EXTINF:-1 tvg-id="" tvg-name="US | Lifetime Movies FHD" tvg-logo="" group-title="ENGLISH MOVIES",US | Lifetime Movies FHD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50681
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Beyond FHD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Showtime Beyond FHD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50679
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Extreme FHD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Showtime Extreme FHD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50678
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Showtime West HD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Showtime West HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50677
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Showtime 2" tvg-logo="" group-title="ENGLISH MOVIES",USA | Showtime 2
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50676
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Starz Cinema East FHD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Starz Cinema East FHD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50675
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Starz Comedy HD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Starz Comedy HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50674
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Starz West FHD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Starz West FHD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50673
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Starz Edge FHD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Starz Edge FHD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50672
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Suspense HD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Starz Encore Suspense HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50671
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Black HD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Starz Encore Black HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50670
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Family HD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Starz Encore Family HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50669
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore East HD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Starz Encore East HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50668
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Cinemax HD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Cinemax HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50667
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Cinemax FHD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Cinemax FHD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50664
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Cinemax Thriller Max HD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Cinemax Thriller Max HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50663
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | Cinemax More HD" tvg-logo="" group-title="ENGLISH MOVIES",USA | Cinemax More HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50662
 
@@ -728,9 +741,6 @@ https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
 #EXTINF:-1 tvg-id="597" tvg-language="HINDI" tvg-name="Satsang TV" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Satsang_TV.png?raw=true" group-title="Devotional", Satsang TV
 https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
 
-
-
-
 ---------------------------------------------Fiji TV---------------------------------
 #EXTINF:-1 tvg-id="925" tvg-name="Fiji TV" tvg-logo="" group-title="Fiji TV", Fiji TV
 https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8?checkedby:iptvcat.com
@@ -743,17 +753,14 @@ http://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checked
 
 ---------------------------------------------------------Sports---------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-11 4K" tvg-logo="" group-title="Sports", Star Sports Select HD1
-http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Cricket" tvg-logo="" group-title="Sports",UK: Sky Sport Cricket
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13771
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Main Event" tvg-logo="" group-title="Sports",UK: Sky Sport Main Event
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13770
 
 #EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports MIX HD" tvg-logo="" group-title="Sports",UK: Sky Sports MIX HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13837
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Cricket" tvg-logo="" group-title="Sports",UK: Sky Sport Cricket
-http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13771
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Action" tvg-logo="" group-title="Sports",UK: Sky Sport Action
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13772
@@ -1048,6 +1055,9 @@ http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50421
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://5.189.181.7/extract/bollywoodhd.png" group-title="Movies", Bollywood HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/26
 
+#EXTINF:-1 tvg-id="" tvg-name="Vip Bollywood HD" tvg-logo="" group-title="ENGLISH MOVIES",Vip Bollywood HD
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/6658
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", Media Bollywood
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/45579
 
@@ -1158,157 +1168,157 @@ https://www.googleapis.com/drive/v3/files/1-7me-3GOP3nad-J6Av78FInzHgXLkq0M?alt=
 #EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Avrodh.jpg?raw=true" group-title="Web Series - Hindi", Avrodh S1 E9
 https://www.googleapis.com/drive/v3/files/1xdEl6FGDvXABYIZ7FxDce5HOn06fou-j?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1E1 Jhandu 
+#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1 E1 - Jhandu 
 https://www.googleapis.com/drive/v3/files/1HPeYWaPgLV9bvohisgIy515Yusfxbww6?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1E2 Ghoda
+#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1 E2 - Ghoda
 https://www.googleapis.com/drive/v3/files/1jaqc1_cMwp4y6ym-Br5XAHOckNp4MH0M?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1E3 Wafadar
+#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1 E3 - Wafadar
 https://www.googleapis.com/drive/v3/files/1G7fXcOrUij2pzzgXxGXLmCExuGsKgS4x?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1E4 Virginity
+#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1 E4 - Virginity
 https://www.googleapis.com/drive/v3/files/116lEJQc9Qf43XgFbGdb3gEIgkf1SDslf?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1E5 Bhaukal
+#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1 E5 - Bhaukal
 https://www.googleapis.com/drive/v3/files/18jmTjZsNvY88TkKwuQRh43Ba_l8h2vbj?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1E6 Bharfi
+#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1 E6 - Bharfi
 https://www.googleapis.com/drive/v3/files/1pfv47fl1nN48kkLNlQOqA3KzqYR49Oi1?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1E7 Lions of Mirzapur
+#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1 E7 - Lions of Mirzapur
 https://www.googleapis.com/drive/v3/files/1pfv47fl1nN48kkLNlQOqA3KzqYR49Oi1?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1E8 Tandav
+#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1 E8 - Tandav
 https://www.googleapis.com/drive/v3/files/1eVcIU_2RWX7TB6zChx1MMgdeU1Z_ZMBi?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1E9 Yogya
+#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%20Part%201.png?raw=true" group-title="Web Series - Hindi", Mirzapur S1 E9 - Yogya
 https://www.googleapis.com/drive/v3/files/1eVcIU_2RWX7TB6zChx1MMgdeU1Z_ZMBi?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bharat%20ek%20Khok.jpg?raw=true", Bharat Ek Khoj - DD E1 - Bharat Mata Ki Ja
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bharat%20ek%20Khok.jpg?raw=true", roup-title="Web Series - Hindi" Bharat Ek Khoj - DD E1 - Bharat Mata Ki Ja
 https://www.googleapis.com/drive/v3/files/13st6LhHjZ8mGw0tdgYdDysQ4SrIs28CV?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bharat%20ek%20Khok.jpg?raw=true", Bharat Ek Khok - DD E2 - The Beginnings 
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bharat%20ek%20Khok.jpg?raw=true", roup-title="Web Series - Hindi" Bharat Ek Khok - DD E2 - The Beginnings 
 https://www.googleapis.com/drive/v3/files/1_zxOpWneVq_z8I6i8FM3tt8DEA5Js_8A?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bharat%20ek%20Khok.jpg?raw=true", Bharat Ek Khok - DD E3 - The Arrival of the Vedic People (the Rigveda)
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bharat%20ek%20Khok.jpg?raw=true", roup-title="Web Series - Hindi" Bharat Ek Khok - DD E3 - The Arrival of the Vedic People (the Rigveda)
 https://www.googleapis.com/drive/v3/files/1JGa-RHcf5WFTUBm5lcL2d2JWxBt81SSI?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bharat%20ek%20Khok.jpg?raw=true", Bharat Ek Khok - DD E4 - Cast Formation
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bharat%20ek%20Khok.jpg?raw=true", roup-title="Web Series - Hindi" Bharat Ek Khok - DD E4 - Cast Formation
 https://www.googleapis.com/drive/v3/files/1nJqvu3zdZsW68bVsTRPeK48ONs0fupar?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bharat%20ek%20Khok.jpg?raw=true", Bharat Ek Khok - DD E5 - Maharbharta Part 1
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bharat%20ek%20Khok.jpg?raw=true", roup-title="Web Series - Hindi" Bharat Ek Khok - DD E5 - Maharbharta Part 1
 https://www.googleapis.com/drive/v3/files/1LG-AaBNav6jcM-MD2j8fGAGwbm-tdfh6?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bharat%20ek%20Khok.jpg?raw=true", Bharat Ek Khok - DD E6 - Maharbharta Part 2
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bharat%20ek%20Khok.jpg?raw=true", roup-title="Web Series - Hindi" Bharat Ek Khok - DD E6 - Maharbharta Part 2
 https://www.googleapis.com/drive/v3/files/1YUhIhfzS5BP5Tgl059V7ubcEr9NDgfvF?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", Aprahan E1
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", roup-title="Web Series - Hindi" Aprahan E1
 https://www.googleapis.com/drive/v3/files/1ZUzGjrjFbPhSFXgIZPf4jH8xUydugqSr?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", Aprahan E2
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", roup-title="Web Series - Hindi" Aprahan E2
 https://www.googleapis.com/drive/v3/files/1mhUsIRRARKjxvroIE9FPzr9Mp-jGs4cz?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", Aprahan E3
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", roup-title="Web Series - Hindi" Aprahan E3
 https://www.googleapis.com/drive/v3/files/1qtajxR3nplpMO7ADcdlIMJvOMx21WqIN?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", Aprahan E4
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", roup-title="Web Series - Hindi" Aprahan E4
 https://www.googleapis.com/drive/v3/files/1wSnZVErtZDLpPiy4D9gAxow80cQlgamC?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", Aprahan E5
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", roup-title="Web Series - Hindi" Aprahan E5
 https://www.googleapis.com/drive/v3/files/1IOHV6Hc8MCCDuZ5a7Ok6OgDp9Fal2B2i?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", Aprahan E6
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", roup-title="Web Series - Hindi" Aprahan E6
 https://www.googleapis.com/drive/v3/files/1LkR_FOWKqb5Yg6hC11A1GbB0ysC-V_gU?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", Aprahan E7
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", roup-title="Web Series - Hindi" Aprahan E7
 https://www.googleapis.com/drive/v3/files/1BkJyHLV7R-o054QOIPiomhQLtlhbr7Tj?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", Aprahan E8
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", roup-title="Web Series - Hindi" Aprahan E8
 https://www.googleapis.com/drive/v3/files/1TXSwP0-BFYVEJiVW6e1Wh6uPYI8770Fe?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", Aprahan E9
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", roup-title="Web Series - Hindi" Aprahan E9
 https://www.googleapis.com/drive/v3/files/10t_hjY1yWLXcxYHX3rCJ9hOUwmUzBHg-?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", Aprahan E10
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", roup-title="Web Series - Hindi" Aprahan E10
 https://www.googleapis.com/drive/v3/files/16XwupsT8NGfRsfq0dh2zKTbG-F4jPKpj?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", Aprahan E11
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", roup-title="Web Series - Hindi" Aprahan E11
 https://www.googleapis.com/drive/v3/files/1rbt0maICpHQbc7xkHzkVz7706O9Yfsly?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", Aprahan E12
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Apharan.jpg?raw=true", roup-title="Web Series - Hindi" Aprahan E12
 https://www.googleapis.com/drive/v3/files/1V7dIUHaAGXg8BEuMMui4R57jEU6CnMju?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bang%20Baja%20Baraat.jpg?raw=true", Bang Baaja Baaraat E1
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bang%20Baja%20Baraat.jpg?raw=true", roup-title="Web Series - Hindi" Bang Baaja Baaraat E1
 https://www.googleapis.com/drive/v3/files/11SYRjfJXy98FKqC_7tG0wZZEn2dzTZBs?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bang%20Baja%20Baraat.jpg?raw=true", Bang Baaja Baaraat E2
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bang%20Baja%20Baraat.jpg?raw=true", roup-title="Web Series - Hindi" Bang Baaja Baaraat E2
 https://www.googleapis.com/drive/v3/files/1VNtFp1X8LU2dEYZPw9GwrG-f7YkZH29Y?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bang%20Baja%20Baraat.jpg?raw=true", Bang Baaja Baaraat E3
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bang%20Baja%20Baraat.jpg?raw=true", roup-title="Web Series - Hindi" Bang Baaja Baaraat E3
 https://www.googleapis.com/drive/v3/files/1cf2fSiQhZ22em5VGGvucmWGbV_97zFi0?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bang%20Baja%20Baraat.jpg?raw=true", Bang Baaja Baaraat E4
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bang%20Baja%20Baraat.jpg?raw=true", roup-title="Web Series - Hindi" Bang Baaja Baaraat E4
 https://www.googleapis.com/drive/v3/files/1NmbGf5uwj42mv2stHwhhS2p6WYVmTDx7?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bang%20Baja%20Baraat.jpg?raw=true", Bang Baaja Baaraat E5
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Bang%20Baja%20Baraat.jpg?raw=true", roup-title="Web Series - Hindi" Bang Baaja Baaraat E5
 https://www.googleapis.com/drive/v3/files/1x8S6m2O3RKXfMYaKglDTs1-kS0UMssIj?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E1
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 E1
 https://www.googleapis.com/drive/v3/files/1Qtq5XqOMtAb1dCAsxrpYX0KI0Y8D8IRP?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="2" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E2
+#EXTINF:-1 tvg-ID="2" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 E2
 https://www.googleapis.com/drive/v3/files/17VpvgAU-VXO6LnYGEZXn5oVtaE_9QHhN?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="3" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E3
+#EXTINF:-1 tvg-ID="3" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 E3
 https://www.googleapis.com/drive/v3/files/1B_ThxRhTz6DheP7UD00y9zrLnwF9wyAc?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="4" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E4
+#EXTINF:-1 tvg-ID="4" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 E4
 https://www.googleapis.com/drive/v3/files/1GFqaOk3JQAnrmoBOnFGss8Dxn6QcaQ0g?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="5" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E5
+#EXTINF:-1 tvg-ID="5" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 E5
 https://www.googleapis.com/drive/v3/files/1b9d_2sSWUcC2Sf-7J-6khLD1OuH09IAF?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="6" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E6
+#EXTINF:-1 tvg-ID="6" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 E6
 https://www.googleapis.com/drive/v3/files/1CGyx5yddba5hLnYf49D1QWG7MQK6SYme?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="7" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E7
+#EXTINF:-1 tvg-ID="7" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 E7
 https://www.googleapis.com/drive/v3/files/1HFzIV64TVPOV4oALH6AbhHAtD1OjZbPr?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="8" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E8
+#EXTINF:-1 tvg-ID="8" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 E8
 https://www.googleapis.com/drive/v3/files/1aepqtlXu0tIk4xukf0DE7I1S-nC3qS-u?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="9" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 S1 E9
+#EXTINF:-1 tvg-ID="9" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/SCAM%201992.jpg?raw=true" group-title="Web Series - Hindi", Scam 1992 E9
 https://www.googleapis.com/drive/v3/files/1Yy3vXD1LE41rP0JHyBe0P8JwLVH1KZiL?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2E01 DHENKUL 
+#EXTINF:-1 tvg-ID="10" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2 E01 - DHENKUL 
 https://www.googleapis.com/drive/v3/files/1eZU3J7MsokuDhZEebcAThsoVU8ahOmW-?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="11" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2E02 KHARGOSH 
+#EXTINF:-1 tvg-ID="11" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2 E02 - KHARGOSH 
 https://www.googleapis.com/drive/v3/files/1k7F4Iy2tGv6eaMdLQmUsfYoy4oWHnIua?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="12" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2E03 VIKLAANG 
+#EXTINF:-1 tvg-ID="12" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2 E03 - VIKLAANG 
 https://www.googleapis.com/drive/v3/files/1Uapz2L1g603_kkGL-eZEKxTpze--Ack4?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="13" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2E04 BHAYMUKT 
+#EXTINF:-1 tvg-ID="13" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2 E04 - BHAYMUKT 
 https://www.googleapis.com/drive/v3/files/1IhYZ0yn1m42cYRMcGMrPJmt41ZSJ8pbz?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="14" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2E05 LANGDA 
+#EXTINF:-1 tvg-ID="14" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2 E05 - LANGDA 
 https://www.googleapis.com/drive/v3/files/1JcDGnRLNVjUqLMvpFcD_7AJD7RkAKv9q?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI 
 
-#EXTINF:-1 tvg-ID="15" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2E06 ANKUSH 
+#EXTINF:-1 tvg-ID="15" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2 E06 - ANKUSH 
 https://www.googleapis.com/drive/v3/files/1ahxNuPQfecovmz2xrn6EQgt1OM-iJs7z?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="16" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2E07 OOD BILAAV 
+#EXTINF:-1 tvg-ID="16" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2 E07 - OOD BILAAV 
 https://www.googleapis.com/drive/v3/files/1CY6nWsGbdO1lyKQ2pBPLLA9EGw88owrJ?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="17" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2E08 CHAUCHAK 
+#EXTINF:-1 tvg-ID="17" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2 E08 - CHAUCHAK 
 https://www.googleapis.com/drive/v3/files/1vKPYunuhUjRxgDsQP6hjqV5_sSJB-t-l?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="18" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2E09 BUTTERSCOTCH 
+#EXTINF:-1 tvg-ID="18" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2 E09 - BUTTERSCOTCH 
 https://www.googleapis.com/drive/v3/files/10eGac09HZ1Qn1imo1v5BeIj-uQKl2pZ8?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
-#EXTINF:-1 tvg-ID="19" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2E10 KING OF MIRZAPUR 
+#EXTINF:-1 tvg-ID="19" tvg-name="" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Mirzapur%202.jpg?raw=true" group-title="Web Series - Hindi", Mirzapur S2 E10 - KING OF MIRZAPUR 
 https://www.googleapis.com/drive/v3/files/14A0Xv5RXvUtrEWsvvZKFQfUqXS3mJxZR?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
 
