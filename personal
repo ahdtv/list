@@ -21,4 +21,5 @@ https://z5amshls.akamaized.net/zcinemahd/tracks-v3a1/index.m3u8
 #EXTINF:-1, group-title="Personal", ZEE CINEMA ME
 https://z5amshls.akamaized.net/zeecinemame/tracks-v3a1/index.m3u8
 
-
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="" group-title="VOD - Punjabi Movies", Chal Mera Putt 2 (CAM Print)
+https://www.googleapis.com/drive/v3/files/1I7tyMzJ2Jqap03je9MJa1FgvyEz6_7Qg?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
