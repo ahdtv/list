@@ -419,12 +419,6 @@ http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50663
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50662
 
 
-
-
-
-
-
-
 ----------------------------------------------------------Devotional----------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStjHpP0yhYrGC8BuBbD7qlnU8RpvS5VDYYjK7GUGtmGZZwXWfl" group-title="Devotional",Shemaroo Bhakti
@@ -747,24 +741,8 @@ http://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checked
 
 ---------------------------------------------------------Sports---------------------------------------------------------------
 
-
-#EXTINF:-1 tvg-id="" tvg-name="RO: Eurosport 1 FHD" tvg-logo="" group-title="Sports",Eurosport 1 FHD
-http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/56143
-
-#EXTINF:-1 tvg-id="" tvg-name="RO: Eurosport 2 FHD" tvg-logo="" group-title="Sports",Eurosport 2 FHD
-http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/56142
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="Sports",UK: BT Sport 1 HD
-http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13796
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="Sports",UK: BT Sport 2 HD
-http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13797
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="Sports",UK: BT Sport 3 HD
-http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13830
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport ESPN HD" tvg-logo="" group-title="Sports",UK: BT Sport ESPN HD
-http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13832
+#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-11 4K" tvg-logo="" group-title="Sports", Star Sports Select HD1
+http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Main Event" tvg-logo="" group-title="Sports",UK: Sky Sport Main Event
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13770
@@ -783,6 +761,24 @@ http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13773
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Premiere League" tvg-logo="" group-title="Sports",UK: Sky Sport Premiere League
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13774
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: Eurosport 1 FHD" tvg-logo="" group-title="Sports",Eurosport 1 FHD
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/56143
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: Eurosport 2 FHD" tvg-logo="" group-title="Sports",Eurosport 2 FHD
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/56142
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="Sports",UK: BT Sport 1 HD
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13796
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="Sports",UK: BT Sport 2 HD
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13797
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="Sports",UK: BT Sport 3 HD
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13830
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport ESPN HD" tvg-logo="" group-title="Sports",UK: BT Sport ESPN HD
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13832
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport F1" tvg-logo="" group-title="Sports",UK: Sky Sport F1
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13776
@@ -1043,13 +1039,21 @@ http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50422
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50421
 
 
+
+
 -------------------------------------------Movies-----------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood HD" tvg-logo="http://5.189.181.7/extract/bollywoodhd.png" group-title="Movies",Bollywood HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://5.189.181.7/extract/bollywoodhd.png" group-title="Movies", Bollywood HD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/26
 
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH MOVIES Media Bollywood" tvg-logo="" group-title="Movies",ENGLISH MOVIES Media Bollywood
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", Media Bollywood
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/45579
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", Star Gold HD
+http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", Star Gold Select HD
+http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 
 ------------------------------------------Music--------------------------------------------------
 
@@ -1077,19 +1081,21 @@ http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13816
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/34326
 
 
+-------------------------------------------Pakistani-----------------------------------------------
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pakistani", 92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pakistani", Dunya News
+https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pakistani", Lahore News
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pakistani",Subrang TV (USA)
+https://cdn61.liveonlineservices.com/hls/subrang.m3u8
 
+----------------------------------------Entertainment----------------------------------------------
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", Star Plus
+http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
