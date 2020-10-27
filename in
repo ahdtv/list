@@ -1452,6 +1452,9 @@ https://www.googleapis.com/drive/v3/files/1EZ3I7M7rASHGtEO2fenwuqxU7ECRQ2e9?alt=
 #EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="" group-title="VOD - 4K UHD", New York
 https://www.googleapis.com/drive/v3/files/1rtoT7WwmWUkrm8-Fk1YlIaArmtCVsWum?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
 
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="" group-title="VOD - 4K UHD", Avatar 4K UHD (2009)
+https://www.googleapis.com/drive/v3/files/1UG-NWOIeRYDgN30L4ar-QK0hrzN4aCaF?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
 ------------------------------------------VOD - Hindi Movies-----------------------------------------------
 
 #EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="" group-title="VOD - Hindi Movies", Dream Girl (2019)
