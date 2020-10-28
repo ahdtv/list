@@ -413,6 +413,14 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="BritAsiaTV.uk(m3u4u)" tvg-name="Brit Asia TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s104280_dark_360w_270h.png" group-title="Punjabi",Brit Asia TV
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 
+#EXTINF:-1 tvg-id="1162" group-title="Punjabi", Vision Punjab TV
+http://kuchini.site:8080/iptvhometv/0451/196093
+
+#EXTINF:0,group-title="Punjabi", Vision Punjab Gurbani
+http://kuchini.site:8080/iptvhometv/0451/196091
+
+
+
 
 -----------------------------------------------------------English Movies-------------------------------------------------------------
 
@@ -750,6 +758,9 @@ https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
 #EXTINF:-1 tvg-id="597" tvg-language="HINDI" tvg-name="Satsang TV" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Satsang_TV.png?raw=true" group-title="Devotional", Satsang TV
 https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
 
+
+
+
 ---------------------------------------------Fiji TV---------------------------------
 #EXTINF:-1 tvg-id="925" tvg-name="Fiji TV" tvg-logo="" group-title="Fiji TV", Fiji TV
 https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8?checkedby:iptvcat.com
@@ -762,8 +773,26 @@ http://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checked
 
 ---------------------------------------------------------Sports---------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Cricket" tvg-logo="" group-title="Sports",UK: Sky Sport Cricket
+#EXTINF:0,group-title="Sports", Willow Cricket HD
+http://kuchini.site:8080/iptvhometv/0451/165776
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Cricket" tvg-logo="" group-title="Sports", Star Sports HD1 Hindi 
+https://mhdtvworld.live/delta/testing/max.php?id=14000&e=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Cricket" tvg-logo="" group-title="Sports", Star Sports HD2
+http://kuchini.site:8080/iptvhometv/0451/3631
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Cricket" tvg-logo="" group-title="Sports",UK: Sky Sport Cricket (Link 1)
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13771
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Cricket" tvg-logo="" group-title="Sports",UK: Sky Sport Cricket (Link 2)
+https://mhdtvworld.live/delta/testing/max.php?id=49789&e=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Cricket" tvg-logo="" group-title="Sports",UK: Sky Sport Cricket (Link 3)
+http://kuchini.site:8080/iptvhometv/0451/145801
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Cricket" tvg-logo="" group-title="Sports",UK: Sky Sport Cricket (Link 4)
+http://kuchini.site:8080/iptvhometv/0451/190089
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Main Event" tvg-logo="" group-title="Sports",UK: Sky Sport Main Event
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13770
@@ -776,25 +805,30 @@ http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13772
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Golf" tvg-logo="" group-title="Sports",UK: Sky Sport Golf
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13773
+https://mhdtvworld.live/delta/testing/max.php?id=49790&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Premiere League" tvg-logo="" group-title="Sports",UK: Sky Sport Premiere League
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13774
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/269696
+https://mhdtvworld.live/delta/testing/max.php?id=49787&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Premiere League" tvg-logo="" group-title="Sports",UK: SKY SPORTS F1 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311866
+https://mhdtvworld.live/delta/testing/max.php?id=49792&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Premiere League" tvg-logo="" group-title="Sports",UK: SKY SPORTS GOLF HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311867
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Premiere League" tvg-logo="" group-title="Sports",UK: SKY SPORTS FOOTBALL HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/275638
+https://mhdtvworld.live/delta/testing/max.php?id=49788&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Premiere League" tvg-logo="" group-title="Sports",UK: SKY SPORTS NEWS HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/275640
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Premiere League" tvg-logo="" group-title="Sports",UK: SKY SPORTS RACING UK
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31017
+https://mhdtvworld.live/delta/testing/max.php?id=49791&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RO: Eurosport 1 FHD" tvg-logo="" group-title="Sports",Eurosport 1 FHD
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/56143
@@ -1072,7 +1106,977 @@ http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50422
 #EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT-11 4K" tvg-logo="" group-title="beIN SPORT",BS | beIN SPORT-11 4K
 http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/50421
 
+--------------------------------------------UK--------------------------------------------------
 
+#EXTINF:0,group-title="UK Channels", CAPITAL TV
+http://kuchini.site:8080/iptvhometv/0451/23115
+#EXTINF:0,group-title="UK Channels", Cartoon Network FHD
+http://kuchini.site:8080/iptvhometv/0451/720
+#EXTINF:0,group-title="UK Channels" UK Cartoon Network FHD
+http://kuchini.site:8080/iptvhometv/0451/50920
+#EXTINF:0,group-title="UK Channels", Cartoonito FHD
+http://kuchini.site:8080/iptvhometv/0451/1546
+#EXTINF:0group-title="UK Channels", Cartoonito HD
+http://kuchini.site:8080/iptvhometv/0451/50919
+#EXTINF:0,group-title="UK Channels", CBBC FHD
+http://kuchini.site:8080/iptvhometv/0451/4754
+#EXTINF:0,group-title="UK Channels", CBeebies FHD
+http://kuchini.site:8080/iptvhometv/0451/4753
+#EXTINF:0group-title="UK Channels", CBeebies FHD
+http://kuchini.site:8080/iptvhometv/0451/190539
+#EXTINF:0,group-title="UK Channels", CBS ACTION HD
+http://kuchini.site:8080/iptvhometv/0451/10617
+#EXTINF:0,group-title="UK Channels", CBS Drama HD
+http://kuchini.site:8080/iptvhometv/0451/1123
+#EXTINF:0,group-title="UK Channels", CBS Justice HD
+http://kuchini.site:8080/iptvhometv/0451/1122
+#EXTINF:0,group-title="UK Channels", CBS Reality +1
+http://kuchini.site:8080/iptvhometv/0451/4647
+#EXTINF:0,group-title="UK Channels", CBS Reality HD
+http://kuchini.site:8080/iptvhometv/0451/1121
+#EXTINF:0,group-title="UK Channels", CBSN News HD
+http://kuchini.site:8080/iptvhometv/0451/11582
+#EXTINF:0,group-title="UK Channels", CGTN Documentary
+http://kuchini.site:8080/iptvhometv/0451/4819
+#EXTINF:0,group-title="UK Channels", CGTN HD
+http://kuchini.site:8080/iptvhometv/0451/157252
+#EXTINF:0,group-title="UK Channels", CGTN News
+http://kuchini.site:8080/iptvhometv/0451/4818
+#EXTINF:0,group-title="UK Channels", Challenge HD
+http://kuchini.site:8080/iptvhometv/0451/4641
+#EXTINF:0,group-title="UK Channels", Channel 4 FHD
+http://kuchini.site:8080/iptvhometv/0451/1120
+#EXTINF:0,group-title="UK Channels", Channel 5 +1
+http://kuchini.site:8080/iptvhometv/0451/145792
+#EXTINF:0,group-title="UK Channels", Channel 5 FHD
+http://kuchini.site:8080/iptvhometv/0451/1119
+#EXTINF:0,group-title="UK Channels", Channel AKA
+http://kuchini.site:8080/iptvhometv/0451/65074
+#EXTINF:0,group-title="UK Channels", Chart Show Hits
+http://kuchini.site:8080/iptvhometv/0451/29761
+#EXTINF:0,group-title="UK Channels", Chelsea TV HD
+http://kuchini.site:8080/iptvhometv/0451/77283
+#EXTINF:0,group-title="UK Channels", CHSTV
+http://kuchini.site:8080/iptvhometv/0451/157282
+#EXTINF:0,group-title="UK Channels", CITV FHD
+http://kuchini.site:8080/iptvhometv/0451/1548
+#EXTINF:0,group-title="UK Channels", Club MTV
+http://kuchini.site:8080/iptvhometv/0451/17054
+#EXTINF:0,group-title="UK Channels", Clubland
+http://kuchini.site:8080/iptvhometv/0451/144752
+#EXTINF:0,group-title="UK Channels", CNA
+http://kuchini.site:8080/iptvhometv/0451/60298
+#EXTINF:0,group-title="UK Channels", CNBC Europe
+http://kuchini.site:8080/iptvhometv/0451/171945
+#EXTINF:0,group-title="UK Channels", CNBC HD
+http://kuchini.site:8080/iptvhometv/0451/11562
+#EXTINF:0,group-title="UK Channels", CNBC News HD
+http://kuchini.site:8080/iptvhometv/0451/165914
+#EXTINF:0,group-title="UK Channels", CNN HD
+http://kuchini.site:8080/iptvhometv/0451/1547
+#EXTINF:0,group-title="UK Channels", CNN International
+http://kuchini.site:8080/iptvhometv/0451/168911
+#EXTINF:0,group-title="UK Channels", CNN News HD
+http://kuchini.site:8080/iptvhometv/0451/120435
+#EXTINF:0,group-title="UK Channels", Comedy Central +1
+http://kuchini.site:8080/iptvhometv/0451/145791
+#EXTINF:0,group-title="UK Channels", Comedy Central Extra HD
+http://kuchini.site:8080/iptvhometv/0451/4656
+#EXTINF:0,group-title="UK Channels", Comedy Central FHD
+http://kuchini.site:8080/iptvhometv/0451/1118
+#EXTINF:0,group-title="UK Channels", COMEDY XTRA
+http://kuchini.site:8080/iptvhometv/0451/148002
+#EXTINF:0,group-title="UK Channels", Crime+ Investigation FHD
+http://kuchini.site:8080/iptvhometv/0451/1549
+#EXTINF:0group-title="UK Channels", Crime+ Investigation FHD
+http://kuchini.site:8080/iptvhometv/0451/189952
+#EXTINF:0,group-title="UK Channels", Cruise 1st TV
+http://kuchini.site:8080/iptvhometv/0451/166648
+#EXTINF:0,group-title="UK Channels", CULTURE
+http://kuchini.site:8080/iptvhometv/0451/197381
+#EXTINF:0,group-title="UK Channels", Darama
+http://kuchini.site:8080/iptvhometv/0451/60355
+#EXTINF:0,group-title="UK Channels", Dave FHD
+http://kuchini.site:8080/iptvhometv/0451/733
+#EXTINF:0,group-title="UK Channels", Dave Ja Vu
+http://kuchini.site:8080/iptvhometv/0451/17031
+#EXTINF:0,group-title="UK Channels", Destination America
+http://kuchini.site:8080/iptvhometv/0451/36962
+#EXTINF:0,group-title="UK Channels", Discovery +1
+http://kuchini.site:8080/iptvhometv/0451/4677
+#EXTINF:0group-title="UK Channels", Discovery +1
+http://kuchini.site:8080/iptvhometv/0451/190296
+#EXTINF:0,group-title="UK Channels", Discovery Channel FHD
+http://kuchini.site:8080/iptvhometv/0451/708
+#EXTINF:0group-title="UK Channels", Discovery Channel FHD
+http://kuchini.site:8080/iptvhometv/0451/190259
+#EXTINF:0,group-title="UK Channels", Discovery H&H +1 HD
+http://kuchini.site:8080/iptvhometv/0451/158589
+#EXTINF:0group-title="UK Channels", Discovery H&H +1 HD
+http://kuchini.site:8080/iptvhometv/0451/190425
+#EXTINF:0,group-title="UK Channels", Discovery H&H HD
+http://kuchini.site:8080/iptvhometv/0451/4829
+#EXTINF:0group-title="UK Channels", Discovery H&H HD
+http://kuchini.site:8080/iptvhometv/0451/190297
+#EXTINF:0,group-title="UK Channels", Discovery History FHD
+http://kuchini.site:8080/iptvhometv/0451/694
+#EXTINF:0group-title="UK Channels", Discovery History FHD
+http://kuchini.site:8080/iptvhometv/0451/190258
+#EXTINF:0,group-title="UK Channels", Discovery Science FHD
+http://kuchini.site:8080/iptvhometv/0451/713
+#EXTINF:0group-title="UK Channels", Discovery Science FHD
+http://kuchini.site:8080/iptvhometv/0451/190260
+#EXTINF:0,group-title="UK Channels", Discovery Shed FHD
+http://kuchini.site:8080/iptvhometv/0451/1550
+#EXTINF:0group-title="UK Channels", Discovery Shed FHD
+http://kuchini.site:8080/iptvhometv/0451/190268
+#EXTINF:0,group-title="UK Channels", Discovery Turbo FHD
+http://kuchini.site:8080/iptvhometv/0451/1114
+#EXTINF:0group-title="UK Channels", Discovery Turbo FHD
+http://kuchini.site:8080/iptvhometv/0451/190264
+#EXTINF:0,group-title="UK Channels", Disney Channel FHD
+http://kuchini.site:8080/iptvhometv/0451/1113
+#EXTINF:0group-title="UK Channels", Disney Channel FHD
+http://kuchini.site:8080/iptvhometv/0451/190965
+#EXTINF:0,group-title="UK Channels", Disney Junior FHD
+http://kuchini.site:8080/iptvhometv/0451/1112
+#EXTINF:0group-title="UK Channels", Disney Junior HD
+http://kuchini.site:8080/iptvhometv/0451/50898
+#EXTINF:0,group-title="UK Channels", Disney XD FHD
+http://kuchini.site:8080/iptvhometv/0451/1111
+#EXTINF:0group-title="UK Channels", Disney XD FHD
+http://kuchini.site:8080/iptvhometv/0451/190964
+#EXTINF:0,group-title="UK Channels", DMAX HD
+http://kuchini.site:8080/iptvhometv/0451/1604
+#EXTINF:0group-title="UK Channels", DMAX HD
+http://kuchini.site:8080/iptvhometv/0451/191066
+#EXTINF:0,group-title="UK Channels", Drama Channel
+http://kuchini.site:8080/iptvhometv/0451/4638
+#EXTINF:0,group-title="UK Channels", Dubai Sports 3
+http://kuchini.site:8080/iptvhometv/0451/194773
+#EXTINF:0,group-title="UK Channels", Duck TV
+http://kuchini.site:8080/iptvhometv/0451/144753
+#EXTINF:0,group-title="UK Channels", DW
+http://kuchini.site:8080/iptvhometv/0451/19276
+#EXTINF:0,group-title="UK Channels", DW English
+http://kuchini.site:8080/iptvhometv/0451/148005
+#EXTINF:0,group-title="UK Channels", E! FHD
+http://kuchini.site:8080/iptvhometv/0451/1542
+#EXTINF:0group-title="UK Channels", E! FHD
+http://kuchini.site:8080/iptvhometv/0451/191459
+#EXTINF:0,group-title="UK Channels", E4 FHD
+http://kuchini.site:8080/iptvhometv/0451/1110
+#EXTINF:0,group-title="UK Channels", Eden HD
+http://kuchini.site:8080/iptvhometv/0451/1109
+#EXTINF:0,group-title="UK Channels", Edge Sport FHD
+http://kuchini.site:8080/iptvhometv/0451/54012
+#EXTINF:0,group-title="UK Channels", EIR SPORTS 1 FHD
+http://kuchini.site:8080/iptvhometv/0451/78689
+#EXTINF:0,group-title="UK Channels", EIR SPORTS 1 HD
+http://kuchini.site:8080/iptvhometv/0451/4725
+#EXTINF:0,group-title="UK Channels", EIR SPORTS 2 FHD
+http://kuchini.site:8080/iptvhometv/0451/166670
+#EXTINF:0,group-title="UK Channels", EIR SPORTS 2 HD
+http://kuchini.site:8080/iptvhometv/0451/165915
+#EXTINF:0,group-title="UK Channels", ELEVEN SPORTS 2 HD
+http://kuchini.site:8080/iptvhometv/0451/48406
+#EXTINF:0,group-title="UK Channels", ELEVEN SPORTS HD
+http://kuchini.site:8080/iptvhometv/0451/23514
+#EXTINF:0,group-title="UK Channels", ESPN HD
+http://kuchini.site:8080/iptvhometv/0451/44557
+#EXTINF:0group-title="UK Channels", ESPN HD
+http://kuchini.site:8080/iptvhometv/0451/191380
+#EXTINF:0,group-title="UK Channels", euronews FHD
+http://kuchini.site:8080/iptvhometv/0451/1554
+#EXTINF:0,group-title="UK Channels", EUROSPORT
+http://kuchini.site:8080/iptvhometv/0451/165752
+#EXTINF:0group-title="UK Channels", EUROSPORT
+http://kuchini.site:8080/iptvhometv/0451/190240
+#EXTINF:0,group-title="UK Channels", EUROSPORT 1 FHD
+http://kuchini.site:8080/iptvhometv/0451/692
+#EXTINF:0group-title="UK Channels", EUROSPORT 1 FHD
+http://kuchini.site:8080/iptvhometv/0451/190179
+#EXTINF:0,group-title="UK Channels", EUROSPORT 2 FHD
+http://kuchini.site:8080/iptvhometv/0451/1555
+#EXTINF:0group-title="UK Channels", EUROSPORT 2 FHD
+http://kuchini.site:8080/iptvhometv/0451/190187
+#EXTINF:0,group-title="UK Channels", EWTN Catholic
+http://kuchini.site:8080/iptvhometv/0451/157283
+#EXTINF:0,group-title="UK Channels", FC Liverpool TV
+http://kuchini.site:8080/iptvhometv/0451/28015
+#EXTINF:0,group-title="UK Channels", FC Manchester United
+http://kuchini.site:8080/iptvhometv/0451/157394
+#EXTINF:0,group-title="UK Channels", FIGHT BOX FHD
+http://kuchini.site:8080/iptvhometv/0451/11485
+#EXTINF:0group-title="UK Channels", FIGHT BOX FHD
+http://kuchini.site:8080/iptvhometv/0451/190475
+#EXTINF:0,group-title="UK Channels", FIGHT Channel
+http://kuchini.site:8080/iptvhometv/0451/33572
+#EXTINF:0,group-title="UK Channels", FIGHT Channel World
+http://kuchini.site:8080/iptvhometv/0451/157398
+#EXTINF:0,group-title="UK Channels", FIGHT Sport
+http://kuchini.site:8080/iptvhometv/0451/157399
+#EXTINF:0,group-title="UK Channels", Film 4 HD
+http://kuchini.site:8080/iptvhometv/0451/1541
+#EXTINF:0,group-title="UK Channels", Fine Living Network
+http://kuchini.site:8080/iptvhometv/0451/4824
+#EXTINF:0,group-title="UK Channels", FOOD NETWORK +1
+http://kuchini.site:8080/iptvhometv/0451/4659
+#EXTINF:0,group-title="UK Channels", Food Network FHD
+http://kuchini.site:8080/iptvhometv/0451/4658
+#EXTINF:0,group-title="UK Channels", FOX FHD
+http://kuchini.site:8080/iptvhometv/0451/55549
+#EXTINF:0,group-title="UK Channels", Fox News HD
+http://kuchini.site:8080/iptvhometv/0451/1611
+#EXTINF:0,group-title="UK Channels", FOX SPORTS News
+http://kuchini.site:8080/iptvhometv/0451/194875
+#EXTINF:0,group-title="UK Channels", France 24 English
+http://kuchini.site:8080/iptvhometv/0451/173226
+#EXTINF:0,group-title="UK Channels", France 24 FHD
+http://kuchini.site:8080/iptvhometv/0451/11560
+#EXTINF:0,group-title="UK Channels", Free Sports HD
+http://kuchini.site:8080/iptvhometv/0451/37876
+#EXTINF:0,group-title="UK Channels", Geo News
+http://kuchini.site:8080/iptvhometv/0451/17095
+#EXTINF:0,group-title="UK Channels", GOD TV
+http://kuchini.site:8080/iptvhometv/0451/22338
+#EXTINF:0,group-title="UK Channels", GOLD FHD
+http://kuchini.site:8080/iptvhometv/0451/1108
+#EXTINF:0,group-title="UK Channels", Good Food HD
+http://kuchini.site:8080/iptvhometv/0451/11450
+#EXTINF:0,group-title="UK Channels", H&h
+http://kuchini.site:8080/iptvhometv/0451/163129
+#EXTINF:0,group-title="UK Channels", H2 FHD
+http://kuchini.site:8080/iptvhometv/0451/1601
+#EXTINF:0,group-title="UK Channels", HBO Comedy HD
+http://kuchini.site:8080/iptvhometv/0451/151864
+#EXTINF:0,group-title="UK Channels", HBO HD
+http://kuchini.site:8080/iptvhometv/0451/199061
+#EXTINF:0,group-title="UK Channels", Hidayat TV
+http://kuchini.site:8080/iptvhometv/0451/165994
+#EXTINF:0,group-title="UK Channels", Hillsong Channel
+http://kuchini.site:8080/iptvhometv/0451/63165
+#EXTINF:0,group-title="UK Channels", History Channel 2 FHD
+http://kuchini.site:8080/iptvhometv/0451/192857
+#EXTINF:0,group-title="UK Channels", History Channel FHD
+http://kuchini.site:8080/iptvhometv/0451/1107
+#EXTINF:0group-title="UK Channels", History Channel FHD
+http://kuchini.site:8080/iptvhometv/0451/190694
+#EXTINF:0,group-title="UK Channels", Hochanda
+http://kuchini.site:8080/iptvhometv/0451/157284
+#EXTINF:0,group-title="UK Channels", Home & Health
+http://kuchini.site:8080/iptvhometv/0451/173193
+#EXTINF:0,group-title="UK Channels", Home HD
+http://kuchini.site:8080/iptvhometv/0451/1600
+#EXTINF:0,group-title="UK Channels", HORIZON SPORTS
+http://kuchini.site:8080/iptvhometv/0451/173275
+#EXTINF:0,group-title="UK Channels", Horror Channel 1 HD
+http://kuchini.site:8080/iptvhometv/0451/147671
+#EXTINF:0,group-title="UK Channels", Horror Channel FHD
+http://kuchini.site:8080/iptvhometv/0451/736
+#EXTINF:0,group-title="UK Channels", Horse & Country HD
+http://kuchini.site:8080/iptvhometv/0451/11492
+#EXTINF:0,group-title="UK Channels", HUM EUROPE
+http://kuchini.site:8080/iptvhometv/0451/121303
+#EXTINF:0,group-title="UK Channels", Hum News
+http://kuchini.site:8080/iptvhometv/0451/48826
+#EXTINF:0,group-title="UK Channels", iConcerts HD
+http://kuchini.site:8080/iptvhometv/0451/17059
+#EXTINF:0,group-title="UK Channels", ID
+http://kuchini.site:8080/iptvhometv/0451/166651
+#EXTINF:0,group-title="UK Channels", Info Corona Virus
+http://kuchini.site:8080/iptvhometv/0451/122206
+#EXTINF:0,group-title="UK Channels", Investigation Discovery HD
+http://kuchini.site:8080/iptvhometv/0451/734
+#EXTINF:0group-title="UK Channels", Investigation Discovery HD
+http://kuchini.site:8080/iptvhometv/0451/190261
+#EXTINF:0,group-title="UK Channels", IQRA United Kingdon
+http://kuchini.site:8080/iptvhometv/0451/165982
+#EXTINF:0,group-title="UK Channels", Islam TV
+http://kuchini.site:8080/iptvhometv/0451/166650
+#EXTINF:0,group-title="UK Channels", itv +1
+http://kuchini.site:8080/iptvhometv/0451/165901
+#EXTINF:0,group-title="UK Channels", itv 1 FHD
+http://kuchini.site:8080/iptvhometv/0451/689
+#EXTINF:0,group-title="UK Channels", itv 2 +1
+http://kuchini.site:8080/iptvhometv/0451/145744
+#EXTINF:0,group-title="UK Channels", itv 2 FHD
+http://kuchini.site:8080/iptvhometv/0451/690
+#EXTINF:0,group-title="UK Channels", itv 3 FHD
+http://kuchini.site:8080/iptvhometv/0451/703
+#EXTINF:0,group-title="UK Channels", itv 4 + 1
+http://kuchini.site:8080/iptvhometv/0451/65105
+#EXTINF:0,group-title="UK Channels", itv 4 FHD
+http://kuchini.site:8080/iptvhometv/0451/691
+#EXTINF:0,group-title="UK Channels", itv BE FHD
+http://kuchini.site:8080/iptvhometv/0451/1560
+#EXTINF:0,group-title="UK Channels", itv Encore
+http://kuchini.site:8080/iptvhometv/0451/4807
+#EXTINF:0,group-title="UK Channels", itv FHD
+http://kuchini.site:8080/iptvhometv/0451/5878
+#EXTINF:0,group-title="UK Channels", itv London
+http://kuchini.site:8080/iptvhometv/0451/166652
+#EXTINF:0,group-title="UK Channels", Jewellery Maker
+http://kuchini.site:8080/iptvhometv/0451/166001
+#EXTINF:0,group-title="UK Channels", Kanshi TV
+http://kuchini.site:8080/iptvhometv/0451/166018
+#EXTINF:0,group-title="UK Channels", Kerrang! TV
+http://kuchini.site:8080/iptvhometv/0451/62714
+#EXTINF:0,group-title="UK Channels", Key TV
+http://kuchini.site:8080/iptvhometv/0451/192662
+#EXTINF:0,group-title="UK Channels", Kicc TV
+http://kuchini.site:8080/iptvhometv/0451/7550
+#EXTINF:0,group-title="UK Channels", Kids Tom & Jerry
+http://kuchini.site:8080/iptvhometv/0451/65053
+#EXTINF:0,group-title="UK Channels", Kiss Music TV
+http://kuchini.site:8080/iptvhometv/0451/157279
+#EXTINF:0group-title="UK Channels", Kiss Music TV
+http://kuchini.site:8080/iptvhometv/0451/191215
+#EXTINF:0,group-title="UK Channels", Kiss TV
+http://kuchini.site:8080/iptvhometv/0451/4746
+#EXTINF:0,group-title="UK Channels", KIX
+http://kuchini.site:8080/iptvhometv/0451/17491
+#EXTINF:0,group-title="UK Channels", LA Muscle TV
+http://kuchini.site:8080/iptvhometv/0451/166022
+#EXTINF:0,group-title="UK Channels", LCBN
+http://kuchini.site:8080/iptvhometv/0451/166026
+#EXTINF:0,group-title="UK Channels", LFC Liverpool TV
+http://kuchini.site:8080/iptvhometv/0451/195719
+#EXTINF:0,group-title="UK Channels", LFC TV FHD
+http://kuchini.site:8080/iptvhometv/0451/4721
+#EXTINF:0,group-title="UK Channels", Lifetime HD
+http://kuchini.site:8080/iptvhometv/0451/4667
+#EXTINF:0,group-title="UK Channels", Liverpool FC FHD
+http://kuchini.site:8080/iptvhometv/0451/72700
+#EXTINF:0,group-title="UK Channels", Liverpool TV HD
+http://kuchini.site:8080/iptvhometv/0451/170002
+#EXTINF:0,group-title="UK Channels", Living
+http://kuchini.site:8080/iptvhometv/0451/74432
+#EXTINF:0,group-title="UK Channels", London Live HD
+http://kuchini.site:8080/iptvhometv/0451/11459
+#EXTINF:0,group-title="UK Channels", Love Nature FHD
+http://kuchini.site:8080/iptvhometv/0451/78665
+#EXTINF:0,group-title="UK Channels", Madani Channel
+http://kuchini.site:8080/iptvhometv/0451/166722
+#EXTINF:0,group-title="UK Channels", Magic HD
+http://kuchini.site:8080/iptvhometv/0451/4745
+#EXTINF:0,group-title="UK Channels", More4 FHD
+http://kuchini.site:8080/iptvhometv/0451/738
+#EXTINF:0,group-title="UK Channels", Motor sport TV
+http://kuchini.site:8080/iptvhometv/0451/74359
+#EXTINF:0,group-title="UK Channels", Motor Trend
+http://kuchini.site:8080/iptvhometv/0451/194860
+#EXTINF:0,group-title="UK Channels", MOTORS TV FHD
+http://kuchini.site:8080/iptvhometv/0451/11712
+#EXTINF:0,group-title="UK Channels", Movie Drama HD
+http://kuchini.site:8080/iptvhometv/0451/712
+#EXTINF:0,group-title="UK Channels", Movies 4 Men
+http://kuchini.site:8080/iptvhometv/0451/11713
+#EXTINF:0,group-title="UK Channels", Movies 24
+http://kuchini.site:8080/iptvhometv/0451/74386
+#EXTINF:0,group-title="UK Channels", Movies4Men
+http://kuchini.site:8080/iptvhometv/0451/196393
+#EXTINF:0,group-title="UK Channels", MSNBC TV
+http://kuchini.site:8080/iptvhometv/0451/74431
+#EXTINF:0,group-title="UK Channels", MTA 2 Urdu
+http://kuchini.site:8080/iptvhometv/0451/200279
+#EXTINF:0,group-title="UK Channels", MTV 24 Music
+http://kuchini.site:8080/iptvhometv/0451/157275
+#EXTINF:0group-title="UK Channels", MTV 24 Music
+http://kuchini.site:8080/iptvhometv/0451/191214
+#EXTINF:0,group-title="UK Channels", MTV 90s
+http://kuchini.site:8080/iptvhometv/0451/91052
+#EXTINF:0,group-title="UK Channels", MTV Base HD
+http://kuchini.site:8080/iptvhometv/0451/4733
+#EXTINF:0group-title="UK Channels", MTV Base HD
+http://kuchini.site:8080/iptvhometv/0451/190517
+#EXTINF:0,group-title="UK Channels", MTV Classic HD
+http://kuchini.site:8080/iptvhometv/0451/4735
+#EXTINF:0group-title="UK Channels", MTV Classic HD
+http://kuchini.site:8080/iptvhometv/0451/190126
+#EXTINF:0,group-title="UK Channels", MTV Dance HD
+http://kuchini.site:8080/iptvhometv/0451/11715
+#EXTINF:0group-title="UK Channels", MTV Dance HD
+http://kuchini.site:8080/iptvhometv/0451/190483
+#EXTINF:0,group-title="UK Channels", MTV FHD
+http://kuchini.site:8080/iptvhometv/0451/4728
+#EXTINF:0,group-title="UK Channels", MTV Hits FHD
+http://kuchini.site:8080/iptvhometv/0451/4736
+#EXTINF:0group-title="UK Channels", MTV Hits FHD
+http://kuchini.site:8080/iptvhometv/0451/190554
+#EXTINF:0,group-title="UK Channels", MTV Live FHD
+http://kuchini.site:8080/iptvhometv/0451/21860
+#EXTINF:0group-title="UK Channels", MTV Live FHD
+http://kuchini.site:8080/iptvhometv/0451/190569
+#EXTINF:0,group-title="UK Channels", MTV MUSIC +1
+http://kuchini.site:8080/iptvhometv/0451/200237
+#EXTINF:0,group-title="UK Channels", MTV Music FHD
+http://kuchini.site:8080/iptvhometv/0451/4731
+#EXTINF:0group-title="UK Channels", MTV Music FHD
+http://kuchini.site:8080/iptvhometv/0451/190164
+#EXTINF:0,group-title="UK Channels", MTV OMG HD
+http://kuchini.site:8080/iptvhometv/0451/4737
+#EXTINF:0,group-title="UK Channels", MTV Rocks HD
+http://kuchini.site:8080/iptvhometv/0451/4738
+#EXTINF:0group-title="UK Channels", MTV Rocks HD
+http://kuchini.site:8080/iptvhometv/0451/190576
+#EXTINF:0,group-title="UK Channels", Music Box
+http://kuchini.site:8080/iptvhometv/0451/171944
+#EXTINF:0group-title="UK Channels", Music Box
+http://kuchini.site:8080/iptvhometv/0451/191229
+#EXTINF:0,group-title="UK Channels", MUTV FHD
+http://kuchini.site:8080/iptvhometv/0451/1102
+#EXTINF:0,group-title="UK Channels", MYTV
+http://kuchini.site:8080/iptvhometv/0451/11470
+#EXTINF:0,group-title="UK Channels", NAT GEO FHD
+http://kuchini.site:8080/iptvhometv/0451/1101
+#EXTINF:0group-title="UK Channels", NAT GEO FHD
+http://kuchini.site:8080/iptvhometv/0451/190591
+#EXTINF:0,group-title="UK Channels", NAT GEO People
+http://kuchini.site:8080/iptvhometv/0451/36973
+#EXTINF:0group-title="UK Channels", NAT GEO People
+http://kuchini.site:8080/iptvhometv/0451/190642
+#EXTINF:0,group-title="UK Channels", NAT GEO Wild FHD
+http://kuchini.site:8080/iptvhometv/0451/724
+#EXTINF:0group-title="UK Channels", NAT GEO Wild FHD
+http://kuchini.site:8080/iptvhometv/0451/190587
+#EXTINF:0,group-title="UK Channels", NBA
+http://kuchini.site:8080/iptvhometv/0451/182451
+#EXTINF:0,group-title="UK Channels", News Max
+http://kuchini.site:8080/iptvhometv/0451/65063
+#EXTINF:0,group-title="UK Channels", NHK World News HD
+http://kuchini.site:8080/iptvhometv/0451/165913
+#EXTINF:0,group-title="UK Channels", NHK World TV
+http://kuchini.site:8080/iptvhometv/0451/198805
+#EXTINF:0,group-title="UK Channels", Nick Junior 2 HD
+http://kuchini.site:8080/iptvhometv/0451/165930
+#EXTINF:0group-title="UK Channels", Nick Junior 2 HD
+http://kuchini.site:8080/iptvhometv/0451/190953
+#EXTINF:0,group-title="UK Channels", Nick Junior FHD
+http://kuchini.site:8080/iptvhometv/0451/1098
+#EXTINF:0group-title="UK Channels", Nick Junior FHD
+http://kuchini.site:8080/iptvhometv/0451/190892
+#EXTINF:0,group-title="UK Channels", Nick Junior KD
+http://kuchini.site:8080/iptvhometv/0451/197497
+#EXTINF:0,group-title="UK Channels", Nick Junior Peppa FHD
+http://kuchini.site:8080/iptvhometv/0451/48766
+#EXTINF:0group-title="UK Channels", Nick Junior Peppa FHD
+http://kuchini.site:8080/iptvhometv/0451/190926
+#EXTINF:0,group-title="UK Channels", Nick Junior TOO HD
+http://kuchini.site:8080/iptvhometv/0451/4759
+#EXTINF:0group-title="UK Channels", Nick Junior TOO HD
+http://kuchini.site:8080/iptvhometv/0451/190901
+#EXTINF:0,group-title="UK Channels", Nick Junior TOO KD
+http://kuchini.site:8080/iptvhometv/0451/197496
+#EXTINF:0,group-title="UK Channels", NICKELEDION JR
+http://kuchini.site:8080/iptvhometv/0451/32459
+#EXTINF:0,group-title="UK Channels", nickelodeon FHD
+http://kuchini.site:8080/iptvhometv/0451/1099
+#EXTINF:0group-title="UK Channels", nickelodeon FHD
+http://kuchini.site:8080/iptvhometv/0451/191268
+#EXTINF:0,group-title="UK Channels", nicktoons FHD
+http://kuchini.site:8080/iptvhometv/0451/740
+#EXTINF:0group-title="UK Channels", Nicktoons FHD
+http://kuchini.site:8080/iptvhometv/0451/191266
+#EXTINF:0,group-title="UK Channels", NICKTOONS KD
+http://kuchini.site:8080/iptvhometv/0451/197495
+#EXTINF:0,group-title="UK Channels", Noor TV
+http://kuchini.site:8080/iptvhometv/0451/165369
+#EXTINF:0,group-title="UK Channels", Now 80s
+http://kuchini.site:8080/iptvhometv/0451/144754
+#EXTINF:0,group-title="UK Channels", Now 90s
+http://kuchini.site:8080/iptvhometv/0451/157335
+#EXTINF:0,group-title="UK Channels", NTV
+http://kuchini.site:8080/iptvhometv/0451/11552
+#EXTINF:0,group-title="UK Channels", Paramount Network HD
+http://kuchini.site:8080/iptvhometv/0451/4637
+#EXTINF:0,group-title="UK Channels", PBS America
+http://kuchini.site:8080/iptvhometv/0451/11720
+#EXTINF:0,group-title="UK Channels", Pick HD
+http://kuchini.site:8080/iptvhometv/0451/1578
+#EXTINF:0,group-title="UK Channels", PoP +1
+http://kuchini.site:8080/iptvhometv/0451/165932
+#EXTINF:0,group-title="UK Channels", POP Channel
+http://kuchini.site:8080/iptvhometv/0451/1599
+#EXTINF:0,group-title="UK Channels", POP Kids
+http://kuchini.site:8080/iptvhometv/0451/198077
+#EXTINF:0,group-title="UK Channels", Pop Max HD
+http://kuchini.site:8080/iptvhometv/0451/1598
+#EXTINF:0,group-title="UK Channels", Premier Sports 1 FHD
+http://kuchini.site:8080/iptvhometv/0451/4722
+#EXTINF:0,group-title="UK Channels", PREMIER SPORTS 2 FHD
+http://kuchini.site:8080/iptvhometv/0451/4723
+#EXTINF:0,group-title="UK Channels", PREMIER SPORTS FHD
+http://kuchini.site:8080/iptvhometv/0451/1097
+#EXTINF:0,group-title="UK Channels", Premium Sport 1 HD
+http://kuchini.site:8080/iptvhometv/0451/1552
+#EXTINF:0,group-title="UK Channels", Prime TV
+http://kuchini.site:8080/iptvhometv/0451/199253
+#EXTINF:0,group-title="UK Channels", QUEST +1
+http://kuchini.site:8080/iptvhometv/0451/165904
+#EXTINF:0,group-title="UK Channels", Quest FHD
+http://kuchini.site:8080/iptvhometv/0451/1096
+#EXTINF:0,group-title="UK Channels", Quest Red HD
+http://kuchini.site:8080/iptvhometv/0451/1577
+#EXTINF:0,group-title="UK Channels", QVC
+http://kuchini.site:8080/iptvhometv/0451/48643
+#EXTINF:0,group-title="UK Channels", QVC Beauty
+http://kuchini.site:8080/iptvhometv/0451/48644
+#EXTINF:0,group-title="UK Channels", QVC Style
+http://kuchini.site:8080/iptvhometv/0451/48646
+#EXTINF:0,group-title="UK Channels", QVC UK +1
+http://kuchini.site:8080/iptvhometv/0451/166009
+#EXTINF:0,group-title="UK Channels", Racing FHD
+http://kuchini.site:8080/iptvhometv/0451/741
+#EXTINF:0,group-title="UK Channels", Rap Music HD
+http://kuchini.site:8080/iptvhometv/0451/196388
+#EXTINF:0,group-title="UK Channels", Real Lives HD
+http://kuchini.site:8080/iptvhometv/0451/742
+#EXTINF:0,group-title="UK Channels", Real Madrid TV
+http://kuchini.site:8080/iptvhometv/0451/192747
+#EXTINF:0,group-title="UK Channels", Really FHD
+http://kuchini.site:8080/iptvhometv/0451/1095
+#EXTINF:0,group-title="UK Channels", red bull HD
+http://kuchini.site:8080/iptvhometv/0451/85429
+#EXTINF:0,group-title="UK Channels", Reuters
+http://kuchini.site:8080/iptvhometv/0451/65060
+#EXTINF:0,group-title="UK Channels", Revelation
+http://kuchini.site:8080/iptvhometv/0451/157285
+#EXTINF:0,group-title="UK Channels", RHYMES
+http://kuchini.site:8080/iptvhometv/0451/195562
+#EXTINF:0,group-title="UK Channels", Rishtey
+http://kuchini.site:8080/iptvhometv/0451/25906
+#EXTINF:0,group-title="UK Channels", Rishtey Cineplex
+http://kuchini.site:8080/iptvhometv/0451/174174
+#EXTINF:0,group-title="UK Channels", ROK
+http://kuchini.site:8080/iptvhometv/0451/171943
+#EXTINF:0,group-title="UK Channels", RT
+http://kuchini.site:8080/iptvhometv/0451/174177
+#EXTINF:0,group-title="UK Channels", RT NEWS
+http://kuchini.site:8080/iptvhometv/0451/48883
+#EXTINF:0,group-title="UK Channels", RT News Now
+http://kuchini.site:8080/iptvhometv/0451/63186
+#EXTINF:0,group-title="UK Channels", RTE 2 HD
+http://kuchini.site:8080/iptvhometv/0451/688
+#EXTINF:0,group-title="UK Channels", RTE News FHD
+http://kuchini.site:8080/iptvhometv/0451/4774
+#EXTINF:0,group-title="UK Channels", RTE One HD
+http://kuchini.site:8080/iptvhometv/0451/687
+#EXTINF:0,group-title="UK Channels", RTÉ JR HD
+http://kuchini.site:8080/iptvhometv/0451/1545
+#EXTINF:0,group-title="UK Channels", RUSSIA TODAY NEWS
+http://kuchini.site:8080/iptvhometv/0451/196390
+#EXTINF:0,group-title="UK Channels", S4C FHD
+http://kuchini.site:8080/iptvhometv/0451/4775
+#EXTINF:0,group-title="UK Channels", Sab TV
+http://kuchini.site:8080/iptvhometv/0451/61805
+#EXTINF:0,group-title="UK Channels", SET Max
+http://kuchini.site:8080/iptvhometv/0451/174175
+#EXTINF:0,group-title="UK Channels", Setanta Ireland
+http://kuchini.site:8080/iptvhometv/0451/71048
+#EXTINF:0,group-title="UK Channels", Setanta Sports
+http://kuchini.site:8080/iptvhometv/0451/70109
+#EXTINF:0,group-title="UK Channels", Sheffield TV
+http://kuchini.site:8080/iptvhometv/0451/200280
+#EXTINF:0,group-title="UK Channels", Showcase
+http://kuchini.site:8080/iptvhometv/0451/157271
+#EXTINF:0,group-title="UK Channels", Sky 1 FHD
+http://kuchini.site:8080/iptvhometv/0451/1080
+#EXTINF:0,group-title="UK Channels", Sky 2 FHD
+http://kuchini.site:8080/iptvhometv/0451/1074
+#EXTINF:0,group-title="UK Channels", Sky Action & Adventure HD
+http://kuchini.site:8080/iptvhometv/0451/48407
+#EXTINF:0,group-title="UK Channels", Sky Action HD
+http://kuchini.site:8080/iptvhometv/0451/4836
+#EXTINF:0,group-title="UK Channels", Sky Arts 1
+http://kuchini.site:8080/iptvhometv/0451/4822
+#EXTINF:0,group-title="UK Channels", Sky Arts FHD
+http://kuchini.site:8080/iptvhometv/0451/1094
+#EXTINF:0,group-title="UK Channels", Sky Atlantic FHD
+http://kuchini.site:8080/iptvhometv/0451/1093
+#EXTINF:0,group-title="UK Channels", Sky Box Nation
+http://kuchini.site:8080/iptvhometv/0451/174601
+#EXTINF:0,group-title="UK Channels", Sky Cienma Premiere HD
+http://kuchini.site:8080/iptvhometv/0451/196391
+#EXTINF:0,group-title="UK Channels", Sky Cinema Action & Adventure FHD
+http://kuchini.site:8080/iptvhometv/0451/1092
+#EXTINF:0,group-title="UK Channels", Sky Cinema Action FHD
+http://kuchini.site:8080/iptvhometv/0451/199062
+#EXTINF:0,group-title="UK Channels", Sky Cinema ANIMATION HD
+http://kuchini.site:8080/iptvhometv/0451/197207
+#EXTINF:0,group-title="UK Channels", Sky Cinema Atlantic
+http://kuchini.site:8080/iptvhometv/0451/157404
+#EXTINF:0,group-title="UK Channels", Sky Cinema Cinemaeats HD
+http://kuchini.site:8080/iptvhometv/0451/196387
+#EXTINF:0,group-title="UK Channels", Sky Cinema Comedy FHD
+http://kuchini.site:8080/iptvhometv/0451/1091
+#EXTINF:0,group-title="UK Channels", Sky Cinema Crime
+http://kuchini.site:8080/iptvhometv/0451/84900
+#EXTINF:0,group-title="UK Channels", Sky Cinema Crime & Thriller FHD
+http://kuchini.site:8080/iptvhometv/0451/4697
+#EXTINF:0,group-title="UK Channels", Sky Cinema Disney FHD
+http://kuchini.site:8080/iptvhometv/0451/1090
+#EXTINF:0group-title="UK Channels", Sky Cinema Disney FHD
+http://kuchini.site:8080/iptvhometv/0451/190963
+#EXTINF:0,group-title="UK Channels", Sky Cinema Drama & Romance FHD
+http://kuchini.site:8080/iptvhometv/0451/10614
+#EXTINF:0,group-title="UK Channels", Sky Cinema Drama FHD
+http://kuchini.site:8080/iptvhometv/0451/1089
+#EXTINF:0,group-title="UK Channels", Sky Cinema Family FHD
+http://kuchini.site:8080/iptvhometv/0451/727
+#EXTINF:0,group-title="UK Channels", Sky Cinema Grates
+http://kuchini.site:8080/iptvhometv/0451/173114
+#EXTINF:0,group-title="UK Channels", Sky Cinema Great FHD
+http://kuchini.site:8080/iptvhometv/0451/1087
+#EXTINF:0,group-title="UK Channels", Sky Cinema Hits FHD
+http://kuchini.site:8080/iptvhometv/0451/1086
+#EXTINF:0,group-title="UK Channels", Sky Cinema MODERN GREATS HD
+http://kuchini.site:8080/iptvhometv/0451/148197
+#EXTINF:0,group-title="UK Channels", Sky Cinema Premiere +1
+http://kuchini.site:8080/iptvhometv/0451/42439
+#EXTINF:0,group-title="UK Channels", Sky Cinema Premiere 1
+http://kuchini.site:8080/iptvhometv/0451/157405
+#EXTINF:0,group-title="UK Channels", Sky Cinema Premiere FHD
+http://kuchini.site:8080/iptvhometv/0451/1085
+#EXTINF:0,group-title="UK Channels", Sky Cinema sci-fi
+http://kuchini.site:8080/iptvhometv/0451/79413
+#EXTINF:0,group-title="UK Channels", Sky Cinema sci-fi & Horror FHD
+http://kuchini.site:8080/iptvhometv/0451/725
+#EXTINF:0,group-title="UK Channels", Sky Cinema Select FHD
+http://kuchini.site:8080/iptvhometv/0451/726
+#EXTINF:0,group-title="UK Channels", Sky Cinema Showcase HD
+http://kuchini.site:8080/iptvhometv/0451/17041
+#EXTINF:0,group-title="UK Channels", Sky Cinema Superhero FHD
+http://kuchini.site:8080/iptvhometv/0451/85443
+#EXTINF:0,group-title="UK Channels", Sky Cinema Thriller FHD
+http://kuchini.site:8080/iptvhometv/0451/1082
+#EXTINF:0,group-title="UK Channels", Sky Cinema Witness
+http://kuchini.site:8080/iptvhometv/0451/36950
+#EXTINF:0,group-title="UK Channels", Sky Cinemaeats
+http://kuchini.site:8080/iptvhometv/0451/122201
+#EXTINF:0,group-title="UK Channels", Sky Comedy FHD
+http://kuchini.site:8080/iptvhometv/0451/4837
+#EXTINF:0,group-title="UK Channels", Sky Crime FHD
+http://kuchini.site:8080/iptvhometv/0451/15155
+#EXTINF:0,group-title="UK Channels", Sky Crime Thriller
+http://kuchini.site:8080/iptvhometv/0451/174449
+#EXTINF:0,group-title="UK Channels", Sky Discovery Science
+http://kuchini.site:8080/iptvhometv/0451/74428
+#EXTINF:0group-title="UK Channels", Sky Discovery Science
+http://kuchini.site:8080/iptvhometv/0451/190389
+#EXTINF:0,group-title="UK Channels", SKY Disney HD
+http://kuchini.site:8080/iptvhometv/0451/67091
+#EXTINF:0group-title="UK Channels", SKY Disney HD
+http://kuchini.site:8080/iptvhometv/0451/191031
+#EXTINF:0,group-title="UK Channels", SKY DRAMA HD
+http://kuchini.site:8080/iptvhometv/0451/12526
+#EXTINF:0,group-title="UK Channels", Sky Drama Movies
+http://kuchini.site:8080/iptvhometv/0451/10613
+#EXTINF:0,group-title="UK Channels", Sky Drama Romance
+http://kuchini.site:8080/iptvhometv/0451/28021
+#EXTINF:0,group-title="UK Channels", Sky Family HD
+http://kuchini.site:8080/iptvhometv/0451/7984
+#EXTINF:0,group-title="UK Channels", SKY GOLD FHD
+http://kuchini.site:8080/iptvhometv/0451/60352
+#EXTINF:0,group-title="UK Channels", Sky Good Food
+http://kuchini.site:8080/iptvhometv/0451/158467
+#EXTINF:0,group-title="UK Channels", SKY GREATS HD
+http://kuchini.site:8080/iptvhometv/0451/32229
+#EXTINF:0,group-title="UK Channels", Sky Hits HD
+http://kuchini.site:8080/iptvhometv/0451/38895
+#EXTINF:0,group-title="UK Channels", Sky Living HD
+http://kuchini.site:8080/iptvhometv/0451/715
+#EXTINF:0,group-title="UK Channels", Sky Modern Greats HD
+http://kuchini.site:8080/iptvhometv/0451/48415
+#EXTINF:0,group-title="UK Channels", Sky News Arabia
+http://kuchini.site:8080/iptvhometv/0451/75893
+#EXTINF:0,group-title="UK Channels", Sky News FHD
+http://kuchini.site:8080/iptvhometv/0451/1081
+#EXTINF:0,group-title="UK Channels", SKY PRE ORDER 1 HD
+http://kuchini.site:8080/iptvhometv/0451/187615
+#EXTINF:0,group-title="UK Channels", SKY PRE ORDER KIDS HD
+http://kuchini.site:8080/iptvhometv/0451/187616
+#EXTINF:0,group-title="UK Channels", Sky Premier
+http://kuchini.site:8080/iptvhometv/0451/32228
+#EXTINF:0,group-title="UK Channels", Sky sci-fi & Horror
+http://kuchini.site:8080/iptvhometv/0451/171941
+#EXTINF:0,group-title="UK Channels", Sky Select HD
+http://kuchini.site:8080/iptvhometv/0451/737
+#EXTINF:0,group-title="UK Channels", Sky Show Case
+http://kuchini.site:8080/iptvhometv/0451/36616
+#EXTINF:0,group-title="UK Channels", SKY SP ARENA HD
+http://kuchini.site:8080/iptvhometv/0451/81124
+#EXTINF:0,group-title="UK Channels", SKY SP FOOTBALL HD
+http://kuchini.site:8080/iptvhometv/0451/192624
+#EXTINF:0,group-title="UK Channels", SKY SP NEWS HD
+http://kuchini.site:8080/iptvhometv/0451/192625
+#EXTINF:0,group-title="UK Channels", Sky Sports 2
+http://kuchini.site:8080/iptvhometv/0451/47984
+#EXTINF:0group-title="UK Channels", Sky Sports 2
+http://kuchini.site:8080/iptvhometv/0451/190082
+#EXTINF:0,group-title="UK Channels", Sky Sports Action FHD
+http://kuchini.site:8080/iptvhometv/0451/268
+#EXTINF:0group-title="UK Channels", Sky Sports Action FHD
+http://kuchini.site:8080/iptvhometv/0451/190077
+#EXTINF:0,group-title="UK Channels", Sky Sports Arena FHD
+http://kuchini.site:8080/iptvhometv/0451/267
+#EXTINF:0group-title="UK Channels", Sky Sports Arena FHD
+http://kuchini.site:8080/iptvhometv/0451/190076
+#EXTINF:0,group-title="UK Channels", Sky Sports Cricket FHD
+http://kuchini.site:8080/iptvhometv/0451/145801
+#EXTINF:0group-title="UK Channels", Sky Sports Cricket FHD
+http://kuchini.site:8080/iptvhometv/0451/190089
+#EXTINF:0,group-title="UK Channels", Sky Sports F1 FHD
+http://kuchini.site:8080/iptvhometv/0451/5727
+#EXTINF:0,group-title="UK Channels", Sky Sports Football FHD
+http://kuchini.site:8080/iptvhometv/0451/145799
+#EXTINF:0group-title="UK Channels", Sky Sports Football FHD
+http://kuchini.site:8080/iptvhometv/0451/190088
+#EXTINF:0,group-title="UK Channels", Sky Sports Golf FHD
+http://kuchini.site:8080/iptvhometv/0451/745
+#EXTINF:0group-title="UK Channels", Sky Sports The Open HD
+http://kuchini.site:8080/iptvhometv/0451/190079
+#EXTINF:0,group-title="UK Channels", Sky Sports Main Event FHD
+http://kuchini.site:8080/iptvhometv/0451/698
+#EXTINF:0group-title="UK Channels", Sky Sports Main Event HD
+http://kuchini.site:8080/iptvhometv/0451/37180
+#EXTINF:0,group-title="UK Channels", Sky Sports Mix FHD
+http://kuchini.site:8080/iptvhometv/0451/145798
+#EXTINF:0group-title="UK Channels", Sky Sports Mix FHD
+http://kuchini.site:8080/iptvhometv/0451/190087
+#EXTINF:0,group-title="UK Channels", Sky Sports News FHD
+http://kuchini.site:8080/iptvhometv/0451/145795
+#EXTINF:0group-title="UK Channels", Sky Sports News FHD
+http://kuchini.site:8080/iptvhometv/0451/190084
+#EXTINF:0,group-title="UK Channels", Sky Sports Premier League FHD
+http://kuchini.site:8080/iptvhometv/0451/145796
+#EXTINF:0group-title="UK Channels", Sky Sports Premier League FHD
+http://kuchini.site:8080/iptvhometv/0451/190085
+#EXTINF:0,group-title="UK Channels", Sky Sports Racing FHD
+http://kuchini.site:8080/iptvhometv/0451/145802
+#EXTINF:0group-title="UK Channels", Sky Sports Racing FHD
+http://kuchini.site:8080/iptvhometv/0451/190090
+#EXTINF:0,group-title="UK Channels", Sky Sports Action HD
+http://kuchini.site:8080/iptvhometv/0451/700
+#EXTINF:0group-title="UK Channels", Sky Sports Action HD
+http://kuchini.site:8080/iptvhometv/0451/37174
+#EXTINF:0,group-title="UK Channels", Sky Sports Arena HD
+http://kuchini.site:8080/iptvhometv/0451/743
+#EXTINF:0group-title="UK Channels", Sky Sports Arena HD
+http://kuchini.site:8080/iptvhometv/0451/37175
+#EXTINF:0,group-title="UK Channels", Sky Sports Box Office
+http://kuchini.site:8080/iptvhometv/0451/151119
+#EXTINF:0,group-title="UK Channels", Sky Sports Cricket HD
+http://kuchini.site:8080/iptvhometv/0451/269
+#EXTINF:0group-title="UK Channels", Sky Sports Cricket HD
+http://kuchini.site:8080/iptvhometv/0451/190078
+#EXTINF:0,group-title="UK Channels", Sky Sports F1 HD
+http://kuchini.site:8080/iptvhometv/0451/265
+#EXTINF:0group-title="UK Channels", Sky Sports F1 HD
+http://kuchini.site:8080/iptvhometv/0451/37177
+#EXTINF:0,group-title="UK Channels", Sky Sports Football HD
+http://kuchini.site:8080/iptvhometv/0451/266
+#EXTINF:0group-title="UK Channels", Sky Sports Football HD
+http://kuchini.site:8080/iptvhometv/0451/37178
+#EXTINF:0,group-title="UK Channels", Sky Sports Golf HD
+http://kuchini.site:8080/iptvhometv/0451/264
+#EXTINF:0group-title="UK Channels", Sky Sports Golf HD
+http://kuchini.site:8080/iptvhometv/0451/37179
+#EXTINF:0,group-title="UK Channels", Sky Sports HD
+http://kuchini.site:8080/iptvhometv/0451/44147
+#EXTINF:0group-title="UK Channels", Sky Sports HD
+http://kuchini.site:8080/iptvhometv/0451/190081
+#EXTINF:0,group-title="UK Channels", Sky Sports Main Event HD
+http://kuchini.site:8080/iptvhometv/0451/169975
+#EXTINF:0group-title="UK Channels", Sky Sports Main Event HD
+http://kuchini.site:8080/iptvhometv/0451/190091
+#EXTINF:0,group-title="UK Channels", Sky Sports Mix HD
+http://kuchini.site:8080/iptvhometv/0451/261
+#EXTINF:0group-title="UK Channels", Sky Sports Mix HD
+http://kuchini.site:8080/iptvhometv/0451/37181
+#EXTINF:0,group-title="UK Channels", Sky Sports News HD
+http://kuchini.site:8080/iptvhometv/0451/260
+#EXTINF:0group-title="UK Channels", Sky Sports News HD
+http://kuchini.site:8080/iptvhometv/0451/190074
+#EXTINF:0,group-title="UK Channels", Sky Sports Premier Langue HD
+http://kuchini.site:8080/iptvhometv/0451/263
+#EXTINF:0group-title="UK Channels", Sky Sports Premier Langue HD
+http://kuchini.site:8080/iptvhometv/0451/190075
+#EXTINF:0,group-title="UK Channels", Sky Sports Premier League HD
+http://kuchini.site:8080/iptvhometv/0451/71055
+#EXTINF:0group-title="UK Channels", Sky Sports Premier League HD
+http://kuchini.site:8080/iptvhometv/0451/190083
+#EXTINF:0,group-title="UK Channels", Sky Sports Racing HD
+http://kuchini.site:8080/iptvhometv/0451/1605
+#EXTINF:0group-title="UK Channels", Sky Sports Racing HD
+http://kuchini.site:8080/iptvhometv/0451/37182
+#EXTINF:0,group-title="UK Channels", SKY THRILLER HD
+http://kuchini.site:8080/iptvhometv/0451/7990
+#EXTINF:0,group-title="UK Channels", Sky Witness FHD
+http://kuchini.site:8080/iptvhometv/0451/11738
+#EXTINF:0,group-title="UK Channels", Sky1 +1
+http://kuchini.site:8080/iptvhometv/0451/74375
+#EXTINF:0,group-title="UK Channels", SKYS PORTS FOOTBALL
+http://kuchini.site:8080/iptvhometv/0451/158511
+#EXTINF:0,group-title="UK Channels", SonLife
+http://kuchini.site:8080/iptvhometv/0451/157287
+#EXTINF:0,group-title="UK Channels", Spike
+http://kuchini.site:8080/iptvhometv/0451/48659
+#EXTINF:0,group-title="UK Channels", SPORTS ACTION
+http://kuchini.site:8080/iptvhometv/0451/158510
+#EXTINF:0,group-title="UK Channels", Spotlight TV
+http://kuchini.site:8080/iptvhometv/0451/157288
+#EXTINF:0,group-title="UK Channels", Star Bharat
+http://kuchini.site:8080/iptvhometv/0451/70816
+#EXTINF:0,group-title="UK Channels", Star Gold
+http://kuchini.site:8080/iptvhometv/0451/65410
+#EXTINF:0,group-title="UK Channels", Star Jalsha
+http://kuchini.site:8080/iptvhometv/0451/65409
+#EXTINF:0,group-title="UK Channels", Star Plus FHD
+http://kuchini.site:8080/iptvhometv/0451/16091
+#EXTINF:0,group-title="UK Channels", STAR UTSAV
+http://kuchini.site:8080/iptvhometv/0451/200278
+#EXTINF:0,group-title="UK Channels", Starz TV
+http://kuchini.site:8080/iptvhometv/0451/4743
+#EXTINF:0,group-title="UK Channels", STV HD
+http://kuchini.site:8080/iptvhometv/0451/192776
+#EXTINF:0,group-title="UK Channels", SYFY +1
+http://kuchini.site:8080/iptvhometv/0451/74393
+#EXTINF:0,group-title="UK Channels", SYFY FHD
+http://kuchini.site:8080/iptvhometv/0451/1068
+#EXTINF:0,group-title="UK Channels", Talking Pictures HD
+http://kuchini.site:8080/iptvhometv/0451/4710
+#EXTINF:0,group-title="UK Channels", TBN
+http://kuchini.site:8080/iptvhometv/0451/157286
+#EXTINF:0,group-title="UK Channels", TCM FHD
+http://kuchini.site:8080/iptvhometv/0451/4711
+#EXTINF:0,group-title="UK Channels", TCM Movies HD
+http://kuchini.site:8080/iptvhometv/0451/173184
+#EXTINF:0,group-title="UK Channels", TG4 HD
+http://kuchini.site:8080/iptvhometv/0451/11572
+#EXTINF:0,group-title="UK Channels", Thane
+http://kuchini.site:8080/iptvhometv/0451/11469
+#EXTINF:0,group-title="UK Channels", The Box
+http://kuchini.site:8080/iptvhometv/0451/4740
+#EXTINF:0,group-title="UK Channels", The Races
+http://kuchini.site:8080/iptvhometv/0451/65547
+#EXTINF:0,group-title="UK Channels", Tiny Pop +1
+http://kuchini.site:8080/iptvhometv/0451/9805
+#EXTINF:0,group-title="UK Channels", Tiny Pop HD
+http://kuchini.site:8080/iptvhometv/0451/4755
+#EXTINF:0,group-title="UK Channels", TLC FHD
+http://kuchini.site:8080/iptvhometv/0451/1067
+#EXTINF:0,group-title="UK Channels", TLC IRELAND
+http://kuchini.site:8080/iptvhometv/0451/74401
+#EXTINF:0,group-title="UK Channels", Tom & Jerry HD
+http://kuchini.site:8080/iptvhometv/0451/63231
+#EXTINF:0,group-title="UK Channels", TRACE URBAN
+http://kuchini.site:8080/iptvhometv/0451/174178
+#EXTINF:0,group-title="UK Channels", Travel Channel FHD
+http://kuchini.site:8080/iptvhometv/0451/1066
+#EXTINF:0group-title="UK Channels", Travel Channel FHD
+http://kuchini.site:8080/iptvhometv/0451/190836
+#EXTINF:0,group-title="UK Channels", Travel XP HD
+http://kuchini.site:8080/iptvhometv/0451/157273
+#EXTINF:0group-title="UK Channels", Travel XP HD
+http://kuchini.site:8080/iptvhometv/0451/190856
+#EXTINF:0,group-title="UK Channels", TRT World HD
+http://kuchini.site:8080/iptvhometv/0451/165912
+#EXTINF:0,group-title="UK Channels", Tru TV HD
+http://kuchini.site:8080/iptvhometv/0451/21534
+#EXTINF:0,group-title="UK Channels", True Ent
+http://kuchini.site:8080/iptvhometv/0451/65405
+#EXTINF:0,group-title="UK Channels", True Entertainment
+http://kuchini.site:8080/iptvhometv/0451/4644
+#EXTINF:0,group-title="UK Channels", True Movies
+http://kuchini.site:8080/iptvhometv/0451/182454
+#EXTINF:0,group-title="UK Channels", True Movies +1 HD
+http://kuchini.site:8080/iptvhometv/0451/148200
+#EXTINF:0,group-title="UK Channels", True Movies 1
+http://kuchini.site:8080/iptvhometv/0451/4820
+#EXTINF:0,group-title="UK Channels", TV 5
+http://kuchini.site:8080/iptvhometv/0451/65404
+#EXTINF:0,group-title="UK Channels", TV One HD
+http://kuchini.site:8080/iptvhometv/0451/121145
+#EXTINF:0,group-title="UK Channels", TV3
+http://kuchini.site:8080/iptvhometv/0451/7995
+#EXTINF:0,group-title="UK Channels", TV3 IR HD
+http://kuchini.site:8080/iptvhometv/0451/198178
+#EXTINF:0,group-title="UK Channels", TVC News
+http://kuchini.site:8080/iptvhometv/0451/165911
+#EXTINF:0,group-title="UK Channels", TVP 3 http://kuchini.site:8080/iptvhometv/0451/122190
+#EXTINF:0,group-title="UK Channels", UFC FIGHT night Pass HD
+http://kuchini.site:8080/iptvhometv/0451/11487
+#EXTINF:0,group-title="UK Channels", UFC FIGHT Pass HD
+http://kuchini.site:8080/iptvhometv/0451/165917
+#EXTINF:0group-title="UK Channels", UFC FIGHT Pass HD
+http://kuchini.site:8080/iptvhometv/0451/190160
+#EXTINF:0,group-title="UK Channels", UFC NIGHT PASS
+http://kuchini.site:8080/iptvhometv/0451/197670
+#EXTINF:0,group-title="UK Channels", Universal Channel HD
+http://kuchini.site:8080/iptvhometv/0451/4649
+#EXTINF:0,group-title="UK Channels", UTV FHD
+http://kuchini.site:8080/iptvhometv/0451/16105
+#EXTINF:0,group-title="UK Channels", UTV Ireland
+http://kuchini.site:8080/iptvhometv/0451/11571
+#EXTINF:0,group-title="UK Channels", V2BEAT TV
+http://kuchini.site:8080/iptvhometv/0451/165366
+#EXTINF:0,group-title="UK Channels", VENUS
+http://kuchini.site:8080/iptvhometv/0451/174179
+#EXTINF:0,group-title="UK Channels", VH1
+http://kuchini.site:8080/iptvhometv/0451/4730
+#EXTINF:0group-title="UK Channels", VH1
+http://kuchini.site:8080/iptvhometv/0451/191419
+#EXTINF:0,group-title="UK Channels", VH1 Classic HD
+http://kuchini.site:8080/iptvhometv/0451/4832
+#EXTINF:0group-title="UK Channels", VH1 Classic HD
+http://kuchini.site:8080/iptvhometv/0451/191420
+#EXTINF:0,group-title="UK Channels", VH1 Classis
+http://kuchini.site:8080/iptvhometv/0451/199063
+#EXTINF:0,group-title="UK Channels", Viceland HD
+http://kuchini.site:8080/iptvhometv/0451/11452
+#EXTINF:0,group-title="UK Channels", Virgin Media 1 HD
+http://kuchini.site:8080/iptvhometv/0451/122200
+#EXTINF:0,group-title="UK Channels", VIRGIN MEDIA SPORT IRELAND FHD
+http://kuchini.site:8080/iptvhometv/0451/197208
+#EXTINF:0,group-title="UK Channels", Virgin Media Three HD
+http://kuchini.site:8080/iptvhometv/0451/17171
+#EXTINF:0,group-title="UK Channels", Virgin Media Two
+http://kuchini.site:8080/iptvhometv/0451/85441
+#EXTINF:0,group-title="UK Channels", Virgin One HD
+http://kuchini.site:8080/iptvhometv/0451/146668
+#EXTINF:0,group-title="UK Channels", Virgin Three HD
+http://kuchini.site:8080/iptvhometv/0451/146669
+#EXTINF:0,group-title="UK Channels", Virgin Two
+http://kuchini.site:8080/iptvhometv/0451/146670
+#EXTINF:0,group-title="UK Channels", VIVA
+http://kuchini.site:8080/iptvhometv/0451/11745
+#EXTINF:0,group-title="UK Channels", W 1
+http://kuchini.site:8080/iptvhometv/0451/11746
+#EXTINF:0,group-title="UK Channels", W HD
+http://kuchini.site:8080/iptvhometv/0451/11448
+#EXTINF:0,group-title="UK Channels", Watch FHD
+http://kuchini.site:8080/iptvhometv/0451/4639
+#EXTINF:0,group-title="UK Channels", Wesal TV
+http://kuchini.site:8080/iptvhometv/0451/166011
+#EXTINF:0,group-title="UK Channels", World Fishing Channel HD
+http://kuchini.site:8080/iptvhometv/0451/198769
+#EXTINF:0,group-title="UK Channels", World of Free Sports
+http://kuchini.site:8080/iptvhometv/0451/173276
+#EXTINF:0,group-title="UK Channels", WWE Channel HD
+http://kuchini.site:8080/iptvhometv/0451/11484
+#EXTINF:0,group-title="UK Channels", WWE Network FHD
+http://kuchini.site:8080/iptvhometv/0451/22953
+#EXTINF:0,group-title="UK Channels", WWE Raw Network
+http://kuchini.site:8080/iptvhometv/0451/48748
+#EXTINF:0,group-title="UK Channels", YESTERDAY +1
+http://kuchini.site:8080/iptvhometv/0451/163398
+#EXTINF:0,group-title="UK Channels", Yesterday HD
+http://kuchini.site:8080/iptvhometv/0451/1065
+#EXTINF:0,group-title="UK Channels", Zee Cinema
+http://kuchini.site:8080/iptvhometv/0451/76882
+#EXTINF:0,group-title="UK Channels", Zing HD
+http://kuchini.site:8080/iptvhometv/0451/173160
 
 
 -------------------------------------------Movies-----------------------------------------------
@@ -1088,6 +2092,7 @@ http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/45579
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", Star Gold HD
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", Star Gold Select HD
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
@@ -1132,7 +2137,1199 @@ http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pakistani",Subrang TV (USA)
 https://cdn61.liveonlineservices.com/hls/subrang.m3u8
 
+#EXTINF:0,group-title="Pakistani", 24 NEWS HD
+http://kuchini.site:8080/iptvhometv/0451/1403
+#EXTINF:0,group-title="Pakistani", 360 TV Toronto
+http://kuchini.site:8080/iptvhometv/0451/49513
+#EXTINF:0,group-title="Pakistani", 8XM
+http://kuchini.site:8080/iptvhometv/0451/192078
+#EXTINF:0,group-title="Pakistani", 92 NEWS HD
+http://kuchini.site:8080/iptvhometv/0451/1402
+#EXTINF:0,group-title="Pakistani", 92 News Plus HD
+http://kuchini.site:8080/iptvhometv/0451/165775
+#EXTINF:0,group-title="Pakistani", 9X Jalwa TV
+http://kuchini.site:8080/iptvhometv/0451/197922
+#EXTINF:0,group-title="Pakistani", A Plus Europe
+http://kuchini.site:8080/iptvhometv/0451/193650
+#EXTINF:0,group-title="Pakistani", A PLUS HD
+http://kuchini.site:8080/iptvhometv/0451/49504
+#EXTINF:0,group-title="Pakistani", AAJ ENTERTAINMENT
+http://kuchini.site:8080/iptvhometv/0451/19748
+#EXTINF:0,group-title="Pakistani", Aaj News
+http://kuchini.site:8080/iptvhometv/0451/1401
+#EXTINF:0,group-title="Pakistani", AAJ TAK HD
+http://kuchini.site:8080/iptvhometv/0451/12977
+#EXTINF:0,group-title="Pakistani", Aap News HD
+http://kuchini.site:8080/iptvhometv/0451/49495
+#EXTINF:0,group-title="Pakistani", ABB TAK
+http://kuchini.site:8080/iptvhometv/0451/1400
+#EXTINF:0,group-title="Pakistani", Abb Takk TV
+http://kuchini.site:8080/iptvhometv/0451/197917
+#EXTINF:0,group-title="Pakistani", ABBTAK News
+http://kuchini.site:8080/iptvhometv/0451/193649
+#EXTINF:0,group-title="Pakistani", Akaal Channel
+http://kuchini.site:8080/iptvhometv/0451/193653
+#EXTINF:0,group-title="Pakistani", AL SUNNAH TV
+http://kuchini.site:8080/iptvhometv/0451/197637
+#EXTINF:0,group-title="Pakistani", APNA
+http://kuchini.site:8080/iptvhometv/0451/76824
+#EXTINF:0,group-title="Pakistani", ARUJ TV
+http://kuchini.site:8080/iptvhometv/0451/76823
+#EXTINF:0,group-title="Pakistani", ARY DIGITAL HD
+http://kuchini.site:8080/iptvhometv/0451/1399
+#EXTINF:0,group-title="Pakistani", ARY Family
+http://kuchini.site:8080/iptvhometv/0451/49510
+#EXTINF:0,group-title="Pakistani", ARY MUSIC
+http://kuchini.site:8080/iptvhometv/0451/1398
+#EXTINF:0,PK ARY MUSIC
+http://kuchini.site:8080/iptvhometv/0451/191125
+#EXTINF:0,group-title="Pakistani", ARY MUSIK
+http://kuchini.site:8080/iptvhometv/0451/20682
+#EXTINF:0,PK ARY MUSIK
+http://kuchini.site:8080/iptvhometv/0451/191094
+#EXTINF:0,group-title="Pakistani", ARY News HD
+http://kuchini.site:8080/iptvhometv/0451/1397
+#EXTINF:0,group-title="Pakistani", ARY NEWS LIVE
+http://kuchini.site:8080/iptvhometv/0451/165821
+#EXTINF:0,group-title="Pakistani", ARY NEWS WORLD
+http://kuchini.site:8080/iptvhometv/0451/197322
+#EXTINF:0,group-title="Pakistani", Ary Qtv
+http://kuchini.site:8080/iptvhometv/0451/5058
+#EXTINF:0,group-title="Pakistani", ARY World
+http://kuchini.site:8080/iptvhometv/0451/49494
+#EXTINF:0,group-title="Pakistani", ARY Zaiqa
+http://kuchini.site:8080/iptvhometv/0451/23004
+#EXTINF:0,group-title="Pakistani", ARY ZAUQ
+http://kuchini.site:8080/iptvhometv/0451/49524
+#EXTINF:0,group-title="Pakistani", ARY Zindagi HD
+http://kuchini.site:8080/iptvhometv/0451/1396
+#EXTINF:0,group-title="Pakistani", ARY ZUAQ
+http://kuchini.site:8080/iptvhometv/0451/73805
+#EXTINF:0,group-title="Pakistani", ATN Bangla
+http://kuchini.site:8080/iptvhometv/0451/196229
+#EXTINF:0,group-title="Pakistani", ATN NEWS
+http://kuchini.site:8080/iptvhometv/0451/196230
+#EXTINF:0,group-title="Pakistani", ATV
+http://kuchini.site:8080/iptvhometv/0451/34630
+#EXTINF:0,group-title="Pakistani", ATV Entertainment
+http://kuchini.site:8080/iptvhometv/0451/197929
+#EXTINF:0,group-title="Pakistani", AVT Khyber TV
+http://kuchini.site:8080/iptvhometv/0451/16991
+#EXTINF:0,group-title="Pakistani", AWAZ ENTERTAINMENT
+http://kuchini.site:8080/iptvhometv/0451/197321
+#EXTINF:0,group-title="Pakistani", AWAZ TV
+http://kuchini.site:8080/iptvhometv/0451/197634
+#EXTINF:0,group-title="Pakistani", Awaz TV Canada HD
+http://kuchini.site:8080/iptvhometv/0451/49527
+#EXTINF:0,group-title="Pakistani", Banglavision
+http://kuchini.site:8080/iptvhometv/0451/157339
+#EXTINF:0,group-title="Pakistani", BOL ENTERTAINMENT
+http://kuchini.site:8080/iptvhometv/0451/49517
+#EXTINF:0,group-title="Pakistani", BOL NEWS FHD
+http://kuchini.site:8080/iptvhometv/0451/1395
+#EXTINF:0,group-title="Pakistani", BOL NEWS URDU FHD
+http://kuchini.site:8080/iptvhometv/0451/197118
+#EXTINF:0,group-title="Pakistani", C44
+http://kuchini.site:8080/iptvhometv/0451/196565
+#EXTINF:0,group-title="Pakistani", CANADA ONE
+http://kuchini.site:8080/iptvhometv/0451/197624
+#EXTINF:0,group-title="Pakistani", CAPITAL NEWS
+http://kuchini.site:8080/iptvhometv/0451/196566
+#EXTINF:0,group-title="Pakistani", CAPITAL TV
+http://kuchini.site:8080/iptvhometv/0451/16625
+#EXTINF:0,group-title="Pakistani", CARTOON NETWORK
+http://kuchini.site:8080/iptvhometv/0451/197119
+#EXTINF:0,group-title="Pakistani", Channel 5
+http://kuchini.site:8080/iptvhometv/0451/147044
+#EXTINF:0,group-title="Pakistani", Channel 5 NEWS
+http://kuchini.site:8080/iptvhometv/0451/49501
+#EXTINF:0,group-title="Pakistani", Channel 44
+http://kuchini.site:8080/iptvhometv/0451/49500
+#EXTINF:0,group-title="Pakistani", Channel S
+http://kuchini.site:8080/iptvhometv/0451/196231
+#EXTINF:0,group-title="Pakistani", CITY 41 NEWS
+http://kuchini.site:8080/iptvhometv/0451/197120
+#EXTINF:0,group-title="Pakistani", CITY 42 NEWS
+http://kuchini.site:8080/iptvhometv/0451/1394
+#EXTINF:0,group-title="Pakistani", COLORS BANGLA
+http://kuchini.site:8080/iptvhometv/0451/196232
+#EXTINF:0,group-title="Pakistani", Dawn News
+http://kuchini.site:8080/iptvhometv/0451/5056
+#EXTINF:0,group-title="Pakistani", DESH TV
+http://kuchini.site:8080/iptvhometv/0451/196233
+#EXTINF:0,group-title="Pakistani", DESHE BIDESHE TV
+http://kuchini.site:8080/iptvhometv/0451/196234
+#EXTINF:0,group-title="Pakistani", Dhanak TV
+http://kuchini.site:8080/iptvhometv/0451/197121
+#EXTINF:0,group-title="Pakistani", Dhoom MUSIC
+http://kuchini.site:8080/iptvhometv/0451/157340
+#EXTINF:0,group-title="Pakistani", DIN NEWS HD
+http://kuchini.site:8080/iptvhometv/0451/197122
+#EXTINF:0,group-title="Pakistani", Discovery
+http://kuchini.site:8080/iptvhometv/0451/197630
+#EXTINF:0,group-title="Pakistani", DUNIYA NEWS
+http://kuchini.site:8080/iptvhometv/0451/1393
+#EXTINF:0,group-title="Pakistani", DUNYA news TV
+http://kuchini.site:8080/iptvhometv/0451/16627
+#EXTINF:0,group-title="Pakistani", Eman TV
+http://kuchini.site:8080/iptvhometv/0451/197123
+#EXTINF:0,group-title="Pakistani", EXPRESS Entertainement
+http://kuchini.site:8080/iptvhometv/0451/196567
+#EXTINF:0,group-title="Pakistani", EXPRESS ENTERTAINMENT
+http://kuchini.site:8080/iptvhometv/0451/147052
+#EXTINF:0,group-title="Pakistani", EXPRESS NEWS HD
+http://kuchini.site:8080/iptvhometv/0451/5105
+#EXTINF:0,group-title="Pakistani", Express TV
+http://kuchini.site:8080/iptvhometv/0451/51859
+#EXTINF:0,group-title="Pakistani", FILMWORLD
+http://kuchini.site:8080/iptvhometv/0451/82238
+#EXTINF:0,group-title="Pakistani", GaanBangla TV
+http://kuchini.site:8080/iptvhometv/0451/196236
+#EXTINF:0,group-title="Pakistani", GEO ENTERTAINMENT TV
+http://kuchini.site:8080/iptvhometv/0451/1389
+#EXTINF:0,group-title="Pakistani", Geo Kahani
+http://kuchini.site:8080/iptvhometv/0451/1392
+#EXTINF:0,group-title="Pakistani", Geo News TV
+http://kuchini.site:8080/iptvhometv/0451/1391
+#EXTINF:0,group-title="Pakistani", Geo Sports
+http://kuchini.site:8080/iptvhometv/0451/197626
+#EXTINF:0,group-title="Pakistani", Geo Super HD
+http://kuchini.site:8080/iptvhometv/0451/16626
+#EXTINF:0,group-title="Pakistani", Geo Tez HD
+http://kuchini.site:8080/iptvhometv/0451/5106
+#EXTINF:0,group-title="Pakistani", GEO TEZZ
+http://kuchini.site:8080/iptvhometv/0451/1390
+#EXTINF:0,group-title="Pakistani", Geo TV
+http://kuchini.site:8080/iptvhometv/0451/21593
+#EXTINF:0,group-title="Pakistani", GNN HD
+http://kuchini.site:8080/iptvhometv/0451/49490
+#EXTINF:0,group-title="Pakistani", GNN NEWS HD
+http://kuchini.site:8080/iptvhometv/0451/147047
+#EXTINF:0,group-title="Pakistani", GNN PAKISTAN
+http://kuchini.site:8080/iptvhometv/0451/196568
+#EXTINF:0,group-title="Pakistani", GTV Network
+http://kuchini.site:8080/iptvhometv/0451/197629
+#EXTINF:0,group-title="Pakistani", Hadi TV
+http://kuchini.site:8080/iptvhometv/0451/197641
+#EXTINF:0,group-title="Pakistani", HBO HD
+http://kuchini.site:8080/iptvhometv/0451/197923
+#EXTINF:0,group-title="Pakistani", Hidayat TV
+http://kuchini.site:8080/iptvhometv/0451/193651
+#EXTINF:0,group-title="Pakistani", HUM EUROPE
+http://kuchini.site:8080/iptvhometv/0451/1388
+#EXTINF:0,group-title="Pakistani", HUM HD
+http://kuchini.site:8080/iptvhometv/0451/1387
+#EXTINF:0,group-title="Pakistani", HUM MASALA
+http://kuchini.site:8080/iptvhometv/0451/19746
+#EXTINF:0,group-title="Pakistani", HUM MASALAH
+http://kuchini.site:8080/iptvhometv/0451/49507
+#EXTINF:0,group-title="Pakistani", HUM NEWS HD
+http://kuchini.site:8080/iptvhometv/0451/49493
+#EXTINF:0,group-title="Pakistani", Hum Sitaray
+http://kuchini.site:8080/iptvhometv/0451/1386
+#EXTINF:0,group-title="Pakistani", HUM TV World
+http://kuchini.site:8080/iptvhometv/0451/1385
+#EXTINF:0,group-title="Pakistani", Independent TV
+http://kuchini.site:8080/iptvhometv/0451/196237
+#EXTINF:0,group-title="Pakistani", INDUS NEWS
+http://kuchini.site:8080/iptvhometv/0451/197635
+#EXTINF:0,group-title="Pakistani", IQRA Bangla TV
+http://kuchini.site:8080/iptvhometv/0451/196238
+#EXTINF:0,group-title="Pakistani", JALSHA Movies
+http://kuchini.site:8080/iptvhometv/0451/157341
+#EXTINF:0,group-title="Pakistani", JALWA MUSIC
+http://kuchini.site:8080/iptvhometv/0451/196569
+#EXTINF:0,group-title="Pakistani", K21 NEWS
+http://kuchini.site:8080/iptvhometv/0451/49503
+#EXTINF:0,group-title="Pakistani", Kay 2 TV
+http://kuchini.site:8080/iptvhometv/0451/1384
+#EXTINF:0,group-title="Pakistani", KHYBER NEWS
+http://kuchini.site:8080/iptvhometv/0451/49533
+#EXTINF:0,group-title="Pakistani", KHYBER TV
+http://kuchini.site:8080/iptvhometv/0451/197128
+#EXTINF:0,group-title="Pakistani", KOHENOOR TV
+http://kuchini.site:8080/iptvhometv/0451/76827
+#EXTINF:0,group-title="Pakistani", KTN
+http://kuchini.site:8080/iptvhometv/0451/166013
+#EXTINF:0,group-title="Pakistani", KTN News
+http://kuchini.site:8080/iptvhometv/0451/157332
+#EXTINF:0,group-title="Pakistani", LAHORE NEWS HD
+http://kuchini.site:8080/iptvhometv/0451/18916
+#EXTINF:0,group-title="Pakistani", Madani Channel
+http://kuchini.site:8080/iptvhometv/0451/76820
+#EXTINF:0,group-title="Pakistani", Madni Channel
+http://kuchini.site:8080/iptvhometv/0451/197636
+#EXTINF:0,group-title="Pakistani", MASHRIQ TV
+http://kuchini.site:8080/iptvhometv/0451/196571
+#EXTINF:0,group-title="Pakistani", Medina Live
+http://kuchini.site:8080/iptvhometv/0451/197129
+#EXTINF:0,group-title="Pakistani", METRO 1 NEWS
+http://kuchini.site:8080/iptvhometv/0451/196572
+#EXTINF:0,group-title="Pakistani", Millennium TV
+http://kuchini.site:8080/iptvhometv/0451/196241
+#EXTINF:0,group-title="Pakistani", Minhaj TV
+http://kuchini.site:8080/iptvhometv/0451/196573
+#EXTINF:0,group-title="Pakistani", MOHONA TV
+http://kuchini.site:8080/iptvhometv/0451/196242
+#EXTINF:0,group-title="Pakistani", MY TV
+http://kuchini.site:8080/iptvhometv/0451/196243
+#EXTINF:0,group-title="Pakistani", NEO NEWS HD
+http://kuchini.site:8080/iptvhometv/0451/1383
+#EXTINF:0,group-title="Pakistani", NEWS 24 TV
+http://kuchini.site:8080/iptvhometv/0451/49498
+#EXTINF:0,group-title="Pakistani", News One HD
+http://kuchini.site:8080/iptvhometv/0451/16994
+#EXTINF:0,group-title="Pakistani", nickelodeon TV
+http://kuchini.site:8080/iptvhometv/0451/197919
+#EXTINF:0,group-title="Pakistani", Noor TV
+http://kuchini.site:8080/iptvhometv/0451/76821
+#EXTINF:0,group-title="Pakistani", NTV
+http://kuchini.site:8080/iptvhometv/0451/157342
+#EXTINF:0,group-title="Pakistani", NTV HOUSTON
+http://kuchini.site:8080/iptvhometv/0451/197625
+#EXTINF:0,group-title="Pakistani", PAK US TV
+http://kuchini.site:8080/iptvhometv/0451/49529
+#EXTINF:0,group-title="Pakistani", PASHTO1
+http://kuchini.site:8080/iptvhometv/0451/34620
+#EXTINF:0,group-title="Pakistani", Pashtoo 1 TV
+http://kuchini.site:8080/iptvhometv/0451/197920
+#EXTINF:0,group-title="Pakistani", Peace TV Urdu
+http://kuchini.site:8080/iptvhometv/0451/157334
+#EXTINF:0,group-title="Pakistani", PLAY TV
+http://kuchini.site:8080/iptvhometv/0451/49532
+#EXTINF:0,group-title="Pakistani", PMI TV
+http://kuchini.site:8080/iptvhometv/0451/166031
+#EXTINF:0,group-title="Pakistani", POP Kids HD
+http://kuchini.site:8080/iptvhometv/0451/197921
+#EXTINF:0,group-title="Pakistani", Prime Canada TV HD
+http://kuchini.site:8080/iptvhometv/0451/49519
+#EXTINF:0,group-title="Pakistani", Prime TV
+http://kuchini.site:8080/iptvhometv/0451/197627
+#EXTINF:0,group-title="Pakistani", PTV Bolan TV
+http://kuchini.site:8080/iptvhometv/0451/197931
+#EXTINF:0,group-title="Pakistani", PTV GLOBAL
+http://kuchini.site:8080/iptvhometv/0451/1382
+#EXTINF:0,group-title="Pakistani", PTV HOME
+http://kuchini.site:8080/iptvhometv/0451/1381
+#EXTINF:0,group-title="Pakistani", PTV NEWS
+http://kuchini.site:8080/iptvhometv/0451/1380
+#EXTINF:0,group-title="Pakistani", PTV Prime
+http://kuchini.site:8080/iptvhometv/0451/173175
+#EXTINF:0,group-title="Pakistani", PTV SPORTS HD
+http://kuchini.site:8080/iptvhometv/0451/16633
+#EXTINF:0,group-title="Pakistani", PTV WORLD
+http://kuchini.site:8080/iptvhometv/0451/1379
+#EXTINF:0,group-title="Pakistani", PUBLIC NEWS HD
+http://kuchini.site:8080/iptvhometv/0451/49522
+#EXTINF:0,group-title="Pakistani", QURAN TV
+http://kuchini.site:8080/iptvhometv/0451/49521
+#EXTINF:0,group-title="Pakistani", QURAN TV URDU
+http://kuchini.site:8080/iptvhometv/0451/197310
+#EXTINF:0,group-title="Pakistani", Raavi Films
+http://kuchini.site:8080/iptvhometv/0451/196563
+#EXTINF:0,group-title="Pakistani", RAAVI TV
+http://kuchini.site:8080/iptvhometv/0451/197628
+#EXTINF:0,group-title="Pakistani", Roze News
+http://kuchini.site:8080/iptvhometv/0451/21686
+#EXTINF:0,group-title="Pakistani", RTV
+http://kuchini.site:8080/iptvhometv/0451/196244
+#EXTINF:0,group-title="Pakistani", SAB RANG
+http://kuchini.site:8080/iptvhometv/0451/197638
+#EXTINF:0,group-title="Pakistani", Samaa News
+http://kuchini.site:8080/iptvhometv/0451/21688
+#EXTINF:0,group-title="Pakistani", SAMAA TV
+http://kuchini.site:8080/iptvhometv/0451/1377
+#EXTINF:0,group-title="Pakistani", See TV
+http://kuchini.site:8080/iptvhometv/0451/193652
+#EXTINF:0,group-title="Pakistani", SINDH TV
+http://kuchini.site:8080/iptvhometv/0451/197309
+#EXTINF:0,group-title="Pakistani", SOMOY NEWS TV
+http://kuchini.site:8080/iptvhometv/0451/196247
+#EXTINF:0,group-title="Pakistani", Sony 8
+http://kuchini.site:8080/iptvhometv/0451/196248
+#EXTINF:0,group-title="Pakistani", SONY SIX HD
+http://kuchini.site:8080/iptvhometv/0451/16631
+#EXTINF:0,group-title="Pakistani", Stage Drama
+http://kuchini.site:8080/iptvhometv/0451/76825
+#EXTINF:0,group-title="Pakistani", Star Jalsha
+http://kuchini.site:8080/iptvhometv/0451/197299
+#EXTINF:0,group-title="Pakistani", Subrang TV
+http://kuchini.site:8080/iptvhometv/0451/49520
+#EXTINF:0,group-title="Pakistani", SUCH TV
+http://kuchini.site:8080/iptvhometv/0451/197116
+#EXTINF:0,group-title="Pakistani", Tag TV FHD
+http://kuchini.site:8080/iptvhometv/0451/49515
+#EXTINF:0,group-title="Pakistani", TEN 3 HD
+http://kuchini.site:8080/iptvhometv/0451/16637
+#EXTINF:0,group-title="Pakistani", Ten Sports
+http://kuchini.site:8080/iptvhometv/0451/151863
+#EXTINF:0,group-title="Pakistani", TORONTO 360 HD
+http://kuchini.site:8080/iptvhometv/0451/197308
+#EXTINF:0,group-title="Pakistani", TV 16 Toronto
+http://kuchini.site:8080/iptvhometv/0451/49514
+#EXTINF:0,group-title="Pakistani", TV One
+http://kuchini.site:8080/iptvhometv/0451/5108
+#EXTINF:0,group-title="Pakistani", URDU 1
+http://kuchini.site:8080/iptvhometv/0451/1376
+#EXTINF:0,group-title="Pakistani", URDU1 EUROPE
+http://kuchini.site:8080/iptvhometv/0451/49528
+#EXTINF:0,group-title="Pakistani", Venus TV HD
+http://kuchini.site:8080/iptvhometv/0451/49525
+#EXTINF:0,group-title="Pakistani", Waseb TV
+http://kuchini.site:8080/iptvhometv/0451/197632
+#EXTINF:0,group-title="Pakistani", WASEEB TV
+http://kuchini.site:8080/iptvhometv/0451/1375
+#EXTINF:0,group-title="Pakistani", Zee Bangla Cinema
+http://kuchini.site:8080/iptvhometv/0451/196249
+#EXTINF:0,group-title="Pakistani", ZEE BANGLA HD
+http://kuchini.site:8080/iptvhometv/0451/196250
+#EXTINF:0,group-title="Pakistani", Zee9 TV
+http://kuchini.site:8080/iptvhometv/0451/197640
+#EXTINF:0,group-title="Pakistani", ZINDAGI TV
+http://kuchini.site:8080/iptvhometv/0451/1374
+
 ----------------------------------------Entertainment----------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", Star Plus
 http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
+http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
+
+------------------------------------All Indian Channels--------------------------------------------
+
+#EXTINF:0,group-title="All Indian Channels", Jantantra
+http://kuchini.site:8080/iptvhometv/0451/192974
+#EXTINF:0,group-title="All Indian Channels", Jaya Max
+http://kuchini.site:8080/iptvhometv/0451/51824
+#EXTINF:0,group-title="All Indian Channels", Jaya Movie
+http://kuchini.site:8080/iptvhometv/0451/145643
+#EXTINF:0,group-title="All Indian Channels", Jaya Plus
+http://kuchini.site:8080/iptvhometv/0451/193207
+#EXTINF:0,group-title="All Indian Channels", Jaya TV
+http://kuchini.site:8080/iptvhometv/0451/145637
+#EXTINF:0,group-title="All Indian Channels", Jeevan News TV
+http://kuchini.site:8080/iptvhometv/0451/197721
+#EXTINF:0,group-title="All Indian Channels", Jeevan TV
+http://kuchini.site:8080/iptvhometv/0451/166377
+#EXTINF:0,group-title="All Indian Channels", Jhanjar Music
+http://kuchini.site:8080/iptvhometv/0451/82522
+#EXTINF:0,group-title="All Indian Channels", Jhanjar Religious
+http://kuchini.site:8080/iptvhometv/0451/49613
+#EXTINF:0,group-title="All Indian Channels", Jinvani Channel
+http://kuchini.site:8080/iptvhometv/0451/193061
+#EXTINF:0,group-title="All Indian Channels", JUSOne
+http://kuchini.site:8080/iptvhometv/0451/196136
+#EXTINF:0,group-title="All Indian Channels", Kairali News
+http://kuchini.site:8080/iptvhometv/0451/192074
+#EXTINF:0,group-title="All Indian Channels", Kalaignar TV
+http://kuchini.site:8080/iptvhometv/0451/193204
+#EXTINF:0,group-title="All Indian Channels", Kalinga TV
+http://kuchini.site:8080/iptvhometv/0451/193062
+#EXTINF:0,group-title="All Indian Channels", Kanak News
+http://kuchini.site:8080/iptvhometv/0451/193063
+#EXTINF:0,group-title="All Indian Channels", Kanshi TV
+http://kuchini.site:8080/iptvhometv/0451/145661
+#EXTINF:0,group-title="All Indian Channels", Kasthuri
+http://kuchini.site:8080/iptvhometv/0451/193110
+#EXTINF:0,group-title="All Indian Channels", Kaumudy TV
+http://kuchini.site:8080/iptvhometv/0451/82530
+#EXTINF:0,group-title="All Indian Channels", KHALISTAN TV
+http://kuchini.site:8080/iptvhometv/0451/49645
+#EXTINF:0,group-title="All Indian Channels", Khalsa Channel HD
+http://kuchini.site:8080/iptvhometv/0451/196138
+#EXTINF:0,group-title="All Indian Channels", Khushboo
+http://kuchini.site:8080/iptvhometv/0451/193191
+#EXTINF:0,group-title="All Indian Channels", Kite Victers
+http://kuchini.site:8080/iptvhometv/0451/193083
+#EXTINF:0,group-title="All Indian Channels", Kolkata TV
+http://kuchini.site:8080/iptvhometv/0451/193111
+#EXTINF:0,group-title="All Indian Channels", KTV HD
+http://kuchini.site:8080/iptvhometv/0451/36442
+#EXTINF:0,group-title="All Indian Channels", KVTV LIVE
+http://kuchini.site:8080/iptvhometv/0451/197667
+#EXTINF:0,group-title="All Indian Channels", KVTV MAIN
+http://kuchini.site:8080/iptvhometv/0451/197668
+#EXTINF:0,group-title="All Indian Channels", KVTV PLUS
+http://kuchini.site:8080/iptvhometv/0451/197666
+#EXTINF:0,group-title="All Indian Channels", LAHORE NEWS
+http://kuchini.site:8080/iptvhometv/0451/165818
+#EXTINF:0,group-title="All Indian Channels", Lakshya TV
+http://kuchini.site:8080/iptvhometv/0451/196139
+#EXTINF:0,group-title="All Indian Channels", Life OK
+http://kuchini.site:8080/iptvhometv/0451/71068
+#EXTINF:0,group-title="All Indian Channels", Life Punjabi
+http://kuchini.site:8080/iptvhometv/0451/49601
+#EXTINF:0,group-title="All Indian Channels", LIVING FOODZ
+http://kuchini.site:8080/iptvhometv/0451/1361
+#EXTINF:0,group-title="All Indian Channels", Living India News
+http://kuchini.site:8080/iptvhometv/0451/159107
+#EXTINF:0,group-title="All Indian Channels", Lok Sabha TV
+http://kuchini.site:8080/iptvhometv/0451/82532
+#EXTINF:0,group-title="All Indian Channels", Lord Buddha TV
+http://kuchini.site:8080/iptvhometv/0451/193112
+#EXTINF:0,group-title="All Indian Channels", LOTUS NEWS
+http://kuchini.site:8080/iptvhometv/0451/196140
+#EXTINF:0,group-title="All Indian Channels", Maa HD
+http://kuchini.site:8080/iptvhometv/0451/196142
+#EXTINF:0,group-title="All Indian Channels", MAA Movies
+http://kuchini.site:8080/iptvhometv/0451/192715
+#EXTINF:0,group-title="All Indian Channels", Madani Channel
+http://kuchini.site:8080/iptvhometv/0451/121144
+#EXTINF:0,group-title="All Indian Channels", Madha TV
+http://kuchini.site:8080/iptvhometv/0451/193042
+#EXTINF:0,group-title="All Indian Channels", Magna Vision TV
+http://kuchini.site:8080/iptvhometv/0451/82533
+#EXTINF:0,group-title="All Indian Channels", MahaMovies
+http://kuchini.site:8080/iptvhometv/0451/82608
+#EXTINF:0,group-title="All Indian Channels", Makkal TV
+http://kuchini.site:8080/iptvhometv/0451/193119
+#EXTINF:0,group-title="All Indian Channels", Malai Murasu TV
+http://kuchini.site:8080/iptvhometv/0451/166384
+#EXTINF:0,group-title="All Indian Channels", MalaiMurasu Seithigal
+http://kuchini.site:8080/iptvhometv/0451/193066
+#EXTINF:0,group-title="All Indian Channels", Mangalam TV
+http://kuchini.site:8080/iptvhometv/0451/192075
+#EXTINF:0,group-title="All Indian Channels", Manjari
+http://kuchini.site:8080/iptvhometv/0451/193076
+#EXTINF:0,group-title="All Indian Channels", Manorama News
+http://kuchini.site:8080/iptvhometv/0451/192076
+#EXTINF:0,group-title="All Indian Channels", MANORANJAN Movies
+http://kuchini.site:8080/iptvhometv/0451/192200
+#EXTINF:0,group-title="All Indian Channels", Manoranjan TV
+http://kuchini.site:8080/iptvhometv/0451/193176
+#EXTINF:0,group-title="All Indian Channels", Mantavya News
+http://kuchini.site:8080/iptvhometv/0451/159109
+#EXTINF:0,group-title="All Indian Channels", Mastiii
+http://kuchini.site:8080/iptvhometv/0451/76958
+#EXTINF:0,group-title="All Indian Channels", Mathrubhumi News
+http://kuchini.site:8080/iptvhometv/0451/163277
+#EXTINF:0,group-title="All Indian Channels", Mazhavil Manorama HD
+http://kuchini.site:8080/iptvhometv/0451/193067
+#EXTINF:0,group-title="All Indian Channels", MBC Bollywood HD
+http://kuchini.site:8080/iptvhometv/0451/49574
+#EXTINF:0,group-title="All Indian Channels", Media One
+http://kuchini.site:8080/iptvhometv/0451/51851
+#EXTINF:0,group-title="All Indian Channels", Mega TV
+http://kuchini.site:8080/iptvhometv/0451/193209
+#EXTINF:0,group-title="All Indian Channels", MH One
+http://kuchini.site:8080/iptvhometv/0451/193116
+#EXTINF:0,group-title="All Indian Channels", MH One Shraddha
+http://kuchini.site:8080/iptvhometv/0451/193064
+#EXTINF:0,group-title="All Indian Channels", MH1 MUSIC
+http://kuchini.site:8080/iptvhometv/0451/198604
+#EXTINF:0,group-title="All Indian Channels", MH1 NEWS
+http://kuchini.site:8080/iptvhometv/0451/165792
+#EXTINF:0,group-title="All Indian Channels", Mirror Now
+http://kuchini.site:8080/iptvhometv/0451/193096
+#EXTINF:0,group-title="All Indian Channels", MK Six
+http://kuchini.site:8080/iptvhometv/0451/198221
+#EXTINF:0,group-title="All Indian Channels", MK Tunes
+http://kuchini.site:8080/iptvhometv/0451/198222
+#EXTINF:0,group-title="All Indian Channels", MK TV
+http://kuchini.site:8080/iptvhometv/0451/198223
+#EXTINF:0,group-title="All Indian Channels", MN+ HD
+http://kuchini.site:8080/iptvhometv/0451/192961
+#EXTINF:0,group-title="All Indian Channels", MNX HD
+http://kuchini.site:8080/iptvhometv/0451/192962
+#EXTINF:0,group-title="All Indian Channels", Movies OK
+http://kuchini.site:8080/iptvhometv/0451/71069
+#EXTINF:0,group-title="All Indian Channels", MTV HD+
+http://kuchini.site:8080/iptvhometv/0451/145628
+#EXTINF:0,group-title="All Indian Channels", MTV India
+http://kuchini.site:8080/iptvhometv/0451/193647
+#EXTINF:0,group-title="All Indian Channels", Murasu TV
+http://kuchini.site:8080/iptvhometv/0451/193120
+#EXTINF:0,group-title="All Indian Channels", Music India
+http://kuchini.site:8080/iptvhometv/0451/145654
+#EXTINF:0,group-title="All Indian Channels", Nambikkai TV
+http://kuchini.site:8080/iptvhometv/0451/166382
+#EXTINF:0,group-title="All Indian Channels", NAMDHAR TV
+http://kuchini.site:8080/iptvhometv/0451/49646
+#EXTINF:0,group-title="All Indian Channels", Namma TV
+http://kuchini.site:8080/iptvhometv/0451/193070
+#EXTINF:0,group-title="All Indian Channels", Nandan
+http://kuchini.site:8080/iptvhometv/0451/198745
+#EXTINF:0,group-title="All Indian Channels", Nandan PN
+http://kuchini.site:8080/iptvhometv/0451/165811
+#EXTINF:0,group-title="All Indian Channels", NAT GEO HD
+http://kuchini.site:8080/iptvhometv/0451/49562
+#EXTINF:0,IN NAT GEO HD
+http://kuchini.site:8080/iptvhometv/0451/190653
+#EXTINF:0,group-title="All Indian Channels", Nazrana
+http://kuchini.site:8080/iptvhometv/0451/165810
+#EXTINF:0,group-title="All Indian Channels", NDA Channel
+http://kuchini.site:8080/iptvhometv/0451/49621
+#EXTINF:0,group-title="All Indian Channels", NDTV
+http://kuchini.site:8080/iptvhometv/0451/192951
+#EXTINF:0,group-title="All Indian Channels", NDTV 24x7
+http://kuchini.site:8080/iptvhometv/0451/21664
+#EXTINF:0,group-title="All Indian Channels", NDTV India
+http://kuchini.site:8080/iptvhometv/0451/166390
+#EXTINF:0,group-title="All Indian Channels", NDTV News 24
+http://kuchini.site:8080/iptvhometv/0451/192141
+#EXTINF:0,group-title="All Indian Channels", NDTV Profit
+http://kuchini.site:8080/iptvhometv/0451/166388
+#EXTINF:0,group-title="All Indian Channels", NDTV Profit Prime
+http://kuchini.site:8080/iptvhometv/0451/192976
+#EXTINF:0,group-title="All Indian Channels", NEO NEWS HD
+http://kuchini.site:8080/iptvhometv/0451/165781
+#EXTINF:0,group-title="All Indian Channels", Nepal 1
+http://kuchini.site:8080/iptvhometv/0451/193160
+#EXTINF:0,group-title="All Indian Channels", News 18
+http://kuchini.site:8080/iptvhometv/0451/192714
+#EXTINF:0,group-title="All Indian Channels", News 18 MP TV
+http://kuchini.site:8080/iptvhometv/0451/197951
+#EXTINF:0,group-title="All Indian Channels", News 18 Punjab TV
+http://kuchini.site:8080/iptvhometv/0451/197949
+#EXTINF:0,group-title="All Indian Channels", News 18 Tamilnadu
+http://kuchini.site:8080/iptvhometv/0451/196111
+#EXTINF:0,group-title="All Indian Channels", News 18 Up TV
+http://kuchini.site:8080/iptvhometv/0451/197950
+#EXTINF:0,group-title="All Indian Channels", NEWS 24
+http://kuchini.site:8080/iptvhometv/0451/16601
+#EXTINF:0,group-title="All Indian Channels", News Live
+http://kuchini.site:8080/iptvhometv/0451/193089
+#EXTINF:0,group-title="All Indian Channels", News Nation
+http://kuchini.site:8080/iptvhometv/0451/192968
+#EXTINF:0,group-title="All Indian Channels", News State MP CG
+http://kuchini.site:8080/iptvhometv/0451/192972
+#EXTINF:0,group-title="All Indian Channels", News State UP Uttarakhand
+http://kuchini.site:8080/iptvhometv/0451/192970
+#EXTINF:0,group-title="All Indian Channels", News Time
+http://kuchini.site:8080/iptvhometv/0451/193190
+#EXTINF:0,group-title="All Indian Channels", News18 Assam North East
+http://kuchini.site:8080/iptvhometv/0451/193088
+#EXTINF:0,group-title="All Indian Channels", News18 Bihar Jharkhand
+http://kuchini.site:8080/iptvhometv/0451/163274
+#EXTINF:0,group-title="All Indian Channels", News18 Gujarati
+http://kuchini.site:8080/iptvhometv/0451/193127
+#EXTINF:0,group-title="All Indian Channels", News18 Kannada
+http://kuchini.site:8080/iptvhometv/0451/193115
+#EXTINF:0,group-title="All Indian Channels", News18 Kerala
+http://kuchini.site:8080/iptvhometv/0451/193150
+#EXTINF:0,group-title="All Indian Channels", News18 Lokmat
+http://kuchini.site:8080/iptvhometv/0451/82543
+#EXTINF:0,group-title="All Indian Channels", News18 Madhya Pradesh Chhattisgarh
+http://kuchini.site:8080/iptvhometv/0451/193011
+#EXTINF:0,group-title="All Indian Channels", News18 Odia
+http://kuchini.site:8080/iptvhometv/0451/193142
+#EXTINF:0,group-title="All Indian Channels", News18 Punjab Haryana Himachal
+http://kuchini.site:8080/iptvhometv/0451/193084
+#EXTINF:0,group-title="All Indian Channels", News18 Rajasthan
+http://kuchini.site:8080/iptvhometv/0451/193012
+#EXTINF:0,group-title="All Indian Channels", News18 Tamil Nadu
+http://kuchini.site:8080/iptvhometv/0451/193210
+#EXTINF:0,group-title="All Indian Channels", News18 Urdu
+http://kuchini.site:8080/iptvhometv/0451/193015
+#EXTINF:0,group-title="All Indian Channels", News18 Uttar Pradesh Uttarakhand
+http://kuchini.site:8080/iptvhometv/0451/193004
+#EXTINF:0,group-title="All Indian Channels", NHK World
+http://kuchini.site:8080/iptvhometv/0451/192984
+#EXTINF:0,group-title="All Indian Channels", Nick Junior
+http://kuchini.site:8080/iptvhometv/0451/192989
+#EXTINF:0,group-title="All Indian Channels", NOOR TV
+http://kuchini.site:8080/iptvhometv/0451/174172
+#EXTINF:0,group-title="All Indian Channels", North East Live
+http://kuchini.site:8080/iptvhometv/0451/193121
+#EXTINF:0,group-title="All Indian Channels", NTV
+http://kuchini.site:8080/iptvhometv/0451/174171
+#EXTINF:0,group-title="All Indian Channels", Ntv Telugu
+http://kuchini.site:8080/iptvhometv/0451/165796
+#EXTINF:0,group-title="All Indian Channels", Orange Music
+http://kuchini.site:8080/iptvhometv/0451/193023
+#EXTINF:0,group-title="All Indian Channels", OTV
+http://kuchini.site:8080/iptvhometv/0451/193072
+#EXTINF:0,group-title="All Indian Channels", Patrika TV Rajasthan
+http://kuchini.site:8080/iptvhometv/0451/193178
+#EXTINF:0,group-title="All Indian Channels", PCNE Chinese
+http://kuchini.site:8080/iptvhometv/0451/198741
+#EXTINF:0,group-title="All Indian Channels", Peace of Mind
+http://kuchini.site:8080/iptvhometv/0451/193074
+#EXTINF:0,group-title="All Indian Channels", Peace TV English
+http://kuchini.site:8080/iptvhometv/0451/192077
+#EXTINF:0,group-title="All Indian Channels", Peace TV HD
+http://kuchini.site:8080/iptvhometv/0451/82613
+#EXTINF:0,group-title="All Indian Channels", PEACE TV URDU
+http://kuchini.site:8080/iptvhometv/0451/198614
+#EXTINF:0,group-title="All Indian Channels", People
+http://kuchini.site:8080/iptvhometv/0451/51821
+#EXTINF:0,group-title="All Indian Channels", Peppers TV
+http://kuchini.site:8080/iptvhometv/0451/166401
+#EXTINF:0,group-title="All Indian Channels", PITAARA
+http://kuchini.site:8080/iptvhometv/0451/145652
+#EXTINF:0,group-title="All Indian Channels", Pogo
+http://kuchini.site:8080/iptvhometv/0451/192986
+#EXTINF:0,group-title="All Indian Channels", Polimer News
+http://kuchini.site:8080/iptvhometv/0451/163279
+#EXTINF:0,group-title="All Indian Channels", Polimer TV
+http://kuchini.site:8080/iptvhometv/0451/193202
+#EXTINF:0,group-title="All Indian Channels", POP PATAKHA
+http://kuchini.site:8080/iptvhometv/0451/165779
+#EXTINF:0,group-title="All Indian Channels", Prag News
+http://kuchini.site:8080/iptvhometv/0451/193075
+#EXTINF:0,group-title="All Indian Channels", Prajaa Kannada TV
+http://kuchini.site:8080/iptvhometv/0451/51847
+#EXTINF:0,group-title="All Indian Channels", Prarthana TV
+http://kuchini.site:8080/iptvhometv/0451/193161
+#EXTINF:0,group-title="All Indian Channels", Pratidin Time
+http://kuchini.site:8080/iptvhometv/0451/198224
+#EXTINF:0,group-title="All Indian Channels", Prime Canada TV
+http://kuchini.site:8080/iptvhometv/0451/192144
+#EXTINF:0,group-title="All Indian Channels", Primeplus HD
+http://kuchini.site:8080/iptvhometv/0451/196109
+#EXTINF:0,group-title="All Indian Channels", Protidin Time
+http://kuchini.site:8080/iptvhometv/0451/193091
+#EXTINF:0,group-title="All Indian Channels", Prudent
+http://kuchini.site:8080/iptvhometv/0451/193020
+#EXTINF:0,group-title="All Indian Channels", PTC Chak De
+http://kuchini.site:8080/iptvhometv/0451/193155
+#EXTINF:0,group-title="All Indian Channels", PTC News
+http://kuchini.site:8080/iptvhometv/0451/193154
+#EXTINF:0,group-title="All Indian Channels", PTC Punjabi
+http://kuchini.site:8080/iptvhometv/0451/82616
+#EXTINF:0,group-title="All Indian Channels", PTC Punjabi Gold TV
+http://kuchini.site:8080/iptvhometv/0451/197742
+#EXTINF:0,group-title="All Indian Channels", PTV Home
+http://kuchini.site:8080/iptvhometv/0451/165785
+#EXTINF:0,group-title="All Indian Channels", PTV NEWS
+http://kuchini.site:8080/iptvhometv/0451/165786
+#EXTINF:0,group-title="All Indian Channels", PTV PARDESI
+http://kuchini.site:8080/iptvhometv/0451/49642
+#EXTINF:0,group-title="All Indian Channels", PTV Sports
+http://kuchini.site:8080/iptvhometv/0451/165777
+#EXTINF:0,group-title="All Indian Channels", PTV World
+http://kuchini.site:8080/iptvhometv/0451/165791
+#EXTINF:0,group-title="All Indian Channels", Public TV
+http://kuchini.site:8080/iptvhometv/0451/193113
+#EXTINF:0,group-title="All Indian Channels", Punjabi Star
+http://kuchini.site:8080/iptvhometv/0451/196099
+#EXTINF:0,group-title="All Indian Channels", Punjabi TV
+http://kuchini.site:8080/iptvhometv/0451/49600
+#EXTINF:0,group-title="All Indian Channels", PUNJABI ZINDABAAD
+http://kuchini.site:8080/iptvhometv/0451/49635
+#EXTINF:0,group-title="All Indian Channels", Puthiya Thalaimurai
+http://kuchini.site:8080/iptvhometv/0451/193035
+#EXTINF:0,group-title="All Indian Channels", Puthiya Thalimurai
+http://kuchini.site:8080/iptvhometv/0451/196100
+#EXTINF:0,group-title="All Indian Channels", R.Bharat
+http://kuchini.site:8080/iptvhometv/0451/192966
+#EXTINF:0,group-title="All Indian Channels", Raj Musix
+http://kuchini.site:8080/iptvhometv/0451/193137
+#EXTINF:0,group-title="All Indian Channels", Raj Musix Kannada
+http://kuchini.site:8080/iptvhometv/0451/193138
+#EXTINF:0,group-title="All Indian Channels", Raj Musix Malayalam
+http://kuchini.site:8080/iptvhometv/0451/193139
+#EXTINF:0,group-title="All Indian Channels", Raj Musix Telugu
+http://kuchini.site:8080/iptvhometv/0451/193140
+#EXTINF:0,group-title="All Indian Channels", RAJ NEWS
+http://kuchini.site:8080/iptvhometv/0451/197939
+#EXTINF:0,group-title="All Indian Channels", Raj News 24x7
+http://kuchini.site:8080/iptvhometv/0451/193648
+#EXTINF:0,group-title="All Indian Channels", Raj News Kannada
+http://kuchini.site:8080/iptvhometv/0451/193199
+#EXTINF:0,group-title="All Indian Channels", Raj News Malayalam
+http://kuchini.site:8080/iptvhometv/0451/193141
+#EXTINF:0,group-title="All Indian Channels", Raj News Telugu
+http://kuchini.site:8080/iptvhometv/0451/193200
+#EXTINF:0,group-title="All Indian Channels", Raj TV
+http://kuchini.site:8080/iptvhometv/0451/193125
+#EXTINF:0,group-title="All Indian Channels", Raj TV US
+http://kuchini.site:8080/iptvhometv/0451/198606
+#EXTINF:0,group-title="All Indian Channels", Ramdhenu
+http://kuchini.site:8080/iptvhometv/0451/193129
+#EXTINF:0,group-title="All Indian Channels", Rang
+http://kuchini.site:8080/iptvhometv/0451/193090
+#EXTINF:0,group-title="All Indian Channels", Raunak Punjab Dee
+http://kuchini.site:8080/iptvhometv/0451/196102
+#EXTINF:0,group-title="All Indian Channels", Rengoni TV
+http://kuchini.site:8080/iptvhometv/0451/193156
+#EXTINF:0,group-title="All Indian Channels", Reporter TV
+http://kuchini.site:8080/iptvhometv/0451/51854
+#EXTINF:0,group-title="All Indian Channels", Republic Bharat
+http://kuchini.site:8080/iptvhometv/0451/49582
+#EXTINF:0,group-title="All Indian Channels", Republic News
+http://kuchini.site:8080/iptvhometv/0451/82620
+#EXTINF:0,group-title="All Indian Channels", Republic TV
+http://kuchini.site:8080/iptvhometv/0451/192975
+#EXTINF:0,group-title="All Indian Channels", Rishtey
+http://kuchini.site:8080/iptvhometv/0451/165793
+#EXTINF:0,group-title="All Indian Channels", Rishtey Cineplex
+http://kuchini.site:8080/iptvhometv/0451/71074
+#EXTINF:0,group-title="All Indian Channels", Rishtey Colors
+http://kuchini.site:8080/iptvhometv/0451/193619
+#EXTINF:0,group-title="All Indian Channels", Rishtey Europe
+http://kuchini.site:8080/iptvhometv/0451/19741
+#EXTINF:0,group-title="All Indian Channels", ROZE NEWS
+http://kuchini.site:8080/iptvhometv/0451/165816
+#EXTINF:0,group-title="All Indian Channels", RSTV RajyaSabha
+http://kuchini.site:8080/iptvhometv/0451/82552
+#EXTINF:0,group-title="All Indian Channels", Ruposhi
+http://kuchini.site:8080/iptvhometv/0451/193189
+#EXTINF:0,group-title="All Indian Channels", Russia Today
+http://kuchini.site:8080/iptvhometv/0451/192983
+#EXTINF:0,group-title="All Indian Channels", SAAM Marathi
+http://kuchini.site:8080/iptvhometv/0451/196103
+#EXTINF:0,group-title="All Indian Channels", Saam TV
+http://kuchini.site:8080/iptvhometv/0451/166387
+#EXTINF:0,group-title="All Indian Channels", SAB TV HD
+http://kuchini.site:8080/iptvhometv/0451/20649
+#EXTINF:0,group-title="All Indian Channels", SADA TV
+http://kuchini.site:8080/iptvhometv/0451/49625
+#EXTINF:0,group-title="All Indian Channels", Sadhna News Madhya Pradesh/Chhattisgarh
+http://kuchini.site:8080/iptvhometv/0451/166391
+#EXTINF:0,group-title="All Indian Channels", Sadhna Plus News
+http://kuchini.site:8080/iptvhometv/0451/166394
+#EXTINF:0,group-title="All Indian Channels", Sadhna TV
+http://kuchini.site:8080/iptvhometv/0451/166392
+#EXTINF:0,group-title="All Indian Channels", Safari TV
+http://kuchini.site:8080/iptvhometv/0451/193123
+#EXTINF:0,group-title="All Indian Channels", Sahana TV
+http://kuchini.site:8080/iptvhometv/0451/193122
+#EXTINF:0,group-title="All Indian Channels", Sahara Samay Bihar
+http://kuchini.site:8080/iptvhometv/0451/196105
+#EXTINF:0,group-title="All Indian Channels", Sahara Samay Up TV
+http://kuchini.site:8080/iptvhometv/0451/197942
+#EXTINF:0,group-title="All Indian Channels", Sahib TV
+http://kuchini.site:8080/iptvhometv/0451/196106
+#EXTINF:0,group-title="All Indian Channels", Sakshi TV
+http://kuchini.site:8080/iptvhometv/0451/193164
+#EXTINF:0,group-title="All Indian Channels", Sandesh News
+http://kuchini.site:8080/iptvhometv/0451/145664
+#EXTINF:0,group-title="All Indian Channels", Sangat TV
+http://kuchini.site:8080/iptvhometv/0451/165765
+#EXTINF:0,group-title="All Indian Channels", Sangeet Marathi
+http://kuchini.site:8080/iptvhometv/0451/193185
+#EXTINF:0,group-title="All Indian Channels", Sanjha Punjab
+http://kuchini.site:8080/iptvhometv/0451/49624
+#EXTINF:0,group-title="All Indian Channels", Sankara TV
+http://kuchini.site:8080/iptvhometv/0451/166407
+#EXTINF:0,group-title="All Indian Channels", Sanskar
+http://kuchini.site:8080/iptvhometv/0451/51882
+#EXTINF:0,group-title="All Indian Channels", Santhora Short Flim
+http://kuchini.site:8080/iptvhometv/0451/51833
+#EXTINF:0,group-title="All Indian Channels", Santhora TV
+http://kuchini.site:8080/iptvhometv/0451/51835
+#EXTINF:0,group-title="All Indian Channels", SARDARI TV
+http://kuchini.site:8080/iptvhometv/0451/82554
+#EXTINF:0,group-title="All Indian Channels", Sarv Dharam Sangam
+http://kuchini.site:8080/iptvhometv/0451/166791
+#EXTINF:0,group-title="All Indian Channels", SAUDI EKHBARIYA
+http://kuchini.site:8080/iptvhometv/0451/165815
+#EXTINF:0,group-title="All Indian Channels", Set Max
+http://kuchini.site:8080/iptvhometv/0451/63397
+#EXTINF:0,group-title="All Indian Channels", Shalom TV
+http://kuchini.site:8080/iptvhometv/0451/193133
+#EXTINF:0,group-title="All Indian Channels", SHAN PUNJABI TV
+http://kuchini.site:8080/iptvhometv/0451/49628
+#EXTINF:0,group-title="All Indian Channels", Shemaroo MarathiBana
+http://kuchini.site:8080/iptvhometv/0451/193018
+#EXTINF:0,group-title="All Indian Channels", Shemaroo TV
+http://kuchini.site:8080/iptvhometv/0451/192955
+#EXTINF:0,group-title="All Indian Channels", Showbox
+http://kuchini.site:8080/iptvhometv/0451/192998
+#EXTINF:0,group-title="All Indian Channels", Shubh TV
+http://kuchini.site:8080/iptvhometv/0451/193073
+#EXTINF:0,group-title="All Indian Channels", Shubhsandesh
+http://kuchini.site:8080/iptvhometv/0451/82557
+#EXTINF:0,group-title="All Indian Channels", Sikh Channel
+http://kuchini.site:8080/iptvhometv/0451/82556
+#EXTINF:0,group-title="All Indian Channels", SikhTV Punjabi HD
+http://kuchini.site:8080/iptvhometv/0451/198605
+#EXTINF:0,group-title="All Indian Channels", Sirippoli
+http://kuchini.site:8080/iptvhometv/0451/193163
+#EXTINF:0,group-title="All Indian Channels", Sivan TV
+http://kuchini.site:8080/iptvhometv/0451/51842
+#EXTINF:0,group-title="All Indian Channels", SKY ARTS HD
+http://kuchini.site:8080/iptvhometv/0451/62479
+#EXTINF:0,group-title="All Indian Channels", Sonic nickelodeon
+http://kuchini.site:8080/iptvhometv/0451/192988
+#EXTINF:0,group-title="All Indian Channels", Sony Action
+http://kuchini.site:8080/iptvhometv/0451/48706
+#EXTINF:0,group-title="All Indian Channels", Sony BBC Earth HD
+http://kuchini.site:8080/iptvhometv/0451/192995
+#EXTINF:0,group-title="All Indian Channels", Sony Channel
+http://kuchini.site:8080/iptvhometv/0451/1072
+#EXTINF:0,group-title="All Indian Channels", Sony Christmas HD
+http://kuchini.site:8080/iptvhometv/0451/16200
+#EXTINF:0,group-title="All Indian Channels", Sony Entertainment HD
+http://kuchini.site:8080/iptvhometv/0451/63395
+#EXTINF:0,group-title="All Indian Channels", Sony ESPN HD
+http://kuchini.site:8080/iptvhometv/0451/16636
+#EXTINF:0,group-title="All Indian Channels", Sony Marathi
+http://kuchini.site:8080/iptvhometv/0451/193097
+#EXTINF:0,group-title="All Indian Channels", Sony Max 2
+http://kuchini.site:8080/iptvhometv/0451/4862
+#EXTINF:0,group-title="All Indian Channels", Sony Max FHD
+http://kuchini.site:8080/iptvhometv/0451/1359
+#EXTINF:0,group-title="All Indian Channels", Sony Mix HD
+http://kuchini.site:8080/iptvhometv/0451/1358
+#EXTINF:0,group-title="All Indian Channels", Sony Movies +1 FHD
+http://kuchini.site:8080/iptvhometv/0451/4709
+#EXTINF:0,group-title="All Indian Channels", Sony Movies Action
+http://kuchini.site:8080/iptvhometv/0451/165918
+#EXTINF:0,group-title="All Indian Channels", Sony Movies Action +1
+http://kuchini.site:8080/iptvhometv/0451/165928
+#EXTINF:0,group-title="All Indian Channels", Sony Movies CHRISTMAS
+http://kuchini.site:8080/iptvhometv/0451/196389
+#EXTINF:0,group-title="All Indian Channels", Sony Movies Classic
+http://kuchini.site:8080/iptvhometv/0451/173235
+#EXTINF:0,group-title="All Indian Channels", Sony Movies FHD
+http://kuchini.site:8080/iptvhometv/0451/4708
+#EXTINF:0,group-title="All Indian Channels", Sony Pal
+http://kuchini.site:8080/iptvhometv/0451/193645
+#EXTINF:0,group-title="All Indian Channels", Sony PIX HD
+http://kuchini.site:8080/iptvhometv/0451/49539
+#EXTINF:0,group-title="All Indian Channels", Sony SAB HD
+http://kuchini.site:8080/iptvhometv/0451/1073
+#EXTINF:0,group-title="All Indian Channels", Sony SIX HD
+http://kuchini.site:8080/iptvhometv/0451/4853
+#EXTINF:0,group-title="All Indian Channels", Sony TEN 1 HD
+http://kuchini.site:8080/iptvhometv/0451/74893
+#EXTINF:0,group-title="All Indian Channels", Sony Ten 1 HEVC
+http://kuchini.site:8080/iptvhometv/0451/197940
+#EXTINF:0,group-title="All Indian Channels", Sony TEN 2 HD
+http://kuchini.site:8080/iptvhometv/0451/56190
+#EXTINF:0,group-title="All Indian Channels", Sony Ten 2 HEVC
+http://kuchini.site:8080/iptvhometv/0451/197743
+#EXTINF:0,group-title="All Indian Channels", Sony TEN 3
+http://kuchini.site:8080/iptvhometv/0451/56191
+#EXTINF:0,group-title="All Indian Channels", Sony TV Asia HD
+http://kuchini.site:8080/iptvhometv/0451/4867
+#EXTINF:0,group-title="All Indian Channels", Sony TV UK
+http://kuchini.site:8080/iptvhometv/0451/23551
+#EXTINF:0,group-title="All Indian Channels", Sony WAH
+http://kuchini.site:8080/iptvhometv/0451/165801
+#EXTINF:0,group-title="All Indian Channels", Sony Yay
+http://kuchini.site:8080/iptvhometv/0451/192991
+#EXTINF:0,group-title="All Indian Channels", Sony YAY HINDI
+http://kuchini.site:8080/iptvhometv/0451/1355
+#EXTINF:0,group-title="All Indian Channels", Sri Sankara TV
+http://kuchini.site:8080/iptvhometv/0451/193151
+#EXTINF:0,group-title="All Indian Channels", STAR BHARAT HD
+http://kuchini.site:8080/iptvhometv/0451/16614
+#EXTINF:0,group-title="All Indian Channels", STAR BHARAT UK
+http://kuchini.site:8080/iptvhometv/0451/62482
+#EXTINF:0,group-title="All Indian Channels", Star Gold 2 HD
+http://kuchini.site:8080/iptvhometv/0451/197719
+#EXTINF:0,group-title="All Indian Channels", Star Gold Select HD
+http://kuchini.site:8080/iptvhometv/0451/82623
+#EXTINF:0,group-title="All Indian Channels", STAR GOLD UK
+http://kuchini.site:8080/iptvhometv/0451/62480
+#EXTINF:0,group-title="All Indian Channels", Star Jalsha
+http://kuchini.site:8080/iptvhometv/0451/12979
+#EXTINF:0,group-title="All Indian Channels", Star Maa HD
+http://kuchini.site:8080/iptvhometv/0451/82624
+#EXTINF:0,group-title="All Indian Channels", Star Maa Movies FHD
+http://kuchini.site:8080/iptvhometv/0451/193194
+#EXTINF:0,group-title="All Indian Channels", STAR Movies FHD
+http://kuchini.site:8080/iptvhometv/0451/11511
+#EXTINF:0,group-title="All Indian Channels", Star Movies HD Middle East
+http://kuchini.site:8080/iptvhometv/0451/82558
+#EXTINF:0,group-title="All Indian Channels", STAR PLUS FHD
+http://kuchini.site:8080/iptvhometv/0451/1069
+#EXTINF:0,group-title="All Indian Channels", STAR PLUS HD UK
+http://kuchini.site:8080/iptvhometv/0451/60347
+#EXTINF:0,group-title="All Indian Channels", Star Pravah HD
+http://kuchini.site:8080/iptvhometv/0451/193149
+#EXTINF:0,group-title="All Indian Channels", STAR SPORT 3 HD
+http://kuchini.site:8080/iptvhometv/0451/62584
+#EXTINF:0,group-title="All Indian Channels", Star Sports 1 HD
+http://kuchini.site:8080/iptvhometv/0451/3630
+#EXTINF:0,group-title="All Indian Channels", STAR SPORTS 2 HD
+http://kuchini.site:8080/iptvhometv/0451/3631
+#EXTINF:0,group-title="All Indian Channels", Star Sports Select 1 HD
+http://kuchini.site:8080/iptvhometv/0451/82628
+#EXTINF:0,group-title="All Indian Channels", STAR SPORTS SELECT 2 HD
+http://kuchini.site:8080/iptvhometv/0451/16619
+#EXTINF:0,group-title="All Indian Channels", Star Suvarna HD
+http://kuchini.site:8080/iptvhometv/0451/193147
+#EXTINF:0,group-title="All Indian Channels", Star Suvarna Plus
+http://kuchini.site:8080/iptvhometv/0451/193114
+#EXTINF:0,group-title="All Indian Channels", Star Utsav Movies
+http://kuchini.site:8080/iptvhometv/0451/165805
+#EXTINF:0,group-title="All Indian Channels", Star Vijay HD
+http://kuchini.site:8080/iptvhometv/0451/19744
+#EXTINF:0,group-title="All Indian Channels", Star Vijay Super
+http://kuchini.site:8080/iptvhometv/0451/82630
+#EXTINF:0,group-title="All Indian Channels", Stars Ports 2 HD
+http://kuchini.site:8080/iptvhometv/0451/82631
+#EXTINF:0,group-title="All Indian Channels", Subharti TV
+http://kuchini.site:8080/iptvhometv/0451/193002
+#EXTINF:0,group-title="All Indian Channels", Subhavaartha TV
+http://kuchini.site:8080/iptvhometv/0451/166397
+#EXTINF:0,group-title="All Indian Channels", Subrang TV
+http://kuchini.site:8080/iptvhometv/0451/82563
+#EXTINF:0,group-title="All Indian Channels", SUCH TV
+http://kuchini.site:8080/iptvhometv/0451/165814
+#EXTINF:0,group-title="All Indian Channels", Sudarshan News
+http://kuchini.site:8080/iptvhometv/0451/193077
+#EXTINF:0,group-title="All Indian Channels", Sun Life OK TV
+http://kuchini.site:8080/iptvhometv/0451/197941
+#EXTINF:0,group-title="All Indian Channels", Sun TV HD
+http://kuchini.site:8080/iptvhometv/0451/76969
+#EXTINF:0,group-title="All Indian Channels", Surya Bhojpuri
+http://kuchini.site:8080/iptvhometv/0451/193008
+#EXTINF:0,group-title="All Indian Channels", SURYA TV Malayam
+http://kuchini.site:8080/iptvhometv/0451/196094
+#EXTINF:0,group-title="All Indian Channels", Suvarna News
+http://kuchini.site:8080/iptvhometv/0451/51844
+#EXTINF:0,group-title="All Indian Channels", Suvarna News 24x7
+http://kuchini.site:8080/iptvhometv/0451/193157
+#EXTINF:0,group-title="All Indian Channels", SVBC
+http://kuchini.site:8080/iptvhometv/0451/166383
+#EXTINF:0,group-title="All Indian Channels", SVBC 2
+http://kuchini.site:8080/iptvhometv/0451/193079
+#EXTINF:0,group-title="All Indian Channels", SVBC Telugu
+http://kuchini.site:8080/iptvhometv/0451/193082
+#EXTINF:0,group-title="All Indian Channels", Swaraj Express SMBC
+http://kuchini.site:8080/iptvhometv/0451/193093
+#EXTINF:0,group-title="All Indian Channels", T News
+http://kuchini.site:8080/iptvhometv/0451/193024
+#EXTINF:0,group-title="All Indian Channels", Tamil Vision
+http://kuchini.site:8080/iptvhometv/0451/60423
+#EXTINF:0,group-title="All Indian Channels", Tamil Visionternational
+http://kuchini.site:8080/iptvhometv/0451/82561
+#EXTINF:0,group-title="All Indian Channels", TANGY PUNJABI TV
+http://kuchini.site:8080/iptvhometv/0451/196096
+#EXTINF:0,group-title="All Indian Channels", Tarang Music
+http://kuchini.site:8080/iptvhometv/0451/193134
+#EXTINF:0,group-title="All Indian Channels", Tarang TV
+http://kuchini.site:8080/iptvhometv/0451/193132
+#EXTINF:0,group-title="All Indian Channels", Tata Sky English in Telugu
+http://kuchini.site:8080/iptvhometv/0451/193166
+#EXTINF:0,group-title="All Indian Channels", Tata Sky Family Health
+http://kuchini.site:8080/iptvhometv/0451/193098
+#EXTINF:0,group-title="All Indian Channels", Tata Sky Fitness
+http://kuchini.site:8080/iptvhometv/0451/193170
+#EXTINF:0,group-title="All Indian Channels", Tata Sky Fun Learn Junior
+http://kuchini.site:8080/iptvhometv/0451/193180
+#EXTINF:0,group-title="All Indian Channels", Tata Sky Hits
+http://kuchini.site:8080/iptvhometv/0451/192956
+#EXTINF:0,group-title="All Indian Channels", Tata Sky Javed Akhtar
+http://kuchini.site:8080/iptvhometv/0451/193173
+#EXTINF:0,group-title="All Indian Channels", Tata Sky Kannada Cinema
+http://kuchini.site:8080/iptvhometv/0451/193104
+#EXTINF:0,group-title="All Indian Channels", Tata Sky Shorts TV
+http://kuchini.site:8080/iptvhometv/0451/193168
+#EXTINF:0,group-title="All Indian Channels", Tata Sky Vedic Maths
+http://kuchini.site:8080/iptvhometv/0451/193182
+#EXTINF:0,group-title="All Indian Channels", TEN 1 HD
+http://kuchini.site:8080/iptvhometv/0451/16622
+#EXTINF:0,group-title="All Indian Channels", TEN 2 HD
+http://kuchini.site:8080/iptvhometv/0451/16623
+#EXTINF:0,group-title="All Indian Channels", TEN 3 HD
+http://kuchini.site:8080/iptvhometv/0451/16621
+#EXTINF:0,group-title="All Indian Channels", TEN Golf
+http://kuchini.site:8080/iptvhometv/0451/196097
+#EXTINF:0,group-title="All Indian Channels", Ten Sports
+http://kuchini.site:8080/iptvhometv/0451/82635
+#EXTINF:0,group-title="All Indian Channels", Ten Sports 3 HD
+http://kuchini.site:8080/iptvhometv/0451/82633
+#EXTINF:0,group-title="All Indian Channels", Tet HD
+http://kuchini.site:8080/iptvhometv/0451/196098
+#EXTINF:0,group-title="All Indian Channels", TEZ
+http://kuchini.site:8080/iptvhometv/0451/193030
+#EXTINF:0,group-title="All Indian Channels", Tez News TV
+http://kuchini.site:8080/iptvhometv/0451/192196
+#EXTINF:0,group-title="All Indian Channels", Thanthi TV
+http://kuchini.site:8080/iptvhometv/0451/45437
+#EXTINF:0,group-title="All Indian Channels", The Q India
+http://kuchini.site:8080/iptvhometv/0451/192957
+#EXTINF:0,group-title="All Indian Channels", Times Now HD
+http://kuchini.site:8080/iptvhometv/0451/76961
+#EXTINF:0,group-title="All Indian Channels", TLC HD
+http://kuchini.site:8080/iptvhometv/0451/192996
+#EXTINF:0,group-title="All Indian Channels", TLC HINDI
+http://kuchini.site:8080/iptvhometv/0451/197661
+#EXTINF:0,group-title="All Indian Channels", Travelxp HD
+http://kuchini.site:8080/iptvhometv/0451/82636
+#EXTINF:0,group-title="All Indian Channels", TRUCKING TV
+http://kuchini.site:8080/iptvhometv/0451/49632
+#EXTINF:0,group-title="All Indian Channels", TV Max
+http://kuchini.site:8080/iptvhometv/0451/197665
+#EXTINF:0,group-title="All Indian Channels", TV PUNJAB HD
+http://kuchini.site:8080/iptvhometv/0451/196089
+#EXTINF:0,group-title="All Indian Channels", TV1
+http://kuchini.site:8080/iptvhometv/0451/151147
+#EXTINF:0,group-title="All Indian Channels", TV5 Kannada
+http://kuchini.site:8080/iptvhometv/0451/193065
+#EXTINF:0,group-title="All Indian Channels", TV5 Monde Asie
+http://kuchini.site:8080/iptvhometv/0451/192981
+#EXTINF:0,group-title="All Indian Channels", TV5 News
+http://kuchini.site:8080/iptvhometv/0451/193099
+#EXTINF:0,group-title="All Indian Channels", TV84
+http://kuchini.site:8080/iptvhometv/0451/82564
+#EXTINF:0,group-title="All Indian Channels", TV84 Punjabi HD
+http://kuchini.site:8080/iptvhometv/0451/192070
+#EXTINF:0,group-title="All Indian Channels", TV9 Bharatvarsh
+http://kuchini.site:8080/iptvhometv/0451/192969
+#EXTINF:0,group-title="All Indian Channels", TV9 Gujarati
+http://kuchini.site:8080/iptvhometv/0451/193152
+#EXTINF:0,group-title="All Indian Channels", TV9 Kannada
+http://kuchini.site:8080/iptvhometv/0451/193060
+#EXTINF:0,group-title="All Indian Channels", TV9 KANNADA NEWS LIVE
+http://kuchini.site:8080/iptvhometv/0451/165783
+#EXTINF:0,group-title="All Indian Channels", TV9 Marathi
+http://kuchini.site:8080/iptvhometv/0451/193016
+#EXTINF:0,group-title="All Indian Channels", Twenty Four News
+http://kuchini.site:8080/iptvhometv/0451/82567
+#EXTINF:0,group-title="All Indian Channels", Udaya Movies
+http://kuchini.site:8080/iptvhometv/0451/193106
+#EXTINF:0,group-title="All Indian Channels", Udaya Music
+http://kuchini.site:8080/iptvhometv/0451/145642
+#EXTINF:0,IN Udaya Music
+http://kuchini.site:8080/iptvhometv/0451/191200
+#EXTINF:0,group-title="All Indian Channels", Udaya TV HD
+http://kuchini.site:8080/iptvhometv/0451/193153
+#EXTINF:0,group-title="All Indian Channels", UTV Bindass
+http://kuchini.site:8080/iptvhometv/0451/192953
+#EXTINF:0,group-title="All Indian Channels", UTV Movies
+http://kuchini.site:8080/iptvhometv/0451/145655
+#EXTINF:0,group-title="All Indian Channels", V6 News
+http://kuchini.site:8080/iptvhometv/0451/193029
+#EXTINF:0,group-title="All Indian Channels", Vaanavil TV
+http://kuchini.site:8080/iptvhometv/0451/82566
+#EXTINF:0,group-title="All Indian Channels", Vasanth TV
+http://kuchini.site:8080/iptvhometv/0451/193036
+#EXTINF:0,group-title="All Indian Channels", Vasantham TV
+http://kuchini.site:8080/iptvhometv/0451/82569
+#EXTINF:0,group-title="All Indian Channels", Vedic
+http://kuchini.site:8080/iptvhometv/0451/193080
+#EXTINF:0,group-title="All Indian Channels", Velicham TV
+http://kuchini.site:8080/iptvhometv/0451/159110
+#EXTINF:0,group-title="All Indian Channels", Venus TV
+http://kuchini.site:8080/iptvhometv/0451/165770
+#EXTINF:0,group-title="All Indian Channels", VENUS UK
+http://kuchini.site:8080/iptvhometv/0451/196090
+#EXTINF:0,group-title="All Indian Channels", Vision Punjab Gurbani
+http://kuchini.site:8080/iptvhometv/0451/196091
+#EXTINF:0,group-title="All Indian Channels", Vision Punjab Music
+http://kuchini.site:8080/iptvhometv/0451/196092
+#EXTINF:0,group-title="All Indian Channels", Vision Punjab TV
+http://kuchini.site:8080/iptvhometv/0451/196093
+#EXTINF:0,group-title="All Indian Channels", VTV Gujarati
+http://kuchini.site:8080/iptvhometv/0451/193081
+#EXTINF:0,group-title="All Indian Channels", VTV NEWS GUJARATI
+http://kuchini.site:8080/iptvhometv/0451/197658
+#EXTINF:0,group-title="All Indian Channels", WAQT NEWS
+http://kuchini.site:8080/iptvhometv/0451/165799
+#EXTINF:0,group-title="All Indian Channels", WB
+http://kuchini.site:8080/iptvhometv/0451/192960
+#EXTINF:0,group-title="All Indian Channels", We TV
+http://kuchini.site:8080/iptvhometv/0451/193159
+#EXTINF:0,group-title="All Indian Channels", Willow Cricket HD
+http://kuchini.site:8080/iptvhometv/0451/165776
+#EXTINF:0,group-title="All Indian Channels", WION
+http://kuchini.site:8080/iptvhometv/0451/192999
+#EXTINF:0,group-title="All Indian Channels", WOW Cinema TV
+http://kuchini.site:8080/iptvhometv/0451/197945
+#EXTINF:0,group-title="All Indian Channels", WOW Music
+http://kuchini.site:8080/iptvhometv/0451/49560
+#EXTINF:0,group-title="All Indian Channels", Z ETC Bollywood
+http://kuchini.site:8080/iptvhometv/0451/193028
+#EXTINF:0,group-title="All Indian Channels", ZEE 24 Ghanta
+http://kuchini.site:8080/iptvhometv/0451/193187
+#EXTINF:0,group-title="All Indian Channels", ZEE 24 Kalak
+http://kuchini.site:8080/iptvhometv/0451/45484
+#EXTINF:0,group-title="All Indian Channels", ZEE 24 Taas
+http://kuchini.site:8080/iptvhometv/0451/45486
+#EXTINF:0,group-title="All Indian Channels", ZEE Action HD
+http://kuchini.site:8080/iptvhometv/0451/1353
+#EXTINF:0,group-title="All Indian Channels", ZEE AFLAM
+http://kuchini.site:8080/iptvhometv/0451/82572
+#EXTINF:0,group-title="All Indian Channels", ZEE Anmol
+http://kuchini.site:8080/iptvhometv/0451/19467
+#EXTINF:0,group-title="All Indian Channels", Zee Anmol Cinema
+http://kuchini.site:8080/iptvhometv/0451/65224
+#EXTINF:0,group-title="All Indian Channels", Zee Bangla
+http://kuchini.site:8080/iptvhometv/0451/145632
+#EXTINF:0,group-title="All Indian Channels", Zee Bangla Cinema FHD
+http://kuchini.site:8080/iptvhometv/0451/192712
+#EXTINF:0,group-title="All Indian Channels", ZEE Bihar Jharkhand
+http://kuchini.site:8080/iptvhometv/0451/193006
+#EXTINF:0,group-title="All Indian Channels", Zee Bioskop
+http://kuchini.site:8080/iptvhometv/0451/197718
+#EXTINF:0,group-title="All Indian Channels", ZEE BOLLYWOOD HD
+http://kuchini.site:8080/iptvhometv/0451/1351
+#EXTINF:0,group-title="All Indian Channels", Zee Business
+http://kuchini.site:8080/iptvhometv/0451/16984
+#EXTINF:0,group-title="All Indian Channels", Zee Cafe HD
+http://kuchini.site:8080/iptvhometv/0451/49561
+#EXTINF:0,group-title="All Indian Channels", Zee Cinema FHD
+http://kuchini.site:8080/iptvhometv/0451/1350
+#EXTINF:0,group-title="All Indian Channels", Zee Cinema Inter
+http://kuchini.site:8080/iptvhometv/0451/198607
+#EXTINF:0,group-title="All Indian Channels", ZEE CINEMA USA
+http://kuchini.site:8080/iptvhometv/0451/1349
+#EXTINF:0,group-title="All Indian Channels", ZEE Cinemalu
+http://kuchini.site:8080/iptvhometv/0451/45504
+#EXTINF:0,group-title="All Indian Channels", Zee Classic
+http://kuchini.site:8080/iptvhometv/0451/21578
+#EXTINF:0,group-title="All Indian Channels", Zee ETC
+http://kuchini.site:8080/iptvhometv/0451/16959
+#EXTINF:0,group-title="All Indian Channels", ZEE ETC Masti TV
+http://kuchini.site:8080/iptvhometv/0451/49552
+#EXTINF:0,group-title="All Indian Channels", Zee Hindustan
+http://kuchini.site:8080/iptvhometv/0451/145633
+#EXTINF:0,group-title="All Indian Channels", Zee Keralam
+http://kuchini.site:8080/iptvhometv/0451/193146
+#EXTINF:0,group-title="All Indian Channels", ZEE LIVING HD
+http://kuchini.site:8080/iptvhometv/0451/196084
+#EXTINF:0,group-title="All Indian Channels", ZEE Madhya Pradesh Chattisgarh
+http://kuchini.site:8080/iptvhometv/0451/193026
+#EXTINF:0,group-title="All Indian Channels", ZEE MARATHI
+http://kuchini.site:8080/iptvhometv/0451/82646
+#EXTINF:0,group-title="All Indian Channels", Zee News
+http://kuchini.site:8080/iptvhometv/0451/5047
+#EXTINF:0,group-title="All Indian Channels", Zee Odisha
+http://kuchini.site:8080/iptvhometv/0451/193136
+#EXTINF:0,group-title="All Indian Channels", ZEE Picchar
+http://kuchini.site:8080/iptvhometv/0451/193069
+#EXTINF:0,group-title="All Indian Channels", Zee Punjab Haryana
+http://kuchini.site:8080/iptvhometv/0451/165797
+#EXTINF:0,group-title="All Indian Channels", ZEE Punjab Haryana Himachal Pradesh
+http://kuchini.site:8080/iptvhometv/0451/193094
+#EXTINF:0,group-title="All Indian Channels", ZEE Punjabi
+http://kuchini.site:8080/iptvhometv/0451/145630
+#EXTINF:0,group-title="All Indian Channels", ZEE Rajasthan HD
+http://kuchini.site:8080/iptvhometv/0451/196085
+#EXTINF:0,group-title="All Indian Channels", ZEE Rajasthan News
+http://kuchini.site:8080/iptvhometv/0451/193095
+#EXTINF:0,group-title="All Indian Channels", ZEE Salaam
+http://kuchini.site:8080/iptvhometv/0451/45510
+#EXTINF:0,group-title="All Indian Channels", Zee Salam
+http://kuchini.site:8080/iptvhometv/0451/16981
+#EXTINF:0,group-title="All Indian Channels", Zee Smile
+http://kuchini.site:8080/iptvhometv/0451/198615
+#EXTINF:0,group-title="All Indian Channels", ZEE Studio HD
+http://kuchini.site:8080/iptvhometv/0451/197916
+#EXTINF:0,group-title="All Indian Channels", ZEE Talkies HD
+http://kuchini.site:8080/iptvhometv/0451/16957
+#EXTINF:0,group-title="All Indian Channels", ZEE TALKIES MARATHI
+http://kuchini.site:8080/iptvhometv/0451/76973
+#EXTINF:0,group-title="All Indian Channels", Zee Tamil HD
+http://kuchini.site:8080/iptvhometv/0451/45505
+#EXTINF:0,group-title="All Indian Channels", Zee Telugu
+http://kuchini.site:8080/iptvhometv/0451/21561
+#EXTINF:0,group-title="All Indian Channels", ZEE Thirai
+http://kuchini.site:8080/iptvhometv/0451/192963
+#EXTINF:0,group-title="All Indian Channels", Zee TV APAC
+http://kuchini.site:8080/iptvhometv/0451/192195
+#EXTINF:0,group-title="All Indian Channels", ZEE TV FHD
+http://kuchini.site:8080/iptvhometv/0451/1348
+#EXTINF:0,group-title="All Indian Channels", Zee TV Telegu FHD
+http://kuchini.site:8080/iptvhometv/0451/192713
+#EXTINF:0,group-title="All Indian Channels", ZEE TV UK
+http://kuchini.site:8080/iptvhometv/0451/196086
+#EXTINF:0,group-title="All Indian Channels", zee world
+http://kuchini.site:8080/iptvhometv/0451/172264
+#EXTINF:0,group-title="All Indian Channels", ZEE Yuva
+http://kuchini.site:8080/iptvhometv/0451/45502
+#EXTINF:0,group-title="All Indian Channels", ZEE YUVA MARATHI
+http://kuchini.site:8080/iptvhometv/0451/82644
+#EXTINF:0,group-title="All Indian Channels", ZING
+http://kuchini.site:8080/iptvhometv/0451/1347
+#EXTINF:0,group-title="All Indian Channels", ZING INDIA
+http://kuchini.site:8080/iptvhometv/0451/63396
+#EXTINF:0,group-title="All Indian Channels", Zing US
+http://kuchini.site:8080/iptvhometv/0451/145657
+#EXTINF:0,group-title="All Indian Channels", Zoom
