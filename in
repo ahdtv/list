@@ -503,7 +503,56 @@ http://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checked
 
 ---------------------------------------------------------Sports---------------------------------------------------------------
 
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="...SKY SPORTS F1 HD" tvg-logo="" group-title="SPORTS", SKY SPORTS F1 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311866
 
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="...SKY SPORTS GOLF HD" tvg-logo="" group-title="SPORTS", SKY SPORTS GOLF HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311867
+
+#EXTINF:-1 tvg-id="" tvg-name="...SKY SPORTS NEWS HD" tvg-logo="http://23.237.68.58/logo/ss/sky_uk_sports.png" group-title="SPORTS", SKY SPORTS NEWS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/275640
+
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="...SKY SPORTS ARENA HD" tvg-logo="" group-title="SPORTS", SKY SPORTS ARENA HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311868
+
+#EXTINF:-1 tvg-id="" tvg-name="...SKY SPORTS ACTION HD" tvg-logo="http://23.237.68.58/logo/ss/sky_uk_sports.png" group-title="SPORTS", SKY SPORTS ACTION HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/275639
+
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="...SKY SPORTS FOOTBALL HD" tvg-logo="http://23.237.68.58/logo/ss/sky_uk_sports.png" group-title="SPORTS", SKY SPORTS FOOTBALL HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/275638
+
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="...SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://23.237.68.58/logo/ss/sky_uk_sports.png" group-title="SPORTS", SKY SPORTS PREMIER LEAGUE HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/269696
+
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="...FOX SPORTS YES HD" tvg-logo="http://23.237.68.58/logo/ff/fox_sports_global.png" group-title="SPORTS", FOX SPORTS YES HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7862
+
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="...FOX SPORTS 1 HD" tvg-logo="http://23.237.68.58/logo/Alphabetic/fox_sports_1_cl.png" group-title="SPORTS", FOX SPORTS 1 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7894
+
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="...FOX SPORTS 2 HD." tvg-logo="http://23.237.68.58/logo/Alphabetic/fox_sports_2_africa.png" group-title="SPORTS", FOX SPORTS 2 HD.
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7893
+
+EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Main Event" tvg-logo="" group-title="SPORTS",UK: Sky Sport Main Event
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13770
+
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports MIX HD" tvg-logo="" group-title="SPORTS",UK: Sky Sports MIX HD
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13837
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Cricket" tvg-logo="" group-title="SPORTS",UK: Sky Sport Cricket
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13771
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Action" tvg-logo="" group-title="SPORTS",UK: Sky Sport Action
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13772
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Golf" tvg-logo="" group-title="SPORTS",UK: Sky Sport Golf
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13773
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Premiere League" tvg-logo="" group-title="SPORTS",UK: Sky Sport Premiere League
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13774
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport F1" tvg-logo="" group-title="SPORTS",UK: Sky Sport F1
+http://vipnet.dyndns.info:33000/StefanConC_G/ZxinUtjy5R/13776
 
 
 
@@ -515,41 +564,3 @@ http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", Star Gold Select HD
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
-
-------------------------------------------Music--------------------------------------------------
-
-
-
-
--------------------------------------------Lifestyle----------------------------------------------
-
-
-
---------------------------------------------English News------------------------------------------
-
-
-
-
---------------------------------------------Infotainment-------------------------------------------
-
-
-
--------------------------------------------Pakistani-----------------------------------------------
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pakistani", 92 News UK
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pakistani", Dunya News
-https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pakistani", Lahore News
-http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Pakistani",Subrang TV (USA)
-https://cdn61.liveonlineservices.com/hls/subrang.m3u8
-
-----------------------------------------Entertainment----------------------------------------------
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", Star Plus
-http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
-http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
