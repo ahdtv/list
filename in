@@ -503,7 +503,7 @@ http://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checked
 
 ---------------------------------------------------------Sports---------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="...SKY SPORTS F1 HD" tvg-logo="" group-title="SPORTS", Star Sports HD1 Hindi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS", Star Sports HD1 Hindi
 https://mhdtvworld.live/delta/testings/max.php?id=14000&e=.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="...SKY SPORTS F1 HD" tvg-logo="" group-title="SPORTS", SKY SPORTS F1 HD
