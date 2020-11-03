@@ -51,3 +51,39 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_i
 
 #EXTINF:-1 tvg-id="" tvg-language="ENGLISH" tvg-name="Maori Television" tvg-logo="https://github.com/ahdtv/Logos/blob/master/Maori.png?raw=true" group-title="NZ", Maori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+
+
+
+-------------------------------------------------------------NEWS-----------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="1" tvg-language="HINDI" tvg-name="Aaj Tak-IN" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Aaj_Tak_HD.png" group-title="NEWS", Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-language="HINDI" tvg-name="ABP News India-IN" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/ABP_News_India.png?raw=true" group-title="NEWS", ABP News HD
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
+
+#EXTINF:-1 tvg-id="925" tvg-name="Fiji TV" tvg-logo="" group-title="Fiji TV", Fiji TV
+https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="925" tvg-name="Fiji One" tvg-logo="" group-title="Fiji TV", Fiji One
+https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="925" tvg-name="Fiji One" tvg-logo="" group-title="Fiji TV", Fiji One 
+http://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", Star Plus
+http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
+http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", COLORS FHD
+http://dx3.gcdn.co/hindi-COLORSHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="" group-title="VOD - 4K UHD", New York
+https://www.googleapis.com/drive/v3/files/1rtoT7WwmWUkrm8-Fk1YlIaArmtCVsWum?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+
+#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="" group-title="VOD - Hindi Movies", Dream Girl (2019)
+https://www.googleapis.com/drive/v3/files/11cMK5d3xyp8vS6qsacdjLDDftHRpgAsh?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
+
+
+
