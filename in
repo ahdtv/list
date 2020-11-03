@@ -78,12 +78,5 @@ http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment", COLORS FHD
 http://dx3.gcdn.co/hindi-COLORSHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="" group-title="VOD - 4K UHD", New York
-https://www.googleapis.com/drive/v3/files/1rtoT7WwmWUkrm8-Fk1YlIaArmtCVsWum?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
-
-
-#EXTINF:-1 tvg-ID="1" tvg-name="" tvg-logo="" group-title="VOD - Hindi Movies", Dream Girl (2019)
-https://www.googleapis.com/drive/v3/files/11cMK5d3xyp8vS6qsacdjLDDftHRpgAsh?alt=media&key=AIzaSyDADJLnYC9r3kNkyXF91R4lTobngm2vUgI
-
 
 
